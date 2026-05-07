@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEET PG Prep</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+<!-- NAVBAR -->
+<div id="navbar">
+
+    <!-- HOME BUTTON (LEFT) -->
+    <button id="homeBtn" onclick="showPage('home')">
+        <svg viewBox="0 0 24 24" class="icon">
+            <path d="M3 10L12 3L21 10V21H14V14H10V21H3Z"/>
+        </svg>
+    </button>
+
+    <!-- TITLE -->
+    <h2>AnuCharitha's NEET PG Prep</h2>
+
+    <!-- BACK BUTTON (RIGHT) -->
+    <button id="backBtn" onclick="goBack()">
+        <svg viewBox="0 0 24 24" class="icon">
+            <path d="M15 6L9 12L15 18"/>
+        </svg>
+    </button>
+
+</div>
+
+<!-- MAIN CONTAINER -->
+<div class="container">
+
+    <div id="home" class="page active">
+        <h1>Welcome to NEET PG Preparation</h1>
+        <p>Start your structured learning journey</p>
+        <button onclick="startLearning()">Start Learning</button>
+    </div>
+
+    <div id="subjects" class="page" style="display:none;">
+
+
+    <h2>Subjects</h2>
+    <input type="text" id="search" placeholder="Search subject..." onkeyup="searchSubjects()">
+    <div id="subjectsList"></div>
+</div>
+
+    <div id="options" class="page" style="display:none;">
+
+    <h2 id="subjectTitle"></h2>
+    <div class="btn-group">
+        <button onclick="showChapters('PYQs')">PYQs</button>
+        <button onclick="showChapters('PYTs')">PYTs</button>
+    </div>
+</div>
+
+    <div id="chapters" class="page" style="display:none;">
+
+    <h2 id="chapterTitle"></h2>
+    <ul id="chapterList"></ul>
+</div>
+
+
+
+
+    <div id="questions" class="page" style="display:none;">
+
+    <h2 id="questionTitle"></h2>
+    <div id="questionList"></div>
+</div>
+
+</div>
+
+<!-- FOOTER -->
+<div id="footer">
+    <p>© 2026 NEET PG Prep | Built for focused learning</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
