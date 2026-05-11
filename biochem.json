@@ -1,0 +1,1355 @@
+{
+  "Biochemistry": {
+"PYTs": {
+    "General Topics": {
+      "Metabolism in Fed and Fasting State": [
+        { "topic": "Fed state metabolism", "rating": 5 },
+        { "topic": "Fasting state metabolism", "rating": 5 },
+        { "topic": "Starvation adaptation", "rating": 5 },
+        { "topic": "Brain fuel in starvation", "rating": 5 },
+        { "topic": "Insulin glucagon ratio", "rating": 5 },
+        { "topic": "Hormone sensitive lipase", "rating": 5 },
+        { "topic": "Lipoprotein lipase", "rating": 5 },
+        { "topic": "Ketone body utilization", "rating": 5 },
+        { "topic": "Integration of metabolism", "rating": 5 },
+        { "topic": "Respiratory quotient", "rating": 4 }
+      ],
+
+      "Concept of Enzyme Regulation": [
+        { "topic": "Allosteric regulation", "rating": 4 },
+        { "topic": "Covalent modification", "rating": 4 },
+        { "topic": "Feedback inhibition", "rating": 5 },
+        { "topic": "Rate limiting enzymes", "rating": 5 },
+        { "topic": "Induction repression", "rating": 4 }
+      ]
+    },
+
+    "Enzymology": {
+
+      "Introduction to Enzymes": [
+        { "topic": "Apoenzyme holoenzyme", "rating": 4 },
+        { "topic": "Cofactors and coenzymes", "rating": 5 },
+        { "topic": "Metalloenzymes", "rating": 4 },
+        { "topic": "Isoenzymes", "rating": 5 }
+      ],
+
+      "Classification of Enzymes": [
+        { "topic": "Oxidoreductases", "rating": 3 },
+        { "topic": "Transferases", "rating": 3 },
+        { "topic": "Hydrolases", "rating": 3 },
+        { "topic": "Lyases", "rating": 3 },
+        { "topic": "Ligases", "rating": 3 }
+      ],
+
+      "Mechanism of Action of Enzymes": [
+        { "topic": "Lock and key model", "rating": 3 },
+        { "topic": "Induced fit model", "rating": 4 },
+        { "topic": "Transition state stabilization", "rating": 3 }
+      ],
+
+      "Enzyme Kinetics": [
+        { "topic": "Michaelis Menten kinetics", "rating": 5 },
+        { "topic": "Km and Vmax", "rating": 5 },
+        { "topic": "Lineweaver Burk plot", "rating": 5 },
+        { "topic": "Competitive inhibition", "rating": 5 },
+        { "topic": "Noncompetitive inhibition", "rating": 5 },
+        { "topic": "Uncompetitive inhibition", "rating": 4 },
+        { "topic": "Suicide inhibition", "rating": 4 }
+      ],
+
+      "Enzyme Inhibition": [
+        { "topic": "Statins", "rating": 5 },
+        { "topic": "Methotrexate", "rating": 5 },
+        { "topic": "Sulfonamides", "rating": 4 },
+        { "topic": "Organophosphorus poisoning", "rating": 5 },
+        { "topic": "Aspirin irreversible inhibition", "rating": 4 }
+      ],
+
+      "Enzyme Regulation": [
+        { "topic": "PFK-1", "rating": 5 },
+        { "topic": "Hexokinase vs glucokinase", "rating": 5 },
+        { "topic": "Glycogen phosphorylase", "rating": 4 },
+        { "topic": "Acetyl CoA carboxylase", "rating": 4 },
+        { "topic": "HMG CoA reductase", "rating": 5 }
+      ],
+
+      "Clinical Enzymology": [
+        { "topic": "CK-MB", "rating": 5 },
+        { "topic": "Troponins", "rating": 5 },
+        { "topic": "AST ALT", "rating": 5 },
+        { "topic": "LDH isoenzymes", "rating": 4 },
+        { "topic": "Amylase lipase", "rating": 5 },
+        { "topic": "ALP", "rating": 4 },
+        { "topic": "GGT", "rating": 4 }
+      ]
+    },
+
+    "Carbohydrates": {
+
+      "Chemistry of Carbohydrates": [
+        { "topic": "Reducing sugars", "rating": 5 },
+        { "topic": "Benedict test", "rating": 5 },
+        { "topic": "Barfoed test", "rating": 4 },
+        { "topic": "Seliwanoff test", "rating": 4 },
+        { "topic": "Osazone formation", "rating": 4 },
+        { "topic": "Glycosaminoglycans", "rating": 5 }
+      ],
+
+      "Glycosaminoglycans": [
+        { "topic": "Keratan sulfate", "rating": 5 },
+        { "topic": "Hurler syndrome", "rating": 5 },
+        { "topic": "Hunter syndrome", "rating": 5 },
+        { "topic": "Dermatan sulfate", "rating": 4 }
+      ],
+
+      "Glucose Transporters": [
+        { "topic": "GLUT1", "rating": 5 },
+        { "topic": "GLUT2", "rating": 5 },
+        { "topic": "GLUT4", "rating": 5 },
+        { "topic": "Insulin sensitive transporters", "rating": 5 }
+      ],
+
+      "Glycolysis": [
+        { "topic": "PFK-1", "rating": 5 },
+        { "topic": "ATP yielding steps", "rating": 5 },
+        { "topic": "Pyruvate kinase", "rating": 5 },
+        { "topic": "Anaerobic glycolysis", "rating": 5 },
+        { "topic": "2,3 BPG shunt", "rating": 5 },
+        { "topic": "Tarui disease", "rating": 4 }
+      ],
+
+      "Pyruvate Dehydrogenase": [
+        { "topic": "PDH complex", "rating": 5 },
+        { "topic": "Cofactors", "rating": 5 },
+        { "topic": "Thiamine dependence", "rating": 5 },
+        { "topic": "Arsenic poisoning", "rating": 4 },
+        { "topic": "Congenital lactic acidosis", "rating": 5 }
+      ],
+
+      "Glycogen Metabolism": [
+        { "topic": "Glycogenesis", "rating": 5 },
+        { "topic": "Glycogenolysis", "rating": 5 },
+        { "topic": "Glycogen synthase", "rating": 4 },
+        { "topic": "Glycogen phosphorylase", "rating": 5 }
+      ],
+
+      "Glycogen Storage Disorders": [
+        { "topic": "Von Gierke disease", "rating": 5 },
+        { "topic": "Pompe disease", "rating": 5 },
+        { "topic": "Cori disease", "rating": 4 },
+        { "topic": "McArdle disease", "rating": 5 },
+        { "topic": "Hers disease", "rating": 3 }
+      ],
+
+      "Gluconeogenesis": [
+        { "topic": "Pyruvate carboxylase", "rating": 5 },
+        { "topic": "PEP carboxykinase", "rating": 5 },
+        { "topic": "Fructose 1,6 bisphosphatase", "rating": 4 },
+        { "topic": "Glucose 6 phosphatase", "rating": 5 },
+        { "topic": "Biotin dependence", "rating": 5 }
+      ],
+
+      "Minor Metabolic Pathways": [
+        { "topic": "HMP shunt", "rating": 5 },
+        { "topic": "G6PD deficiency", "rating": 5 },
+        { "topic": "Methemoglobin reductase", "rating": 4 },
+        { "topic": "Galactose metabolism", "rating": 5 },
+        { "topic": "Essential fructosuria", "rating": 4 },
+        { "topic": "Hereditary fructose intolerance", "rating": 5 },
+        { "topic": "Galactosemia", "rating": 5 }
+      ]
+    },
+
+
+    "Lipids": {
+
+      "Chemistry of Lipids": [
+        { "topic": "Essential fatty acids", "rating": 5 },
+        { "topic": "Saturated vs unsaturated fatty acids", "rating": 3 },
+        { "topic": "Cholesterol", "rating": 5 },
+        { "topic": "Waxes", "rating": 2 },
+        { "topic": "Triglycerides", "rating": 4 }
+      ],
+
+      "Phospholipids": [
+        { "topic": "Lecithin", "rating": 5 },
+        { "topic": "Sphingomyelin", "rating": 5 },
+        { "topic": "Surfactant", "rating": 5 },
+        { "topic": "Niemann Pick disease", "rating": 5 },
+        { "topic": "Liposomes", "rating": 3 }
+      ],
+
+      "Lipid Metabolism in Fasting State": [
+        { "topic": "Beta oxidation", "rating": 5 },
+        { "topic": "Carnitine shuttle", "rating": 5 },
+        { "topic": "CPT-1", "rating": 4 },
+        { "topic": "Ketogenesis", "rating": 5 },
+        { "topic": "Hormone sensitive lipase", "rating": 5 }
+      ],
+
+      "Lipid Metabolism in Fed State": [
+        { "topic": "Fatty acid synthesis", "rating": 5 },
+        { "topic": "Acetyl CoA carboxylase", "rating": 5 },
+        { "topic": "Malonyl CoA", "rating": 5 },
+        { "topic": "Fatty acid synthase complex", "rating": 4 }
+      ],
+
+      "Ketone Body Synthesis": [
+        { "topic": "Diabetic ketoacidosis", "rating": 5 },
+        { "topic": "Ketone bodies", "rating": 5 },
+        { "topic": "Organs utilizing ketone bodies", "rating": 4 },
+        { "topic": "Acetone breath", "rating": 4 }
+      ],
+
+      "Lipoproteins and Metabolism": [
+        { "topic": "Chylomicrons", "rating": 5 },
+        { "topic": "VLDL LDL HDL", "rating": 5 },
+        { "topic": "Apo B48", "rating": 5 },
+        { "topic": "Apo B100", "rating": 5 },
+        { "topic": "Apo CII", "rating": 5 },
+        { "topic": "Apo E", "rating": 5 },
+        { "topic": "LCAT", "rating": 4 },
+        { "topic": "Reverse cholesterol transport", "rating": 5 }
+      ],
+
+      "Dyslipidemia": [
+        { "topic": "Familial hypercholesterolemia", "rating": 5 },
+        { "topic": "Tangier disease", "rating": 4 },
+        { "topic": "Type I hyperlipoproteinemia", "rating": 4 },
+        { "topic": "Xanthomas", "rating": 5 },
+        { "topic": "Statins", "rating": 5 },
+        { "topic": "LDL receptor defect", "rating": 5 }
+      ]
+    },
+
+    "Proteins and Amino Acids": {
+
+      "Chemistry of Amino Acids": [
+        { "topic": "Essential amino acids", "rating": 5 },
+        { "topic": "Branched chain amino acids", "rating": 4 },
+        { "topic": "Aromatic amino acids", "rating": 4 },
+        { "topic": "Ketogenic amino acids", "rating": 5 },
+        { "topic": "Glucogenic amino acids", "rating": 5 }
+      ],
+
+      "Fibrous Proteins": [
+        { "topic": "Collagen", "rating": 5 },
+        { "topic": "Triple helix", "rating": 5 },
+        { "topic": "Hydroxyproline", "rating": 5 },
+        { "topic": "Vitamin C role", "rating": 5 },
+        { "topic": "Elastin", "rating": 4 },
+        { "topic": "Keratin", "rating": 3 },
+        { "topic": "Ehlers Danlos syndrome", "rating": 5 }
+      ],
+
+      "General Amino Acid Metabolism": [
+        { "topic": "Transamination", "rating": 5 },
+        { "topic": "Oxidative deamination", "rating": 5 },
+        { "topic": "ALT AST", "rating": 5 },
+        { "topic": "PLP cofactor", "rating": 5 }
+      ],
+
+      "Urea Cycle and Disorders": [
+        { "topic": "OTC deficiency", "rating": 5 },
+        { "topic": "Hyperammonemia", "rating": 5 },
+        { "topic": "CPS-1", "rating": 4 },
+        { "topic": "Argininosuccinate lyase deficiency", "rating": 4 },
+        { "topic": "Orotic aciduria", "rating": 5 }
+      ],
+
+      "Aromatic Amino Acids": [
+        { "topic": "PKU", "rating": 5 },
+        { "topic": "Alkaptonuria", "rating": 5 },
+        { "topic": "Albinism", "rating": 5 },
+        { "topic": "Tyrosine metabolism", "rating": 5 },
+        { "topic": "Homogentisic acid", "rating": 5 }
+      ],
+
+      "Sulfur Containing Amino Acids": [
+        { "topic": "Homocystinuria", "rating": 5 },
+        { "topic": "Cystinuria", "rating": 5 },
+        { "topic": "Methionine metabolism", "rating": 4 },
+        { "topic": "Homocysteine", "rating": 5 }
+      ],
+
+      "Tryptophan": [
+        { "topic": "Niacin synthesis", "rating": 5 },
+        { "topic": "Serotonin", "rating": 4 },
+        { "topic": "Melatonin", "rating": 4 },
+        { "topic": "Hartnup disease", "rating": 4 },
+        { "topic": "Carcinoid syndrome", "rating": 5 }
+      ],
+
+      "Miscellaneous Amino Acids": [
+        { "topic": "Creatine synthesis", "rating": 4 },
+        { "topic": "Glutathione", "rating": 5 },
+        { "topic": "Nitric oxide synthesis", "rating": 5 }
+      ]
+    },
+
+    "Bioenergetics": {
+
+      "Krebs Cycle": [
+        { "topic": "Isocitrate dehydrogenase", "rating": 5 },
+        { "topic": "Alpha ketoglutarate dehydrogenase", "rating": 5 },
+        { "topic": "Amphibolic role", "rating": 4 },
+        { "topic": "ATP generation", "rating": 5 },
+        { "topic": "Substrate level phosphorylation", "rating": 4 }
+      ],
+
+      "Electron Transport Chain": [
+        { "topic": "Complexes I-IV", "rating": 5 },
+        { "topic": "ATP synthase", "rating": 5 },
+        { "topic": "Rotenone", "rating": 5 },
+        { "topic": "Oligomycin", "rating": 5 },
+        { "topic": "Cyanide poisoning", "rating": 5 },
+        { "topic": "Carbon monoxide", "rating": 5 },
+        { "topic": "Uncouplers", "rating": 5 },
+        { "topic": "DNP", "rating": 5 },
+        { "topic": "Thermogenin", "rating": 5 }
+      ]
+    },
+
+
+    "Molecular Biology": {
+
+      "Chemistry of Nucleotides": [
+        { "topic": "Purine synthesis", "rating": 5 },
+        { "topic": "Pyrimidine synthesis", "rating": 4 },
+        { "topic": "PRPP", "rating": 5 },
+        { "topic": "Ribonucleotide reductase", "rating": 4 },
+        { "topic": "De novo synthesis", "rating": 4 },
+        { "topic": "Salvage pathway", "rating": 5 }
+      ],
+
+      "Metabolism of Nucleotides": [
+        { "topic": "Lesch Nyhan syndrome", "rating": 5 },
+        { "topic": "ADA deficiency", "rating": 5 },
+        { "topic": "SCID", "rating": 5 },
+        { "topic": "Hyperuricemia", "rating": 5 },
+        { "topic": "HGPRT deficiency", "rating": 5 },
+        { "topic": "Xanthine oxidase", "rating": 5 },
+        { "topic": "Allopurinol", "rating": 5 }
+      ],
+
+      "Structure and Organization of DNA": [
+        { "topic": "Histones", "rating": 5 },
+        { "topic": "Nucleosomes", "rating": 5 },
+        { "topic": "Euchromatin heterochromatin", "rating": 4 },
+        { "topic": "Chargaff rule", "rating": 5 },
+        { "topic": "DNA double helix", "rating": 5 },
+        { "topic": "Antiparallel strands", "rating": 5 }
+      ],
+
+      "DNA Replication": [
+        { "topic": "DNA polymerase", "rating": 5 },
+        { "topic": "Okazaki fragments", "rating": 5 },
+        { "topic": "Telomerase", "rating": 5 },
+        { "topic": "Direction of replication", "rating": 5 },
+        { "topic": "Leading lagging strand", "rating": 5 },
+        { "topic": "Primase", "rating": 5 },
+        { "topic": "Helicase", "rating": 5 },
+        { "topic": "Topoisomerase", "rating": 5 }
+      ],
+
+      "Transcription": [
+        { "topic": "RNA polymerase", "rating": 5 },
+        { "topic": "Post transcription modification", "rating": 4 },
+        { "topic": "mRNA processing", "rating": 5 },
+        { "topic": "Capping and tailing", "rating": 5 },
+        { "topic": "hnRNA", "rating": 4 }
+      ],
+
+      "Translation": [
+        { "topic": "Ribosomes", "rating": 5 },
+        { "topic": "Initiation inhibitors", "rating": 5 },
+        { "topic": "Elongation inhibitors", "rating": 4 },
+        { "topic": "tRNA", "rating": 5 },
+        { "topic": "Peptidyl transferase", "rating": 5 },
+        { "topic": "Shine Dalgarno sequence", "rating": 4 },
+        { "topic": "Protein synthesis inhibitors", "rating": 5 }
+      ],
+
+      "Regulation of Gene Expression": [
+        { "topic": "Lac operon", "rating": 5 },
+        { "topic": "Operon concept", "rating": 5 },
+        { "topic": "RNA editing", "rating": 5 },
+        { "topic": "Inducible operon", "rating": 5 },
+        { "topic": "Repressible operon", "rating": 5 }
+      ],
+
+      "Hybridisation Techniques": [
+        { "topic": "Southern blot", "rating": 5 },
+        { "topic": "Northern blot", "rating": 5 },
+        { "topic": "Western blot", "rating": 5 },
+        { "topic": "FISH", "rating": 5 },
+        { "topic": "ELISA", "rating": 5 },
+        { "topic": "DNA probes", "rating": 4 }
+      ],
+
+      "Recombinant DNA Technology": [
+        { "topic": "Restriction endonucleases", "rating": 5 },
+        { "topic": "Vectors", "rating": 4 },
+        { "topic": "PCR", "rating": 5 },
+        { "topic": "CRISPR", "rating": 5 },
+        { "topic": "Plasmids", "rating": 5 },
+        { "topic": "Sticky ends", "rating": 5 },
+        { "topic": "Blunt ends", "rating": 4 }
+      ],
+
+      "Amplification and Sequencing Techniques": [
+        { "topic": "PCR", "rating": 5 },
+        { "topic": "RT-PCR", "rating": 5 },
+        { "topic": "Sanger sequencing", "rating": 4 },
+        { "topic": "Microarray", "rating": 5 },
+        { "topic": "DNA fingerprinting", "rating": 5 },
+        { "topic": "VNTR", "rating": 5 }
+      ],
+
+      "Mutation": [
+        { "topic": "Missense mutation", "rating": 5 },
+        { "topic": "Nonsense mutation", "rating": 5 },
+        { "topic": "Frameshift mutation", "rating": 5 },
+        { "topic": "Silent mutation", "rating": 4 },
+        { "topic": "Point mutation", "rating": 5 },
+        { "topic": "Trinucleotide repeat expansion", "rating": 5 }
+      ]
+    },
+
+    "Vitamins": {
+
+      "Fat Soluble Vitamins": [
+        { "topic": "Vitamin A deficiency", "rating": 5 },
+        { "topic": "Night blindness", "rating": 5 },
+        { "topic": "Vitamin D metabolism", "rating": 5 },
+        { "topic": "Vitamin E deficiency", "rating": 4 },
+        { "topic": "Vitamin K deficiency", "rating": 5 },
+        { "topic": "Rickets", "rating": 5 },
+        { "topic": "Osteomalacia", "rating": 5 },
+        { "topic": "Hypervitaminosis A", "rating": 4 }
+      ],
+
+      "Hematopoietic Vitamins": [
+        { "topic": "Vitamin B12", "rating": 5 },
+        { "topic": "Folate", "rating": 5 },
+        { "topic": "Methylmalonic acid", "rating": 5 },
+        { "topic": "Megaloblastic anemia", "rating": 5 },
+        { "topic": "Homocysteine", "rating": 5 }
+      ],
+
+      "Energy Releasing Vitamins": [
+        { "topic": "Thiamine", "rating": 5 },
+        { "topic": "Riboflavin", "rating": 4 },
+        { "topic": "Niacin", "rating": 5 },
+        { "topic": "Beriberi", "rating": 5 },
+        { "topic": "Wernicke encephalopathy", "rating": 5 },
+        { "topic": "Pellagra", "rating": 5 }
+      ],
+
+      "Vitamin B6 and C": [
+        { "topic": "Pyridoxine deficiency", "rating": 4 },
+        { "topic": "Transamination reactions", "rating": 5 },
+        { "topic": "Scurvy", "rating": 5 },
+        { "topic": "Collagen synthesis", "rating": 5 },
+        { "topic": "Isoniazid induced deficiency", "rating": 5 }
+      ],
+
+      "Heme Metabolism": [
+        { "topic": "Porphyrias", "rating": 5 },
+        { "topic": "Jaundice", "rating": 5 },
+        { "topic": "Van den Bergh reaction", "rating": 5 },
+        { "topic": "Heme synthesis", "rating": 5 },
+        { "topic": "Bilirubin metabolism", "rating": 5 },
+        { "topic": "Crigler Najjar syndrome", "rating": 5 },
+        { "topic": "Gilbert syndrome", "rating": 5 },
+        { "topic": "Dubin Johnson syndrome", "rating": 5 }
+      ]
+    }
+
+   },
+
+
+
+    "PYQs": {
+
+      "General Topics": {
+
+        "Metabolism in Fed and Fasting State": [
+          {
+            "topic": "Brain fuel in starvation",
+            "question": "Major fuel used by brain during prolonged starvation?",
+            "answer": "Ketone bodies"
+          },
+          {
+            "topic": "Insulin glucagon ratio",
+            "question": "Insulin glucagon ratio is highest during?",
+            "answer": "Fed state"
+          },
+          {
+            "topic": "Hormone sensitive lipase",
+            "question": "Hormone sensitive lipase is activated by?",
+            "answer": "Glucagon"
+          },
+          {
+            "topic": "Lipoprotein lipase",
+            "question": "Lipoprotein lipase is activated by which apoprotein?",
+            "answer": "Apo CII"
+          },
+          {
+            "topic": "Respiratory quotient",
+            "question": "Respiratory quotient for carbohydrate is?",
+            "answer": "1"
+          }
+        ],
+
+        "Concept of Enzyme Regulation": [
+          {
+            "topic": "Feedback inhibition",
+            "question": "End product inhibition is an example of?",
+            "answer": "Feedback inhibition"
+          },
+          {
+            "topic": "Rate limiting enzymes",
+            "question": "Rate limiting enzyme of glycolysis?",
+            "answer": "PFK-1"
+          }
+        ]
+      },
+
+      "Enzymology": {
+
+        "Introduction to Enzymes": [
+          {
+            "topic": "Cofactors and coenzymes",
+            "question": "Vitamin derived organic cofactors are called?",
+            "answer": "Coenzymes"
+          },
+          {
+            "topic": "Isoenzymes",
+            "question": "Cardiac specific isoenzyme used in MI diagnosis?",
+            "answer": "CK-MB"
+          }
+        ],
+
+        "Classification of Enzymes": [
+          {
+            "topic": "Hydrolases",
+            "question": "Digestive enzymes mostly belong to which class?",
+            "answer": "Hydrolases"
+          }
+        ],
+
+        "Mechanism of Action of Enzymes": [
+          {
+            "topic": "Induced fit model",
+            "question": "Most accepted model of enzyme action?",
+            "answer": "Induced fit model"
+          }
+        ],
+
+        "Enzyme Kinetics": [
+          {
+            "topic": "Km and Vmax",
+            "question": "Km represents?",
+            "answer": "Affinity of enzyme for substrate"
+          },
+          {
+            "topic": "Competitive inhibition",
+            "question": "Competitive inhibition changes which parameter?",
+            "answer": "Km"
+          },
+          {
+            "topic": "Noncompetitive inhibition",
+            "question": "Noncompetitive inhibition decreases?",
+            "answer": "Vmax"
+          },
+          {
+            "topic": "Lineweaver Burk plot",
+            "question": "Double reciprocal plot is called?",
+            "answer": "Lineweaver Burk plot"
+          }
+        ],
+
+        "Enzyme Inhibition": [
+          {
+            "topic": "Statins",
+            "question": "Statins inhibit which enzyme?",
+            "answer": "HMG CoA reductase"
+          },
+          {
+            "topic": "Methotrexate",
+            "question": "Methotrexate inhibits?",
+            "answer": "Dihydrofolate reductase"
+          },
+          {
+            "topic": "Organophosphorus poisoning",
+            "question": "Organophosphorus compounds inhibit?",
+            "answer": "Acetylcholinesterase"
+          }
+        ],
+
+        "Enzyme Regulation": [
+          {
+            "topic": "Hexokinase vs glucokinase",
+            "question": "Enzyme with high Km for glucose?",
+            "answer": "Glucokinase"
+          },
+          {
+            "topic": "HMG CoA reductase",
+            "question": "Rate limiting enzyme of cholesterol synthesis?",
+            "answer": "HMG CoA reductase"
+          }
+        ],
+
+        "Clinical Enzymology": [
+          {
+            "topic": "Troponins",
+            "question": "Most specific marker for myocardial infarction?",
+            "answer": "Troponin I"
+          },
+          {
+            "topic": "AST ALT",
+            "question": "ALT is most specific for which organ?",
+            "answer": "Liver"
+          },
+          {
+            "topic": "Amylase lipase",
+            "question": "Most specific enzyme for pancreatitis?",
+            "answer": "Lipase"
+          }
+        ]
+      },
+
+      "Carbohydrates": {
+
+        "Chemistry of Carbohydrates": [
+          {
+            "topic": "Reducing sugars",
+            "question": "Which sugar is non reducing?",
+            "answer": "Sucrose"
+          },
+          {
+            "topic": "Benedict test",
+            "question": "Benedict test detects?",
+            "answer": "Reducing sugars"
+          },
+          {
+            "topic": "Seliwanoff test",
+            "question": "Seliwanoff test is used for identification of?",
+            "answer": "Fructose"
+          }
+        ],
+
+        "Glycosaminoglycans": [
+          {
+            "topic": "Hurler syndrome",
+            "question": "Hurler syndrome occurs due to deficiency of?",
+            "answer": "Alpha-L-iduronidase"
+          },
+          {
+            "topic": "Hunter syndrome",
+            "question": "Hunter syndrome is inherited as?",
+            "answer": "X linked recessive"
+          }
+        ],
+
+        "Glucose Transporters": [
+          {
+            "topic": "GLUT4",
+            "question": "Insulin dependent glucose transporter?",
+            "answer": "GLUT4"
+          },
+          {
+            "topic": "GLUT2",
+            "question": "Glucose transporter present in pancreatic beta cells?",
+            "answer": "GLUT2"
+          }
+        ],
+
+        "Glycolysis": [
+          {
+            "topic": "PFK-1",
+            "question": "Rate limiting enzyme of glycolysis?",
+            "answer": "PFK-1"
+          },
+          {
+            "topic": "Pyruvate kinase",
+            "question": "Pyruvate kinase deficiency causes?",
+            "answer": "Hemolytic anemia"
+          },
+          {
+            "topic": "2,3 BPG shunt",
+            "question": "2,3 BPG decreases affinity of hemoglobin for?",
+            "answer": "Oxygen"
+          }
+        ],
+
+        "Pyruvate Dehydrogenase": [
+          {
+            "topic": "PDH complex",
+            "question": "Pyruvate dehydrogenase converts pyruvate into?",
+            "answer": "Acetyl CoA"
+          },
+          {
+            "topic": "Thiamine dependence",
+            "question": "PDH complex requires which vitamin?",
+            "answer": "Vitamin B1"
+          },
+          {
+            "topic": "Arsenic poisoning",
+            "question": "Arsenic inhibits which cofactor?",
+            "answer": "Lipoic acid"
+          }
+        ],
+
+        "Glycogen Storage Disorders": [
+          {
+            "topic": "Von Gierke disease",
+            "question": "Enzyme deficient in Von Gierke disease?",
+            "answer": "Glucose 6 phosphatase"
+          },
+          {
+            "topic": "Pompe disease",
+            "question": "Pompe disease involves deficiency of?",
+            "answer": "Acid maltase"
+          },
+          {
+            "topic": "McArdle disease",
+            "question": "Exercise intolerance is seen in?",
+            "answer": "McArdle disease"
+          }
+        ],
+
+        "Minor Metabolic Pathways": [
+          {
+            "topic": "HMP shunt",
+            "question": "HMP shunt produces?",
+            "answer": "NADPH"
+          },
+          {
+            "topic": "G6PD deficiency",
+            "question": "Heinz bodies are seen in?",
+            "answer": "G6PD deficiency"
+          },
+          {
+            "topic": "Galactosemia",
+            "question": "Deficiency enzyme in classic galactosemia?",
+            "answer": "Galactose 1 phosphate uridyl transferase"
+          },
+          {
+            "topic": "Hereditary fructose intolerance",
+            "question": "Deficient enzyme in hereditary fructose intolerance?",
+            "answer": "Aldolase B"
+          }
+        ]
+      },
+
+
+      "Lipids": {
+
+        "Chemistry of Lipids": [
+          {
+            "topic": "Essential fatty acids",
+            "question": "Essential fatty acid deficiency causes?",
+            "answer": "Phrynoderma"
+          },
+          {
+            "topic": "Cholesterol",
+            "question": "Precursor of steroid hormones?",
+            "answer": "Cholesterol"
+          },
+          {
+            "topic": "Triglycerides",
+            "question": "Major storage form of fat in body?",
+            "answer": "Triglycerides"
+          }
+        ],
+
+        "Phospholipids": [
+          {
+            "topic": "Lecithin",
+            "question": "Lecithin sphingomyelin ratio is used to assess?",
+            "answer": "Fetal lung maturity"
+          },
+          {
+            "topic": "Sphingomyelin",
+            "question": "Accumulation of sphingomyelin occurs in?",
+            "answer": "Niemann Pick disease"
+          },
+          {
+            "topic": "Surfactant",
+            "question": "Major phospholipid in surfactant?",
+            "answer": "Dipalmitoyl lecithin"
+          }
+        ],
+
+        "Lipid Metabolism in Fasting State": [
+          {
+            "topic": "Beta oxidation",
+            "question": "Beta oxidation occurs in which organelle?",
+            "answer": "Mitochondria"
+          },
+          {
+            "topic": "Carnitine shuttle",
+            "question": "Carnitine is required for transport of?",
+            "answer": "Long chain fatty acids"
+          },
+          {
+            "topic": "Ketogenesis",
+            "question": "Ketone bodies are synthesized in?",
+            "answer": "Liver"
+          }
+        ],
+
+        "Lipid Metabolism in Fed State": [
+          {
+            "topic": "Acetyl CoA carboxylase",
+            "question": "Rate limiting enzyme of fatty acid synthesis?",
+            "answer": "Acetyl CoA carboxylase"
+          },
+          {
+            "topic": "Malonyl CoA",
+            "question": "Immediate donor of two carbon units in fatty acid synthesis?",
+            "answer": "Malonyl CoA"
+          }
+        ],
+
+        "Ketone Body Synthesis": [
+          {
+            "topic": "Diabetic ketoacidosis",
+            "question": "Characteristic fruity odor in DKA is due to?",
+            "answer": "Acetone"
+          },
+          {
+            "topic": "Ketone bodies",
+            "question": "Ketone body not utilized by peripheral tissues?",
+            "answer": "Acetone"
+          }
+        ],
+
+        "Lipoproteins and Metabolism": [
+          {
+            "topic": "Chylomicrons",
+            "question": "Largest lipoprotein particle?",
+            "answer": "Chylomicrons"
+          },
+          {
+            "topic": "HDL",
+            "question": "Good cholesterol is?",
+            "answer": "HDL"
+          },
+          {
+            "topic": "Apo CII",
+            "question": "Activator of lipoprotein lipase?",
+            "answer": "Apo CII"
+          },
+          {
+            "topic": "Apo B100",
+            "question": "Ligand for LDL receptor?",
+            "answer": "Apo B100"
+          }
+        ],
+
+        "Dyslipidemia": [
+          {
+            "topic": "Familial hypercholesterolemia",
+            "question": "Defect in familial hypercholesterolemia?",
+            "answer": "LDL receptor"
+          },
+          {
+            "topic": "Tangier disease",
+            "question": "Tangier disease is associated with deficiency of?",
+            "answer": "HDL"
+          },
+          {
+            "topic": "Xanthomas",
+            "question": "Tendon xanthomas are seen in?",
+            "answer": "Familial hypercholesterolemia"
+          }
+        ]
+      },
+
+      "Proteins and Amino Acids": {
+
+        "Chemistry of Amino Acids": [
+          {
+            "topic": "Essential amino acids",
+            "question": "Essential amino acid among the following?",
+            "answer": "Lysine"
+          },
+          {
+            "topic": "Ketogenic amino acids",
+            "question": "Purely ketogenic amino acid?",
+            "answer": "Leucine"
+          }
+        ],
+
+        "Fibrous Proteins": [
+          {
+            "topic": "Collagen",
+            "question": "Most abundant protein in human body?",
+            "answer": "Collagen"
+          },
+          {
+            "topic": "Vitamin C role",
+            "question": "Vitamin C is required for hydroxylation of?",
+            "answer": "Proline and lysine"
+          },
+          {
+            "topic": "Ehlers Danlos syndrome",
+            "question": "Defect in collagen synthesis causes?",
+            "answer": "Ehlers Danlos syndrome"
+          }
+        ],
+
+        "General Amino Acid Metabolism": [
+          {
+            "topic": "Transamination",
+            "question": "Coenzyme for transamination reactions?",
+            "answer": "Pyridoxal phosphate"
+          },
+          {
+            "topic": "ALT AST",
+            "question": "ALT and AST belong to which class of enzymes?",
+            "answer": "Transferases"
+          }
+        ],
+
+        "Urea Cycle and Disorders": [
+          {
+            "topic": "OTC deficiency",
+            "question": "Most common urea cycle disorder?",
+            "answer": "OTC deficiency"
+          },
+          {
+            "topic": "Hyperammonemia",
+            "question": "Hyperammonemia primarily affects which organ?",
+            "answer": "Brain"
+          },
+          {
+            "topic": "Orotic aciduria",
+            "question": "Orotic aciduria with hyperammonemia occurs in?",
+            "answer": "OTC deficiency"
+          }
+        ],
+
+        "Aromatic Amino Acids": [
+          {
+            "topic": "PKU",
+            "question": "Deficient enzyme in PKU?",
+            "answer": "Phenylalanine hydroxylase"
+          },
+          {
+            "topic": "Alkaptonuria",
+            "question": "Black urine on standing is seen in?",
+            "answer": "Alkaptonuria"
+          },
+          {
+            "topic": "Albinism",
+            "question": "Deficiency of tyrosinase causes?",
+            "answer": "Albinism"
+          }
+        ],
+
+        "Sulfur Containing Amino Acids": [
+          {
+            "topic": "Homocystinuria",
+            "question": "Lens subluxation downward occurs in?",
+            "answer": "Homocystinuria"
+          },
+          {
+            "topic": "Cystinuria",
+            "question": "Hexagonal crystals in urine are seen in?",
+            "answer": "Cystinuria"
+          }
+        ],
+
+        "Tryptophan": [
+          {
+            "topic": "Niacin synthesis",
+            "question": "Niacin is synthesized from?",
+            "answer": "Tryptophan"
+          },
+          {
+            "topic": "Hartnup disease",
+            "question": "Hartnup disease affects transport of?",
+            "answer": "Neutral amino acids"
+          },
+          {
+            "topic": "Carcinoid syndrome",
+            "question": "Increased serotonin production occurs in?",
+            "answer": "Carcinoid syndrome"
+          }
+        ],
+
+        "Miscellaneous Amino Acids": [
+          {
+            "topic": "Glutathione",
+            "question": "Most important intracellular antioxidant?",
+            "answer": "Glutathione"
+          },
+          {
+            "topic": "Nitric oxide synthesis",
+            "question": "Nitric oxide is synthesized from?",
+            "answer": "Arginine"
+          }
+        ]
+      },
+
+      "Bioenergetics": {
+
+        "Krebs Cycle": [
+          {
+            "topic": "Isocitrate dehydrogenase",
+            "question": "Rate limiting enzyme of Krebs cycle?",
+            "answer": "Isocitrate dehydrogenase"
+          },
+          {
+            "topic": "Alpha ketoglutarate dehydrogenase",
+            "question": "Cofactors of alpha ketoglutarate dehydrogenase are similar to?",
+            "answer": "PDH complex"
+          },
+          {
+            "topic": "Substrate level phosphorylation",
+            "question": "Substrate level phosphorylation in TCA cycle occurs at?",
+            "answer": "Succinyl CoA synthetase step"
+          }
+        ],
+
+        "Electron Transport Chain": [
+          {
+            "topic": "Rotenone",
+            "question": "Rotenone inhibits which complex?",
+            "answer": "Complex I"
+          },
+          {
+            "topic": "Oligomycin",
+            "question": "Oligomycin inhibits?",
+            "answer": "ATP synthase"
+          },
+          {
+            "topic": "Cyanide poisoning",
+            "question": "Cyanide inhibits which complex?",
+            "answer": "Complex IV"
+          },
+          {
+            "topic": "Uncouplers",
+            "question": "Classic uncoupler of oxidative phosphorylation?",
+            "answer": "DNP"
+          },
+          {
+            "topic": "Thermogenin",
+            "question": "Thermogenin is present in?",
+            "answer": "Brown fat"
+          }
+        ]
+      },
+
+
+      "Molecular Biology": {
+
+        "Chemistry of Nucleotides": [
+          {
+            "topic": "Purine synthesis",
+            "question": "Drug inhibiting de novo purine synthesis?",
+            "answer": "Methotrexate"
+          },
+          {
+            "topic": "Salvage pathway",
+            "question": "HGPRT enzyme is involved in?",
+            "answer": "Purine salvage pathway"
+          },
+          {
+            "topic": "PRPP",
+            "question": "PRPP is required for synthesis of?",
+            "answer": "Purines and pyrimidines"
+          }
+        ],
+
+        "Metabolism of Nucleotides": [
+          {
+            "topic": "Lesch Nyhan syndrome",
+            "question": "Self mutilation behavior is seen in?",
+            "answer": "Lesch Nyhan syndrome"
+          },
+          {
+            "topic": "ADA deficiency",
+            "question": "ADA deficiency causes?",
+            "answer": "SCID"
+          },
+          {
+            "topic": "Allopurinol",
+            "question": "Allopurinol inhibits?",
+            "answer": "Xanthine oxidase"
+          }
+        ],
+
+        "Structure and Organization of DNA": [
+          {
+            "topic": "Chargaff rule",
+            "question": "According to Chargaff rule adenine equals?",
+            "answer": "Thymine"
+          },
+          {
+            "topic": "Histones",
+            "question": "DNA is wrapped around which proteins?",
+            "answer": "Histones"
+          },
+          {
+            "topic": "Nucleosomes",
+            "question": "Basic structural unit of chromatin?",
+            "answer": "Nucleosome"
+          }
+        ],
+
+        "DNA Replication": [
+          {
+            "topic": "DNA polymerase",
+            "question": "DNA synthesis occurs in which direction?",
+            "answer": "5 prime to 3 prime"
+          },
+          {
+            "topic": "Okazaki fragments",
+            "question": "Okazaki fragments are formed on?",
+            "answer": "Lagging strand"
+          },
+          {
+            "topic": "Telomerase",
+            "question": "Telomerase is active in?",
+            "answer": "Cancer cells"
+          },
+          {
+            "topic": "Topoisomerase",
+            "question": "Drug target of fluoroquinolones?",
+            "answer": "Topoisomerase"
+          }
+        ],
+
+        "Transcription": [
+          {
+            "topic": "RNA polymerase",
+            "question": "RNA synthesis is done by?",
+            "answer": "RNA polymerase"
+          },
+          {
+            "topic": "mRNA processing",
+            "question": "Introns are removed by?",
+            "answer": "Splicing"
+          },
+          {
+            "topic": "Capping and tailing",
+            "question": "5 prime cap of mRNA contains?",
+            "answer": "Methyl guanosine"
+          }
+        ],
+
+        "Translation": [
+          {
+            "topic": "Ribosomes",
+            "question": "Protein synthesis occurs on?",
+            "answer": "Ribosomes"
+          },
+          {
+            "topic": "Protein synthesis inhibitors",
+            "question": "Tetracycline acts on which ribosomal subunit?",
+            "answer": "30S"
+          },
+          {
+            "topic": "Peptidyl transferase",
+            "question": "Peptide bond formation occurs by?",
+            "answer": "Peptidyl transferase"
+          }
+        ],
+
+        "Regulation of Gene Expression": [
+          {
+            "topic": "Lac operon",
+            "question": "Lac operon is an example of?",
+            "answer": "Inducible operon"
+          },
+          {
+            "topic": "Repressible operon",
+            "question": "Tryptophan operon is an example of?",
+            "answer": "Repressible operon"
+          }
+        ],
+
+        "Hybridisation Techniques": [
+          {
+            "topic": "Southern blot",
+            "question": "Southern blot detects?",
+            "answer": "DNA"
+          },
+          {
+            "topic": "Northern blot",
+            "question": "Northern blot detects?",
+            "answer": "RNA"
+          },
+          {
+            "topic": "Western blot",
+            "question": "Western blot detects?",
+            "answer": "Protein"
+          },
+          {
+            "topic": "FISH",
+            "question": "FISH technique is used for?",
+            "answer": "Chromosomal abnormalities"
+          }
+        ],
+
+        "Recombinant DNA Technology": [
+          {
+            "topic": "Restriction endonucleases",
+            "question": "Restriction enzymes cut?",
+            "answer": "DNA"
+          },
+          {
+            "topic": "PCR",
+            "question": "PCR requires which enzyme?",
+            "answer": "Taq polymerase"
+          },
+          {
+            "topic": "CRISPR",
+            "question": "CRISPR is mainly used for?",
+            "answer": "Gene editing"
+          }
+        ],
+
+        "Amplification and Sequencing Techniques": [
+          {
+            "topic": "RT-PCR",
+            "question": "RT-PCR is mainly used for detection of?",
+            "answer": "RNA viruses"
+          },
+          {
+            "topic": "DNA fingerprinting",
+            "question": "DNA fingerprinting is based on?",
+            "answer": "VNTR"
+          },
+          {
+            "topic": "Sanger sequencing",
+            "question": "Sanger sequencing uses?",
+            "answer": "Dideoxynucleotides"
+          }
+        ],
+
+        "Mutation": [
+          {
+            "topic": "Missense mutation",
+            "question": "Single amino acid substitution occurs in?",
+            "answer": "Missense mutation"
+          },
+          {
+            "topic": "Frameshift mutation",
+            "question": "Frameshift mutation occurs due to?",
+            "answer": "Insertion or deletion"
+          },
+          {
+            "topic": "Trinucleotide repeat expansion",
+            "question": "Anticipation is seen in disorders caused by?",
+            "answer": "Trinucleotide repeat expansion"
+          }
+        ]
+      },
+
+      "Vitamins": {
+
+        "Fat Soluble Vitamins": [
+          {
+            "topic": "Vitamin A deficiency",
+            "question": "Night blindness occurs due to deficiency of?",
+            "answer": "Vitamin A"
+          },
+          {
+            "topic": "Vitamin D metabolism",
+            "question": "Active form of vitamin D?",
+            "answer": "1,25 dihydroxy cholecalciferol"
+          },
+          {
+            "topic": "Vitamin K deficiency",
+            "question": "Vitamin K is required for carboxylation of?",
+            "answer": "Clotting factors"
+          }
+        ],
+
+        "Hematopoietic Vitamins": [
+          {
+            "topic": "Vitamin B12",
+            "question": "Neurological manifestations are seen in deficiency of?",
+            "answer": "Vitamin B12"
+          },
+          {
+            "topic": "Methylmalonic acid",
+            "question": "Methylmalonic acid increases in deficiency of?",
+            "answer": "Vitamin B12"
+          },
+          {
+            "topic": "Folate",
+            "question": "Neural tube defects are associated with deficiency of?",
+            "answer": "Folate"
+          }
+        ],
+
+        "Energy Releasing Vitamins": [
+          {
+            "topic": "Thiamine",
+            "question": "Deficiency of thiamine causes?",
+            "answer": "Beriberi"
+          },
+          {
+            "topic": "Niacin",
+            "question": "Dermatitis diarrhea dementia are seen in deficiency of?",
+            "answer": "Niacin"
+          },
+          {
+            "topic": "Wernicke encephalopathy",
+            "question": "Wernicke encephalopathy occurs due to deficiency of?",
+            "answer": "Vitamin B1"
+          }
+        ],
+
+        "Vitamin B6 and C": [
+          {
+            "topic": "Pyridoxine deficiency",
+            "question": "Peripheral neuropathy due to isoniazid occurs because of deficiency of?",
+            "answer": "Vitamin B6"
+          },
+          {
+            "topic": "Scurvy",
+            "question": "Bleeding gums and poor wound healing occur in?",
+            "answer": "Scurvy"
+          },
+          {
+            "topic": "Collagen synthesis",
+            "question": "Vitamin C is required for hydroxylation of?",
+            "answer": "Proline and lysine"
+          }
+        ],
+
+        "Heme Metabolism": [
+          {
+            "topic": "Jaundice",
+            "question": "Unconjugated hyperbilirubinemia occurs in?",
+            "answer": "Hemolytic jaundice"
+          },
+          {
+            "topic": "Van den Bergh reaction",
+            "question": "Direct positive Van den Bergh reaction occurs in?",
+            "answer": "Obstructive jaundice"
+          },
+          {
+            "topic": "Gilbert syndrome",
+            "question": "Mild unconjugated hyperbilirubinemia occurs in?",
+            "answer": "Gilbert syndrome"
+          },
+          {
+            "topic": "Crigler Najjar syndrome",
+            "question": "Deficiency of UDP glucuronyl transferase occurs in?",
+            "answer": "Crigler Najjar syndrome"
+          }
+        ]
+      }
+      }
+    }
+
+}

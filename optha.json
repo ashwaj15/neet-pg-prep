@@ -1,0 +1,1207 @@
+{
+  "Ophthalmology": {
+    "PYTs": {
+
+      "Basic Anatomy of Eye": {
+
+        "Layers and Structure of Eyeball": [
+          { "topic": "Fibrous tunic", "rating": 4 },
+          { "topic": "Corneal anatomy", "rating": 5 },
+          { "topic": "Scleral anatomy", "rating": 3 },
+          { "topic": "Uveal tract", "rating": 5 },
+          { "topic": "Retina anatomy", "rating": 5 },
+          { "topic": "Macula vs fovea", "rating": 5 },
+          { "topic": "Ora serrata", "rating": 3 },
+          { "topic": "Optic disc", "rating": 4 },
+          { "topic": "Blood supply of retina", "rating": 5 },
+          { "topic": "Central retinal artery", "rating": 5 },
+          { "topic": "Choroidal circulation", "rating": 4 },
+          { "topic": "Vitreous anatomy", "rating": 3 },
+          { "topic": "Aqueous humor pathway", "rating": 5 },
+          { "topic": "Canal of Schlemm", "rating": 5 },
+          { "topic": "Trabecular meshwork", "rating": 5 },
+          { "topic": "Embryology of eye", "rating": 4 },
+          { "topic": "Hyaloid artery remnants", "rating": 3 },
+          { "topic": "Extraocular muscle anatomy", "rating": 5 },
+          { "topic": "Nerve supply of EOM", "rating": 5 },
+          { "topic": "LR6 SO4 AO3", "rating": 5 }
+        ],
+
+        "Anatomy of Cornea and Sclera": [
+          { "topic": "Corneal layers", "rating": 5 },
+          { "topic": "Bowman's membrane", "rating": 4 },
+          { "topic": "Descemet membrane", "rating": 5 },
+          { "topic": "Corneal endothelium", "rating": 5 },
+          { "topic": "Corneal transparency", "rating": 5 },
+          { "topic": "Corneal deturgescence", "rating": 5 },
+          { "topic": "Corneal nutrition", "rating": 4 },
+          { "topic": "Scleral pathologies", "rating": 3 }
+        ],
+
+        "Anatomy of Uvea Accommodation with Anomalies": [
+          { "topic": "Iris anatomy", "rating": 4 },
+          { "topic": "Ciliary body", "rating": 5 },
+          { "topic": "Accommodation reflex", "rating": 5 },
+          { "topic": "Parasympathetic innervation", "rating": 4 }
+        ],
+
+        "Anatomy of Retina": [
+          { "topic": "Photoreceptors", "rating": 5 },
+          { "topic": "Rods vs cones", "rating": 5 },
+          { "topic": "Bipolar cells", "rating": 3 },
+          { "topic": "Ganglion cells", "rating": 4 },
+          { "topic": "Visual pigments", "rating": 4 }
+        ],
+
+        "Ocular Routes of Drug Administration Blood Supply and Embryology": [
+          { "topic": "Blood aqueous barrier", "rating": 3 },
+          { "topic": "Blood retinal barrier", "rating": 4 },
+          { "topic": "Ocular drug routes", "rating": 3 },
+          { "topic": "Embryological remnants", "rating": 3 }
+        ]
+      },
+
+      "Neuro Ophthalmology": {
+
+        "Visual Pathway and Visual Field Defects": [
+          { "topic": "Visual pathway", "rating": 5 },
+          { "topic": "Optic nerve lesion", "rating": 5 },
+          { "topic": "Optic chiasma lesion", "rating": 5 },
+          { "topic": "Optic tract lesion", "rating": 5 },
+          { "topic": "Meyer's loop", "rating": 5 },
+          { "topic": "Bitemporal hemianopia", "rating": 5 },
+          { "topic": "Homonymous hemianopia", "rating": 5 },
+          { "topic": "Junctional scotoma", "rating": 4 },
+          { "topic": "Quadrantanopia", "rating": 4 },
+          { "topic": "Wernicke hemianopic pupil", "rating": 5 },
+          { "topic": "RAPD Marcus Gunn pupil", "rating": 5 }
+        ],
+
+        "Pupillary Reflexes Light Reflex and Lesions": [
+          { "topic": "Light reflex", "rating": 5 },
+          { "topic": "Accommodation reflex", "rating": 5 },
+          { "topic": "Argyll Robertson pupil", "rating": 5 },
+          { "topic": "Holmes Adie pupil", "rating": 4 },
+          { "topic": "Horner syndrome", "rating": 5 },
+          { "topic": "Marcus Gunn pupil", "rating": 5 }
+        ],
+
+        "Optic Atrophy Optic Neuritis Optic Neuropathies and Papilledema": [
+          { "topic": "Papilledema", "rating": 5 },
+          { "topic": "Papillitis", "rating": 5 },
+          { "topic": "Retrobulbar neuritis", "rating": 5 },
+          { "topic": "Optic atrophy", "rating": 4 },
+          { "topic": "Foster Kennedy syndrome", "rating": 4 },
+          { "topic": "Multiple sclerosis association", "rating": 5 },
+          { "topic": "Causes of optic atrophy", "rating": 4 }
+        ],
+
+        "Congenital Anomalies of Optic Disc and Colour Blindness": [
+          { "topic": "Papilledema vs pseudopapilledema", "rating": 4 },
+          { "topic": "Colour blindness", "rating": 4 },
+          { "topic": "Ishihara chart", "rating": 5 },
+          { "topic": "Red green colour blindness", "rating": 5 }
+        ]
+      },
+
+      "Squint": {
+
+        "Extraocular Muscles and Binocular Single Vision": [
+          { "topic": "EOM actions", "rating": 5 },
+          { "topic": "Binocular single vision", "rating": 4 },
+          { "topic": "Hering law", "rating": 5 },
+          { "topic": "Sherrington law", "rating": 4 },
+          { "topic": "Hirschberg test", "rating": 5 },
+          { "topic": "Cover test", "rating": 5 }
+        ],
+
+        "Squint Classifications and Directions": [
+          { "topic": "Esotropia", "rating": 4 },
+          { "topic": "Exotropia", "rating": 4 },
+          { "topic": "Hypertropia", "rating": 3 }
+        ],
+
+        "Squint Investigations": [
+          { "topic": "Cover uncover test", "rating": 5 },
+          { "topic": "Prism bar cover test", "rating": 4 },
+          { "topic": "Synoptophore", "rating": 3 },
+          { "topic": "Forced duction test", "rating": 5 }
+        ],
+
+        "Paralytic Squint": [
+          { "topic": "CN III palsy", "rating": 5 },
+          { "topic": "CN IV palsy", "rating": 5 },
+          { "topic": "CN VI palsy", "rating": 5 },
+          { "topic": "Secondary greater than primary deviation", "rating": 5 },
+          { "topic": "Negative forced duction", "rating": 5 },
+          { "topic": "Cavernous sinus thrombosis", "rating": 4 }
+        ],
+
+
+        "Gaze Defects": [
+          { "topic": "Internuclear ophthalmoplegia", "rating": 4 },
+          { "topic": "One and half syndrome", "rating": 3 }
+        ],
+
+        "Restrictive Squint and Comitant Squint": [
+          { "topic": "Thyroid ophthalmopathy", "rating": 5 },
+          { "topic": "Restrictive squint", "rating": 4 },
+          { "topic": "Comitant squint", "rating": 4 }
+        ],
+
+        "Pseudo Strabismus and Ocular Myopathies": [
+          { "topic": "Pseudostrabismus", "rating": 3 },
+          { "topic": "Duane retraction syndrome", "rating": 4 },
+          { "topic": "Brown syndrome", "rating": 4 }
+        ]
+      },
+
+      "Lens": {
+
+        "Anatomy and Metabolism": [
+          { "topic": "Lens proteins", "rating": 3 },
+          { "topic": "Lens nutrition", "rating": 4 },
+          { "topic": "Accommodation", "rating": 5 }
+        ],
+
+        "Cataract": [
+          { "topic": "Senile cataract", "rating": 5 },
+          { "topic": "Congenital cataract", "rating": 4 },
+          { "topic": "Diabetic cataract", "rating": 4 },
+          { "topic": "Complicated cataract", "rating": 4 },
+          { "topic": "Traumatic cataract", "rating": 4 },
+          { "topic": "Posterior subcapsular cataract", "rating": 5 },
+          { "topic": "Nuclear sclerosis", "rating": 4 },
+          { "topic": "Cortical cataract", "rating": 4 }
+        ],
+
+        "Cataract Surgery": [
+          { "topic": "ECCE", "rating": 4 },
+          { "topic": "SICS", "rating": 4 },
+          { "topic": "Phacoemulsification", "rating": 5 },
+          { "topic": "Posterior capsular rupture", "rating": 5 },
+          { "topic": "Endophthalmitis", "rating": 5 },
+          { "topic": "Posterior capsular opacification", "rating": 4 },
+          { "topic": "YAG laser capsulotomy", "rating": 5 }
+        ],
+
+        "Ectopia Lentis": [
+          { "topic": "Marfan syndrome", "rating": 5 },
+          { "topic": "Homocystinuria", "rating": 5 },
+          { "topic": "Weill Marchesani syndrome", "rating": 3 }
+        ]
+      },
+
+      "Glaucoma": {
+
+        "Basics": [
+          { "topic": "Normal IOP", "rating": 5 },
+          { "topic": "Aqueous humor dynamics", "rating": 5 },
+          { "topic": "Optic disc cupping", "rating": 5 },
+          { "topic": "Cup disc ratio", "rating": 5 },
+          { "topic": "Gonioscopy", "rating": 5 }
+        ],
+
+        "Primary Open Angle Glaucoma": [
+          { "topic": "Risk factors", "rating": 5 },
+          { "topic": "Visual field defects", "rating": 5 },
+          { "topic": "Nasal step", "rating": 5 },
+          { "topic": "Arcuate scotoma", "rating": 5 },
+          { "topic": "Medical treatment", "rating": 5 }
+        ],
+
+        "Primary Angle Closure Glaucoma": [
+          { "topic": "Mid dilated pupil", "rating": 5 },
+          { "topic": "Painful red eye", "rating": 5 },
+          { "topic": "Acute angle closure", "rating": 5 },
+          { "topic": "Emergency management", "rating": 5 },
+          { "topic": "Laser peripheral iridotomy", "rating": 5 }
+        ],
+
+        "Secondary Glaucoma and Congenital Glaucoma": [
+          { "topic": "Steroid glaucoma", "rating": 4 },
+          { "topic": "Neovascular glaucoma", "rating": 4 },
+          { "topic": "Buphthalmos", "rating": 5 },
+          { "topic": "Haab striae", "rating": 4 }
+        ]
+      },
+
+      "Optics": {
+
+        "Refraction": [
+          { "topic": "Myopia", "rating": 5 },
+          { "topic": "Hypermetropia", "rating": 5 },
+          { "topic": "Astigmatism", "rating": 5 },
+          { "topic": "Presbyopia", "rating": 5 },
+          { "topic": "Aphakia", "rating": 5 }
+        ],
+
+        "How to Prescribe Glasses and Amblyopia": [
+          { "topic": "Concave lens", "rating": 5 },
+          { "topic": "Convex lens", "rating": 5 },
+          { "topic": "Cylindrical lens", "rating": 4 },
+          { "topic": "Jackson cross cylinder", "rating": 3 },
+          { "topic": "Amblyopia", "rating": 5 }
+        ],
+
+        "Binocular Errors": [
+          { "topic": "Accommodation spasm", "rating": 3 },
+          { "topic": "Spherical aberration", "rating": 3 }
+        ]
+      },
+
+      "Retina": {
+
+        "Anatomy and Investigation of Retina": [
+          { "topic": "Fundus examination", "rating": 5 },
+          { "topic": "FFA", "rating": 5 },
+          { "topic": "OCT", "rating": 5 },
+          { "topic": "Photostress test", "rating": 5 }
+        ],
+
+        "Retinopathies and Macular Disorders": [
+          { "topic": "Diabetic retinopathy", "rating": 5 },
+          { "topic": "NPDR vs PDR", "rating": 5 },
+          { "topic": "Hypertensive retinopathy", "rating": 5 },
+          { "topic": "ARMD", "rating": 5 },
+          { "topic": "Macular edema", "rating": 5 },
+          { "topic": "Hard exudates", "rating": 5 },
+          { "topic": "Cotton wool spots", "rating": 5 },
+          { "topic": "Drusen", "rating": 5 }
+        ],
+
+        "Retinal Vascular Disorders Part 1": [
+          { "topic": "CRAO", "rating": 5 },
+          { "topic": "CRVO", "rating": 5 },
+          { "topic": "Cherry red spot", "rating": 5 },
+          { "topic": "Roth spots", "rating": 4 }
+        ],
+
+        "Retinal Vascular Disorders Part 2": [
+          { "topic": "Retinal detachment", "rating": 5 },
+          { "topic": "Exudative retinal detachment", "rating": 5 },
+          { "topic": "Shifting fluid sign", "rating": 5 },
+          { "topic": "Retinitis pigmentosa", "rating": 4 },
+          { "topic": "CMV retinitis", "rating": 4 }
+        ]
+      },
+
+
+
+      "Cornea": {
+
+        "Special Investigations for Cornea": [
+          { "topic": "Fluorescein stain", "rating": 5 },
+          { "topic": "Keratometry", "rating": 4 },
+          { "topic": "Pachymetry", "rating": 3 },
+          { "topic": "Corneal topography", "rating": 5 }
+        ],
+
+        "Corneal Dystrophies and Degenerations": [
+          { "topic": "Keratoconus", "rating": 5 },
+          { "topic": "Corneal opacity", "rating": 4 },
+          { "topic": "Fuchs endothelial dystrophy", "rating": 4 },
+          { "topic": "Band shaped keratopathy", "rating": 3 }
+        ],
+
+        "Corneal Disorders Keratoconus and Miscellaneous Disorders": [
+          { "topic": "Corneal ulcer", "rating": 5 },
+          { "topic": "Fungal keratitis", "rating": 5 },
+          { "topic": "Satellite lesions", "rating": 5 },
+          { "topic": "HSV keratitis", "rating": 5 },
+          { "topic": "Dendritic ulcer", "rating": 5 },
+          { "topic": "Hypopyon ulcer", "rating": 5 },
+          { "topic": "Bacterial keratitis", "rating": 5 },
+          { "topic": "Acanthamoeba keratitis", "rating": 4 },
+          { "topic": "Corneal edema", "rating": 4 }
+        ]
+      },
+
+      "Uvea": {
+
+        "Anterior Uveitis": [
+          { "topic": "Anterior uveitis", "rating": 5 },
+          { "topic": "Painful photophobia", "rating": 5 },
+          { "topic": "Miosis", "rating": 5 },
+          { "topic": "Circumcorneal congestion", "rating": 5 },
+          { "topic": "Keratic precipitates", "rating": 5 },
+          { "topic": "Posterior synechiae", "rating": 5 }
+        ],
+
+        "Intermediate Posterior Pan Uveitis and Miscellaneous Disorders": [
+          { "topic": "Posterior uveitis", "rating": 4 },
+          { "topic": "Intermediate uveitis", "rating": 3 },
+          { "topic": "Pan uveitis", "rating": 4 },
+          { "topic": "Granulomatous uveitis", "rating": 4 },
+          { "topic": "Hypopyon", "rating": 4 },
+          { "topic": "HLA B27 association", "rating": 5 }
+        ]
+      },
+
+      "Conjunctiva": {
+
+        "Anatomy of Conjunctiva Types of Conjunctivitis and Pterygium": [
+          { "topic": "Viral conjunctivitis", "rating": 5 },
+          { "topic": "Bacterial conjunctivitis", "rating": 5 },
+          { "topic": "Allergic conjunctivitis", "rating": 5 },
+          { "topic": "Trachoma", "rating": 5 },
+          { "topic": "Pterygium", "rating": 4 },
+          { "topic": "Follicles vs papillae", "rating": 5 },
+          { "topic": "Giant papillary conjunctivitis", "rating": 5 },
+          { "topic": "Xerophthalmia", "rating": 5 },
+          { "topic": "Bitot spots", "rating": 5 }
+        ]
+      },
+
+      "Adnexa": {
+
+        "Eyelids Anatomy and Pathologies": [
+          { "topic": "Ptosis", "rating": 5 },
+          { "topic": "Chalazion", "rating": 5 },
+          { "topic": "Hordeolum", "rating": 4 },
+          { "topic": "Blepharitis", "rating": 4 },
+          { "topic": "Distichiasis", "rating": 5 },
+          { "topic": "Trichiasis", "rating": 4 },
+          { "topic": "Entropion", "rating": 4 },
+          { "topic": "Ectropion", "rating": 4 }
+        ],
+
+        "Anatomy of Orbit and Proptosis": [
+          { "topic": "Proptosis", "rating": 5 },
+          { "topic": "Grave ophthalmopathy", "rating": 5 },
+          { "topic": "Orbital cellulitis", "rating": 5 },
+          { "topic": "Cavernous sinus thrombosis", "rating": 4 }
+        ],
+
+        "Lacrimal Apparatus Anatomy Watering Eye and Dry Eye": [
+          { "topic": "Dacryocystitis", "rating": 5 },
+          { "topic": "NLD obstruction", "rating": 4 },
+          { "topic": "Dry eye syndrome", "rating": 5 },
+          { "topic": "Schirmer test", "rating": 5 }
+        ]
+      },
+
+      "Miscellaneous": {
+
+        "Ocular Trauma": [
+          { "topic": "Chemical injury", "rating": 5 },
+          { "topic": "Alkali injury", "rating": 5 },
+          { "topic": "Blowout fracture", "rating": 4 },
+          { "topic": "Sympathetic ophthalmia", "rating": 5 },
+          { "topic": "Hyphema", "rating": 4 },
+          { "topic": "Penetrating injury", "rating": 4 }
+        ],
+
+        "Community Ophthalmology": [
+          { "topic": "Vitamin A deficiency", "rating": 5 },
+          { "topic": "Avoidable blindness", "rating": 4 },
+          { "topic": "NPCB", "rating": 4 },
+          { "topic": "Childhood blindness", "rating": 4 }
+        ],
+
+        "Lasers in Ophthalmology": [
+          { "topic": "LASIK", "rating": 5 },
+          { "topic": "PRK", "rating": 4 },
+          { "topic": "YAG laser", "rating": 4 },
+          { "topic": "Laser peripheral iridotomy", "rating": 5 }
+        ],
+
+        "Physiology of Vision": [
+          { "topic": "Dark adaptation", "rating": 5 },
+          { "topic": "Phototransduction", "rating": 4 },
+          { "topic": "Purkinje shift", "rating": 4 },
+          { "topic": "Visual cycle", "rating": 4 },
+          { "topic": "Rods vs cones physiology", "rating": 5 }
+        ]
+      }   
+},
+
+
+    "PYQs": {
+
+      "Basic Anatomy of Eye": {
+
+        "Layers and Structure of Eyeball": [
+          {
+            "topic": "Corneal anatomy",
+            "question": "Most important refractive structure of eye?",
+            "answer": "Cornea"
+          },
+          {
+            "topic": "Retina anatomy",
+            "question": "Photoreceptors are located in which layer of retina?",
+            "answer": "Outer retina"
+          },
+          {
+            "topic": "Macula vs fovea",
+            "question": "Area of maximum visual acuity in retina?",
+            "answer": "Fovea"
+          },
+          {
+            "topic": "Central retinal artery",
+            "question": "Central retinal artery is a branch of?",
+            "answer": "Ophthalmic artery"
+          },
+          {
+            "topic": "Aqueous humor pathway",
+            "question": "Aqueous humor drains through?",
+            "answer": "Trabecular meshwork and Canal of Schlemm"
+          },
+          {
+            "topic": "LR6 SO4 AO3",
+            "question": "Lateral rectus muscle is supplied by which cranial nerve?",
+            "answer": "Abducens nerve"
+          }
+        ],
+
+        "Anatomy of Cornea and Sclera": [
+          {
+            "topic": "Corneal layers",
+            "question": "Strongest layer of cornea?",
+            "answer": "Descemet membrane"
+          },
+          {
+            "topic": "Corneal transparency",
+            "question": "Corneal transparency is maintained mainly by?",
+            "answer": "Endothelium"
+          },
+          {
+            "topic": "Corneal deturgescence",
+            "question": "Corneal dehydration is maintained by?",
+            "answer": "Corneal endothelium"
+          }
+        ],
+
+        "Anatomy of Uvea Accommodation with Anomalies": [
+          {
+            "topic": "Accommodation reflex",
+            "question": "Accommodation occurs by contraction of?",
+            "answer": "Ciliary muscle"
+          },
+          {
+            "topic": "Parasympathetic innervation",
+            "question": "Parasympathetic supply to ciliary muscle is through?",
+            "answer": "Oculomotor nerve"
+          }
+        ],
+
+        "Anatomy of Retina": [
+          {
+            "topic": "Rods vs cones",
+            "question": "Photoreceptors responsible for dim light vision?",
+            "answer": "Rods"
+          },
+          {
+            "topic": "Visual pigments",
+            "question": "Visual pigment present in rods?",
+            "answer": "Rhodopsin"
+          }
+        ]
+      },
+
+      "Neuro Ophthalmology": {
+
+        "Visual Pathway and Visual Field Defects": [
+          {
+            "topic": "Bitemporal hemianopia",
+            "question": "Pituitary tumor classically causes?",
+            "answer": "Bitemporal hemianopia"
+          },
+          {
+            "topic": "Homonymous hemianopia",
+            "question": "Optic tract lesion causes?",
+            "answer": "Homonymous hemianopia"
+          },
+          {
+            "topic": "Meyer's loop",
+            "question": "Temporal lobe lesion causes which field defect?",
+            "answer": "Superior quadrantanopia"
+          },
+          {
+            "topic": "Wernicke hemianopic pupil",
+            "question": "Wernicke pupil occurs in lesion of?",
+            "answer": "Optic tract"
+          },
+          {
+            "topic": "Marcus Gunn pupil",
+            "question": "Relative afferent pupillary defect is seen in?",
+            "answer": "Optic neuritis"
+          }
+        ],
+
+        "Pupillary Reflexes Light Reflex and Lesions": [
+          {
+            "topic": "Argyll Robertson pupil",
+            "question": "Argyll Robertson pupil is associated with?",
+            "answer": "Neurosyphilis"
+          },
+          {
+            "topic": "Horner syndrome",
+            "question": "Classic triad of Horner syndrome?",
+            "answer": "Ptosis miosis anhidrosis"
+          },
+          {
+            "topic": "Accommodation reflex",
+            "question": "Accommodation reflex is absent in?",
+            "answer": "Argyll Robertson pupil"
+          }
+        ],
+
+        "Optic Atrophy Optic Neuritis Optic Neuropathies and Papilledema": [
+          {
+            "topic": "Papilledema",
+            "question": "Most common cause of papilledema?",
+            "answer": "Raised intracranial pressure"
+          },
+          {
+            "topic": "Retrobulbar neuritis",
+            "question": "Patient sees nothing and doctor sees nothing in?",
+            "answer": "Retrobulbar neuritis"
+          },
+          {
+            "topic": "Papillitis",
+            "question": "Painful loss of vision with disc swelling occurs in?",
+            "answer": "Papillitis"
+          },
+          {
+            "topic": "Multiple sclerosis association",
+            "question": "Optic neuritis is commonly associated with?",
+            "answer": "Multiple sclerosis"
+          }
+        ],
+
+        "Congenital Anomalies of Optic Disc and Colour Blindness": [
+          {
+            "topic": "Ishihara chart",
+            "question": "Most commonly used chart for color blindness?",
+            "answer": "Ishihara chart"
+          },
+          {
+            "topic": "Red green colour blindness",
+            "question": "Most common inherited color blindness?",
+            "answer": "Red green color blindness"
+          }
+        ]
+      },
+
+      "Squint": {
+
+        "Extraocular Muscles and Binocular Single Vision": [
+          {
+            "topic": "Hering law",
+            "question": "Equal innervation to yoked muscles is described by?",
+            "answer": "Hering law"
+          },
+          {
+            "topic": "Cover test",
+            "question": "Most important test to detect squint?",
+            "answer": "Cover test"
+          },
+          {
+            "topic": "Hirschberg test",
+            "question": "Corneal light reflex test is?",
+            "answer": "Hirschberg test"
+          }
+        ],
+
+        "Squint Investigations": [
+          {
+            "topic": "Forced duction test",
+            "question": "Negative forced duction test indicates?",
+            "answer": "Paralytic squint"
+          }
+        ],
+
+        "Paralytic Squint": [
+          {
+            "topic": "CN VI palsy",
+            "question": "Most commonly affected cranial nerve in raised ICP?",
+            "answer": "Abducens nerve"
+          },
+          {
+            "topic": "CN III palsy",
+            "question": "Ptosis with dilated pupil suggests lesion of?",
+            "answer": "Oculomotor nerve"
+          },
+          {
+            "topic": "Secondary greater than primary deviation",
+            "question": "Secondary deviation greater than primary occurs in?",
+            "answer": "Paralytic squint"
+          }
+        ]
+      },
+
+
+
+      "Lens": {
+
+        "Anatomy and Metabolism": [
+          {
+            "topic": "Accommodation",
+            "question": "Loss of accommodation with age is called?",
+            "answer": "Presbyopia"
+          },
+          {
+            "topic": "Lens nutrition",
+            "question": "Lens receives nutrition mainly from?",
+            "answer": "Aqueous humor"
+          }
+        ],
+
+        "Cataract": [
+          {
+            "topic": "Senile cataract",
+            "question": "Most common type of cataract?",
+            "answer": "Senile cataract"
+          },
+          {
+            "topic": "Posterior subcapsular cataract",
+            "question": "Posterior subcapsular cataract is commonly associated with?",
+            "answer": "Steroid use"
+          },
+          {
+            "topic": "Diabetic cataract",
+            "question": "Snowflake cataract is seen in?",
+            "answer": "Diabetes mellitus"
+          },
+          {
+            "topic": "Traumatic cataract",
+            "question": "Rosette cataract is associated with?",
+            "answer": "Trauma"
+          }
+        ],
+
+        "Cataract Surgery": [
+          {
+            "topic": "Phacoemulsification",
+            "question": "Most commonly performed cataract surgery today?",
+            "answer": "Phacoemulsification"
+          },
+          {
+            "topic": "Posterior capsular rupture",
+            "question": "Most common serious intraoperative complication of cataract surgery?",
+            "answer": "Posterior capsular rupture"
+          },
+          {
+            "topic": "Endophthalmitis",
+            "question": "Most dreaded complication after cataract surgery?",
+            "answer": "Endophthalmitis"
+          },
+          {
+            "topic": "Posterior capsular opacification",
+            "question": "After cataract secondary membrane is treated with?",
+            "answer": "YAG laser capsulotomy"
+          }
+        ],
+
+        "Ectopia Lentis": [
+          {
+            "topic": "Marfan syndrome",
+            "question": "Lens subluxation upward occurs in?",
+            "answer": "Marfan syndrome"
+          },
+          {
+            "topic": "Homocystinuria",
+            "question": "Lens subluxation downward occurs in?",
+            "answer": "Homocystinuria"
+          }
+        ]
+      },
+
+      "Glaucoma": {
+
+        "Basics": [
+          {
+            "topic": "Normal IOP",
+            "question": "Normal intraocular pressure range?",
+            "answer": "10 to 21 mmHg"
+          },
+          {
+            "topic": "Gonioscopy",
+            "question": "Investigation used to assess angle of anterior chamber?",
+            "answer": "Gonioscopy"
+          },
+          {
+            "topic": "Cup disc ratio",
+            "question": "Increased cup disc ratio is seen in?",
+            "answer": "Glaucoma"
+          }
+        ],
+
+        "Primary Open Angle Glaucoma": [
+          {
+            "topic": "Visual field defects",
+            "question": "Earliest visual field defect in glaucoma?",
+            "answer": "Nasal step"
+          },
+          {
+            "topic": "Arcuate scotoma",
+            "question": "Bjerrum scotoma is seen in?",
+            "answer": "Primary open angle glaucoma"
+          },
+          {
+            "topic": "Medical treatment",
+            "question": "Drug increasing uveoscleral outflow?",
+            "answer": "Prostaglandin analogs"
+          }
+        ],
+
+        "Primary Angle Closure Glaucoma": [
+          {
+            "topic": "Mid dilated pupil",
+            "question": "Fixed mid dilated pupil is seen in?",
+            "answer": "Acute angle closure glaucoma"
+          },
+          {
+            "topic": "Painful red eye",
+            "question": "Halos around lights with severe eye pain suggest?",
+            "answer": "Angle closure glaucoma"
+          },
+          {
+            "topic": "Laser peripheral iridotomy",
+            "question": "Definitive treatment for angle closure glaucoma?",
+            "answer": "Laser peripheral iridotomy"
+          }
+        ],
+
+        "Secondary Glaucoma and Congenital Glaucoma": [
+          {
+            "topic": "Steroid glaucoma",
+            "question": "Most common drug induced glaucoma?",
+            "answer": "Steroid glaucoma"
+          },
+          {
+            "topic": "Buphthalmos",
+            "question": "Enlarged eyeball in infant is called?",
+            "answer": "Buphthalmos"
+          },
+          {
+            "topic": "Haab striae",
+            "question": "Haab striae are seen in?",
+            "answer": "Congenital glaucoma"
+          }
+        ]
+      },
+
+      "Optics": {
+
+        "Refraction": [
+          {
+            "topic": "Myopia",
+            "question": "Myopia is corrected using?",
+            "answer": "Concave lens"
+          },
+          {
+            "topic": "Hypermetropia",
+            "question": "Hypermetropia is corrected using?",
+            "answer": "Convex lens"
+          },
+          {
+            "topic": "Astigmatism",
+            "question": "Astigmatism is corrected using?",
+            "answer": "Cylindrical lens"
+          },
+          {
+            "topic": "Presbyopia",
+            "question": "Presbyopia occurs due to loss of?",
+            "answer": "Accommodation"
+          },
+          {
+            "topic": "Aphakia",
+            "question": "High hypermetropia occurs in?",
+            "answer": "Aphakia"
+          }
+        ],
+
+        "How to Prescribe Glasses and Amblyopia": [
+          {
+            "topic": "Amblyopia",
+            "question": "Most common cause of unilateral amblyopia in children?",
+            "answer": "Strabismus"
+          },
+          {
+            "topic": "Jackson cross cylinder",
+            "question": "Instrument used to refine cylindrical power?",
+            "answer": "Jackson cross cylinder"
+          }
+        ]
+      },
+
+      "Retina": {
+
+        "Anatomy and Investigation of Retina": [
+          {
+            "topic": "FFA",
+            "question": "Investigation used to assess retinal vasculature?",
+            "answer": "Fundus fluorescein angiography"
+          },
+          {
+            "topic": "OCT",
+            "question": "Best investigation for macular edema?",
+            "answer": "OCT"
+          },
+          {
+            "topic": "Photostress test",
+            "question": "Photostress recovery time is prolonged in?",
+            "answer": "Macular disease"
+          }
+        ],
+
+        "Retinopathies and Macular Disorders": [
+          {
+            "topic": "Diabetic retinopathy",
+            "question": "Most common cause of blindness in diabetics?",
+            "answer": "Diabetic retinopathy"
+          },
+          {
+            "topic": "NPDR vs PDR",
+            "question": "Neovascularization is characteristic of?",
+            "answer": "Proliferative diabetic retinopathy"
+          },
+          {
+            "topic": "Hypertensive retinopathy",
+            "question": "Copper wiring and AV nicking are seen in?",
+            "answer": "Hypertensive retinopathy"
+          },
+          {
+            "topic": "Drusen",
+            "question": "Drusen are characteristic of?",
+            "answer": "Age related macular degeneration"
+          }
+        ],
+
+        "Retinal Vascular Disorders Part 1": [
+          {
+            "topic": "CRAO",
+            "question": "Cherry red spot is classically seen in?",
+            "answer": "Central retinal artery occlusion"
+          },
+          {
+            "topic": "CRVO",
+            "question": "Blood and thunder appearance is seen in?",
+            "answer": "Central retinal vein occlusion"
+          }
+        ],
+
+        "Retinal Vascular Disorders Part 2": [
+          {
+            "topic": "Retinal detachment",
+            "question": "Flashes and floaters are symptoms of?",
+            "answer": "Retinal detachment"
+          },
+          {
+            "topic": "Retinitis pigmentosa",
+            "question": "Bone spicule pigmentation is seen in?",
+            "answer": "Retinitis pigmentosa"
+          },
+          {
+            "topic": "CMV retinitis",
+            "question": "Pizza pie retinopathy occurs in?",
+            "answer": "CMV retinitis"
+          }
+        ]
+      },
+
+
+
+      "Cornea": {
+
+        "Special Investigations for Cornea": [
+          {
+            "topic": "Fluorescein stain",
+            "question": "Dendritic ulcer is best visualized using?",
+            "answer": "Fluorescein stain"
+          },
+          {
+            "topic": "Keratometry",
+            "question": "Instrument used to measure corneal curvature?",
+            "answer": "Keratometer"
+          },
+          {
+            "topic": "Corneal topography",
+            "question": "Best investigation for keratoconus?",
+            "answer": "Corneal topography"
+          }
+        ],
+
+        "Corneal Dystrophies and Degenerations": [
+          {
+            "topic": "Keratoconus",
+            "question": "Conical protrusion of cornea is called?",
+            "answer": "Keratoconus"
+          },
+          {
+            "topic": "Fuchs endothelial dystrophy",
+            "question": "Corneal guttata are seen in?",
+            "answer": "Fuchs endothelial dystrophy"
+          },
+          {
+            "topic": "Band shaped keratopathy",
+            "question": "Calcium deposition in cornea causes?",
+            "answer": "Band shaped keratopathy"
+          }
+        ],
+
+        "Corneal Disorders Keratoconus and Miscellaneous Disorders": [
+          {
+            "topic": "Corneal ulcer",
+            "question": "Most common symptom of corneal ulcer?",
+            "answer": "Pain"
+          },
+          {
+            "topic": "Fungal keratitis",
+            "question": "Satellite lesions are seen in?",
+            "answer": "Fungal keratitis"
+          },
+          {
+            "topic": "HSV keratitis",
+            "question": "Dendritic ulcer is caused by?",
+            "answer": "Herpes simplex virus"
+          },
+          {
+            "topic": "Dendritic ulcer",
+            "question": "Topical steroids are contraindicated in?",
+            "answer": "Dendritic ulcer"
+          },
+          {
+            "topic": "Hypopyon ulcer",
+            "question": "Most common organism causing hypopyon corneal ulcer?",
+            "answer": "Pneumococcus"
+          },
+          {
+            "topic": "Acanthamoeba keratitis",
+            "question": "Severe pain with contact lens use suggests?",
+            "answer": "Acanthamoeba keratitis"
+          }
+        ]
+      },
+
+      "Uvea": {
+
+        "Anterior Uveitis": [
+          {
+            "topic": "Anterior uveitis",
+            "question": "Most common type of uveitis?",
+            "answer": "Anterior uveitis"
+          },
+          {
+            "topic": "Painful photophobia",
+            "question": "Painful photophobia is characteristic of?",
+            "answer": "Anterior uveitis"
+          },
+          {
+            "topic": "Miosis",
+            "question": "Small irregular pupil is seen in?",
+            "answer": "Anterior uveitis"
+          },
+          {
+            "topic": "Posterior synechiae",
+            "question": "Adhesion between iris and lens is called?",
+            "answer": "Posterior synechiae"
+          }
+        ],
+
+        "Intermediate Posterior Pan Uveitis and Miscellaneous Disorders": [
+          {
+            "topic": "Granulomatous uveitis",
+            "question": "Mutton fat keratic precipitates are seen in?",
+            "answer": "Granulomatous uveitis"
+          },
+          {
+            "topic": "HLA B27 association",
+            "question": "Acute anterior uveitis is strongly associated with?",
+            "answer": "HLA B27"
+          }
+        ]
+      },
+
+      "Conjunctiva": {
+
+        "Anatomy of Conjunctiva Types of Conjunctivitis and Pterygium": [
+          {
+            "topic": "Viral conjunctivitis",
+            "question": "Most common cause of viral conjunctivitis?",
+            "answer": "Adenovirus"
+          },
+          {
+            "topic": "Bacterial conjunctivitis",
+            "question": "Hyperacute conjunctivitis is commonly caused by?",
+            "answer": "Gonococcus"
+          },
+          {
+            "topic": "Allergic conjunctivitis",
+            "question": "Itching is most characteristic symptom of?",
+            "answer": "Allergic conjunctivitis"
+          },
+          {
+            "topic": "Trachoma",
+            "question": "Trachoma is caused by?",
+            "answer": "Chlamydia trachomatis"
+          },
+          {
+            "topic": "Pterygium",
+            "question": "Wing shaped fibrovascular tissue over cornea is?",
+            "answer": "Pterygium"
+          },
+          {
+            "topic": "Bitot spots",
+            "question": "Bitot spots occur due to deficiency of?",
+            "answer": "Vitamin A"
+          },
+          {
+            "topic": "Follicles vs papillae",
+            "question": "Follicles are classically seen in?",
+            "answer": "Viral conjunctivitis"
+          }
+        ]
+      },
+
+      "Adnexa": {
+
+        "Eyelids Anatomy and Pathologies": [
+          {
+            "topic": "Ptosis",
+            "question": "Drooping of upper eyelid is called?",
+            "answer": "Ptosis"
+          },
+          {
+            "topic": "Chalazion",
+            "question": "Chronic lipogranulomatous inflammation of meibomian gland is?",
+            "answer": "Chalazion"
+          },
+          {
+            "topic": "Hordeolum",
+            "question": "Acute staphylococcal infection of eyelash follicle is?",
+            "answer": "Hordeolum externum"
+          },
+          {
+            "topic": "Blepharitis",
+            "question": "Inflammation of eyelid margin is?",
+            "answer": "Blepharitis"
+          },
+          {
+            "topic": "Trichiasis",
+            "question": "Misdirected eyelashes rubbing cornea is?",
+            "answer": "Trichiasis"
+          }
+        ],
+
+        "Anatomy of Orbit and Proptosis": [
+          {
+            "topic": "Proptosis",
+            "question": "Most common cause of bilateral proptosis in adults?",
+            "answer": "Thyroid eye disease"
+          },
+          {
+            "topic": "Orbital cellulitis",
+            "question": "Painful proptosis with fever suggests?",
+            "answer": "Orbital cellulitis"
+          },
+          {
+            "topic": "Grave ophthalmopathy",
+            "question": "Most common cause of unilateral proptosis in adults?",
+            "answer": "Thyroid ophthalmopathy"
+          }
+        ],
+
+        "Lacrimal Apparatus Anatomy Watering Eye and Dry Eye": [
+          {
+            "topic": "Dacryocystitis",
+            "question": "Regurgitation on pressure over lacrimal sac indicates?",
+            "answer": "Dacryocystitis"
+          },
+          {
+            "topic": "Schirmer test",
+            "question": "Schirmer test is used to diagnose?",
+            "answer": "Dry eye"
+          },
+          {
+            "topic": "Dry eye syndrome",
+            "question": "Most common symptom of dry eye?",
+            "answer": "Foreign body sensation"
+          }
+        ]
+      },
+
+      "Miscellaneous": {
+
+        "Ocular Trauma": [
+          {
+            "topic": "Chemical injury",
+            "question": "Most dangerous ocular chemical injury?",
+            "answer": "Alkali injury"
+          },
+          {
+            "topic": "Blowout fracture",
+            "question": "Most commonly fractured wall in orbital blowout fracture?",
+            "answer": "Orbital floor"
+          },
+          {
+            "topic": "Sympathetic ophthalmia",
+            "question": "Bilateral granulomatous panuveitis after trauma is?",
+            "answer": "Sympathetic ophthalmia"
+          },
+          {
+            "topic": "Hyphema",
+            "question": "Blood in anterior chamber is called?",
+            "answer": "Hyphema"
+          }
+        ],
+
+        "Community Ophthalmology": [
+          {
+            "topic": "Vitamin A deficiency",
+            "question": "Earliest ocular manifestation of vitamin A deficiency?",
+            "answer": "Night blindness"
+          },
+          {
+            "topic": "NPCB",
+            "question": "NPCB stands for?",
+            "answer": "National Programme for Control of Blindness"
+          }
+        ],
+
+        "Lasers in Ophthalmology": [
+          {
+            "topic": "LASIK",
+            "question": "Most common refractive surgery for myopia?",
+            "answer": "LASIK"
+          },
+          {
+            "topic": "YAG laser",
+            "question": "Posterior capsular opacification is treated using?",
+            "answer": "YAG laser capsulotomy"
+          },
+          {
+            "topic": "Laser peripheral iridotomy",
+            "question": "Laser peripheral iridotomy is done in?",
+            "answer": "Angle closure glaucoma"
+          }
+        ],
+
+        "Physiology of Vision": [
+          {
+            "topic": "Dark adaptation",
+            "question": "Dark adaptation is mediated mainly by?",
+            "answer": "Rods"
+          },
+          {
+            "topic": "Phototransduction",
+            "question": "Visual pigment bleaching occurs in?",
+            "answer": "Phototransduction"
+          },
+          {
+            "topic": "Purkinje shift",
+            "question": "Shift of maximal visual sensitivity in dim light is called?",
+            "answer": "Purkinje shift"
+          },
+          {
+            "topic": "Rods vs cones physiology",
+            "question": "Color vision is mediated mainly by?",
+            "answer": "Cones"
+          }
+        ]
+      }
+    }
+  }
+}

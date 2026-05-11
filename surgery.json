@@ -1,0 +1,1913 @@
+{
+
+"Surgery": {
+    "PYTs": {
+
+      "General Surgery": {
+        "Patient Safety, OT Zones and Surgery Positions": [
+          { "topic": "OT zones", "rating": 3 },
+          { "topic": "Sterilization methods", "rating": 4 },
+          { "topic": "Biomedical waste segregation", "rating": 3 },
+          { "topic": "WHO surgical safety checklist", "rating": 3 },
+          { "topic": "Patient positioning complications", "rating": 3 },
+          { "topic": "DVT prophylaxis", "rating": 4 }
+        ],
+
+        "Surgical Blades and Energy Sources": [
+          { "topic": "Blade no 10", "rating": 4 },
+          { "topic": "Blade no 11", "rating": 5 },
+          { "topic": "Blade no 15", "rating": 4 },
+          { "topic": "Electrocautery", "rating": 5 },
+          { "topic": "Monopolar vs bipolar cautery", "rating": 4 },
+          { "topic": "Harmonic scalpel", "rating": 3 },
+          { "topic": "Laser surgery basics", "rating": 2 }
+        ],
+
+        "Surgical Drains, Knots and Sutures": [
+          { "topic": "Vicryl", "rating": 5 },
+          { "topic": "Prolene", "rating": 5 },
+          { "topic": "Catgut", "rating": 4 },
+          { "topic": "Absorbable vs nonabsorbable sutures", "rating": 5 },
+          { "topic": "Monofilament vs braided sutures", "rating": 4 },
+          { "topic": "Romovac drain", "rating": 3 },
+          { "topic": "Corrugated drain", "rating": 3 },
+          { "topic": "Surgical knots", "rating": 3 }
+        ],
+
+        "Post-operative Fever and Wound Infection": [
+          { "topic": "5 Ws of postoperative fever", "rating": 5 },
+          { "topic": "Atelectasis", "rating": 5 },
+          { "topic": "Surgical site infection classification", "rating": 5 },
+          { "topic": "Wound healing phases", "rating": 5 },
+          { "topic": "Factors affecting wound healing", "rating": 5 },
+          { "topic": "Burst abdomen", "rating": 5 },
+          { "topic": "Keloid vs hypertrophic scar", "rating": 5 },
+          { "topic": "Sinus vs fistula", "rating": 4 },
+          { "topic": "Necrotizing fasciitis", "rating": 4 },
+          { "topic": "Fournier gangrene", "rating": 4 }
+        ],
+
+        "Day Care Surgery": [
+          { "topic": "Criteria for day care surgery", "rating": 3 },
+          { "topic": "Contraindications for day care surgery", "rating": 2 },
+          { "topic": "Advantages of day care surgery", "rating": 2 }
+        ],
+
+        "Surgical Nutrition": [
+          { "topic": "Enteral vs parenteral nutrition", "rating": 5 },
+          { "topic": "TPN indications", "rating": 5 },
+          { "topic": "TPN complications", "rating": 4 },
+          { "topic": "Refeeding syndrome", "rating": 4 },
+          { "topic": "Nitrogen balance", "rating": 3 },
+          { "topic": "Albumin and prealbumin", "rating": 3 }
+        ],
+
+        "Shock : Part 1": [
+          { "topic": "Hypovolemic shock", "rating": 5 },
+          { "topic": "Cardiogenic shock", "rating": 4 },
+          { "topic": "Neurogenic shock", "rating": 4 },
+          { "topic": "Stages of shock", "rating": 4 }
+        ],
+
+        "Shock : Part 2": [
+          { "topic": "Septic shock", "rating": 5 },
+          { "topic": "Fluid resuscitation", "rating": 5 },
+          { "topic": "Vasopressors", "rating": 4 },
+          { "topic": "MODS", "rating": 4 },
+          { "topic": "SIRS criteria", "rating": 4 }
+        ]
+      },
+
+
+
+      "Breast": {
+        "Breast : Part 1": [
+          { "topic": "Fibroadenoma", "rating": 5 },
+          { "topic": "Fibrocystic disease", "rating": 5 },
+          { "topic": "ANDI classification", "rating": 4 },
+          { "topic": "Mastalgia", "rating": 3 }
+        ],
+
+        "Breast : Part 2": [
+          { "topic": "Intraductal papilloma", "rating": 4 },
+          { "topic": "Nipple discharge", "rating": 4 },
+          { "topic": "Phyllodes tumor", "rating": 4 }
+        ],
+
+        "Breast : Part 3": [
+          { "topic": "IDC", "rating": 5 },
+          { "topic": "Peau d’orange", "rating": 5 },
+          { "topic": "Paget disease nipple", "rating": 5 },
+          { "topic": "Breast conserving surgery", "rating": 5 }
+        ],
+
+        "Breast : Part 4": [
+          { "topic": "Modified radical mastectomy", "rating": 5 },
+          { "topic": "Sentinel lymph node biopsy", "rating": 5 },
+          { "topic": "Triple assessment", "rating": 5 },
+          { "topic": "BI-RADS", "rating": 5 }
+        ],
+
+        "Breast : Part 5": [
+          { "topic": "Triple negative breast cancer", "rating": 5 },
+          { "topic": "HER2 positive carcinoma", "rating": 4 },
+          { "topic": "BRCA1 and BRCA2", "rating": 4 },
+          { "topic": "Microcalcifications", "rating": 4 }
+        ]
+      },
+
+
+
+      "Endocrine System": {
+        "Thyroid : Part 1": [
+          { "topic": "Solitary thyroid nodule", "rating": 5 },
+          { "topic": "FNAC thyroid", "rating": 5 },
+          { "topic": "Bethesda classification", "rating": 5 },
+          { "topic": "Thyroglossal cyst", "rating": 5 }
+        ],
+
+        "Thyroid : Part 2": [
+          { "topic": "Papillary carcinoma thyroid", "rating": 5 },
+          { "topic": "Follicular carcinoma thyroid", "rating": 5 },
+          { "topic": "Medullary carcinoma thyroid", "rating": 5 },
+          { "topic": "Anaplastic carcinoma thyroid", "rating": 4 },
+          { "topic": "Psammoma bodies", "rating": 5 },
+          { "topic": "Orphan Annie nuclei", "rating": 5 }
+        ],
+
+        "Thyroid : Part 3": [
+          { "topic": "Recurrent laryngeal nerve injury", "rating": 5 },
+          { "topic": "Hypocalcemia after thyroidectomy", "rating": 5 },
+          { "topic": "Chvostek sign", "rating": 4 },
+          { "topic": "Trousseau sign", "rating": 4 },
+          { "topic": "Retrosternal goiter", "rating": 4 },
+          { "topic": "Thyroid storm", "rating": 4 }
+        ],
+
+        "Parathyroid": [
+          { "topic": "Hyperparathyroidism", "rating": 5 },
+          { "topic": "Hypercalcemia", "rating": 5 },
+          { "topic": "Brown tumor", "rating": 4 },
+          { "topic": "Sestamibi scan", "rating": 4 },
+          { "topic": "Hungry bone syndrome", "rating": 4 }
+        ],
+
+        "Adrenal Glands and Neuroendocrine Tumors": [
+          { "topic": "Pheochromocytoma", "rating": 5 },
+          { "topic": "Rule of 10s", "rating": 5 },
+          { "topic": "Plasma metanephrines", "rating": 5 },
+          { "topic": "Phenoxybenzamine", "rating": 5 },
+          { "topic": "Conn syndrome", "rating": 4 },
+          { "topic": "Cushing syndrome", "rating": 4 },
+          { "topic": "MEN1 syndrome", "rating": 5 },
+          { "topic": "MEN2A syndrome", "rating": 5 },
+          { "topic": "RET mutation", "rating": 5 },
+          { "topic": "Gastrinoma", "rating": 5 },
+          { "topic": "Insulinoma", "rating": 4 }
+        ]
+      },
+
+
+      "Gastrointestinal and Abdominal Surgery": {
+
+        "Esophagus : Part 1": [
+          { "topic": "Achalasia cardia", "rating": 5 },
+          { "topic": "Bird beak appearance", "rating": 5 },
+          { "topic": "LES dysfunction", "rating": 4 },
+          { "topic": "Pseudoachalasia", "rating": 3 }
+        ],
+
+        "Esophagus : Part 2": [
+          { "topic": "Barrett esophagus", "rating": 5 },
+          { "topic": "GERD complications", "rating": 5 },
+          { "topic": "Esophageal carcinoma", "rating": 5 },
+          { "topic": "Squamous cell carcinoma esophagus", "rating": 4 },
+          { "topic": "Adenocarcinoma esophagus", "rating": 4 }
+        ],
+
+        "Esophagus : Part 3": [
+          { "topic": "Boerhaave syndrome", "rating": 4 },
+          { "topic": "Mallory-Weiss tear", "rating": 5 },
+          { "topic": "Zenker diverticulum", "rating": 4 },
+          { "topic": "Dohlman procedure", "rating": 3 }
+        ],
+
+        "Stomach : Part 1": [
+          { "topic": "Peptic ulcer disease", "rating": 5 },
+          { "topic": "H pylori", "rating": 5 },
+          { "topic": "Duodenal ulcer", "rating": 5 },
+          { "topic": "Gastric ulcer", "rating": 5 }
+        ],
+
+        "Stomach : Part 2": [
+          { "topic": "Gastric carcinoma", "rating": 5 },
+          { "topic": "Linitis plastica", "rating": 4 },
+          { "topic": "Virchow node", "rating": 5 },
+          { "topic": "Sister Mary Joseph nodule", "rating": 4 },
+          { "topic": "Krukenberg tumor", "rating": 4 }
+        ],
+
+        "Stomach : Part 3": [
+          { "topic": "Zollinger-Ellison syndrome", "rating": 5 },
+          { "topic": "Menetrier disease", "rating": 3 },
+          { "topic": "Gastric outlet obstruction", "rating": 4 },
+          { "topic": "Types of vagotomy", "rating": 4 }
+        ],
+
+        "Upper GI Hemorrhage": [
+          { "topic": "Variceal bleed", "rating": 5 },
+          { "topic": "Sengstaken-Blakemore tube", "rating": 5 },
+          { "topic": "Rockall score", "rating": 4 },
+          { "topic": "Hematemesis causes", "rating": 5 }
+        ],
+
+        "Bariatric Surgery": [
+          { "topic": "Sleeve gastrectomy", "rating": 4 },
+          { "topic": "Roux-en-Y gastric bypass", "rating": 4 },
+          { "topic": "BMI criteria", "rating": 4 },
+          { "topic": "Dumping syndrome", "rating": 3 }
+        ],
+
+        "Bowel Obstruction : Part 1": [
+          { "topic": "Small bowel obstruction", "rating": 5 },
+          { "topic": "Air fluid levels", "rating": 5 },
+          { "topic": "Strangulation obstruction", "rating": 5 },
+          { "topic": "Adhesions", "rating": 4 }
+        ],
+
+        "Bowel Obstruction : Part 2": [
+          { "topic": "Large bowel obstruction", "rating": 4 },
+          { "topic": "Volvulus", "rating": 4 },
+          { "topic": "Sigmoid volvulus", "rating": 4 },
+          { "topic": "Intussusception", "rating": 4 }
+        ],
+
+        "Benign Conditions of Small and Large Bowel": [
+          { "topic": "Meckel diverticulum", "rating": 5 },
+          { "topic": "Rule of 2s", "rating": 5 },
+          { "topic": "Crohn disease", "rating": 5 },
+          { "topic": "Ulcerative colitis", "rating": 5 },
+          { "topic": "Toxic megacolon", "rating": 5 },
+          { "topic": "Hirschsprung disease", "rating": 4 }
+        ],
+
+        "Appendix": [
+          { "topic": "Acute appendicitis", "rating": 5 },
+          { "topic": "McBurney point", "rating": 5 },
+          { "topic": "Rovsing sign", "rating": 5 },
+          { "topic": "Psoas sign", "rating": 4 },
+          { "topic": "Obturator sign", "rating": 4 },
+          { "topic": "Alvarado score", "rating": 5 },
+          { "topic": "Appendicular mass", "rating": 4 }
+        ],
+
+        "Colorectal Polyps and Cancer : Part 1": [
+          { "topic": "FAP", "rating": 5 },
+          { "topic": "HNPCC", "rating": 5 },
+          { "topic": "Duke staging", "rating": 5 },
+          { "topic": "TNM staging", "rating": 5 }
+        ],
+
+        "Colorectal Polyps and Cancer : Part 2": [
+          { "topic": "Apple core lesion", "rating": 5 },
+          { "topic": "Rectal carcinoma", "rating": 5 },
+          { "topic": "CEA marker", "rating": 4 },
+          { "topic": "Familial polyposis syndromes", "rating": 4 }
+        ],
+
+        "Rectum and Anal Canal": [
+          { "topic": "Hemorrhoids", "rating": 5 },
+          { "topic": "Internal hemorrhoids", "rating": 5 },
+          { "topic": "External hemorrhoids", "rating": 4 },
+          { "topic": "Fissure in ano", "rating": 5 },
+          { "topic": "Fistula in ano", "rating": 5 },
+          { "topic": "Goodsall rule", "rating": 5 },
+          { "topic": "Pilonidal sinus", "rating": 4 },
+          { "topic": "Rectal prolapse", "rating": 4 },
+          { "topic": "Thiersch wiring", "rating": 3 }
+        ],
+
+        "Liver : Part 1": [
+          { "topic": "Liver abscess", "rating": 5 },
+          { "topic": "Amoebic liver abscess", "rating": 5 },
+          { "topic": "Pyogenic liver abscess", "rating": 4 },
+          { "topic": "Hydatid cyst", "rating": 4 }
+        ],
+
+        "Liver : Part 2": [
+          { "topic": "Hepatocellular carcinoma", "rating": 5 },
+          { "topic": "Child-Pugh score", "rating": 5 },
+          { "topic": "Portal hypertension", "rating": 5 },
+          { "topic": "Segmental anatomy liver", "rating": 4 }
+        ],
+
+        "Spleen": [
+          { "topic": "Splenic injury", "rating": 4 },
+          { "topic": "Hypersplenism", "rating": 4 },
+          { "topic": "Splenectomy indications", "rating": 4 },
+          { "topic": "Overwhelming post splenectomy infection", "rating": 4 }
+        ],
+
+        "Gall Bladder and Bile Ducts : Part 1": [
+          { "topic": "Cholelithiasis", "rating": 5 },
+          { "topic": "Acute cholecystitis", "rating": 5 },
+          { "topic": "Murphy sign", "rating": 5 },
+          { "topic": "Courvoisier sign", "rating": 5 }
+        ],
+
+        "Gall Bladder and Bile Ducts : Part 2": [
+          { "topic": "Choledochal cyst", "rating": 5 },
+          { "topic": "Mirizzi syndrome", "rating": 4 },
+          { "topic": "Charcot triad", "rating": 5 },
+          { "topic": "Reynolds pentad", "rating": 5 },
+          { "topic": "Gallbladder carcinoma", "rating": 4 }
+        ],
+
+        "Benign Pancreatic Conditions": [
+          { "topic": "Acute pancreatitis", "rating": 5 },
+          { "topic": "Ranson criteria", "rating": 5 },
+          { "topic": "Modified Atlanta classification", "rating": 5 },
+          { "topic": "Pseudocyst pancreas", "rating": 5 },
+          { "topic": "Chronic pancreatitis", "rating": 4 }
+        ],
+
+        "Pancreatic Tumor": [
+          { "topic": "Carcinoma pancreas", "rating": 5 },
+          { "topic": "Double duct sign", "rating": 4 },
+          { "topic": "Whipple procedure", "rating": 5 },
+          { "topic": "CA 19-9", "rating": 4 }
+        ]
+      },
+
+
+
+      "Hernia": {
+
+        "Hernia : Part 1": [
+          { "topic": "Indirect inguinal hernia", "rating": 5 },
+          { "topic": "Direct inguinal hernia", "rating": 5 },
+          { "topic": "Inferior epigastric vessels relation", "rating": 5 },
+          { "topic": "Hesselbach triangle", "rating": 5 },
+          { "topic": "Deep inguinal ring", "rating": 4 },
+          { "topic": "Superficial inguinal ring", "rating": 4 },
+          { "topic": "Congenital hernia", "rating": 4 },
+          { "topic": "Acquired hernia", "rating": 3 },
+          { "topic": "Sliding hernia", "rating": 4 },
+          { "topic": "Richter hernia", "rating": 5 },
+          { "topic": "Littre hernia", "rating": 4 },
+          { "topic": "Amyand hernia", "rating": 4 }
+        ],
+
+        "Hernia : Part 2": [
+          { "topic": "Femoral hernia", "rating": 5 },
+          { "topic": "Obturator hernia", "rating": 3 },
+          { "topic": "Incisional hernia", "rating": 4 },
+          { "topic": "Umbilical hernia", "rating": 4 },
+          { "topic": "Strangulated hernia", "rating": 5 },
+          { "topic": "Obstructed hernia", "rating": 4 },
+          { "topic": "Lichtenstein repair", "rating": 5 },
+          { "topic": "Bassini repair", "rating": 5 },
+          { "topic": "Shouldice repair", "rating": 3 },
+          { "topic": "Mesh repair", "rating": 5 },
+          { "topic": "TEP repair", "rating": 4 },
+          { "topic": "TAPP repair", "rating": 4 }
+        ]
+      },
+
+
+
+      "Vascular Surgery": {
+
+        "Venous Thrombosis": [
+          { "topic": "Deep vein thrombosis", "rating": 5 },
+          { "topic": "Virchow triad", "rating": 5 },
+          { "topic": "Wells score", "rating": 4 },
+          { "topic": "Pulmonary embolism", "rating": 5 },
+          { "topic": "Compression ultrasound", "rating": 5 },
+          { "topic": "D-dimer", "rating": 4 },
+          { "topic": "Anticoagulation therapy", "rating": 5 },
+          { "topic": "IVC filter", "rating": 3 },
+          { "topic": "Phlegmasia cerulea dolens", "rating": 3 }
+        ],
+
+        "Varicose Veins": [
+          { "topic": "Varicose veins", "rating": 5 },
+          { "topic": "Saphenofemoral junction", "rating": 5 },
+          { "topic": "Trendelenburg test", "rating": 5 },
+          { "topic": "Perthes test", "rating": 4 },
+          { "topic": "Venous ulcer", "rating": 5 },
+          { "topic": "Chronic venous insufficiency", "rating": 4 },
+          { "topic": "Great saphenous vein", "rating": 4 },
+          { "topic": "Sclerotherapy", "rating": 3 }
+        ],
+
+        "Arterial System : Part 1": [
+          { "topic": "Peripheral arterial disease", "rating": 5 },
+          { "topic": "Intermittent claudication", "rating": 5 },
+          { "topic": "Ankle brachial index", "rating": 5 },
+          { "topic": "Buerger disease", "rating": 5 },
+          { "topic": "Raynaud disease", "rating": 4 },
+          { "topic": "Atherosclerosis", "rating": 4 }
+        ],
+
+        "Arterial System : Part 2": [
+          { "topic": "Acute limb ischemia", "rating": 5 },
+          { "topic": "6 Ps of ischemia", "rating": 5 },
+          { "topic": "Leriche syndrome", "rating": 5 },
+          { "topic": "Aortic aneurysm", "rating": 4 },
+          { "topic": "Aortic dissection", "rating": 4 },
+          { "topic": "Compartment syndrome", "rating": 4 },
+          { "topic": "Fasciotomy", "rating": 4 }
+        ],
+
+        "Lymphatic System": [
+          { "topic": "Lymphedema", "rating": 4 },
+          { "topic": "Primary lymphedema", "rating": 3 },
+          { "topic": "Secondary lymphedema", "rating": 4 },
+          { "topic": "Filariasis", "rating": 4 },
+          { "topic": "Elephantiasis", "rating": 4 },
+          { "topic": "Sentinel lymph node", "rating": 5 },
+          { "topic": "Lymphatic spread of malignancy", "rating": 4 }
+        ]
+      },
+
+
+
+      "Faciomaxillary Surgery": {
+
+        "Oral Cancers": [
+          { "topic": "Oral squamous cell carcinoma", "rating": 5 },
+          { "topic": "Leukoplakia", "rating": 5 },
+          { "topic": "Erythroplakia", "rating": 4 },
+          { "topic": "Oral submucous fibrosis", "rating": 5 },
+          { "topic": "Lateral border tongue carcinoma", "rating": 5 },
+          { "topic": "Tobacco-related oral cancer", "rating": 5 },
+          { "topic": "TNM staging oral cancer", "rating": 4 },
+          { "topic": "Cervical lymph node metastasis", "rating": 4 }
+        ],
+
+        "Salivary Glands": [
+          { "topic": "Pleomorphic adenoma", "rating": 5 },
+          { "topic": "Warthin tumor", "rating": 4 },
+          { "topic": "Mucoepidermoid carcinoma", "rating": 5 },
+          { "topic": "Parotid tumor", "rating": 5 },
+          { "topic": "Frey syndrome", "rating": 4 },
+          { "topic": "Facial nerve injury", "rating": 5 },
+          { "topic": "Sialadenitis", "rating": 3 },
+          { "topic": "Ranula", "rating": 3 }
+        ]
+      },
+
+
+
+      "Miscellaneous": {
+
+        "Skin Tumors and Soft Tissue Sarcomas": [
+          { "topic": "Basal cell carcinoma", "rating": 5 },
+          { "topic": "Squamous cell carcinoma skin", "rating": 5 },
+          { "topic": "Melanoma", "rating": 5 },
+          { "topic": "ABCDE criteria melanoma", "rating": 5 },
+          { "topic": "Marjolin ulcer", "rating": 4 },
+          { "topic": "Soft tissue sarcoma", "rating": 4 },
+          { "topic": "Liposarcoma", "rating": 3 },
+          { "topic": "Rhabdomyosarcoma", "rating": 3 },
+          { "topic": "Dermatofibrosarcoma protuberans", "rating": 2 }
+        ],
+
+        "Thorax and Mediastinum": [
+          { "topic": "Mediastinal masses", "rating": 4 },
+          { "topic": "Anterior mediastinal mass", "rating": 4 },
+          { "topic": "Thymoma", "rating": 4 },
+          { "topic": "Neurogenic tumor", "rating": 3 },
+          { "topic": "Superior mediastinal syndrome", "rating": 4 },
+          { "topic": "Mediastinitis", "rating": 3 }
+        ],
+
+        "Common Surgical Swellings": [
+          { "topic": "Lipoma", "rating": 5 },
+          { "topic": "Sebaceous cyst", "rating": 5 },
+          { "topic": "Dermoid cyst", "rating": 4 },
+          { "topic": "Ganglion cyst", "rating": 3 },
+          { "topic": "Branchial cyst", "rating": 5 },
+          { "topic": "Cystic hygroma", "rating": 4 }
+        ],
+
+        "Common Ulcers": [
+          { "topic": "Venous ulcer", "rating": 5 },
+          { "topic": "Arterial ulcer", "rating": 5 },
+          { "topic": "Diabetic ulcer", "rating": 5 },
+          { "topic": "Trophic ulcer", "rating": 4 },
+          { "topic": "Marjolin ulcer", "rating": 4 },
+          { "topic": "Pressure sore", "rating": 4 }
+        ],
+
+        "Surgical Instruments": [
+          { "topic": "Artery forceps", "rating": 5 },
+          { "topic": "Kocher forceps", "rating": 5 },
+          { "topic": "Babcock forceps", "rating": 5 },
+          { "topic": "Allis forceps", "rating": 5 },
+          { "topic": "Mayo scissors", "rating": 4 },
+          { "topic": "Metzenbaum scissors", "rating": 4 },
+          { "topic": "Langenbeck retractor", "rating": 4 },
+          { "topic": "Morris retractor", "rating": 3 },
+          { "topic": "Needle holder", "rating": 4 },
+          { "topic": "Towel clip", "rating": 3 }
+        ]
+      },
+
+
+
+      "Urology": {
+
+        "Testicular Disorders : Part 1": [
+          { "topic": "Torsion testis", "rating": 5 },
+          { "topic": "Bell clapper deformity", "rating": 4 },
+          { "topic": "Acute scrotum", "rating": 5 },
+          { "topic": "Cremasteric reflex absence", "rating": 5 },
+          { "topic": "Orchidopexy", "rating": 4 },
+          { "topic": "Epididymo-orchitis", "rating": 4 },
+          { "topic": "Prehn sign", "rating": 4 }
+        ],
+
+        "Testicular Disorders : Part 2": [
+          { "topic": "Seminoma", "rating": 5 },
+          { "topic": "Nonseminomatous germ cell tumor", "rating": 4 },
+          { "topic": "Cryptorchidism", "rating": 5 },
+          { "topic": "Varicocele", "rating": 4 },
+          { "topic": "Hydrocele", "rating": 4 },
+          { "topic": "Testicular tumor markers", "rating": 5 },
+          { "topic": "AFP in testicular tumors", "rating": 4 },
+          { "topic": "Beta hCG in testicular tumors", "rating": 4 }
+        ],
+
+        "Urethral and Penile Disorders": [
+          { "topic": "Urethral injury", "rating": 5 },
+          { "topic": "Straddle injury", "rating": 4 },
+          { "topic": "Posterior urethral injury", "rating": 5 },
+          { "topic": "Retrograde urethrogram", "rating": 5 },
+          { "topic": "Phimosis", "rating": 4 },
+          { "topic": "Paraphimosis", "rating": 4 },
+          { "topic": "Carcinoma penis", "rating": 4 },
+          { "topic": "Peyronie disease", "rating": 3 }
+        ],
+
+        "Kidney : Part 1": [
+          { "topic": "Renal cell carcinoma", "rating": 5 },
+          { "topic": "Wilms tumor", "rating": 5 },
+          { "topic": "Hematuria", "rating": 5 },
+          { "topic": "Painless hematuria", "rating": 5 },
+          { "topic": "Paraneoplastic syndromes RCC", "rating": 4 },
+          { "topic": "Von Hippel-Lindau syndrome", "rating": 3 }
+        ],
+
+        "Kidney : Part 2": [
+          { "topic": "Renal calculi", "rating": 5 },
+          { "topic": "Staghorn calculus", "rating": 5 },
+          { "topic": "Hydronephrosis", "rating": 4 },
+          { "topic": "PUJ obstruction", "rating": 4 },
+          { "topic": "Calcium oxalate stones", "rating": 5 },
+          { "topic": "Triple phosphate stones", "rating": 4 },
+          { "topic": "ESWL", "rating": 4 }
+        ],
+
+        "Bladder": [
+          { "topic": "Transitional cell carcinoma", "rating": 5 },
+          { "topic": "Painless hematuria", "rating": 5 },
+          { "topic": "Cystoscopy", "rating": 5 },
+          { "topic": "Bladder exstrophy", "rating": 3 },
+          { "topic": "Schistosoma hematobium", "rating": 3 },
+          { "topic": "Squamous cell carcinoma bladder", "rating": 3 }
+        ],
+
+        "Prostate : Part 1": [
+          { "topic": "Benign prostatic hyperplasia", "rating": 5 },
+          { "topic": "TURP", "rating": 5 },
+          { "topic": "Acute urinary retention", "rating": 5 },
+          { "topic": "IPSS score", "rating": 4 },
+          { "topic": "Medical management BPH", "rating": 4 }
+        ],
+
+        "Prostate : Part 2": [
+          { "topic": "Carcinoma prostate", "rating": 5 },
+          { "topic": "PSA", "rating": 5 },
+          { "topic": "Gleason score", "rating": 5 },
+          { "topic": "Osteoblastic metastasis", "rating": 5 },
+          { "topic": "TRUS biopsy", "rating": 4 },
+          { "topic": "Androgen deprivation therapy", "rating": 4 }
+        ]
+      },
+
+
+
+      "Trauma": {
+
+        "Basics of Trauma Management": [
+          { "topic": "ABCDE approach", "rating": 5 },
+          { "topic": "ATLS protocol", "rating": 5 },
+          { "topic": "Primary survey", "rating": 5 },
+          { "topic": "Secondary survey", "rating": 4 },
+          { "topic": "FAST scan", "rating": 5 },
+          { "topic": "Glasgow coma scale", "rating": 5 },
+          { "topic": "Shock in trauma", "rating": 5 }
+        ],
+
+        "Abdominal Trauma": [
+          { "topic": "Splenic injury", "rating": 5 },
+          { "topic": "Liver injury", "rating": 4 },
+          { "topic": "Hollow viscus injury", "rating": 4 },
+          { "topic": "Diagnostic peritoneal lavage", "rating": 4 },
+          { "topic": "Seat belt injury", "rating": 3 },
+          { "topic": "Retroperitoneal hematoma", "rating": 3 }
+        ],
+
+        "Thoracic Trauma": [
+          { "topic": "Tension pneumothorax", "rating": 5 },
+          { "topic": "Cardiac tamponade", "rating": 5 },
+          { "topic": "Flail chest", "rating": 4 },
+          { "topic": "Massive hemothorax", "rating": 4 },
+          { "topic": "Open pneumothorax", "rating": 4 },
+          { "topic": "Needle thoracostomy", "rating": 5 }
+        ],
+
+        "Head Trauma": [
+          { "topic": "Extradural hematoma", "rating": 5 },
+          { "topic": "Subdural hematoma", "rating": 5 },
+          { "topic": "Lucid interval", "rating": 5 },
+          { "topic": "Diffuse axonal injury", "rating": 4 },
+          { "topic": "Raised intracranial pressure", "rating": 5 },
+          { "topic": "Basilar skull fracture", "rating": 4 },
+          { "topic": "Battle sign", "rating": 4 },
+          { "topic": "Raccoon eyes", "rating": 4 }
+        ],
+
+        "Thermal Injuries": [
+          { "topic": "Burn depth", "rating": 5 },
+          { "topic": "Rule of 9", "rating": 5 },
+          { "topic": "Parkland formula", "rating": 5 },
+          { "topic": "Inhalational injury", "rating": 4 },
+          { "topic": "Curling ulcer", "rating": 4 },
+          { "topic": "Escharotomy", "rating": 4 },
+          { "topic": "Fluid resuscitation in burns", "rating": 5 }
+        ]
+      },
+
+
+
+      "Speciality Surgery": {
+
+        "Minimally Invasive Surgery": [
+          { "topic": "Pneumoperitoneum", "rating": 4 },
+          { "topic": "Complications of pneumoperitoneum", "rating": 4 },
+          { "topic": "Veress needle", "rating": 4 },
+          { "topic": "Hasson technique", "rating": 3 },
+          { "topic": "Port placement", "rating": 3 },
+          { "topic": "Laparoscopic cholecystectomy", "rating": 5 },
+          { "topic": "CO2 embolism", "rating": 3 }
+        ],
+
+        "Transplant Surgery": [
+          { "topic": "Brain death criteria", "rating": 5 },
+          { "topic": "Organ preservation", "rating": 3 },
+          { "topic": "Immunosuppressants", "rating": 4 },
+          { "topic": "Cyclosporine", "rating": 4 },
+          { "topic": "Tacrolimus", "rating": 4 },
+          { "topic": "Acute graft rejection", "rating": 4 }
+        ],
+
+        "Plastic Surgery : Part 1": [
+          { "topic": "Skin grafts", "rating": 5 },
+          { "topic": "Split thickness skin graft", "rating": 5 },
+          { "topic": "Full thickness skin graft", "rating": 4 },
+          { "topic": "Flaps", "rating": 5 },
+          { "topic": "Local flap", "rating": 4 },
+          { "topic": "Free flap", "rating": 3 }
+        ],
+
+        "Plastic Surgery : Part 2": [
+          { "topic": "Contractures", "rating": 4 },
+          { "topic": "Burn reconstruction", "rating": 4 },
+          { "topic": "Pressure sores", "rating": 4 },
+          { "topic": "Keloid", "rating": 5 },
+          { "topic": "Hypertrophic scar", "rating": 5 }
+        ],
+
+        "Neurosurgery": [
+          { "topic": "Raised intracranial pressure", "rating": 5 },
+          { "topic": "Brain herniation", "rating": 4 },
+          { "topic": "Extradural hematoma", "rating": 5 },
+          { "topic": "Subdural hematoma", "rating": 5 },
+          { "topic": "Mannitol", "rating": 4 },
+          { "topic": "Cushing reflex", "rating": 4 }
+        ]
+      }
+    },
+
+
+
+
+    "PYQs": {
+
+      "General Surgery": {
+
+        "Surgical Instruments and Sutures": [
+          {
+            "topic": "Kocher forceps",
+            "question": "Toothed forceps used to hold tough tissue?",
+            "answer": "Kocher forceps"
+          },
+          {
+            "topic": "Babcock forceps",
+            "question": "Atraumatic forceps used to hold bowel?",
+            "answer": "Babcock forceps"
+          },
+          {
+            "topic": "Vicryl",
+            "question": "Most commonly used absorbable braided suture?",
+            "answer": "Vicryl"
+          },
+          {
+            "topic": "Prolene",
+            "question": "Common nonabsorbable monofilament suture?",
+            "answer": "Prolene"
+          },
+          {
+            "topic": "Blade no 11",
+            "question": "Blade commonly used for stab incision?",
+            "answer": "Blade no 11"
+          }
+        ],
+
+        "Wound Healing and SSI": [
+          {
+            "topic": "Primary intention healing",
+            "question": "Clean incised wound heals by?",
+            "answer": "Primary intention"
+          },
+          {
+            "topic": "Keloid",
+            "question": "Scar extending beyond wound margins?",
+            "answer": "Keloid"
+          },
+          {
+            "topic": "Burst abdomen",
+            "question": "Most common postoperative day for burst abdomen?",
+            "answer": "5th to 7th postoperative day"
+          },
+          {
+            "topic": "Surgical site infection",
+            "question": "Most common organism causing surgical site infection?",
+            "answer": "Staphylococcus aureus"
+          },
+          {
+            "topic": "Necrotizing fasciitis",
+            "question": "Rapidly progressive soft tissue infection with crepitus?",
+            "answer": "Necrotizing fasciitis"
+          }
+        ],
+
+        "Shock": [
+          {
+            "topic": "Hypovolemic shock",
+            "question": "Most common type of shock in trauma?",
+            "answer": "Hypovolemic shock"
+          },
+          {
+            "topic": "Septic shock",
+            "question": "Warm extremities are commonly seen in?",
+            "answer": "Septic shock"
+          },
+          {
+            "topic": "Neurogenic shock",
+            "question": "Shock with bradycardia following spinal injury?",
+            "answer": "Neurogenic shock"
+          },
+          {
+            "topic": "MODS",
+            "question": "Final common pathway of severe sepsis?",
+            "answer": "MODS"
+          }
+        ]
+      },
+
+
+
+      "Breast": {
+
+        "Benign Breast Disease": [
+          {
+            "topic": "Fibroadenoma",
+            "question": "Most common benign breast tumor in young females?",
+            "answer": "Fibroadenoma"
+          },
+          {
+            "topic": "Fibrocystic disease",
+            "question": "Most common cause of cyclical mastalgia?",
+            "answer": "Fibrocystic disease"
+          },
+          {
+            "topic": "Intraductal papilloma",
+            "question": "Most common cause of bloody nipple discharge?",
+            "answer": "Intraductal papilloma"
+          }
+        ],
+
+        "Carcinoma Breast": [
+          {
+            "topic": "Peau d’orange",
+            "question": "Skin edema in breast carcinoma occurs due to obstruction of?",
+            "answer": "Dermal lymphatics"
+          },
+          {
+            "topic": "Sentinel lymph node biopsy",
+            "question": "Most important node sampled in early breast carcinoma?",
+            "answer": "Sentinel lymph node"
+          },
+          {
+            "topic": "Modified radical mastectomy",
+            "question": "Standard surgery for operable breast carcinoma?",
+            "answer": "Modified radical mastectomy"
+          },
+          {
+            "topic": "Paget disease nipple",
+            "question": "Eczematous lesion of nipple associated with breast carcinoma?",
+            "answer": "Paget disease"
+          },
+          {
+            "topic": "Triple assessment",
+            "question": "Gold standard evaluation of breast lump?",
+            "answer": "Triple assessment"
+          },
+          {
+            "topic": "BRCA1 mutation",
+            "question": "Gene strongly associated with hereditary breast carcinoma?",
+            "answer": "BRCA1"
+          }
+        ]
+      },
+
+
+
+      "Endocrine Surgery": {
+
+        "Thyroid": [
+          {
+            "topic": "Papillary carcinoma thyroid",
+            "question": "Most common thyroid malignancy?",
+            "answer": "Papillary carcinoma thyroid"
+          },
+          {
+            "topic": "Follicular carcinoma thyroid",
+            "question": "Thyroid carcinoma spreading hematogenously?",
+            "answer": "Follicular carcinoma"
+          },
+          {
+            "topic": "Medullary carcinoma thyroid",
+            "question": "Thyroid carcinoma associated with calcitonin secretion?",
+            "answer": "Medullary carcinoma thyroid"
+          },
+          {
+            "topic": "Orphan Annie nuclei",
+            "question": "Characteristic nuclei seen in papillary thyroid carcinoma?",
+            "answer": "Orphan Annie nuclei"
+          },
+          {
+            "topic": "Psammoma bodies",
+            "question": "Calcified concentric bodies seen in?",
+            "answer": "Papillary thyroid carcinoma"
+          },
+          {
+            "topic": "Recurrent laryngeal nerve injury",
+            "question": "Most common nerve injured during thyroidectomy?",
+            "answer": "Recurrent laryngeal nerve"
+          },
+          {
+            "topic": "Hypocalcemia after thyroidectomy",
+            "question": "Most common cause of tingling after thyroid surgery?",
+            "answer": "Hypocalcemia"
+          },
+          {
+            "topic": "Thyroglossal cyst",
+            "question": "Midline neck swelling moving with tongue protrusion?",
+            "answer": "Thyroglossal cyst"
+          }
+        ],
+
+        "Parathyroid": [
+          {
+            "topic": "Primary hyperparathyroidism",
+            "question": "Most common cause of primary hyperparathyroidism?",
+            "answer": "Parathyroid adenoma"
+          },
+          {
+            "topic": "Brown tumor",
+            "question": "Bone lesion associated with hyperparathyroidism?",
+            "answer": "Brown tumor"
+          }
+        ],
+
+        "Adrenal": [
+          {
+            "topic": "Pheochromocytoma",
+            "question": "Tumor producing catecholamines?",
+            "answer": "Pheochromocytoma"
+          },
+          {
+            "topic": "Rule of 10s",
+            "question": "Classically associated with which adrenal tumor?",
+            "answer": "Pheochromocytoma"
+          },
+          {
+            "topic": "Phenoxybenzamine",
+            "question": "Drug given before pheochromocytoma surgery?",
+            "answer": "Phenoxybenzamine"
+          }
+        ]
+      },
+
+
+
+      "Esophagus and Stomach": {
+
+        "Esophagus": [
+          {
+            "topic": "Achalasia cardia",
+            "question": "Bird beak appearance is seen in?",
+            "answer": "Achalasia cardia"
+          },
+          {
+            "topic": "Barrett esophagus",
+            "question": "Most important premalignant lesion for esophageal adenocarcinoma?",
+            "answer": "Barrett esophagus"
+          },
+          {
+            "topic": "Mallory-Weiss tear",
+            "question": "Longitudinal mucosal tear at gastroesophageal junction?",
+            "answer": "Mallory-Weiss tear"
+          },
+          {
+            "topic": "Boerhaave syndrome",
+            "question": "Spontaneous esophageal rupture due to vomiting?",
+            "answer": "Boerhaave syndrome"
+          }
+        ],
+
+        "Stomach": [
+          {
+            "topic": "H pylori",
+            "question": "Most common organism associated with duodenal ulcer?",
+            "answer": "Helicobacter pylori"
+          },
+          {
+            "topic": "Zollinger-Ellison syndrome",
+            "question": "Gastrinoma causes which syndrome?",
+            "answer": "Zollinger-Ellison syndrome"
+          },
+          {
+            "topic": "Virchow node",
+            "question": "Left supraclavicular lymph node enlargement indicates?",
+            "answer": "Gastric carcinoma"
+          },
+          {
+            "topic": "Linitis plastica",
+            "question": "Leather bottle stomach is seen in?",
+            "answer": "Diffuse gastric carcinoma"
+          }
+        ]
+      },
+
+
+      "Gastrointestinal and Abdominal Surgery": {
+
+        "Upper GI Hemorrhage": [
+          {
+            "topic": "Variceal bleed",
+            "question": "Most common cause of upper GI bleed in portal hypertension?",
+            "answer": "Esophageal varices"
+          },
+          {
+            "topic": "Sengstaken-Blakemore tube",
+            "question": "Device used for temporary control of variceal bleeding?",
+            "answer": "Sengstaken-Blakemore tube"
+          },
+          {
+            "topic": "Rockall score",
+            "question": "Scoring system used in upper GI bleeding?",
+            "answer": "Rockall score"
+          }
+        ],
+
+        "Bowel Obstruction": [
+          {
+            "topic": "Small bowel obstruction",
+            "question": "Most common cause of small bowel obstruction?",
+            "answer": "Postoperative adhesions"
+          },
+          {
+            "topic": "Volvulus",
+            "question": "Coffee bean sign is seen in?",
+            "answer": "Sigmoid volvulus"
+          },
+          {
+            "topic": "Intussusception",
+            "question": "Target sign on ultrasound is seen in?",
+            "answer": "Intussusception"
+          },
+          {
+            "topic": "Strangulation obstruction",
+            "question": "Most dangerous complication of bowel obstruction?",
+            "answer": "Strangulation"
+          }
+        ],
+
+        "Appendix": [
+          {
+            "topic": "Acute appendicitis",
+            "question": "Most common emergency abdominal surgery?",
+            "answer": "Appendicitis"
+          },
+          {
+            "topic": "McBurney point",
+            "question": "Maximum tenderness in appendicitis is found at?",
+            "answer": "McBurney point"
+          },
+          {
+            "topic": "Rovsing sign",
+            "question": "Pain in right iliac fossa on left-sided palpation?",
+            "answer": "Rovsing sign"
+          },
+          {
+            "topic": "Alvarado score",
+            "question": "Scoring system used in appendicitis?",
+            "answer": "Alvarado score"
+          }
+        ],
+
+        "Small and Large Bowel": [
+          {
+            "topic": "Meckel diverticulum",
+            "question": "Rule of 2s is associated with?",
+            "answer": "Meckel diverticulum"
+          },
+          {
+            "topic": "Ulcerative colitis",
+            "question": "Lead pipe appearance is seen in?",
+            "answer": "Ulcerative colitis"
+          },
+          {
+            "topic": "Crohn disease",
+            "question": "Cobblestone appearance is characteristic of?",
+            "answer": "Crohn disease"
+          },
+          {
+            "topic": "Toxic megacolon",
+            "question": "Life-threatening complication of ulcerative colitis?",
+            "answer": "Toxic megacolon"
+          },
+          {
+            "topic": "Hirschsprung disease",
+            "question": "Congenital absence of ganglion cells causes?",
+            "answer": "Hirschsprung disease"
+          }
+        ],
+
+        "Colorectal Cancer": [
+          {
+            "topic": "FAP",
+            "question": "APC gene mutation is seen in?",
+            "answer": "Familial adenomatous polyposis"
+          },
+          {
+            "topic": "HNPCC",
+            "question": "Mismatch repair gene mutation syndrome?",
+            "answer": "HNPCC"
+          },
+          {
+            "topic": "Apple core lesion",
+            "question": "Classic barium enema finding in colon cancer?",
+            "answer": "Apple core lesion"
+          },
+          {
+            "topic": "CEA",
+            "question": "Tumor marker commonly elevated in colorectal carcinoma?",
+            "answer": "CEA"
+          },
+          {
+            "topic": "Duke staging",
+            "question": "Old staging system used in colorectal cancer?",
+            "answer": "Duke staging"
+          }
+        ],
+
+        "Rectum and Anal Canal": [
+          {
+            "topic": "Hemorrhoids",
+            "question": "Most common site of internal hemorrhoids?",
+            "answer": "3, 7 and 11 o’clock positions"
+          },
+          {
+            "topic": "Fissure in ano",
+            "question": "Most common site of fissure in ano?",
+            "answer": "Posterior midline"
+          },
+          {
+            "topic": "Goodsall rule",
+            "question": "Rule used in fistula in ano to identify internal opening?",
+            "answer": "Goodsall rule"
+          },
+          {
+            "topic": "Pilonidal sinus",
+            "question": "Most common site of pilonidal sinus?",
+            "answer": "Natal cleft"
+          }
+        ],
+
+        "Liver": [
+          {
+            "topic": "Amoebic liver abscess",
+            "question": "Most common extraintestinal manifestation of amoebiasis?",
+            "answer": "Amoebic liver abscess"
+          },
+          {
+            "topic": "Hydatid cyst",
+            "question": "Water lily sign is seen in?",
+            "answer": "Hydatid cyst"
+          },
+          {
+            "topic": "Portal hypertension",
+            "question": "Most common cause of portal hypertension?",
+            "answer": "Cirrhosis"
+          },
+          {
+            "topic": "Child-Pugh score",
+            "question": "Scoring system used in chronic liver disease?",
+            "answer": "Child-Pugh score"
+          }
+        ],
+
+        "Gall Bladder and Bile Ducts": [
+          {
+            "topic": "Acute cholecystitis",
+            "question": "Murphy sign is positive in?",
+            "answer": "Acute cholecystitis"
+          },
+          {
+            "topic": "Courvoisier sign",
+            "question": "Palpable gallbladder with jaundice suggests?",
+            "answer": "Malignant biliary obstruction"
+          },
+          {
+            "topic": "Choledochal cyst",
+            "question": "Most common type of choledochal cyst?",
+            "answer": "Type I"
+          },
+          {
+            "topic": "Charcot triad",
+            "question": "Fever jaundice and right upper quadrant pain occur in?",
+            "answer": "Ascending cholangitis"
+          },
+          {
+            "topic": "Reynolds pentad",
+            "question": "Shock and confusion added to Charcot triad indicates?",
+            "answer": "Severe ascending cholangitis"
+          },
+          {
+            "topic": "Mirizzi syndrome",
+            "question": "Compression of common hepatic duct by gallstone?",
+            "answer": "Mirizzi syndrome"
+          }
+        ],
+
+        "Pancreas": [
+          {
+            "topic": "Acute pancreatitis",
+            "question": "Most common causes of acute pancreatitis?",
+            "answer": "Gallstones and alcohol"
+          },
+          {
+            "topic": "Ranson criteria",
+            "question": "Severity assessment scoring system in pancreatitis?",
+            "answer": "Ranson criteria"
+          },
+          {
+            "topic": "Grey Turner sign",
+            "question": "Flank discoloration in pancreatitis is called?",
+            "answer": "Grey Turner sign"
+          },
+          {
+            "topic": "Cullen sign",
+            "question": "Periumbilical discoloration in pancreatitis is called?",
+            "answer": "Cullen sign"
+          },
+          {
+            "topic": "Pseudocyst pancreas",
+            "question": "Most common complication after acute pancreatitis?",
+            "answer": "Pancreatic pseudocyst"
+          },
+          {
+            "topic": "Whipple procedure",
+            "question": "Standard surgery for carcinoma head of pancreas?",
+            "answer": "Whipple procedure"
+          },
+          {
+            "topic": "Double duct sign",
+            "question": "Simultaneous dilation of CBD and pancreatic duct suggests?",
+            "answer": "Carcinoma head of pancreas"
+          }
+        ]
+      },
+
+
+
+      "Hernia": {
+
+        "Inguinal Hernia": [
+          {
+            "topic": "Indirect inguinal hernia",
+            "question": "Most common type of inguinal hernia?",
+            "answer": "Indirect inguinal hernia"
+          },
+          {
+            "topic": "Direct inguinal hernia",
+            "question": "Direct hernia protrudes through which triangle?",
+            "answer": "Hesselbach triangle"
+          },
+          {
+            "topic": "Inferior epigastric vessels",
+            "question": "Indirect inguinal hernia lies lateral to?",
+            "answer": "Inferior epigastric vessels"
+          },
+          {
+            "topic": "Femoral hernia",
+            "question": "Most common hernia causing strangulation?",
+            "answer": "Femoral hernia"
+          },
+          {
+            "topic": "Richter hernia",
+            "question": "Only part of bowel wall is trapped in?",
+            "answer": "Richter hernia"
+          },
+          {
+            "topic": "Littre hernia",
+            "question": "Hernia containing Meckel diverticulum?",
+            "answer": "Littre hernia"
+          },
+          {
+            "topic": "Amyand hernia",
+            "question": "Appendix present inside inguinal hernia sac?",
+            "answer": "Amyand hernia"
+          },
+          {
+            "topic": "Lichtenstein repair",
+            "question": "Most common mesh repair for inguinal hernia?",
+            "answer": "Lichtenstein repair"
+          }
+        ]
+      },
+
+
+      "Vascular Surgery": {
+
+        "Venous Disorders": [
+          {
+            "topic": "Deep vein thrombosis",
+            "question": "Most common source of pulmonary embolism?",
+            "answer": "Deep vein thrombosis"
+          },
+          {
+            "topic": "Virchow triad",
+            "question": "Three factors predisposing to thrombosis are called?",
+            "answer": "Virchow triad"
+          },
+          {
+            "topic": "Wells score",
+            "question": "Clinical scoring system for DVT probability?",
+            "answer": "Wells score"
+          },
+          {
+            "topic": "Compression ultrasound",
+            "question": "Investigation of choice for DVT?",
+            "answer": "Compression ultrasound"
+          },
+          {
+            "topic": "Pulmonary embolism",
+            "question": "Most dangerous complication of DVT?",
+            "answer": "Pulmonary embolism"
+          }
+        ],
+
+        "Varicose Veins": [
+          {
+            "topic": "Trendelenburg test",
+            "question": "Clinical test used in varicose veins?",
+            "answer": "Trendelenburg test"
+          },
+          {
+            "topic": "Venous ulcer",
+            "question": "Most common site of venous ulcer?",
+            "answer": "Medial malleolus"
+          },
+          {
+            "topic": "Varicose veins",
+            "question": "Most commonly involved vein in varicose veins?",
+            "answer": "Great saphenous vein"
+          }
+        ],
+
+        "Arterial Disease": [
+          {
+            "topic": "Peripheral arterial disease",
+            "question": "Most common symptom of peripheral arterial disease?",
+            "answer": "Intermittent claudication"
+          },
+          {
+            "topic": "Buerger disease",
+            "question": "Peripheral vascular disease strongly associated with smoking?",
+            "answer": "Buerger disease"
+          },
+          {
+            "topic": "Ankle brachial index",
+            "question": "Screening test used in peripheral arterial disease?",
+            "answer": "Ankle brachial index"
+          },
+          {
+            "topic": "Acute limb ischemia",
+            "question": "Classic 6 Ps are seen in?",
+            "answer": "Acute limb ischemia"
+          },
+          {
+            "topic": "Leriche syndrome",
+            "question": "Aortoiliac occlusion syndrome causing impotence and claudication?",
+            "answer": "Leriche syndrome"
+          },
+          {
+            "topic": "Compartment syndrome",
+            "question": "Most definitive treatment for compartment syndrome?",
+            "answer": "Fasciotomy"
+          }
+        ],
+
+        "Lymphatics": [
+          {
+            "topic": "Lymphedema",
+            "question": "Nonpitting edema due to lymphatic obstruction?",
+            "answer": "Lymphedema"
+          },
+          {
+            "topic": "Filariasis",
+            "question": "Most common parasitic cause of lymphedema?",
+            "answer": "Filariasis"
+          },
+          {
+            "topic": "Sentinel lymph node",
+            "question": "First draining lymph node from a tumor?",
+            "answer": "Sentinel lymph node"
+          }
+        ]
+      },
+
+
+
+      "Urology": {
+
+        "Testicular Disorders": [
+          {
+            "topic": "Torsion testis",
+            "question": "Most common cause of acute scrotum in adolescents?",
+            "answer": "Torsion testis"
+          },
+          {
+            "topic": "Bell clapper deformity",
+            "question": "Predisposing abnormality for testicular torsion?",
+            "answer": "Bell clapper deformity"
+          },
+          {
+            "topic": "Cremasteric reflex",
+            "question": "Absent cremasteric reflex is seen in?",
+            "answer": "Testicular torsion"
+          },
+          {
+            "topic": "Seminoma",
+            "question": "Most common testicular tumor?",
+            "answer": "Seminoma"
+          },
+          {
+            "topic": "Cryptorchidism",
+            "question": "Most important risk factor for testicular cancer?",
+            "answer": "Cryptorchidism"
+          },
+          {
+            "topic": "Varicocele",
+            "question": "Bag of worms appearance is seen in?",
+            "answer": "Varicocele"
+          }
+        ],
+
+        "Urethra and Penis": [
+          {
+            "topic": "Posterior urethral injury",
+            "question": "Most common urethral injury associated with pelvic fracture?",
+            "answer": "Posterior urethral injury"
+          },
+          {
+            "topic": "Retrograde urethrogram",
+            "question": "Investigation of choice in urethral injury?",
+            "answer": "Retrograde urethrogram"
+          },
+          {
+            "topic": "Paraphimosis",
+            "question": "Emergency condition caused by retracted foreskin?",
+            "answer": "Paraphimosis"
+          },
+          {
+            "topic": "Carcinoma penis",
+            "question": "Most common type of penile cancer?",
+            "answer": "Squamous cell carcinoma"
+          }
+        ],
+
+        "Kidney": [
+          {
+            "topic": "Renal cell carcinoma",
+            "question": "Classic triad of RCC includes hematuria flank pain and?",
+            "answer": "Palpable abdominal mass"
+          },
+          {
+            "topic": "Wilms tumor",
+            "question": "Most common renal malignancy in children?",
+            "answer": "Wilms tumor"
+          },
+          {
+            "topic": "Staghorn calculus",
+            "question": "Stone commonly composed of struvite?",
+            "answer": "Staghorn calculus"
+          },
+          {
+            "topic": "Calcium oxalate stone",
+            "question": "Most common renal stone?",
+            "answer": "Calcium oxalate stone"
+          },
+          {
+            "topic": "Hydronephrosis",
+            "question": "Dilatation of pelvicalyceal system due to obstruction?",
+            "answer": "Hydronephrosis"
+          }
+        ],
+
+        "Bladder": [
+          {
+            "topic": "Transitional cell carcinoma",
+            "question": "Most common bladder malignancy?",
+            "answer": "Transitional cell carcinoma"
+          },
+          {
+            "topic": "Painless hematuria",
+            "question": "Classic presentation of bladder carcinoma?",
+            "answer": "Painless hematuria"
+          },
+          {
+            "topic": "Cystoscopy",
+            "question": "Gold standard investigation for bladder tumor?",
+            "answer": "Cystoscopy"
+          }
+        ],
+
+        "Prostate": [
+          {
+            "topic": "Benign prostatic hyperplasia",
+            "question": "Most common cause of urinary obstruction in elderly males?",
+            "answer": "Benign prostatic hyperplasia"
+          },
+          {
+            "topic": "TURP",
+            "question": "Most common surgery performed for BPH?",
+            "answer": "TURP"
+          },
+          {
+            "topic": "Carcinoma prostate",
+            "question": "Most common site of metastasis in prostate cancer?",
+            "answer": "Bone"
+          },
+          {
+            "topic": "PSA",
+            "question": "Most commonly used tumor marker for prostate carcinoma?",
+            "answer": "PSA"
+          },
+          {
+            "topic": "Gleason score",
+            "question": "Histological grading system used in prostate carcinoma?",
+            "answer": "Gleason score"
+          },
+          {
+            "topic": "Osteoblastic metastasis",
+            "question": "Characteristic bony metastasis seen in prostate carcinoma?",
+            "answer": "Osteoblastic metastasis"
+          }
+        ]
+      },
+
+
+
+      "Trauma": {
+
+        "Basic Trauma Management": [
+          {
+            "topic": "ABCDE approach",
+            "question": "First priority in trauma assessment?",
+            "answer": "Airway with cervical spine protection"
+          },
+          {
+            "topic": "FAST scan",
+            "question": "Bedside ultrasound used in trauma evaluation?",
+            "answer": "FAST scan"
+          },
+          {
+            "topic": "Glasgow coma scale",
+            "question": "Maximum score in GCS?",
+            "answer": "15"
+          }
+        ],
+
+        "Thoracic Trauma": [
+          {
+            "topic": "Tension pneumothorax",
+            "question": "Most immediate life-threatening chest injury?",
+            "answer": "Tension pneumothorax"
+          },
+          {
+            "topic": "Needle thoracostomy",
+            "question": "Emergency treatment for tension pneumothorax?",
+            "answer": "Needle thoracostomy"
+          },
+          {
+            "topic": "Flail chest",
+            "question": "Paradoxical chest movement occurs in?",
+            "answer": "Flail chest"
+          },
+          {
+            "topic": "Cardiac tamponade",
+            "question": "Beck triad is seen in?",
+            "answer": "Cardiac tamponade"
+          }
+        ],
+
+        "Head Injury": [
+          {
+            "topic": "Extradural hematoma",
+            "question": "Lucid interval is classically seen in?",
+            "answer": "Extradural hematoma"
+          },
+          {
+            "topic": "Middle meningeal artery",
+            "question": "Most commonly injured vessel in extradural hematoma?",
+            "answer": "Middle meningeal artery"
+          },
+          {
+            "topic": "Subdural hematoma",
+            "question": "Most commonly due to rupture of bridging veins?",
+            "answer": "Subdural hematoma"
+          },
+          {
+            "topic": "Diffuse axonal injury",
+            "question": "Most common cause of prolonged coma after head injury?",
+            "answer": "Diffuse axonal injury"
+          },
+          {
+            "topic": "Battle sign",
+            "question": "Mastoid ecchymosis indicates?",
+            "answer": "Basilar skull fracture"
+          }
+        ],
+
+        "Burns": [
+          {
+            "topic": "Rule of 9",
+            "question": "Method used to estimate body surface area burned?",
+            "answer": "Rule of 9"
+          },
+          {
+            "topic": "Parkland formula",
+            "question": "Fluid resuscitation formula used in burns?",
+            "answer": "Parkland formula"
+          },
+          {
+            "topic": "Curling ulcer",
+            "question": "Stress ulcer associated with burns?",
+            "answer": "Curling ulcer"
+          },
+          {
+            "topic": "Inhalational injury",
+            "question": "Most dangerous burn injury complication in enclosed fire?",
+            "answer": "Inhalational injury"
+          }
+        ]
+      },
+
+
+
+
+      "Speciality Surgery": {
+
+        "Minimally Invasive Surgery": [
+          {
+            "topic": "Veress needle",
+            "question": "Instrument used to create pneumoperitoneum in laparoscopy?",
+            "answer": "Veress needle"
+          },
+          {
+            "topic": "Pneumoperitoneum",
+            "question": "Gas most commonly used for pneumoperitoneum?",
+            "answer": "Carbon dioxide"
+          },
+          {
+            "topic": "Hasson technique",
+            "question": "Open method of laparoscopic entry is called?",
+            "answer": "Hasson technique"
+          },
+          {
+            "topic": "Laparoscopic cholecystectomy",
+            "question": "Most common laparoscopic surgery performed worldwide?",
+            "answer": "Laparoscopic cholecystectomy"
+          },
+          {
+            "topic": "CO2 embolism",
+            "question": "Rare fatal complication of laparoscopy?",
+            "answer": "CO2 embolism"
+          }
+        ],
+
+        "Transplant Surgery": [
+          {
+            "topic": "Brain death",
+            "question": "Prerequisite before cadaveric organ donation?",
+            "answer": "Brain death certification"
+          },
+          {
+            "topic": "Cyclosporine",
+            "question": "Calcineurin inhibitor used in transplant patients?",
+            "answer": "Cyclosporine"
+          },
+          {
+            "topic": "Tacrolimus",
+            "question": "Most commonly used immunosuppressant after transplantation?",
+            "answer": "Tacrolimus"
+          },
+          {
+            "topic": "Acute graft rejection",
+            "question": "Most common time period for acute transplant rejection?",
+            "answer": "Weeks to months"
+          }
+        ],
+
+        "Plastic Surgery": [
+          {
+            "topic": "Split thickness skin graft",
+            "question": "Most commonly used skin graft in burns?",
+            "answer": "Split thickness skin graft"
+          },
+          {
+            "topic": "Full thickness skin graft",
+            "question": "Skin graft containing entire dermis?",
+            "answer": "Full thickness skin graft"
+          },
+          {
+            "topic": "Flap",
+            "question": "Tissue transferred with intact blood supply is called?",
+            "answer": "Flap"
+          },
+          {
+            "topic": "Keloid",
+            "question": "Scar extending beyond original wound margins?",
+            "answer": "Keloid"
+          },
+          {
+            "topic": "Hypertrophic scar",
+            "question": "Raised scar confined within wound boundaries?",
+            "answer": "Hypertrophic scar"
+          }
+        ],
+
+        "Neurosurgery": [
+          {
+            "topic": "Raised intracranial pressure",
+            "question": "Papilledema is a feature of?",
+            "answer": "Raised intracranial pressure"
+          },
+          {
+            "topic": "Cushing reflex",
+            "question": "Bradycardia hypertension and irregular respiration indicate?",
+            "answer": "Raised intracranial pressure"
+          },
+          {
+            "topic": "Mannitol",
+            "question": "Drug commonly used to reduce intracranial pressure?",
+            "answer": "Mannitol"
+          },
+          {
+            "topic": "Brain herniation",
+            "question": "Most dangerous complication of raised intracranial pressure?",
+            "answer": "Brain herniation"
+          }
+        ]
+      },
+
+
+
+      "Faciomaxillary Surgery": {
+
+        "Oral Cancer": [
+          {
+            "topic": "Oral squamous cell carcinoma",
+            "question": "Most common oral malignancy?",
+            "answer": "Squamous cell carcinoma"
+          },
+          {
+            "topic": "Leukoplakia",
+            "question": "Most common premalignant lesion of oral cavity?",
+            "answer": "Leukoplakia"
+          },
+          {
+            "topic": "Erythroplakia",
+            "question": "Premalignant oral lesion with highest malignant potential?",
+            "answer": "Erythroplakia"
+          },
+          {
+            "topic": "Oral submucous fibrosis",
+            "question": "Condition strongly associated with areca nut chewing?",
+            "answer": "Oral submucous fibrosis"
+          },
+          {
+            "topic": "Tongue carcinoma",
+            "question": "Most common site of oral cavity cancer?",
+            "answer": "Lateral border of tongue"
+          }
+        ],
+
+        "Salivary Glands": [
+          {
+            "topic": "Pleomorphic adenoma",
+            "question": "Most common benign salivary gland tumor?",
+            "answer": "Pleomorphic adenoma"
+          },
+          {
+            "topic": "Warthin tumor",
+            "question": "Second most common benign parotid tumor?",
+            "answer": "Warthin tumor"
+          },
+          {
+            "topic": "Mucoepidermoid carcinoma",
+            "question": "Most common malignant salivary gland tumor?",
+            "answer": "Mucoepidermoid carcinoma"
+          },
+          {
+            "topic": "Frey syndrome",
+            "question": "Sweating while eating after parotid surgery is called?",
+            "answer": "Frey syndrome"
+          },
+          {
+            "topic": "Facial nerve injury",
+            "question": "Most important structure at risk during parotidectomy?",
+            "answer": "Facial nerve"
+          }
+        ]
+      },
+
+
+
+      "Skin and Soft Tissue": {
+
+        "Skin Tumors": [
+          {
+            "topic": "Basal cell carcinoma",
+            "question": "Most common skin malignancy?",
+            "answer": "Basal cell carcinoma"
+          },
+          {
+            "topic": "Squamous cell carcinoma",
+            "question": "Skin cancer commonly arising in chronic ulcers?",
+            "answer": "Squamous cell carcinoma"
+          },
+          {
+            "topic": "Melanoma",
+            "question": "Most aggressive skin malignancy?",
+            "answer": "Melanoma"
+          },
+          {
+            "topic": "ABCDE criteria",
+            "question": "Screening mnemonic used for melanoma?",
+            "answer": "ABCDE criteria"
+          },
+          {
+            "topic": "Marjolin ulcer",
+            "question": "Malignant transformation in chronic scar or ulcer?",
+            "answer": "Marjolin ulcer"
+          }
+        ],
+
+        "Soft Tissue Sarcoma": [
+          {
+            "topic": "Liposarcoma",
+            "question": "Most common soft tissue sarcoma in adults?",
+            "answer": "Liposarcoma"
+          },
+          {
+            "topic": "Rhabdomyosarcoma",
+            "question": "Most common soft tissue sarcoma in children?",
+            "answer": "Rhabdomyosarcoma"
+          }
+        ]
+      },
+
+
+
+      "Common Surgical Swellings and Ulcers": {
+
+        "Common Swellings": [
+          {
+            "topic": "Lipoma",
+            "question": "Most common benign mesenchymal tumor?",
+            "answer": "Lipoma"
+          },
+          {
+            "topic": "Sebaceous cyst",
+            "question": "Punctum is characteristic of?",
+            "answer": "Sebaceous cyst"
+          },
+          {
+            "topic": "Dermoid cyst",
+            "question": "Cyst containing ectodermal elements?",
+            "answer": "Dermoid cyst"
+          },
+          {
+            "topic": "Branchial cyst",
+            "question": "Most common congenital lateral neck swelling?",
+            "answer": "Branchial cyst"
+          },
+          {
+            "topic": "Cystic hygroma",
+            "question": "Congenital lymphatic malformation in posterior triangle?",
+            "answer": "Cystic hygroma"
+          }
+        ],
+
+        "Ulcers": [
+          {
+            "topic": "Venous ulcer",
+            "question": "Most common site of venous ulcer?",
+            "answer": "Medial malleolus"
+          },
+          {
+            "topic": "Arterial ulcer",
+            "question": "Painful punched out ulcer with absent pulses?",
+            "answer": "Arterial ulcer"
+          },
+          {
+            "topic": "Diabetic ulcer",
+            "question": "Most common cause of nontraumatic lower limb amputation?",
+            "answer": "Diabetic foot ulcer"
+          },
+          {
+            "topic": "Pressure sore",
+            "question": "Most common site for bed sore in bedridden patient?",
+            "answer": "Sacrum"
+          }
+        ]
+      },
+
+
+
+      "Miscellaneous": [
+
+        {
+          "topic": "Mesna",
+          "question": "Drug used to prevent cyclophosphamide-induced hemorrhagic cystitis?",
+          "answer": "Mesna"
+        },
+        {
+          "topic": "Cyclophosphamide",
+          "question": "Drug associated with hemorrhagic cystitis?",
+          "answer": "Cyclophosphamide"
+        },
+        {
+          "topic": "Hinchey classification",
+          "question": "Classification used in complicated diverticulitis?",
+          "answer": "Hinchey classification"
+        },
+        {
+          "topic": "Hartmann procedure",
+          "question": "Procedure commonly done in perforated sigmoid diverticulitis?",
+          "answer": "Hartmann procedure"
+        },
+        {
+          "topic": "Mesenteric ischemia",
+          "question": "Pain out of proportion to examination suggests?",
+          "answer": "Mesenteric ischemia"
+        },
+        {
+          "topic": "Compartment syndrome",
+          "question": "Most definitive treatment of compartment syndrome?",
+          "answer": "Fasciotomy"
+        }
+      ]
+    }
+  }
+}

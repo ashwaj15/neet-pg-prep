@@ -1,0 +1,2086 @@
+{
+  "OBG": {
+    "PYTs": {
+
+      "General Gynecology": {
+
+        "Applied Anatomy : Introduction and Uterine Artery": [
+          { "topic": "Uterine artery", "rating": 5 },
+          { "topic": "Water under bridge", "rating": 5 },
+          { "topic": "Internal iliac artery branches", "rating": 4 },
+          { "topic": "Cardinal ligament", "rating": 4 },
+          { "topic": "Mackenrodt ligament", "rating": 4 },
+          { "topic": "Round ligament", "rating": 3 },
+          { "topic": "Pelvic diaphragm", "rating": 4 },
+          { "topic": "Pudendal nerve", "rating": 4 },
+          { "topic": "Pelvic floor muscles", "rating": 4 },
+          { "topic": "Supports of uterus", "rating": 5 },
+          { "topic": "Broad ligament", "rating": 4 },
+          { "topic": "Ureteric injury during hysterectomy", "rating": 5 },
+          { "topic": "Blood supply uterus", "rating": 5 },
+          { "topic": "Venous drainage uterus", "rating": 3 },
+          { "topic": "Lymphatic drainage uterus", "rating": 4 }
+        ],
+
+        "Applied Anatomy : Fallopian Tubes Ovary and Uterus": [
+          { "topic": "Ampulla fertilization", "rating": 5 },
+          { "topic": "Parts of fallopian tube", "rating": 5 },
+          { "topic": "Isthmus", "rating": 3 },
+          { "topic": "Infundibulum", "rating": 3 },
+          { "topic": "Fimbriae", "rating": 3 },
+          { "topic": "Ovarian blood supply", "rating": 4 },
+          { "topic": "Ovarian ligament", "rating": 3 },
+          { "topic": "Endometrium phases", "rating": 5 },
+          { "topic": "Myometrium", "rating": 3 },
+          { "topic": "Pouch of Douglas", "rating": 4 },
+          { "topic": "Ovarian fossa", "rating": 3 },
+          { "topic": "Corpus luteum", "rating": 4 },
+          { "topic": "Graafian follicle", "rating": 4 },
+          { "topic": "Folliculogenesis", "rating": 4 }
+        ],
+
+        "Applied Anatomy : Cervix and Vagina": [
+          { "topic": "Transformation zone", "rating": 6 },
+          { "topic": "Squamocolumnar junction", "rating": 6 },
+          { "topic": "Cervical epithelium", "rating": 4 },
+          { "topic": "Nabothian cyst", "rating": 3 },
+          { "topic": "Vaginal fornices", "rating": 4 },
+          { "topic": "Lymphatic drainage cervix", "rating": 5 },
+          { "topic": "Parametrium", "rating": 3 },
+          { "topic": "Cervical canal", "rating": 3 },
+          { "topic": "Cervical mucus changes", "rating": 4 },
+          { "topic": "Pap smear collection site", "rating": 6 }
+        ],
+
+        "Types of Hysterectomy": [
+          { "topic": "Total hysterectomy", "rating": 5 },
+          { "topic": "Radical hysterectomy", "rating": 6 },
+          { "topic": "Wertheim hysterectomy", "rating": 6 },
+          { "topic": "Subtotal hysterectomy", "rating": 3 },
+          { "topic": "Indications", "rating": 5 },
+          { "topic": "Complications", "rating": 5 },
+          { "topic": "Ureteric injury", "rating": 5 },
+          { "topic": "Vault prolapse", "rating": 4 },
+          { "topic": "Post hysterectomy complications", "rating": 4 }
+        ],
+
+        "Vulval Cancer": [
+          { "topic": "VIN", "rating": 4 },
+          { "topic": "SCC vulva", "rating": 5 },
+          { "topic": "HPV association", "rating": 5 },
+          { "topic": "Lichen sclerosus", "rating": 3 },
+          { "topic": "Sentinel node", "rating": 3 },
+          { "topic": "Inguinal lymph nodes", "rating": 3 },
+          { "topic": "Pruritus vulvae", "rating": 3 }
+        ],
+
+        "Investigations in Gynecology : Hysteroscopy and HSG": [
+          { "topic": "HSG indications", "rating": 6 },
+          { "topic": "Tubal patency", "rating": 5 },
+          { "topic": "Asherman syndrome", "rating": 6 },
+          { "topic": "Hysteroscopy findings", "rating": 5 },
+          { "topic": "Contraindications HSG", "rating": 5 },
+          { "topic": "SIS", "rating": 3 },
+          { "topic": "Endometrial biopsy", "rating": 5 },
+          { "topic": "Pipelle biopsy", "rating": 5 },
+          { "topic": "Colposcopy", "rating": 6 },
+          { "topic": "Schiller test", "rating": 5 }
+        ]
+      },
+
+      "Development and DSD": {
+
+        "Development of Female Internal Genitalia": [
+          { "topic": "Mullerian ducts", "rating": 6 },
+          { "topic": "Wolffian ducts", "rating": 5 },
+          { "topic": "Fusion defects", "rating": 5 },
+          { "topic": "Septate uterus", "rating": 6 },
+          { "topic": "Bicornuate uterus", "rating": 5 },
+          { "topic": "Unicornuate uterus", "rating": 4 },
+          { "topic": "Arcuate uterus", "rating": 3 },
+          { "topic": "Uterine agenesis", "rating": 4 }
+        ],
+
+        "Development of Vagina and Transverse Vaginal Septum": [
+          { "topic": "Vaginal embryology", "rating": 4 },
+          { "topic": "Imperforate hymen", "rating": 6 },
+          { "topic": "Hematocolpos", "rating": 5 },
+          { "topic": "Transverse vaginal septum", "rating": 4 },
+          { "topic": "Cryptomenorrhea", "rating": 5 }
+        ],
+
+        "Disorders of Sexual Development (46XX)": [
+          { "topic": "CAH", "rating": 6 },
+          { "topic": "21 hydroxylase deficiency", "rating": 6 },
+          { "topic": "Virilization", "rating": 5 },
+          { "topic": "Female pseudohermaphroditism", "rating": 5 },
+          { "topic": "Salt wasting crisis", "rating": 5 },
+          { "topic": "Ambiguous genitalia", "rating": 5 }
+        ],
+
+        "Disorders of Sexual Development (46XY)": [
+          { "topic": "Androgen insensitivity syndrome", "rating": 6 },
+          { "topic": "Testicular feminization", "rating": 5 },
+          { "topic": "Swyer syndrome", "rating": 5 },
+          { "topic": "Gonadal dysgenesis", "rating": 5 },
+          { "topic": "5 alpha reductase deficiency", "rating": 6 },
+          { "topic": "Testosterone conversion defect", "rating": 4 }
+        ]
+      },
+
+      "Menstrual and Endocrine": {
+
+        "Menstrual Cycle": [
+          { "topic": "Hormonal phases", "rating": 6 },
+          { "topic": "Estrogen peak", "rating": 5 },
+          { "topic": "LH surge", "rating": 6 },
+          { "topic": "Ovulation", "rating": 6 },
+          { "topic": "Progesterone phase", "rating": 5 },
+          { "topic": "Basal body temperature", "rating": 5 },
+          { "topic": "Mittelschmerz", "rating": 3 },
+          { "topic": "Secretory endometrium", "rating": 4 },
+          { "topic": "Proliferative phase", "rating": 4 }
+        ],
+
+        "Hormones in Gynecology : Part 1": [
+          { "topic": "GnRH agonists", "rating": 5 },
+          { "topic": "GnRH antagonists", "rating": 5 },
+          { "topic": "Clomiphene", "rating": 6 },
+          { "topic": "Letrozole", "rating": 6 },
+          { "topic": "SERMs", "rating": 4 },
+          { "topic": "Progesterone", "rating": 4 },
+          { "topic": "OCPs", "rating": 5 },
+          { "topic": "Danazol", "rating": 4 }
+        ],
+
+
+
+        "Hormones in Gynecology : Part 2": [
+          { "topic": "HRT", "rating": 5 },
+          { "topic": "Tamoxifen", "rating": 5 },
+          { "topic": "Raloxifene", "rating": 4 },
+          { "topic": "Bisphosphonates", "rating": 3 },
+          { "topic": "Tibolone", "rating": 3 },
+          { "topic": "Menopause therapy", "rating": 5 }
+        ]
+      },
+
+      "Puberty and Amenorrhea": {
+
+        "Puberty and Precocious Puberty": [
+          { "topic": "Tanner staging", "rating": 6 },
+          { "topic": "Delayed puberty", "rating": 5 },
+          { "topic": "Central precocious puberty", "rating": 5 },
+          { "topic": "Peripheral precocious puberty", "rating": 5 },
+          { "topic": "GnRH analogues", "rating": 4 }
+        ],
+
+        "Primary Amenorrhea": [
+          { "topic": "Turner syndrome", "rating": 6 },
+          { "topic": "AIS", "rating": 6 },
+          { "topic": "MRKH syndrome", "rating": 6 },
+          { "topic": "Gonadal dysgenesis", "rating": 5 },
+          { "topic": "Imperforate hymen", "rating": 5 },
+          { "topic": "Mullerian agenesis", "rating": 5 }
+        ],
+
+        "Secondary Amenorrhea": [
+          { "topic": "Pregnancy", "rating": 6 },
+          { "topic": "PCOS", "rating": 6 },
+          { "topic": "Hyperprolactinemia", "rating": 6 },
+          { "topic": "Sheehan syndrome", "rating": 6 },
+          { "topic": "Asherman syndrome", "rating": 6 },
+          { "topic": "Thyroid disorders", "rating": 5 },
+          { "topic": "Pituitary adenoma", "rating": 4 }
+        ]
+      },
+
+      "AUB PCOS Endometriosis": {
+
+        "Atypical Uterine Bleeding": [
+          { "topic": "PALM COEIN", "rating": 6 },
+          { "topic": "DUB", "rating": 5 },
+          { "topic": "Endometrial hyperplasia", "rating": 6 },
+          { "topic": "Ovulatory dysfunction", "rating": 5 },
+          { "topic": "Mirena", "rating": 5 },
+          { "topic": "Endometrial ablation", "rating": 4 },
+          { "topic": "Tranexamic acid", "rating": 4 }
+        ],
+
+        "PCOS : Part 1": [
+          { "topic": "Rotterdam criteria", "rating": 6 },
+          { "topic": "Hyperandrogenism", "rating": 6 },
+          { "topic": "LH/FSH ratio", "rating": 5 },
+          { "topic": "Insulin resistance", "rating": 6 },
+          { "topic": "Oligomenorrhea", "rating": 5 },
+          { "topic": "Polycystic ovaries", "rating": 5 }
+        ],
+
+        "PCOS : Part 2": [
+          { "topic": "Letrozole first line", "rating": 6 },
+          { "topic": "Metformin", "rating": 6 },
+          { "topic": "OCPs", "rating": 5 },
+          { "topic": "Infertility treatment", "rating": 6 },
+          { "topic": "Ovarian drilling", "rating": 4 },
+          { "topic": "Lifestyle modification", "rating": 4 },
+          { "topic": "Weight loss", "rating": 4 }
+        ],
+
+        "Endometriosis": [
+          { "topic": "Chocolate cyst", "rating": 6 },
+          { "topic": "Dysmenorrhea", "rating": 6 },
+          { "topic": "Dyspareunia", "rating": 5 },
+          { "topic": "Frozen pelvis", "rating": 5 },
+          { "topic": "Laparoscopy gold standard", "rating": 6 },
+          { "topic": "CA125", "rating": 4 },
+          { "topic": "Endometrioma", "rating": 5 },
+          { "topic": "Deep infiltrating endometriosis", "rating": 4 }
+        ],
+
+        "Fibroid": [
+          { "topic": "Leiomyoma", "rating": 6 },
+          { "topic": "Red degeneration", "rating": 6 },
+          { "topic": "FIGO classification", "rating": 5 },
+          { "topic": "Submucosal fibroid", "rating": 5 },
+          { "topic": "Intramural fibroid", "rating": 4 },
+          { "topic": "Myomectomy", "rating": 5 },
+          { "topic": "GnRH agonists", "rating": 4 }
+        ],
+
+        "Comparison of Fibroid Polyp and Adenomyosis": [
+          { "topic": "Boggy uterus", "rating": 5 },
+          { "topic": "Menorrhagia", "rating": 5 },
+          { "topic": "Dysmenorrhea", "rating": 5 },
+          { "topic": "Enlarged uterus", "rating": 4 },
+          { "topic": "Endometrial polyp", "rating": 4 },
+          { "topic": "Adenomyosis MRI findings", "rating": 4 }
+        ]
+      },
+
+      "Prolapse and Pelvic Floor": {
+
+        "Prolapse : Part 1": [
+          { "topic": "Uterine prolapse", "rating": 6 },
+          { "topic": "Cystocele", "rating": 5 },
+          { "topic": "Rectocele", "rating": 5 },
+          { "topic": "Enterocele", "rating": 4 },
+          { "topic": "Pelvic floor weakness", "rating": 5 },
+          { "topic": "Levator ani", "rating": 4 }
+        ],
+
+        "Prolapse : Part 2": [
+          { "topic": "POPQ staging", "rating": 5 },
+          { "topic": "Pessary", "rating": 4 },
+          { "topic": "Le Fort surgery", "rating": 4 },
+          { "topic": "Fothergill operation", "rating": 5 },
+          { "topic": "Vault prolapse", "rating": 5 },
+          { "topic": "Sling procedures", "rating": 4 }
+        ]
+      },
+
+      "Gynecologic Infections": {
+
+        "Vaginitis and Cervicitis": [
+          { "topic": "Bacterial vaginosis", "rating": 5 },
+          { "topic": "Clue cells", "rating": 6 },
+          { "topic": "Candida", "rating": 5 },
+          { "topic": "Trichomoniasis", "rating": 5 },
+          { "topic": "Strawberry cervix", "rating": 5 },
+          { "topic": "Whiff test", "rating": 4 },
+          { "topic": "Vaginal pH", "rating": 3 }
+        ],
+
+        "PID": [
+          { "topic": "Chandelier sign", "rating": 6 },
+          { "topic": "Fitz Hugh Curtis syndrome", "rating": 6 },
+          { "topic": "TO abscess", "rating": 5 },
+          { "topic": "Infertility", "rating": 5 },
+          { "topic": "Chronic pelvic pain", "rating": 4 },
+          { "topic": "Gonorrhea", "rating": 4 },
+          { "topic": "Chlamydia", "rating": 5 }
+        ],
+
+        "Genital Tuberculosis": [
+          { "topic": "Infertility", "rating": 6 },
+          { "topic": "Beaded tubes", "rating": 6 },
+          { "topic": "Asherman syndrome", "rating": 5 },
+          { "topic": "Endometrial biopsy", "rating": 5 },
+          { "topic": "PCR", "rating": 4 },
+          { "topic": "Menstrual irregularities", "rating": 4 }
+        ]
+      },
+
+
+
+      "Infertility and Contraception": {
+
+        "Female Infertility : Part 1": [
+          { "topic": "Infertility workup", "rating": 6 },
+          { "topic": "Ovulation assessment", "rating": 6 },
+          { "topic": "AMH", "rating": 6 },
+          { "topic": "Day 2 FSH", "rating": 5 },
+          { "topic": "AFC", "rating": 5 },
+          { "topic": "Semen analysis", "rating": 5 },
+          { "topic": "Tubal patency", "rating": 5 }
+        ],
+
+        "Female Infertility : Part 2": [
+          { "topic": "IVF", "rating": 6 },
+          { "topic": "ICSI", "rating": 6 },
+          { "topic": "OHSS", "rating": 6 },
+          { "topic": "Controlled ovarian stimulation", "rating": 5 },
+          { "topic": "Embryo transfer", "rating": 4 },
+          { "topic": "ART complications", "rating": 4 }
+        ],
+
+        "Male Infertility": [
+          { "topic": "Azoospermia", "rating": 5 },
+          { "topic": "Semen analysis", "rating": 6 },
+          { "topic": "Testosterone", "rating": 4 },
+          { "topic": "Varicocele", "rating": 5 },
+          { "topic": "Oligospermia", "rating": 4 }
+        ],
+
+        "Contraception : Part 1": [
+          { "topic": "CuT 380A", "rating": 6 },
+          { "topic": "OCPs", "rating": 6 },
+          { "topic": "Emergency contraception", "rating": 6 },
+          { "topic": "Pearl index", "rating": 5 },
+          { "topic": "Lactational amenorrhea", "rating": 5 },
+          { "topic": "WHO MEC", "rating": 5 }
+        ],
+
+        "Contraception : Part 2": [
+          { "topic": "Injectable contraception", "rating": 5 },
+          { "topic": "POP pills", "rating": 5 },
+          { "topic": "Sterilization", "rating": 6 },
+          { "topic": "Vasectomy", "rating": 5 },
+          { "topic": "Tubectomy", "rating": 5 },
+          { "topic": "Postpartum contraception", "rating": 5 }
+        ],
+
+        "Contraception : Images": [
+          { "topic": "CuT image", "rating": 6 },
+          { "topic": "LNG IUCD", "rating": 6 },
+          { "topic": "Condom image", "rating": 4 },
+          { "topic": "Ring pessary", "rating": 4 },
+          { "topic": "Instrument identification", "rating": 5 }
+        ]
+      },
+
+      "Gynec Oncology": {
+
+        "Endometrial Hyperplasia": [
+          { "topic": "Unopposed estrogen", "rating": 5 },
+          { "topic": "Atypia", "rating": 5 },
+          { "topic": "Endometrial thickness", "rating": 5 },
+          { "topic": "Hyperplasia without atypia", "rating": 4 }
+        ],
+
+        "Endometrial Cancer": [
+          { "topic": "Postmenopausal bleeding", "rating": 6 },
+          { "topic": "Type 1 carcinoma", "rating": 6 },
+          { "topic": "Lynch syndrome", "rating": 5 },
+          { "topic": "Obesity", "rating": 4 },
+          { "topic": "Tamoxifen", "rating": 4 },
+          { "topic": "Pipelle biopsy", "rating": 5 }
+        ],
+
+        "CIN : Part 1": [
+          { "topic": "HPV", "rating": 6 },
+          { "topic": "LSIL", "rating": 5 },
+          { "topic": "HSIL", "rating": 6 },
+          { "topic": "Pap smear", "rating": 6 },
+          { "topic": "Colposcopy", "rating": 6 },
+          { "topic": "VIA", "rating": 5 }
+        ],
+
+        "CIN : Part 2": [
+          { "topic": "Bethesda system", "rating": 6 },
+          { "topic": "LEEP", "rating": 5 },
+          { "topic": "Cryotherapy", "rating": 4 },
+          { "topic": "HPV vaccination", "rating": 6 },
+          { "topic": "Transformation zone", "rating": 6 }
+        ],
+
+        "Cancer Cervix": [
+          { "topic": "FIGO staging", "rating": 7 },
+          { "topic": "HPV 16/18", "rating": 7 },
+          { "topic": "Radical hysterectomy", "rating": 6 },
+          { "topic": "Concurrent chemoradiation", "rating": 6 },
+          { "topic": "Screening", "rating": 7 },
+          { "topic": "Schiller test", "rating": 5 },
+          { "topic": "Acetowhite lesion", "rating": 5 }
+        ],
+
+        "Ovarian Cancer : Part 1": [
+          { "topic": "Epithelial tumors", "rating": 6 },
+          { "topic": "CA125", "rating": 6 },
+          { "topic": "BRCA mutation", "rating": 6 },
+          { "topic": "Meigs syndrome", "rating": 5 },
+          { "topic": "Serous cystadenocarcinoma", "rating": 5 }
+        ],
+
+        "Ovarian Cancer : Part 2": [
+          { "topic": "Dysgerminoma", "rating": 6 },
+          { "topic": "AFP", "rating": 5 },
+          { "topic": "hCG", "rating": 5 },
+          { "topic": "Dermoid cyst", "rating": 5 },
+          { "topic": "Krukenberg tumor", "rating": 6 },
+          { "topic": "Yolk sac tumor", "rating": 5 }
+        ]
+      },
+
+      "Obstetrics": {
+
+        "Gametogenesis": [
+          { "topic": "Spermatogenesis", "rating": 4 },
+          { "topic": "Oogenesis", "rating": 4 },
+          { "topic": "Meiosis", "rating": 4 },
+          { "topic": "Polar body", "rating": 3 }
+        ],
+
+        "Fertilization and Implantation": [
+          { "topic": "Zona pellucida", "rating": 5 },
+          { "topic": "Syncytiotrophoblast", "rating": 5 },
+          { "topic": "hCG secretion", "rating": 6 },
+          { "topic": "Implantation timing", "rating": 6 },
+          { "topic": "Blastocyst", "rating": 4 }
+        ],
+
+        "Placenta": [
+          { "topic": "Placenta previa", "rating": 7 },
+          { "topic": "Placental circulation", "rating": 5 },
+          { "topic": "Placental anomalies", "rating": 5 },
+          { "topic": "Succenturiate placenta", "rating": 4 },
+          { "topic": "Battledore placenta", "rating": 3 }
+        ],
+
+        "Placental Hormones and Functions": [
+          { "topic": "hPL", "rating": 5 },
+          { "topic": "Progesterone", "rating": 4 },
+          { "topic": "Relaxin", "rating": 4 },
+          { "topic": "Estrogen", "rating": 4 }
+        ],
+
+        "Amniotic Fluid": [
+          { "topic": "AFI", "rating": 6 },
+          { "topic": "Polyhydramnios", "rating": 6 },
+          { "topic": "Oligohydramnios", "rating": 6 },
+          { "topic": "Meconium", "rating": 4 },
+          { "topic": "Potter sequence", "rating": 5 }
+        ],
+
+
+        "Basics of Pregnancy": [
+          { "topic": "Naegele rule", "rating": 6 },
+          { "topic": "Chadwick sign", "rating": 5 },
+          { "topic": "Hegar sign", "rating": 5 },
+          { "topic": "Pregnancy diagnosis", "rating": 6 },
+          { "topic": "Fundal height", "rating": 5 }
+        ],
+
+        "Umbilical Cord and Doppler": [
+          { "topic": "MCA Doppler", "rating": 6 },
+          { "topic": "Umbilical artery Doppler", "rating": 6 },
+          { "topic": "True knot", "rating": 4 },
+          { "topic": "Vasa previa", "rating": 6 },
+          { "topic": "Nuchal cord", "rating": 4 }
+        ],
+
+        "Antenatal Care": [
+          { "topic": "ANC visits", "rating": 6 },
+          { "topic": "TT vaccination", "rating": 5 },
+          { "topic": "Iron folic acid", "rating": 5 },
+          { "topic": "Weight gain", "rating": 4 },
+          { "topic": "High risk pregnancy", "rating": 6 }
+        ],
+
+        "Ultrasound in Pregnancy": [
+          { "topic": "NT scan", "rating": 6 },
+          { "topic": "BPD", "rating": 5 },
+          { "topic": "CRL", "rating": 6 },
+          { "topic": "Dating scan", "rating": 6 },
+          { "topic": "Anomaly scan", "rating": 6 },
+          { "topic": "Femur length", "rating": 4 }
+        ],
+
+        "Aneuploidy Screening": [
+          { "topic": "Double marker", "rating": 6 },
+          { "topic": "Triple marker", "rating": 6 },
+          { "topic": "Quadruple marker", "rating": 6 },
+          { "topic": "NIPT", "rating": 7 },
+          { "topic": "Down syndrome markers", "rating": 6 }
+        ],
+
+        "Antepartum Fetal Monitoring": [
+          { "topic": "NST", "rating": 7 },
+          { "topic": "CST", "rating": 6 },
+          { "topic": "BPP", "rating": 6 },
+          { "topic": "Doppler", "rating": 6 },
+          { "topic": "CTG", "rating": 7 },
+          { "topic": "Reactive NST", "rating": 5 }
+        ],
+
+        "Intrapartum Fetal Monitoring": [
+          { "topic": "Early deceleration", "rating": 6 },
+          { "topic": "Late deceleration", "rating": 7 },
+          { "topic": "Variable deceleration", "rating": 7 },
+          { "topic": "Fetal distress", "rating": 7 },
+          { "topic": "Uteroplacental insufficiency", "rating": 5 }
+        ],
+
+        "Maternal Adaptations in Pregnancy": [
+          { "topic": "Physiological anemia", "rating": 5 },
+          { "topic": "Respiratory changes", "rating": 4 },
+          { "topic": "Cardiac output", "rating": 4 },
+          { "topic": "Hypercoagulability", "rating": 5 }
+        ],
+
+        "Anemia in Pregnancy": [
+          { "topic": "Iron deficiency anemia", "rating": 7 },
+          { "topic": "Parenteral iron", "rating": 5 },
+          { "topic": "Megaloblastic anemia", "rating": 5 },
+          { "topic": "Blood transfusion", "rating": 4 }
+        ],
+
+        "Drugs in Pregnancy": [
+          { "topic": "Teratogenic drugs", "rating": 7 },
+          { "topic": "ACE inhibitors", "rating": 6 },
+          { "topic": "Warfarin", "rating": 6 },
+          { "topic": "Antiepileptics", "rating": 5 },
+          { "topic": "Isotretinoin", "rating": 6 }
+        ],
+
+        "Heart Disease in Pregnancy": [
+          { "topic": "Mitral stenosis", "rating": 6 },
+          { "topic": "NYHA classification", "rating": 5 },
+          { "topic": "Eisenmenger syndrome", "rating": 6 },
+          { "topic": "Cardiac failure pregnancy", "rating": 5 }
+        ],
+
+        "Diabetes in Pregnancy": [
+          { "topic": "DIPSI", "rating": 7 },
+          { "topic": "OGTT", "rating": 7 },
+          { "topic": "Macrosomia", "rating": 6 },
+          { "topic": "Insulin", "rating": 6 },
+          { "topic": "Neonatal hypoglycemia", "rating": 5 }
+        ],
+
+        "Pregnancy Induced Hypertension": [
+          { "topic": "Preeclampsia", "rating": 8 },
+          { "topic": "Eclampsia", "rating": 8 },
+          { "topic": "HELLP syndrome", "rating": 7 },
+          { "topic": "Magnesium sulfate", "rating": 8 },
+          { "topic": "Severe features", "rating": 7 },
+          { "topic": "Antihypertensives", "rating": 6 }
+        ],
+
+        "Liver Disorders in Pregnancy": [
+          { "topic": "AFLP", "rating": 6 },
+          { "topic": "HELLP", "rating": 7 },
+          { "topic": "ICP", "rating": 6 },
+          { "topic": "Hyperemesis gravidarum LFTs", "rating": 5 }
+        ],
+
+        "Rh Negative Pregnancy": [
+          { "topic": "Anti D", "rating": 7 },
+          { "topic": "ICT", "rating": 6 },
+          { "topic": "Hydrops fetalis", "rating": 6 },
+          { "topic": "MCA PSV Doppler", "rating": 6 },
+          { "topic": "Kleihauer Betke test", "rating": 5 }
+        ],
+
+        "Abortion": [
+          { "topic": "Threatened abortion", "rating": 6 },
+          { "topic": "Missed abortion", "rating": 6 },
+          { "topic": "Septic abortion", "rating": 6 },
+          { "topic": "Incomplete abortion", "rating": 5 },
+          { "topic": "Complete abortion", "rating": 4 }
+        ],
+
+        "Medical Termination of Pregnancy": [
+          { "topic": "MTP act", "rating": 7 },
+          { "topic": "Mifepristone", "rating": 6 },
+          { "topic": "Misoprostol", "rating": 6 },
+          { "topic": "Indications", "rating": 5 },
+          { "topic": "Consent", "rating": 5 }
+        ],
+
+        "Ectopic Pregnancy": [
+          { "topic": "Ampullary ectopic", "rating": 8 },
+          { "topic": "Methotrexate", "rating": 7 },
+          { "topic": "Ruptured ectopic", "rating": 8 },
+          { "topic": "Discriminatory zone", "rating": 6 },
+          { "topic": "Culdocentesis", "rating": 5 }
+        ],
+
+        "Gestational Trophoblastic Disease": [
+          { "topic": "Complete mole", "rating": 8 },
+          { "topic": "Partial mole", "rating": 7 },
+          { "topic": "Snowstorm appearance", "rating": 8 },
+          { "topic": "Choriocarcinoma", "rating": 7 },
+          { "topic": "Beta hCG monitoring", "rating": 7 }
+        ],
+
+
+
+        "Antepartum Hemorrhage": [
+          { "topic": "Placenta previa", "rating": 8 },
+          { "topic": "Abruptio placentae", "rating": 8 },
+          { "topic": "Couvelaire uterus", "rating": 7 },
+          { "topic": "Painful bleeding", "rating": 7 },
+          { "topic": "Painless bleeding", "rating": 7 }
+        ],
+
+        "Placenta Accreta Spectrum": [
+          { "topic": "Placenta accreta", "rating": 7 },
+          { "topic": "Placenta increta", "rating": 6 },
+          { "topic": "Placenta percreta", "rating": 6 },
+          { "topic": "Cesarean hysterectomy", "rating": 5 }
+        ],
+
+        "Twin Pregnancy": [
+          { "topic": "TTTS", "rating": 7 },
+          { "topic": "Lambda sign", "rating": 6 },
+          { "topic": "T sign", "rating": 6 },
+          { "topic": "Chorionicity", "rating": 7 },
+          { "topic": "Monoamniotic twins", "rating": 5 }
+        ],
+
+        "Preterm Labor": [
+          { "topic": "Tocolytics", "rating": 7 },
+          { "topic": "Betamethasone", "rating": 7 },
+          { "topic": "Cerclage", "rating": 6 },
+          { "topic": "Cervical incompetence", "rating": 6 }
+        ],
+
+        "PROM and PPROM": [
+          { "topic": "Nitrazine test", "rating": 6 },
+          { "topic": "Fern test", "rating": 6 },
+          { "topic": "PPROM", "rating": 7 },
+          { "topic": "Chorioamnionitis", "rating": 6 }
+        ]
+      },
+
+      "Labor and Delivery": {
+
+        "Maternal Pelvis": [
+          { "topic": "Gynecoid pelvis", "rating": 7 },
+          { "topic": "Android pelvis", "rating": 6 },
+          { "topic": "Anthropoid pelvis", "rating": 5 },
+          { "topic": "Platypelloid pelvis", "rating": 5 },
+          { "topic": "Contracted pelvis", "rating": 6 }
+        ],
+
+        "Stages of Labor": [
+          { "topic": "Friedman curve", "rating": 7 },
+          { "topic": "Active labor", "rating": 7 },
+          { "topic": "Cervical dilatation", "rating": 6 },
+          { "topic": "Labor mechanics", "rating": 6 }
+        ],
+
+        "Partogram": [
+          { "topic": "Alert line", "rating": 7 },
+          { "topic": "Action line", "rating": 7 },
+          { "topic": "Cervical dilatation", "rating": 6 },
+          { "topic": "Monitoring labor", "rating": 6 }
+        ],
+
+        "Normal Labor": [
+          { "topic": "Cardinal movements", "rating": 7 },
+          { "topic": "Engagement", "rating": 6 },
+          { "topic": "Internal rotation", "rating": 6 },
+          { "topic": "Extension", "rating": 5 }
+        ],
+
+        "Induction of Labor": [
+          { "topic": "Bishop score", "rating": 7 },
+          { "topic": "Oxytocin", "rating": 7 },
+          { "topic": "Prostaglandins", "rating": 6 },
+          { "topic": "Foley catheter", "rating": 5 }
+        ],
+
+        "Active Management of Third Stage of Labor": [
+          { "topic": "Oxytocin", "rating": 8 },
+          { "topic": "Cord traction", "rating": 6 },
+          { "topic": "Uterine massage", "rating": 6 },
+          { "topic": "PPH prevention", "rating": 8 }
+        ],
+
+        "Postpartum Hemorrhage": [
+          { "topic": "Uterine atony", "rating": 9 },
+          { "topic": "4 Ts", "rating": 8 },
+          { "topic": "Carboprost", "rating": 7 },
+          { "topic": "Bakri balloon", "rating": 7 },
+          { "topic": "B Lynch suture", "rating": 8 },
+          { "topic": "Massive transfusion", "rating": 5 }
+        ],
+
+        "Vulval Hematoma Perineal Tear and Episiotomy": [
+          { "topic": "Episiotomy types", "rating": 6 },
+          { "topic": "3rd degree tear", "rating": 6 },
+          { "topic": "4th degree tear", "rating": 6 },
+          { "topic": "Repair", "rating": 5 }
+        ],
+
+        "Malpresentation : Part 1": [
+          { "topic": "Breech", "rating": 8 },
+          { "topic": "Face presentation", "rating": 7 },
+          { "topic": "Brow presentation", "rating": 6 },
+          { "topic": "External cephalic version", "rating": 6 }
+        ],
+
+        "Malpresentation : Part 2": [
+          { "topic": "OP position", "rating": 7 },
+          { "topic": "Deep transverse arrest", "rating": 7 },
+          { "topic": "Shoulder dystocia", "rating": 8 },
+          { "topic": "McRoberts maneuver", "rating": 8 }
+        ],
+
+        "Instrumental Delivery": [
+          { "topic": "Forceps", "rating": 7 },
+          { "topic": "Vacuum delivery", "rating": 7 },
+          { "topic": "Kielland forceps", "rating": 6 },
+          { "topic": "Outlet forceps", "rating": 5 }
+        ],
+
+        "Cesarean Section": [
+          { "topic": "LSCS", "rating": 7 },
+          { "topic": "VBAC", "rating": 7 },
+          { "topic": "Indications", "rating": 6 },
+          { "topic": "Complications", "rating": 6 },
+          { "topic": "Scar rupture", "rating": 6 }
+        ],
+
+        "Puerperium": [
+          { "topic": "Lactation", "rating": 6 },
+          { "topic": "Mastitis", "rating": 6 },
+          { "topic": "Sheehan syndrome", "rating": 7 },
+          { "topic": "Postpartum blues", "rating": 5 },
+          { "topic": "Postpartum depression", "rating": 6 }
+        ]
+      }
+    },
+
+
+    "PYQs": {
+
+      "General Gynecology": {
+
+        "Applied Anatomy : Introduction and Uterine Artery": [
+          {
+            "topic": "Water under bridge",
+            "question": "Structure passing below uterine artery?",
+            "answer": "Ureter"
+          },
+          {
+            "topic": "Cardinal ligament",
+            "question": "Most important support of uterus?",
+            "answer": "Cardinal ligament"
+          },
+          {
+            "topic": "Pudendal nerve",
+            "question": "Main nerve supplying perineum?",
+            "answer": "Pudendal nerve"
+          },
+          {
+            "topic": "Broad ligament",
+            "question": "Peritoneal fold supporting uterus is?",
+            "answer": "Broad ligament"
+          },
+          {
+            "topic": "Uterine artery",
+            "question": "Branch of internal iliac artery supplying uterus?",
+            "answer": "Uterine artery"
+          }
+        ],
+
+        "Applied Anatomy : Cervix and Vagina": [
+          {
+            "topic": "Transformation zone",
+            "question": "Most common site for cervical dysplasia?",
+            "answer": "Transformation zone"
+          },
+          {
+            "topic": "Squamocolumnar junction",
+            "question": "Pap smear is taken from which area?",
+            "answer": "Squamocolumnar junction"
+          },
+          {
+            "topic": "Nabothian cyst",
+            "question": "Retention cyst of cervix is called?",
+            "answer": "Nabothian cyst"
+          },
+          {
+            "topic": "Posterior fornix",
+            "question": "Most important vaginal fornix clinically?",
+            "answer": "Posterior fornix"
+          }
+        ],
+
+        "Investigations in Gynecology : Hysteroscopy and HSG": [
+          {
+            "topic": "HSG",
+            "question": "Best initial test for tubal patency?",
+            "answer": "HSG"
+          },
+          {
+            "topic": "Asherman syndrome",
+            "question": "Intrauterine adhesions are seen in?",
+            "answer": "Asherman syndrome"
+          },
+          {
+            "topic": "Hysteroscopy",
+            "question": "Gold standard for diagnosis of intrauterine pathology?",
+            "answer": "Hysteroscopy"
+          },
+          {
+            "topic": "Schiller test",
+            "question": "Test using Lugol iodine in cervix evaluation?",
+            "answer": "Schiller test"
+          }
+        ]
+      },
+
+      "Development and DSD": {
+
+        "Development of Female Internal Genitalia": [
+          {
+            "topic": "Mullerian ducts",
+            "question": "Female internal genital organs develop from?",
+            "answer": "Mullerian ducts"
+          },
+          {
+            "topic": "Septate uterus",
+            "question": "Most common Mullerian anomaly?",
+            "answer": "Septate uterus"
+          },
+          {
+            "topic": "Bicornuate uterus",
+            "question": "Heart-shaped uterus occurs in?",
+            "answer": "Bicornuate uterus"
+          }
+        ],
+
+        "Development of Vagina and Transverse Vaginal Septum": [
+          {
+            "topic": "Imperforate hymen",
+            "question": "Most common cause of cryptomenorrhea?",
+            "answer": "Imperforate hymen"
+          },
+          {
+            "topic": "Hematocolpos",
+            "question": "Collection of menstrual blood in vagina is called?",
+            "answer": "Hematocolpos"
+          }
+        ],
+
+        "Disorders of Sexual Development (46XX)": [
+          {
+            "topic": "21 hydroxylase deficiency",
+            "question": "Most common cause of CAH?",
+            "answer": "21 hydroxylase deficiency"
+          },
+          {
+            "topic": "CAH",
+            "question": "Most common cause of ambiguous genitalia in female?",
+            "answer": "CAH"
+          }
+        ],
+
+        "Disorders of Sexual Development (46XY)": [
+          {
+            "topic": "Androgen insensitivity syndrome",
+            "question": "46XY individual with female phenotype?",
+            "answer": "Androgen insensitivity syndrome"
+          },
+          {
+            "topic": "5 alpha reductase deficiency",
+            "question": "Defect in conversion of testosterone to DHT?",
+            "answer": "5 alpha reductase deficiency"
+          }
+        ]
+      },
+
+      "Menstrual and Endocrine": {
+
+        "Menstrual Cycle": [
+          {
+            "topic": "LH surge",
+            "question": "Hormone directly responsible for ovulation?",
+            "answer": "LH surge"
+          },
+          {
+            "topic": "Progesterone",
+            "question": "Hormone responsible for rise in basal body temperature?",
+            "answer": "Progesterone"
+          },
+          {
+            "topic": "Secretory endometrium",
+            "question": "Endometrium under progesterone effect becomes?",
+            "answer": "Secretory endometrium"
+          }
+        ],
+
+        "Hormones in Gynecology : Part 1": [
+          {
+            "topic": "Letrozole",
+            "question": "First line ovulation induction drug in PCOS?",
+            "answer": "Letrozole"
+          },
+          {
+            "topic": "Clomiphene",
+            "question": "SERM used for ovulation induction?",
+            "answer": "Clomiphene"
+          },
+          {
+            "topic": "GnRH agonists",
+            "question": "Drug causing flare phenomenon?",
+            "answer": "GnRH agonists"
+          }
+        ],
+
+        "Hormones in Gynecology : Part 2": [
+          {
+            "topic": "Tamoxifen",
+            "question": "SERM associated with endometrial carcinoma risk?",
+            "answer": "Tamoxifen"
+          },
+          {
+            "topic": "Raloxifene",
+            "question": "SERM not associated with endometrial carcinoma?",
+            "answer": "Raloxifene"
+          }
+        ]
+      },
+
+      "Puberty and Amenorrhea": {
+
+        "Primary Amenorrhea": [
+          {
+            "topic": "Turner syndrome",
+            "question": "Most common chromosomal abnormality causing primary amenorrhea?",
+            "answer": "Turner syndrome"
+          },
+          {
+            "topic": "MRKH syndrome",
+            "question": "Primary amenorrhea with absent uterus and normal ovaries?",
+            "answer": "MRKH syndrome"
+          },
+          {
+            "topic": "AIS",
+            "question": "Primary amenorrhea with testes and female phenotype?",
+            "answer": "AIS"
+          }
+        ],
+
+        "Secondary Amenorrhea": [
+          {
+            "topic": "Pregnancy",
+            "question": "Most common cause of secondary amenorrhea?",
+            "answer": "Pregnancy"
+          },
+          {
+            "topic": "Sheehan syndrome",
+            "question": "Postpartum pituitary necrosis causes?",
+            "answer": "Sheehan syndrome"
+          },
+          {
+            "topic": "Asherman syndrome",
+            "question": "Amenorrhea following curettage is due to?",
+            "answer": "Asherman syndrome"
+          }
+        ]
+      },
+
+
+
+      "AUB PCOS Endometriosis": {
+
+        "Atypical Uterine Bleeding": [
+          {
+            "topic": "PALM COEIN",
+            "question": "FIGO classification system used for AUB?",
+            "answer": "PALM COEIN"
+          },
+          {
+            "topic": "Mirena",
+            "question": "Most effective medical treatment for heavy menstrual bleeding?",
+            "answer": "LNG IUCD (Mirena)"
+          },
+          {
+            "topic": "Endometrial hyperplasia",
+            "question": "Most common pathology in postmenopausal bleeding?",
+            "answer": "Endometrial hyperplasia"
+          }
+        ],
+
+        "PCOS : Part 1": [
+          {
+            "topic": "Rotterdam criteria",
+            "question": "Diagnostic criteria used for PCOS?",
+            "answer": "Rotterdam criteria"
+          },
+          {
+            "topic": "Insulin resistance",
+            "question": "Most common metabolic abnormality in PCOS?",
+            "answer": "Insulin resistance"
+          },
+          {
+            "topic": "Hyperandrogenism",
+            "question": "Most characteristic endocrine feature of PCOS?",
+            "answer": "Hyperandrogenism"
+          }
+        ],
+
+        "PCOS : Part 2": [
+          {
+            "topic": "Letrozole",
+            "question": "Drug of choice for ovulation induction in PCOS?",
+            "answer": "Letrozole"
+          },
+          {
+            "topic": "Metformin",
+            "question": "Drug used for insulin resistance in PCOS?",
+            "answer": "Metformin"
+          },
+          {
+            "topic": "Ovarian drilling",
+            "question": "Laparoscopic treatment for clomiphene-resistant PCOS?",
+            "answer": "Ovarian drilling"
+          }
+        ],
+
+        "Endometriosis": [
+          {
+            "topic": "Chocolate cyst",
+            "question": "Ovarian cyst seen in endometriosis?",
+            "answer": "Chocolate cyst"
+          },
+          {
+            "topic": "Laparoscopy",
+            "question": "Gold standard diagnosis of endometriosis?",
+            "answer": "Laparoscopy"
+          },
+          {
+            "topic": "Dysmenorrhea",
+            "question": "Most common symptom of endometriosis?",
+            "answer": "Dysmenorrhea"
+          },
+          {
+            "topic": "Frozen pelvis",
+            "question": "Severe adhesions in endometriosis lead to?",
+            "answer": "Frozen pelvis"
+          }
+        ],
+
+        "Fibroid": [
+          {
+            "topic": "Leiomyoma",
+            "question": "Most common benign tumor of uterus?",
+            "answer": "Leiomyoma"
+          },
+          {
+            "topic": "Red degeneration",
+            "question": "Most common degeneration in pregnancy-associated fibroid?",
+            "answer": "Red degeneration"
+          },
+          {
+            "topic": "Submucosal fibroid",
+            "question": "Fibroid most commonly associated with infertility?",
+            "answer": "Submucosal fibroid"
+          }
+        ],
+
+        "Comparison of Fibroid Polyp and Adenomyosis": [
+          {
+            "topic": "Adenomyosis",
+            "question": "Boggy enlarged tender uterus is seen in?",
+            "answer": "Adenomyosis"
+          },
+          {
+            "topic": "Endometrial polyp",
+            "question": "Most common cause of intermenstrual bleeding?",
+            "answer": "Endometrial polyp"
+          }
+        ]
+      },
+
+      "Prolapse and Pelvic Floor": {
+
+        "Prolapse : Part 1": [
+          {
+            "topic": "Cystocele",
+            "question": "Anterior vaginal wall prolapse causes?",
+            "answer": "Cystocele"
+          },
+          {
+            "topic": "Rectocele",
+            "question": "Posterior vaginal wall prolapse causes?",
+            "answer": "Rectocele"
+          },
+          {
+            "topic": "Uterine prolapse",
+            "question": "Most common cause of prolapse?",
+            "answer": "Pelvic floor weakness"
+          }
+        ],
+
+        "Prolapse : Part 2": [
+          {
+            "topic": "POPQ staging",
+            "question": "Standard classification system for pelvic organ prolapse?",
+            "answer": "POPQ staging"
+          },
+          {
+            "topic": "Fothergill operation",
+            "question": "Manchester repair is also called?",
+            "answer": "Fothergill operation"
+          },
+          {
+            "topic": "Vault prolapse",
+            "question": "Most common prolapse after hysterectomy?",
+            "answer": "Vault prolapse"
+          }
+        ]
+      },
+
+      "Gynecologic Infections": {
+
+        "Vaginitis and Cervicitis": [
+          {
+            "topic": "Clue cells",
+            "question": "Diagnostic finding in bacterial vaginosis?",
+            "answer": "Clue cells"
+          },
+          {
+            "topic": "Strawberry cervix",
+            "question": "Characteristic finding in Trichomoniasis?",
+            "answer": "Strawberry cervix"
+          },
+          {
+            "topic": "Candida",
+            "question": "Most common fungal vaginitis?",
+            "answer": "Candida"
+          },
+          {
+            "topic": "Whiff test",
+            "question": "Positive amine odor test occurs in?",
+            "answer": "Bacterial vaginosis"
+          }
+        ],
+
+        "PID": [
+          {
+            "topic": "Chandelier sign",
+            "question": "Cervical motion tenderness is called?",
+            "answer": "Chandelier sign"
+          },
+          {
+            "topic": "Fitz Hugh Curtis syndrome",
+            "question": "Perihepatitis associated with PID is?",
+            "answer": "Fitz Hugh Curtis syndrome"
+          },
+          {
+            "topic": "TO abscess",
+            "question": "Most severe complication of PID?",
+            "answer": "TO abscess"
+          }
+        ],
+
+        "Genital Tuberculosis": [
+          {
+            "topic": "Infertility",
+            "question": "Most common presentation of genital tuberculosis?",
+            "answer": "Infertility"
+          },
+          {
+            "topic": "Beaded tubes",
+            "question": "Characteristic HSG finding in genital TB?",
+            "answer": "Beaded tubes"
+          },
+          {
+            "topic": "Endometrial biopsy",
+            "question": "Most definitive investigation for genital tuberculosis?",
+            "answer": "Endometrial biopsy"
+          }
+        ]
+      },
+
+      "Infertility and Contraception": {
+
+        "Female Infertility : Part 1": [
+          {
+            "topic": "AMH",
+            "question": "Best marker for ovarian reserve?",
+            "answer": "AMH"
+          },
+          {
+            "topic": "Semen analysis",
+            "question": "First investigation in infertility workup?",
+            "answer": "Semen analysis"
+          },
+          {
+            "topic": "HSG",
+            "question": "Initial test for tubal patency in infertility?",
+            "answer": "HSG"
+          }
+        ],
+
+        "Female Infertility : Part 2": [
+          {
+            "topic": "IVF",
+            "question": "Most effective ART procedure?",
+            "answer": "IVF"
+          },
+          {
+            "topic": "ICSI",
+            "question": "Preferred ART in severe male infertility?",
+            "answer": "ICSI"
+          },
+          {
+            "topic": "OHSS",
+            "question": "Most dangerous complication of ovulation induction?",
+            "answer": "OHSS"
+          }
+        ],
+
+        "Contraception : Part 1": [
+          {
+            "topic": "CuT 380A",
+            "question": "Most commonly used IUCD in India?",
+            "answer": "CuT 380A"
+          },
+          {
+            "topic": "Emergency contraception",
+            "question": "Most commonly used emergency contraceptive pill?",
+            "answer": "Levonorgestrel"
+          },
+          {
+            "topic": "Pearl index",
+            "question": "Contraceptive efficacy is measured by?",
+            "answer": "Pearl index"
+          }
+        ],
+
+        "Contraception : Part 2": [
+          {
+            "topic": "Vasectomy",
+            "question": "Most effective permanent male contraception?",
+            "answer": "Vasectomy"
+          },
+          {
+            "topic": "Tubectomy",
+            "question": "Most common permanent female sterilization method?",
+            "answer": "Tubectomy"
+          },
+          {
+            "topic": "POP pills",
+            "question": "Preferred oral contraceptive during lactation?",
+            "answer": "POP pills"
+          }
+        ]
+      },
+
+
+
+
+      "Gynec Oncology": {
+
+        "Endometrial Hyperplasia": [
+          {
+            "topic": "Unopposed estrogen",
+            "question": "Main etiological factor for endometrial hyperplasia?",
+            "answer": "Unopposed estrogen"
+          },
+          {
+            "topic": "Atypia",
+            "question": "Most important predictor of progression to carcinoma in endometrial hyperplasia?",
+            "answer": "Atypia"
+          }
+        ],
+
+        "Endometrial Cancer": [
+          {
+            "topic": "Postmenopausal bleeding",
+            "question": "Most common presentation of endometrial carcinoma?",
+            "answer": "Postmenopausal bleeding"
+          },
+          {
+            "topic": "Type 1 carcinoma",
+            "question": "Most common type of endometrial carcinoma?",
+            "answer": "Type 1 endometrioid carcinoma"
+          },
+          {
+            "topic": "Lynch syndrome",
+            "question": "Hereditary syndrome associated with endometrial carcinoma?",
+            "answer": "Lynch syndrome"
+          },
+          {
+            "topic": "Pipelle biopsy",
+            "question": "Office procedure used for endometrial sampling?",
+            "answer": "Pipelle biopsy"
+          }
+        ],
+
+        "CIN : Part 1": [
+          {
+            "topic": "HPV",
+            "question": "Most important etiological factor for cervical carcinoma?",
+            "answer": "HPV"
+          },
+          {
+            "topic": "HSIL",
+            "question": "High grade cervical lesion corresponds to?",
+            "answer": "HSIL"
+          },
+          {
+            "topic": "Pap smear",
+            "question": "Best screening test for cervical carcinoma?",
+            "answer": "Pap smear"
+          },
+          {
+            "topic": "Colposcopy",
+            "question": "Investigation used after abnormal Pap smear?",
+            "answer": "Colposcopy"
+          }
+        ],
+
+        "CIN : Part 2": [
+          {
+            "topic": "Bethesda system",
+            "question": "Reporting system used for Pap smear?",
+            "answer": "Bethesda system"
+          },
+          {
+            "topic": "LEEP",
+            "question": "Procedure commonly used for HSIL treatment?",
+            "answer": "LEEP"
+          },
+          {
+            "topic": "HPV vaccination",
+            "question": "Most important preventive strategy for cervical cancer?",
+            "answer": "HPV vaccination"
+          }
+        ],
+
+        "Cancer Cervix": [
+          {
+            "topic": "HPV 16 and 18",
+            "question": "Most common HPV strains associated with cervical carcinoma?",
+            "answer": "HPV 16 and 18"
+          },
+          {
+            "topic": "FIGO staging",
+            "question": "Staging system used for cervical carcinoma?",
+            "answer": "FIGO staging"
+          },
+          {
+            "topic": "Radical hysterectomy",
+            "question": "Standard surgery for early cervical carcinoma?",
+            "answer": "Radical hysterectomy"
+          },
+          {
+            "topic": "Concurrent chemoradiation",
+            "question": "Preferred treatment for advanced cervical carcinoma?",
+            "answer": "Concurrent chemoradiation"
+          },
+          {
+            "topic": "Acetowhite lesion",
+            "question": "Characteristic colposcopy finding in CIN?",
+            "answer": "Acetowhite lesion"
+          }
+        ],
+
+        "Ovarian Cancer : Part 1": [
+          {
+            "topic": "CA125",
+            "question": "Most commonly used tumor marker in epithelial ovarian cancer?",
+            "answer": "CA125"
+          },
+          {
+            "topic": "BRCA mutation",
+            "question": "Gene mutation strongly associated with ovarian carcinoma?",
+            "answer": "BRCA mutation"
+          },
+          {
+            "topic": "Meigs syndrome",
+            "question": "Triad of ovarian fibroma ascites and pleural effusion?",
+            "answer": "Meigs syndrome"
+          }
+        ],
+
+        "Ovarian Cancer : Part 2": [
+          {
+            "topic": "Dysgerminoma",
+            "question": "Most common malignant germ cell tumor of ovary?",
+            "answer": "Dysgerminoma"
+          },
+          {
+            "topic": "Dermoid cyst",
+            "question": "Most common benign ovarian germ cell tumor?",
+            "answer": "Dermoid cyst"
+          },
+          {
+            "topic": "Krukenberg tumor",
+            "question": "Bilateral ovarian metastasis commonly from stomach?",
+            "answer": "Krukenberg tumor"
+          },
+          {
+            "topic": "AFP",
+            "question": "Tumor marker elevated in yolk sac tumor?",
+            "answer": "AFP"
+          }
+        ]
+      },
+
+      "Obstetrics": {
+
+        "Fertilization and Implantation": [
+          {
+            "topic": "Implantation timing",
+            "question": "Implantation usually occurs how many days after fertilization?",
+            "answer": "6 to 7 days"
+          },
+          {
+            "topic": "hCG secretion",
+            "question": "Hormone secreted by syncytiotrophoblast?",
+            "answer": "hCG"
+          },
+          {
+            "topic": "Blastocyst",
+            "question": "Stage of embryo that implants into endometrium?",
+            "answer": "Blastocyst"
+          }
+        ],
+
+        "Placenta": [
+          {
+            "topic": "Placenta previa",
+            "question": "Painless bleeding in third trimester is due to?",
+            "answer": "Placenta previa"
+          },
+          {
+            "topic": "Succenturiate placenta",
+            "question": "Accessory placental lobe is called?",
+            "answer": "Succenturiate placenta"
+          },
+          {
+            "topic": "Battledore placenta",
+            "question": "Marginal insertion of umbilical cord is?",
+            "answer": "Battledore placenta"
+          }
+        ],
+
+        "Amniotic Fluid": [
+          {
+            "topic": "Polyhydramnios",
+            "question": "Most common fetal anomaly associated with polyhydramnios?",
+            "answer": "Anencephaly"
+          },
+          {
+            "topic": "Oligohydramnios",
+            "question": "Most common cause of Potter sequence?",
+            "answer": "Oligohydramnios"
+          },
+          {
+            "topic": "AFI",
+            "question": "Amniotic fluid volume is assessed by?",
+            "answer": "AFI"
+          }
+        ],
+
+        "Basics of Pregnancy": [
+          {
+            "topic": "Naegele rule",
+            "question": "EDD is calculated using?",
+            "answer": "Naegele rule"
+          },
+          {
+            "topic": "Chadwick sign",
+            "question": "Bluish discoloration of cervix in pregnancy is?",
+            "answer": "Chadwick sign"
+          },
+          {
+            "topic": "Hegar sign",
+            "question": "Softening of lower uterine segment is?",
+            "answer": "Hegar sign"
+          }
+        ],
+
+        "Ultrasound in Pregnancy": [
+          {
+            "topic": "CRL",
+            "question": "Most accurate parameter for dating first trimester pregnancy?",
+            "answer": "CRL"
+          },
+          {
+            "topic": "NT scan",
+            "question": "First trimester screening scan for aneuploidy?",
+            "answer": "NT scan"
+          },
+          {
+            "topic": "Anomaly scan",
+            "question": "Targeted ultrasound done at 18–22 weeks?",
+            "answer": "Anomaly scan"
+          }
+        ],
+
+
+        "Aneuploidy Screening": [
+          {
+            "topic": "Double marker",
+            "question": "First trimester screening test for Down syndrome?",
+            "answer": "Double marker test"
+          },
+          {
+            "topic": "Quadruple marker",
+            "question": "Second trimester screening test with highest sensitivity?",
+            "answer": "Quadruple marker"
+          },
+          {
+            "topic": "NIPT",
+            "question": "Most sensitive noninvasive screening test for aneuploidy?",
+            "answer": "NIPT"
+          },
+          {
+            "topic": "Down syndrome markers",
+            "question": "Most common chromosomal abnormality screened antenatally?",
+            "answer": "Down syndrome"
+          }
+        ],
+
+        "Antepartum Fetal Monitoring": [
+          {
+            "topic": "NST",
+            "question": "Most commonly used antenatal fetal surveillance test?",
+            "answer": "NST"
+          },
+          {
+            "topic": "Reactive NST",
+            "question": "Presence of two accelerations in 20 minutes indicates?",
+            "answer": "Reactive NST"
+          },
+          {
+            "topic": "Biophysical profile",
+            "question": "Ultrasound combined fetal surveillance score?",
+            "answer": "Biophysical profile"
+          },
+          {
+            "topic": "Doppler",
+            "question": "Best fetal surveillance tool in IUGR?",
+            "answer": "Doppler study"
+          }
+        ],
+
+        "Intrapartum Fetal Monitoring": [
+          {
+            "topic": "Late deceleration",
+            "question": "Most ominous CTG finding indicating uteroplacental insufficiency?",
+            "answer": "Late deceleration"
+          },
+          {
+            "topic": "Variable deceleration",
+            "question": "Cord compression causes which deceleration?",
+            "answer": "Variable deceleration"
+          },
+          {
+            "topic": "Early deceleration",
+            "question": "Head compression causes which deceleration?",
+            "answer": "Early deceleration"
+          },
+          {
+            "topic": "Fetal distress",
+            "question": "Persistent late decelerations indicate?",
+            "answer": "Fetal distress"
+          }
+        ],
+
+        "Anemia in Pregnancy": [
+          {
+            "topic": "Iron deficiency anemia",
+            "question": "Most common anemia during pregnancy?",
+            "answer": "Iron deficiency anemia"
+          },
+          {
+            "topic": "Parenteral iron",
+            "question": "Preferred treatment in severe anemia during late pregnancy?",
+            "answer": "Parenteral iron"
+          },
+          {
+            "topic": "Megaloblastic anemia",
+            "question": "Most common cause of megaloblastic anemia in pregnancy?",
+            "answer": "Folate deficiency"
+          }
+        ],
+
+        "Drugs in Pregnancy": [
+          {
+            "topic": "Warfarin",
+            "question": "Anticoagulant contraindicated during pregnancy?",
+            "answer": "Warfarin"
+          },
+          {
+            "topic": "ACE inhibitors",
+            "question": "Antihypertensives contraindicated in pregnancy?",
+            "answer": "ACE inhibitors"
+          },
+          {
+            "topic": "Isotretinoin",
+            "question": "Most teratogenic acne drug?",
+            "answer": "Isotretinoin"
+          }
+        ],
+
+        "Diabetes in Pregnancy": [
+          {
+            "topic": "OGTT",
+            "question": "Diagnostic test for gestational diabetes?",
+            "answer": "OGTT"
+          },
+          {
+            "topic": "Macrosomia",
+            "question": "Most common fetal complication of maternal diabetes?",
+            "answer": "Macrosomia"
+          },
+          {
+            "topic": "Insulin",
+            "question": "Drug of choice for diabetes management during pregnancy?",
+            "answer": "Insulin"
+          },
+          {
+            "topic": "DIPSI",
+            "question": "Single step screening test used in India for GDM?",
+            "answer": "DIPSI"
+          }
+        ],
+
+        "Pregnancy Induced Hypertension": [
+          {
+            "topic": "Preeclampsia",
+            "question": "Hypertension with proteinuria after 20 weeks is?",
+            "answer": "Preeclampsia"
+          },
+          {
+            "topic": "Magnesium sulfate",
+            "question": "Drug of choice for prevention of eclampsia?",
+            "answer": "Magnesium sulfate"
+          },
+          {
+            "topic": "HELLP syndrome",
+            "question": "Hemolysis elevated liver enzymes low platelets syndrome?",
+            "answer": "HELLP syndrome"
+          },
+          {
+            "topic": "Eclampsia",
+            "question": "Convulsions in preeclamptic patient indicate?",
+            "answer": "Eclampsia"
+          }
+        ],
+
+        "Rh Negative Pregnancy": [
+          {
+            "topic": "Anti D",
+            "question": "Drug used to prevent Rh isoimmunization?",
+            "answer": "Anti D immunoglobulin"
+          },
+          {
+            "topic": "Indirect Coombs test",
+            "question": "Test used to detect maternal antibodies in Rh incompatibility?",
+            "answer": "Indirect Coombs test"
+          },
+          {
+            "topic": "Hydrops fetalis",
+            "question": "Most severe fetal complication of Rh incompatibility?",
+            "answer": "Hydrops fetalis"
+          }
+        ],
+
+        "Abortion": [
+          {
+            "topic": "Threatened abortion",
+            "question": "Bleeding with closed cervical os in pregnancy is?",
+            "answer": "Threatened abortion"
+          },
+          {
+            "topic": "Missed abortion",
+            "question": "Retained dead fetus without expulsion is?",
+            "answer": "Missed abortion"
+          },
+          {
+            "topic": "Septic abortion",
+            "question": "Most dangerous complication of unsafe abortion?",
+            "answer": "Septic abortion"
+          }
+        ],
+
+        "Medical Termination of Pregnancy": [
+          {
+            "topic": "Mifepristone",
+            "question": "Antiprogesterone drug used in medical abortion?",
+            "answer": "Mifepristone"
+          },
+          {
+            "topic": "Misoprostol",
+            "question": "Prostaglandin analogue used in MTP?",
+            "answer": "Misoprostol"
+          },
+          {
+            "topic": "MTP Act",
+            "question": "Legal framework governing abortion in India?",
+            "answer": "MTP Act"
+          }
+        ],
+
+        "Ectopic Pregnancy": [
+          {
+            "topic": "Ampullary ectopic",
+            "question": "Most common site of ectopic pregnancy?",
+            "answer": "Ampullary region"
+          },
+          {
+            "topic": "Methotrexate",
+            "question": "Medical management drug for stable ectopic pregnancy?",
+            "answer": "Methotrexate"
+          },
+          {
+            "topic": "Discriminatory zone",
+            "question": "Beta hCG level above which gestational sac should be visible on TVS?",
+            "answer": "Discriminatory zone"
+          },
+          {
+            "topic": "Ruptured ectopic",
+            "question": "Most dangerous complication of ectopic pregnancy?",
+            "answer": "Ruptured ectopic pregnancy"
+          }
+        ],
+
+        "Gestational Trophoblastic Disease": [
+          {
+            "topic": "Complete mole",
+            "question": "Most common type of hydatidiform mole?",
+            "answer": "Complete mole"
+          },
+          {
+            "topic": "Snowstorm appearance",
+            "question": "Classic ultrasound finding in molar pregnancy?",
+            "answer": "Snowstorm appearance"
+          },
+          {
+            "topic": "Choriocarcinoma",
+            "question": "Most malignant form of gestational trophoblastic disease?",
+            "answer": "Choriocarcinoma"
+          },
+          {
+            "topic": "Beta hCG",
+            "question": "Tumor marker used for follow-up of GTD?",
+            "answer": "Beta hCG"
+          }
+        ],
+
+
+
+
+        "Antepartum Hemorrhage": [
+          {
+            "topic": "Placenta previa",
+            "question": "Most common cause of painless antepartum hemorrhage?",
+            "answer": "Placenta previa"
+          },
+          {
+            "topic": "Abruptio placentae",
+            "question": "Painful antepartum hemorrhage is usually due to?",
+            "answer": "Abruptio placentae"
+          },
+          {
+            "topic": "Couvelaire uterus",
+            "question": "Blood infiltrated bluish uterus is seen in?",
+            "answer": "Couvelaire uterus"
+          }
+        ],
+
+        "Placenta Accreta Spectrum": [
+          {
+            "topic": "Placenta accreta",
+            "question": "Most common type of morbidly adherent placenta?",
+            "answer": "Placenta accreta"
+          },
+          {
+            "topic": "Placenta percreta",
+            "question": "Placenta invading beyond serosa into bladder is?",
+            "answer": "Placenta percreta"
+          },
+          {
+            "topic": "Cesarean hysterectomy",
+            "question": "Definitive treatment for severe placenta accreta spectrum?",
+            "answer": "Cesarean hysterectomy"
+          }
+        ],
+
+        "Twin Pregnancy": [
+          {
+            "topic": "Lambda sign",
+            "question": "Ultrasound sign seen in dichorionic twins?",
+            "answer": "Lambda sign"
+          },
+          {
+            "topic": "T sign",
+            "question": "Ultrasound sign seen in monochorionic twins?",
+            "answer": "T sign"
+          },
+          {
+            "topic": "TTTS",
+            "question": "Complication unique to monochorionic twins?",
+            "answer": "Twin twin transfusion syndrome"
+          }
+        ],
+
+        "Preterm Labor": [
+          {
+            "topic": "Betamethasone",
+            "question": "Drug given to enhance fetal lung maturity in preterm labor?",
+            "answer": "Betamethasone"
+          },
+          {
+            "topic": "Tocolytics",
+            "question": "Drugs used to suppress uterine contractions are?",
+            "answer": "Tocolytics"
+          },
+          {
+            "topic": "Cerclage",
+            "question": "Procedure used in cervical incompetence?",
+            "answer": "Cerclage"
+          }
+        ],
+
+        "PROM and PPROM": [
+          {
+            "topic": "Nitrazine test",
+            "question": "Test using pH paper for ruptured membranes?",
+            "answer": "Nitrazine test"
+          },
+          {
+            "topic": "Fern test",
+            "question": "Microscopic fern pattern indicates?",
+            "answer": "Rupture of membranes"
+          },
+          {
+            "topic": "Chorioamnionitis",
+            "question": "Most important complication of prolonged PROM?",
+            "answer": "Chorioamnionitis"
+          }
+        ]
+      },
+
+      "Labor and Delivery": {
+
+        "Maternal Pelvis": [
+          {
+            "topic": "Gynecoid pelvis",
+            "question": "Most favorable pelvis for vaginal delivery?",
+            "answer": "Gynecoid pelvis"
+          },
+          {
+            "topic": "Android pelvis",
+            "question": "Pelvis commonly associated with deep transverse arrest?",
+            "answer": "Android pelvis"
+          },
+          {
+            "topic": "Anthropoid pelvis",
+            "question": "Pelvis commonly associated with occipitoposterior position?",
+            "answer": "Anthropoid pelvis"
+          }
+        ],
+
+        "Stages of Labor": [
+          {
+            "topic": "Active labor",
+            "question": "Cervical dilatation more than 6 cm indicates?",
+            "answer": "Active labor"
+          },
+          {
+            "topic": "Friedman curve",
+            "question": "Graph representing progress of labor?",
+            "answer": "Friedman curve"
+          }
+        ],
+
+        "Partogram": [
+          {
+            "topic": "Alert line",
+            "question": "Partograph line indicating slow progress of labor?",
+            "answer": "Alert line"
+          },
+          {
+            "topic": "Action line",
+            "question": "Crossing which line requires intervention in labor?",
+            "answer": "Action line"
+          }
+        ],
+
+        "Normal Labor": [
+          {
+            "topic": "Cardinal movements",
+            "question": "Sequence of fetal head movements during labor are called?",
+            "answer": "Cardinal movements"
+          },
+          {
+            "topic": "Engagement",
+            "question": "Passage of biparietal diameter through pelvic inlet is?",
+            "answer": "Engagement"
+          },
+          {
+            "topic": "Internal rotation",
+            "question": "Most important movement for vaginal delivery?",
+            "answer": "Internal rotation"
+          }
+        ],
+
+        "Induction of Labor": [
+          {
+            "topic": "Bishop score",
+            "question": "Scoring system used before induction of labor?",
+            "answer": "Bishop score"
+          },
+          {
+            "topic": "Oxytocin",
+            "question": "Most commonly used drug for labor induction?",
+            "answer": "Oxytocin"
+          },
+          {
+            "topic": "Prostaglandins",
+            "question": "Drugs commonly used for cervical ripening?",
+            "answer": "Prostaglandins"
+          }
+        ],
+
+        "Active Management of Third Stage of Labor": [
+          {
+            "topic": "Oxytocin",
+            "question": "Most important component of AMTSL?",
+            "answer": "Oxytocin administration"
+          },
+          {
+            "topic": "Controlled cord traction",
+            "question": "Brandt Andrews maneuver is used for?",
+            "answer": "Controlled cord traction"
+          }
+        ],
+
+        "Postpartum Hemorrhage": [
+          {
+            "topic": "Uterine atony",
+            "question": "Most common cause of postpartum hemorrhage?",
+            "answer": "Uterine atony"
+          },
+          {
+            "topic": "4 Ts",
+            "question": "Classification system used for causes of PPH?",
+            "answer": "4 Ts"
+          },
+          {
+            "topic": "B Lynch suture",
+            "question": "Compression suture used in atonic PPH?",
+            "answer": "B Lynch suture"
+          },
+          {
+            "topic": "Bakri balloon",
+            "question": "Balloon tamponade device used in PPH?",
+            "answer": "Bakri balloon"
+          }
+        ],
+
+        "Malpresentation : Part 1": [
+          {
+            "topic": "Breech",
+            "question": "Most common malpresentation?",
+            "answer": "Breech"
+          },
+          {
+            "topic": "External cephalic version",
+            "question": "Procedure used to convert breech to cephalic presentation?",
+            "answer": "External cephalic version"
+          },
+          {
+            "topic": "Face presentation",
+            "question": "Denominator in face presentation?",
+            "answer": "Mentum"
+          }
+        ],
+
+        "Malpresentation : Part 2": [
+          {
+            "topic": "Shoulder dystocia",
+            "question": "Emergency obstetric complication relieved by McRoberts maneuver?",
+            "answer": "Shoulder dystocia"
+          },
+          {
+            "topic": "Deep transverse arrest",
+            "question": "Arrest of fetal head in transverse position is?",
+            "answer": "Deep transverse arrest"
+          },
+          {
+            "topic": "Occipitoposterior position",
+            "question": "Most common malposition during labor?",
+            "answer": "Occipitoposterior position"
+          }
+        ],
+
+        "Instrumental Delivery": [
+          {
+            "topic": "Vacuum delivery",
+            "question": "Instrumental delivery associated with cephalhematoma?",
+            "answer": "Vacuum delivery"
+          },
+          {
+            "topic": "Kielland forceps",
+            "question": "Forceps used for rotational delivery?",
+            "answer": "Kielland forceps"
+          },
+          {
+            "topic": "Forceps",
+            "question": "Most common indication for forceps delivery?",
+            "answer": "Fetal distress"
+          }
+        ],
+
+        "Cesarean Section": [
+          {
+            "topic": "LSCS",
+            "question": "Most commonly performed cesarean section incision?",
+            "answer": "Lower segment cesarean section"
+          },
+          {
+            "topic": "VBAC",
+            "question": "Trial of labor after previous cesarean is called?",
+            "answer": "VBAC"
+          },
+          {
+            "topic": "Scar rupture",
+            "question": "Most feared complication during VBAC?",
+            "answer": "Scar rupture"
+          }
+        ],
+
+        "Puerperium": [
+          {
+            "topic": "Sheehan syndrome",
+            "question": "Postpartum pituitary necrosis causing lactation failure?",
+            "answer": "Sheehan syndrome"
+          },
+          {
+            "topic": "Mastitis",
+            "question": "Most common organism causing puerperal mastitis?",
+            "answer": "Staphylococcus aureus"
+          },
+          {
+            "topic": "Postpartum blues",
+            "question": "Most common psychiatric disorder after delivery?",
+            "answer": "Postpartum blues"
+          }
+        ]
+      }
+    }
+  }
+}

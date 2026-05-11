@@ -1,0 +1,1339 @@
+{
+  "Anatomy": {
+	 "PYTs": {
+    "Embryology": {
+
+      "Gametogenesis": [
+        { "topic": "Spermatogenesis", "rating": 5 },
+        { "topic": "Oogenesis", "rating": 5 },
+        { "topic": "Capacitation", "rating": 4 },
+        { "topic": "Fertilization", "rating": 5 },
+        { "topic": "Acrosome reaction", "rating": 4 },
+        { "topic": "IVF basics", "rating": 3 },
+        { "topic": "Zona pellucida", "rating": 4 },
+        { "topic": "Cortical reaction", "rating": 4 }
+      ],
+
+      "1st and 2nd Week Development": [
+        { "topic": "Blastocyst", "rating": 5 },
+        { "topic": "Implantation", "rating": 5 },
+        { "topic": "Bilaminar disc", "rating": 4 },
+        { "topic": "Syncytiotrophoblast", "rating": 5 },
+        { "topic": "Cytotrophoblast", "rating": 4 },
+        { "topic": "Chorionic villi", "rating": 5 },
+        { "topic": "Trophoblast derivatives", "rating": 5 },
+        { "topic": "Extraembryonic mesoderm", "rating": 4 }
+      ],
+
+      "3rd Week Development": [
+        { "topic": "Gastrulation", "rating": 5 },
+        { "topic": "Primitive streak", "rating": 5 },
+        { "topic": "Trilaminar germ disc", "rating": 5 },
+        { "topic": "Notochord", "rating": 5 },
+        { "topic": "Neural crest derivatives", "rating": 5 },
+        { "topic": "Somites", "rating": 4 },
+        { "topic": "Neurulation", "rating": 5 }
+      ],
+
+      "Pharyngeal Apparatus": [
+        { "topic": "1st arch derivatives", "rating": 5 },
+        { "topic": "2nd arch derivatives", "rating": 5 },
+        { "topic": "3rd arch derivatives", "rating": 5 },
+        { "topic": "4th and 6th arches", "rating": 5 },
+        { "topic": "Meckel cartilage", "rating": 5 },
+        { "topic": "Reichert cartilage", "rating": 5 },
+        { "topic": "Treacher Collins syndrome", "rating": 5 },
+        { "topic": "DiGeorge syndrome", "rating": 5 }
+      ],
+
+      "Pharyngeal Pouches": [
+        { "topic": "1st pouch", "rating": 5 },
+        { "topic": "2nd pouch", "rating": 5 },
+        { "topic": "3rd pouch", "rating": 5 },
+        { "topic": "4th pouch", "rating": 5 },
+        { "topic": "Inferior parathyroid from 3rd pouch", "rating": 5 },
+        { "topic": "Superior parathyroid from 4th pouch", "rating": 5 }
+      ],
+
+      "Neural Tube Development": [
+        { "topic": "Neural tube defects", "rating": 5 },
+        { "topic": "Spina bifida", "rating": 5 },
+        { "topic": "Anencephaly", "rating": 5 },
+        { "topic": "Arnold Chiari malformation", "rating": 5 },
+        { "topic": "Hydrocephalus", "rating": 5 },
+        { "topic": "Dandy Walker malformation", "rating": 5 }
+      ],
+
+      "Fetal Circulation": [
+        { "topic": "Foramen ovale", "rating": 5 },
+        { "topic": "Ductus arteriosus", "rating": 5 },
+        { "topic": "Ductus venosus", "rating": 5 },
+        { "topic": "Functional vs anatomical closure", "rating": 5 },
+        { "topic": "PDA", "rating": 5 }
+      ],
+
+      "Development of Face Tongue and Thyroid": [
+        { "topic": "Tongue development", "rating": 5 },
+        { "topic": "Thyroglossal duct", "rating": 5 },
+        { "topic": "Cleft lip palate", "rating": 5 },
+        { "topic": "Thyroglossal cyst", "rating": 5 },
+        { "topic": "Pyramidal lobe", "rating": 5 }
+      ],
+
+      "Development of Heart": [
+        { "topic": "ASD", "rating": 5 },
+        { "topic": "VSD", "rating": 5 },
+        { "topic": "Tetralogy of Fallot", "rating": 5 },
+        { "topic": "Transposition of great arteries", "rating": 5 },
+        { "topic": "Endocardial cushion defects", "rating": 4 }
+      ],
+
+      "Development of Gut": [
+        { "topic": "Foregut", "rating": 5 },
+        { "topic": "Midgut rotation", "rating": 5 },
+        { "topic": "Hindgut", "rating": 5 },
+        { "topic": "Omphalocele", "rating": 5 },
+        { "topic": "Gastroschisis", "rating": 5 },
+        { "topic": "Meckel diverticulum", "rating": 5 }
+      ],
+
+      "Development of Kidneys and Gonads": [
+        { "topic": "Horseshoe kidney", "rating": 5 },
+        { "topic": "Kidney ascent", "rating": 5 },
+        { "topic": "Mullerian duct", "rating": 5 },
+        { "topic": "Wolffian duct", "rating": 5 },
+        { "topic": "Testicular descent", "rating": 5 }
+      ]
+    },
+
+    "Histology": {
+
+      "General Histology": [
+        { "topic": "Epithelium identification", "rating": 5 },
+        { "topic": "Connective tissue", "rating": 4 },
+        { "topic": "Muscle histology", "rating": 5 },
+        { "topic": "Bone histology", "rating": 5 },
+        { "topic": "Cartilage histology", "rating": 5 },
+        { "topic": "White fibrocartilage", "rating": 5 },
+        { "topic": "Hyaline cartilage", "rating": 5 }
+      ],
+
+      "Histology Slides": [
+        { "topic": "Liver histology", "rating": 5 },
+        { "topic": "Kidney histology", "rating": 5 },
+        { "topic": "Lung histology", "rating": 5 },
+        { "topic": "Pancreatic islets", "rating": 5 },
+        { "topic": "Spleen", "rating": 4 },
+        { "topic": "Lymph node", "rating": 4 },
+        { "topic": "Thyroid", "rating": 4 },
+        { "topic": "Pituitary", "rating": 4 },
+        { "topic": "Ovary", "rating": 4 },
+        { "topic": "Testis", "rating": 4 }
+      ],
+
+      "Tongue Histology": [
+        { "topic": "Circumvallate papillae", "rating": 5 },
+        { "topic": "Fungiform papillae", "rating": 4 },
+        { "topic": "Filiform papillae", "rating": 4 }
+      ]
+    },
+
+
+    "Neuroanatomy": {
+
+      "Cranial Nerve Nuclei": [
+        { "topic": "Brainstem nuclei", "rating": 5 },
+        { "topic": "Functional columns", "rating": 5 },
+        { "topic": "CN III IV VI", "rating": 5 },
+        { "topic": "CN VII lesions", "rating": 5 },
+        { "topic": "CN IX X XII", "rating": 5 }
+      ],
+
+      "Ascending and Descending Tracts": [
+        { "topic": "Corticospinal tract", "rating": 5 },
+        { "topic": "Spinothalamic tract", "rating": 5 },
+        { "topic": "Dorsal column", "rating": 5 },
+        { "topic": "UMN vs LMN", "rating": 5 },
+        { "topic": "Brown Sequard syndrome", "rating": 5 }
+      ],
+
+      "Ventricles and CSF": [
+        { "topic": "CSF circulation", "rating": 5 },
+        { "topic": "Foramen of Luschka", "rating": 5 },
+        { "topic": "Foramen of Magendie", "rating": 5 },
+        { "topic": "Hydrocephalus", "rating": 5 },
+        { "topic": "Lumbar puncture", "rating": 5 },
+        { "topic": "Spinal cord termination", "rating": 5 }
+      ],
+
+      "Brainstem Syndromes": [
+        { "topic": "Medial medullary syndrome", "rating": 5 },
+        { "topic": "Lateral medullary syndrome", "rating": 5 },
+        { "topic": "Weber syndrome", "rating": 5 },
+        { "topic": "Benedikt syndrome", "rating": 4 },
+        { "topic": "Millard Gubler syndrome", "rating": 5 }
+      ],
+
+      "Cerebellum": [
+        { "topic": "Cerebellar signs", "rating": 5 },
+        { "topic": "Ataxia", "rating": 5 },
+        { "topic": "Vermis lesions", "rating": 4 }
+      ],
+
+      "Cerebrum": [
+        { "topic": "Brodmann areas", "rating": 5 },
+        { "topic": "Aphasia", "rating": 5 },
+        { "topic": "Internal capsule", "rating": 5 },
+        { "topic": "Homunculus", "rating": 4 }
+      ],
+
+      "Basal Ganglia": [
+        { "topic": "Parkinson disease", "rating": 5 },
+        { "topic": "Subthalamic nucleus", "rating": 5 },
+        { "topic": "Hemiballismus", "rating": 5 }
+      ],
+
+      "Blood Supply of Brain": [
+        { "topic": "Circle of Willis", "rating": 5 },
+        { "topic": "MCA stroke", "rating": 5 },
+        { "topic": "ACA PCA syndromes", "rating": 4 },
+        { "topic": "Berry aneurysm", "rating": 5 },
+        { "topic": "ACOM aneurysm", "rating": 5 },
+        { "topic": "SCA thrombosis", "rating": 5 }
+      ]
+    },
+
+    "Head and Neck": {
+
+      "Skull and Foramina": [
+        { "topic": "Pterion", "rating": 5 },
+        { "topic": "Foramen spinosum", "rating": 5 },
+        { "topic": "Cranial fossae", "rating": 5 },
+        { "topic": "Skull foramina", "rating": 5 }
+      ],
+
+      "Face and Scalp": [
+        { "topic": "Dangerous area of face", "rating": 5 },
+        { "topic": "Cavernous sinus spread", "rating": 5 },
+        { "topic": "Facial nerve", "rating": 5 },
+        { "topic": "Facial vein", "rating": 4 }
+      ],
+
+      "Triangles and Fascia": [
+        { "topic": "Carotid triangle", "rating": 4 },
+        { "topic": "Posterior triangle", "rating": 4 },
+        { "topic": "Deep cervical fascia", "rating": 4 },
+        { "topic": "Erb point", "rating": 4 }
+      ],
+
+      "Thyroid and Neck Structures": [
+        { "topic": "Recurrent laryngeal nerve", "rating": 5 },
+        { "topic": "Thyroidectomy anatomy", "rating": 5 },
+        { "topic": "Sternothyroid muscle", "rating": 5 },
+        { "topic": "Thyroglossal cyst", "rating": 5 }
+      ],
+
+      "Cranial Nerves": [
+        { "topic": "Trigeminal neuralgia", "rating": 5 },
+        { "topic": "Facial nerve lesions", "rating": 5 },
+        { "topic": "Hypoglossal nerve", "rating": 5 },
+        { "topic": "Vagus nerve", "rating": 5 },
+        { "topic": "Glossopharyngeal nerve", "rating": 4 }
+      ],
+
+      "Orbit and Eye": [
+        { "topic": "Extraocular muscles", "rating": 5 },
+        { "topic": "Papillary reflex", "rating": 5 },
+        { "topic": "Cavernous sinus", "rating": 5 }
+      ],
+
+      "Nose": [
+        { "topic": "Little area", "rating": 5 },
+        { "topic": "Blood supply of nose", "rating": 5 }
+      ],
+
+      "Tongue": [
+        { "topic": "Tongue muscles", "rating": 5 },
+        { "topic": "Nerve supply", "rating": 5 },
+        { "topic": "Hypoglossal palsy", "rating": 5 }
+      ],
+
+      "Larynx and Pharynx": [
+        { "topic": "Vocal cord positions", "rating": 5 },
+        { "topic": "Cricothyroid muscle", "rating": 4 },
+        { "topic": "Killian dehiscence", "rating": 5 },
+        { "topic": "Waldeyer ring", "rating": 4 }
+      ]
+    },
+
+    "Thorax": {
+
+      "Heart Development": [
+        { "topic": "Tetralogy of Fallot", "rating": 5 },
+        { "topic": "ASD", "rating": 5 },
+        { "topic": "VSD", "rating": 5 },
+        { "topic": "Transposition", "rating": 5 }
+      ],
+
+      "Fetal Circulation": [
+        { "topic": "Ductus arteriosus", "rating": 5 },
+        { "topic": "Foramen ovale", "rating": 5 }
+      ],
+
+      "Thoracic Anatomy": [
+        { "topic": "Sternal angle", "rating": 5 },
+        { "topic": "Intercostal VAN", "rating": 5 },
+        { "topic": "Mediastinal contents", "rating": 5 },
+        { "topic": "Bronchopulmonary segments", "rating": 5 }
+      ],
+
+      "Pericardium and Heart": [
+        { "topic": "Coronary arteries", "rating": 5 },
+        { "topic": "Coronary dominance", "rating": 5 },
+        { "topic": "Transverse sinus", "rating": 5 }
+      ],
+
+      "Diaphragm": [
+        { "topic": "Openings of diaphragm", "rating": 5 },
+        { "topic": "Phrenic nerve", "rating": 5 }
+      ]
+    },
+
+
+
+
+    "Abdomen and Pelvis": {
+
+      "Inguinal Canal and Hernias": [
+        { "topic": "Direct hernia", "rating": 5 },
+        { "topic": "Indirect hernia", "rating": 5 },
+        { "topic": "Hesselbach triangle", "rating": 5 },
+        { "topic": "Deep inguinal ring", "rating": 5 }
+      ],
+
+      "Peritoneum": [
+        { "topic": "Lesser sac", "rating": 5 },
+        { "topic": "Epiploic foramen", "rating": 5 }
+      ],
+
+      "Liver and Biliary System": [
+        { "topic": "Bare area of liver", "rating": 5 },
+        { "topic": "Portal triad", "rating": 5 },
+        { "topic": "Portocaval anastomosis", "rating": 5 },
+        { "topic": "Calot triangle", "rating": 5 }
+      ],
+
+      "Pancreas and Duodenum": [
+        { "topic": "Annular pancreas", "rating": 5 },
+        { "topic": "Blood supply", "rating": 4 }
+      ],
+
+      "Gut and Colon": [
+        { "topic": "Appendicular artery", "rating": 5 },
+        { "topic": "Taenia coli", "rating": 4 }
+      ],
+
+      "Kidney and Gonads": [
+        { "topic": "Renal fascia", "rating": 4 },
+        { "topic": "Horseshoe kidney", "rating": 5 },
+        { "topic": "Kidney ascent", "rating": 5 }
+      ],
+
+      "Perineum": [
+        { "topic": "Pudendal nerve", "rating": 5 },
+        { "topic": "Ischiorectal fossa", "rating": 5 },
+        { "topic": "Pudendal block", "rating": 5 }
+      ],
+
+      "Female Genitalia": [
+        { "topic": "Uterine supports", "rating": 5 },
+        { "topic": "Broad ligament", "rating": 4 }
+      ],
+
+      "Rectum and Anal Canal": [
+        { "topic": "Pectinate line", "rating": 5 },
+        { "topic": "Hemorrhoids", "rating": 5 }
+      ]
+    },
+
+    "Upper Limb": {
+
+      "Shoulder and Scapula": [
+        { "topic": "Rotator cuff", "rating": 5 },
+        { "topic": "Winged scapula", "rating": 5 }
+      ],
+
+      "Brachial Plexus": [
+        { "topic": "Erb palsy", "rating": 5 },
+        { "topic": "Klumpke palsy", "rating": 5 },
+        { "topic": "Axillary nerve", "rating": 5 }
+      ],
+
+      "Radial Nerve": [
+        { "topic": "Wrist drop", "rating": 5 },
+        { "topic": "Anatomical snuffbox", "rating": 5 }
+      ],
+
+      "Median Nerve": [
+        { "topic": "Carpal tunnel", "rating": 5 },
+        { "topic": "Ape thumb", "rating": 5 }
+      ],
+
+      "Ulnar Nerve": [
+        { "topic": "Claw hand", "rating": 5 },
+        { "topic": "Froment sign", "rating": 4 }
+      ],
+
+      "Musculocutaneous Nerve": [
+        { "topic": "Elbow flexion loss", "rating": 5 },
+        { "topic": "Sensory loss lateral forearm", "rating": 5 }
+      ],
+
+      "Hand Anatomy": [
+        { "topic": "Flexor retinaculum", "rating": 5 },
+        { "topic": "FDP dual innervation", "rating": 5 }
+      ]
+    },
+
+    "Lower Limb": {
+
+      "Femoral Region": [
+        { "topic": "Femoral triangle", "rating": 5 },
+        { "topic": "Adductor canal", "rating": 4 }
+      ],
+
+      "Gluteal Region": [
+        { "topic": "Sciatic nerve", "rating": 5 },
+        { "topic": "Trendelenburg sign", "rating": 5 }
+      ],
+
+      "Knee Joint": [
+        { "topic": "ACL PCL", "rating": 5 },
+        { "topic": "Menisci", "rating": 5 },
+        { "topic": "Popliteus", "rating": 5 },
+        { "topic": "Unhappy triad", "rating": 5 }
+      ],
+
+      "Leg and Foot": [
+        { "topic": "Foot drop", "rating": 5 },
+        { "topic": "Common peroneal nerve", "rating": 5 },
+        { "topic": "Dorsalis pedis", "rating": 5 },
+        { "topic": "Foot arches", "rating": 5 }
+      ],
+
+      "Veins and Vessels": [
+        { "topic": "Great saphenous vein", "rating": 4 },
+        { "topic": "Femoral artery", "rating": 4 }
+      ]
+    },
+
+    "General Anatomy": {
+
+      "Bones and Joints": [
+        { "topic": "Types of epiphysis", "rating": 5 },
+        { "topic": "Ossification centers", "rating": 5 },
+        { "topic": "Types of joints", "rating": 5 },
+        { "topic": "Hilton law", "rating": 5 }
+      ],
+
+      "Nerves and Skin": [
+        { "topic": "Dermatome", "rating": 5 },
+        { "topic": "Referred pain", "rating": 5 },
+        { "topic": "Wallerian degeneration", "rating": 4 }
+      ],
+
+      "Cell and Tissue Basics": [
+        { "topic": "Cell junctions", "rating": 4 },
+        { "topic": "Apoptosis vs necrosis", "rating": 4 },
+        { "topic": "Types of cartilage", "rating": 4 }
+      ]
+    }
+  },
+
+
+    "PYQs": {
+
+      "Embryology": {
+
+        "Gametogenesis": [
+          {
+            "topic": "Capacitation",
+            "question": "Capacitation of sperm occurs in?",
+            "answer": "Female reproductive tract"
+          },
+          {
+            "topic": "Acrosome reaction",
+            "question": "Acrosome is derived from?",
+            "answer": "Golgi apparatus"
+          },
+          {
+            "topic": "Zona pellucida",
+            "question": "Sperm binds to which zona pellucida receptor?",
+            "answer": "ZP3"
+          }
+        ],
+
+        "1st and 2nd Week Development": [
+          {
+            "topic": "Blastocyst",
+            "question": "Inner cell mass gives rise to?",
+            "answer": "Embryo proper"
+          },
+          {
+            "topic": "Implantation",
+            "question": "Implantation normally occurs on which day?",
+            "answer": "6th day"
+          },
+          {
+            "topic": "Syncytiotrophoblast",
+            "question": "hCG is secreted by?",
+            "answer": "Syncytiotrophoblast"
+          }
+        ],
+
+        "3rd Week Development": [
+          {
+            "topic": "Gastrulation",
+            "question": "Formation of trilaminar germ disc occurs during?",
+            "answer": "Gastrulation"
+          },
+          {
+            "topic": "Primitive streak",
+            "question": "Primitive streak appears during which week?",
+            "answer": "3rd week"
+          },
+          {
+            "topic": "Neural crest derivatives",
+            "question": "Schwann cells are derived from?",
+            "answer": "Neural crest"
+          }
+        ],
+
+        "Pharyngeal Apparatus": [
+          {
+            "topic": "1st arch derivatives",
+            "question": "Muscles of mastication develop from?",
+            "answer": "1st pharyngeal arch"
+          },
+          {
+            "topic": "2nd arch derivatives",
+            "question": "Stapedius muscle develops from?",
+            "answer": "2nd pharyngeal arch"
+          },
+          {
+            "topic": "Treacher Collins syndrome",
+            "question": "Treacher Collins syndrome involves abnormal development of?",
+            "answer": "1st pharyngeal arch"
+          }
+        ],
+
+        "Pharyngeal Pouches": [
+          {
+            "topic": "3rd pouch",
+            "question": "Inferior parathyroid develops from?",
+            "answer": "3rd pharyngeal pouch"
+          },
+          {
+            "topic": "4th pouch",
+            "question": "Superior parathyroid develops from?",
+            "answer": "4th pharyngeal pouch"
+          }
+        ],
+
+        "Neural Tube Development": [
+          {
+            "topic": "Anencephaly",
+            "question": "Failure of closure of anterior neuropore causes?",
+            "answer": "Anencephaly"
+          },
+          {
+            "topic": "Spina bifida",
+            "question": "Failure of closure of posterior neuropore causes?",
+            "answer": "Spina bifida"
+          },
+          {
+            "topic": "Arnold Chiari malformation",
+            "question": "Arnold Chiari malformation is associated with?",
+            "answer": "Meningomyelocele"
+          }
+        ],
+
+        "Fetal Circulation": [
+          {
+            "topic": "Foramen ovale",
+            "question": "Foramen ovale connects which chambers?",
+            "answer": "Right atrium and left atrium"
+          },
+          {
+            "topic": "Ductus arteriosus",
+            "question": "Ductus arteriosus connects?",
+            "answer": "Pulmonary artery and aorta"
+          },
+          {
+            "topic": "PDA",
+            "question": "Continuous machinery murmur is seen in?",
+            "answer": "Patent ductus arteriosus"
+          }
+        ],
+
+        "Development of Face Tongue and Thyroid": [
+          {
+            "topic": "Thyroglossal cyst",
+            "question": "Thyroglossal cyst moves on protrusion of?",
+            "answer": "Tongue"
+          },
+          {
+            "topic": "Tongue development",
+            "question": "Anterior two thirds of tongue develops from?",
+            "answer": "1st pharyngeal arch"
+          },
+          {
+            "topic": "Cleft lip palate",
+            "question": "Cleft lip occurs due to failure of fusion of?",
+            "answer": "Maxillary and medial nasal processes"
+          }
+        ],
+
+        "Development of Heart": [
+          {
+            "topic": "Tetralogy of Fallot",
+            "question": "Most common cyanotic congenital heart disease?",
+            "answer": "Tetralogy of Fallot"
+          },
+          {
+            "topic": "ASD",
+            "question": "Most common type of atrial septal defect?",
+            "answer": "Ostium secundum ASD"
+          },
+          {
+            "topic": "Transposition of great arteries",
+            "question": "Transposition of great arteries occurs due to failure of?",
+            "answer": "Aorticopulmonary septum spiraling"
+          }
+        ],
+
+        "Development of Gut": [
+          {
+            "topic": "Midgut rotation",
+            "question": "Midgut rotates by how many degrees?",
+            "answer": "270 degrees anticlockwise"
+          },
+          {
+            "topic": "Meckel diverticulum",
+            "question": "Meckel diverticulum is remnant of?",
+            "answer": "Vitellointestinal duct"
+          },
+          {
+            "topic": "Omphalocele",
+            "question": "Herniation covered by peritoneum occurs in?",
+            "answer": "Omphalocele"
+          }
+        ],
+
+        "Development of Kidneys and Gonads": [
+          {
+            "topic": "Horseshoe kidney",
+            "question": "Horseshoe kidney gets trapped under?",
+            "answer": "Inferior mesenteric artery"
+          },
+          {
+            "topic": "Mullerian duct",
+            "question": "Fallopian tubes develop from?",
+            "answer": "Mullerian duct"
+          },
+          {
+            "topic": "Wolffian duct",
+            "question": "Epididymis develops from?",
+            "answer": "Wolffian duct"
+          }
+        ]
+      },
+
+      "Histology": {
+
+        "General Histology": [
+          {
+            "topic": "White fibrocartilage",
+            "question": "Intervertebral disc contains which cartilage?",
+            "answer": "Fibrocartilage"
+          },
+          {
+            "topic": "Hyaline cartilage",
+            "question": "Most common cartilage in body?",
+            "answer": "Hyaline cartilage"
+          }
+        ],
+
+        "Histology Slides": [
+          {
+            "topic": "Pancreatic islets",
+            "question": "Pale staining clusters in pancreas are?",
+            "answer": "Islets of Langerhans"
+          },
+          {
+            "topic": "Kidney histology",
+            "question": "Loop of Henle is lined by?",
+            "answer": "Simple squamous epithelium"
+          },
+          {
+            "topic": "Liver histology",
+            "question": "Functional unit of liver?",
+            "answer": "Lobule"
+          }
+        ],
+
+        "Tongue Histology": [
+          {
+            "topic": "Circumvallate papillae",
+            "question": "Taste buds are most abundant in?",
+            "answer": "Circumvallate papillae"
+          },
+          {
+            "topic": "Filiform papillae",
+            "question": "Papillae without taste buds?",
+            "answer": "Filiform papillae"
+          }
+        ]
+      },
+
+
+
+      "Neuroanatomy": {
+
+        "Cranial Nerve Nuclei": [
+          {
+            "topic": "CN III IV VI",
+            "question": "Lateral rectus muscle is supplied by?",
+            "answer": "Abducens nerve"
+          },
+          {
+            "topic": "CN VII lesions",
+            "question": "Loss of taste in anterior two thirds of tongue occurs due to lesion of?",
+            "answer": "Facial nerve"
+          },
+          {
+            "topic": "CN IX X XII",
+            "question": "Motor supply of tongue is mainly by?",
+            "answer": "Hypoglossal nerve"
+          }
+        ],
+
+        "Ascending and Descending Tracts": [
+          {
+            "topic": "Spinothalamic tract",
+            "question": "Pain and temperature sensations are carried by?",
+            "answer": "Spinothalamic tract"
+          },
+          {
+            "topic": "Dorsal column",
+            "question": "Fine touch sensation ascends through?",
+            "answer": "Dorsal column"
+          },
+          {
+            "topic": "Brown Sequard syndrome",
+            "question": "Ipsilateral motor loss with contralateral pain loss occurs in?",
+            "answer": "Brown Sequard syndrome"
+          }
+        ],
+
+        "Ventricles and CSF": [
+          {
+            "topic": "CSF circulation",
+            "question": "CSF is produced mainly by?",
+            "answer": "Choroid plexus"
+          },
+          {
+            "topic": "Foramen of Magendie",
+            "question": "Median aperture of fourth ventricle is called?",
+            "answer": "Foramen of Magendie"
+          },
+          {
+            "topic": "Lumbar puncture",
+            "question": "Lumbar puncture is usually done between?",
+            "answer": "L3-L4"
+          }
+        ],
+
+        "Brainstem Syndromes": [
+          {
+            "topic": "Lateral medullary syndrome",
+            "question": "Wallenberg syndrome involves which artery?",
+            "answer": "PICA"
+          },
+          {
+            "topic": "Medial medullary syndrome",
+            "question": "Medial medullary syndrome involves which artery?",
+            "answer": "Anterior spinal artery"
+          },
+          {
+            "topic": "Weber syndrome",
+            "question": "Weber syndrome involves lesion in?",
+            "answer": "Midbrain"
+          }
+        ],
+
+        "Cerebellum": [
+          {
+            "topic": "Cerebellar signs",
+            "question": "Intention tremor occurs due to lesion of?",
+            "answer": "Cerebellum"
+          },
+          {
+            "topic": "Ataxia",
+            "question": "Broad based gait is seen in?",
+            "answer": "Cerebellar lesion"
+          }
+        ],
+
+        "Cerebrum": [
+          {
+            "topic": "Brodmann areas",
+            "question": "Primary motor cortex corresponds to which Brodmann area?",
+            "answer": "Area 4"
+          },
+          {
+            "topic": "Aphasia",
+            "question": "Broca area is located in which lobe?",
+            "answer": "Frontal lobe"
+          },
+          {
+            "topic": "Internal capsule",
+            "question": "Most common site of lacunar infarct?",
+            "answer": "Internal capsule"
+          }
+        ],
+
+        "Basal Ganglia": [
+          {
+            "topic": "Subthalamic nucleus",
+            "question": "Hemiballismus occurs due to lesion of?",
+            "answer": "Subthalamic nucleus"
+          },
+          {
+            "topic": "Parkinson disease",
+            "question": "Parkinson disease occurs due to degeneration of?",
+            "answer": "Substantia nigra"
+          }
+        ],
+
+        "Blood Supply of Brain": [
+          {
+            "topic": "MCA stroke",
+            "question": "Most commonly involved artery in stroke?",
+            "answer": "Middle cerebral artery"
+          },
+          {
+            "topic": "Berry aneurysm",
+            "question": "Berry aneurysm commonly occurs at?",
+            "answer": "Circle of Willis"
+          },
+          {
+            "topic": "ACOM aneurysm",
+            "question": "Anterior communicating artery aneurysm compresses?",
+            "answer": "Optic chiasma"
+          }
+        ]
+      },
+
+      "Head and Neck": {
+
+        "Skull and Foramina": [
+          {
+            "topic": "Pterion",
+            "question": "Middle meningeal artery lies beneath?",
+            "answer": "Pterion"
+          },
+          {
+            "topic": "Foramen spinosum",
+            "question": "Middle meningeal artery passes through?",
+            "answer": "Foramen spinosum"
+          }
+        ],
+
+        "Face and Scalp": [
+          {
+            "topic": "Dangerous area of face",
+            "question": "Dangerous area of face communicates with cavernous sinus through?",
+            "answer": "Facial vein"
+          },
+          {
+            "topic": "Cavernous sinus spread",
+            "question": "Most commonly affected cranial nerve in cavernous sinus thrombosis?",
+            "answer": "Abducens nerve"
+          }
+        ],
+
+        "Triangles and Fascia": [
+          {
+            "topic": "Carotid triangle",
+            "question": "Common carotid artery bifurcates at level of?",
+            "answer": "Upper border of thyroid cartilage"
+          },
+          {
+            "topic": "Erb point",
+            "question": "Erb point is related to which nerve plexus?",
+            "answer": "Cervical plexus"
+          }
+        ],
+
+        "Thyroid and Neck Structures": [
+          {
+            "topic": "Recurrent laryngeal nerve",
+            "question": "Injury to recurrent laryngeal nerve causes paralysis of?",
+            "answer": "All intrinsic muscles except cricothyroid"
+          },
+          {
+            "topic": "Thyroglossal cyst",
+            "question": "Thyroglossal cyst is commonly located?",
+            "answer": "Below hyoid bone"
+          }
+        ],
+
+        "Cranial Nerves": [
+          {
+            "topic": "Trigeminal neuralgia",
+            "question": "Trigeminal neuralgia most commonly involves which division?",
+            "answer": "Maxillary division"
+          },
+          {
+            "topic": "Facial nerve lesions",
+            "question": "Bell palsy occurs due to lesion of?",
+            "answer": "Facial nerve"
+          },
+          {
+            "topic": "Hypoglossal nerve",
+            "question": "Tongue deviates towards side of lesion in injury to?",
+            "answer": "Hypoglossal nerve"
+          }
+        ],
+
+        "Orbit and Eye": [
+          {
+            "topic": "Extraocular muscles",
+            "question": "Superior oblique muscle is supplied by?",
+            "answer": "Trochlear nerve"
+          },
+          {
+            "topic": "Papillary reflex",
+            "question": "Afferent limb of light reflex is through?",
+            "answer": "Optic nerve"
+          }
+        ],
+
+        "Nose": [
+          {
+            "topic": "Little area",
+            "question": "Most common site of epistaxis?",
+            "answer": "Little area"
+          }
+        ],
+
+        "Tongue": [
+          {
+            "topic": "Nerve supply",
+            "question": "General sensation of anterior two thirds of tongue is by?",
+            "answer": "Lingual nerve"
+          }
+        ],
+
+        "Larynx and Pharynx": [
+          {
+            "topic": "Killian dehiscence",
+            "question": "Zenker diverticulum occurs through?",
+            "answer": "Killian dehiscence"
+          },
+          {
+            "topic": "Vocal cord positions",
+            "question": "Cadaveric position of vocal cord occurs in lesion of?",
+            "answer": "Recurrent laryngeal nerve"
+          }
+        ]
+      },
+
+
+
+
+      "Thorax": {
+
+        "Heart Development": [
+          {
+            "topic": "Tetralogy of Fallot",
+            "question": "Most common cyanotic congenital heart disease?",
+            "answer": "Tetralogy of Fallot"
+          },
+          {
+            "topic": "ASD",
+            "question": "Most common type of ASD?",
+            "answer": "Ostium secundum"
+          },
+          {
+            "topic": "VSD",
+            "question": "Most common congenital heart disease?",
+            "answer": "VSD"
+          }
+        ],
+
+        "Fetal Circulation": [
+          {
+            "topic": "Foramen ovale",
+            "question": "Foramen ovale closes after birth due to increased pressure in?",
+            "answer": "Left atrium"
+          },
+          {
+            "topic": "Ductus arteriosus",
+            "question": "Ligamentum arteriosum is remnant of?",
+            "answer": "Ductus arteriosus"
+          }
+        ],
+
+        "Thoracic Anatomy": [
+          {
+            "topic": "Sternal angle",
+            "question": "Trachea bifurcates at level of?",
+            "answer": "Sternal angle"
+          },
+          {
+            "topic": "Intercostal VAN",
+            "question": "Arrangement in intercostal space from above downward?",
+            "answer": "Vein artery nerve"
+          },
+          {
+            "topic": "Bronchopulmonary segments",
+            "question": "Right lung has how many bronchopulmonary segments?",
+            "answer": "10"
+          }
+        ],
+
+        "Pericardium and Heart": [
+          {
+            "topic": "Coronary arteries",
+            "question": "Most commonly occluded coronary artery?",
+            "answer": "Left anterior descending artery"
+          },
+          {
+            "topic": "Coronary dominance",
+            "question": "Posterior interventricular artery usually arises from?",
+            "answer": "Right coronary artery"
+          },
+          {
+            "topic": "Transverse sinus",
+            "question": "Transverse pericardial sinus lies between?",
+            "answer": "Arteries and veins"
+          }
+        ],
+
+        "Diaphragm": [
+          {
+            "topic": "Openings of diaphragm",
+            "question": "IVC passes through diaphragm at which vertebral level?",
+            "answer": "T8"
+          },
+          {
+            "topic": "Phrenic nerve",
+            "question": "Motor supply of diaphragm is by?",
+            "answer": "Phrenic nerve"
+          }
+        ]
+      },
+
+      "Abdomen and Pelvis": {
+
+        "Inguinal Canal and Hernias": [
+          {
+            "topic": "Indirect hernia",
+            "question": "Indirect inguinal hernia passes lateral to?",
+            "answer": "Inferior epigastric vessels"
+          },
+          {
+            "topic": "Direct hernia",
+            "question": "Direct inguinal hernia occurs through?",
+            "answer": "Hesselbach triangle"
+          }
+        ],
+
+        "Peritoneum": [
+          {
+            "topic": "Epiploic foramen",
+            "question": "Epiploic foramen connects greater sac with?",
+            "answer": "Lesser sac"
+          }
+        ],
+
+        "Liver and Biliary System": [
+          {
+            "topic": "Portal triad",
+            "question": "Portal triad contains?",
+            "answer": "Portal vein hepatic artery bile duct"
+          },
+          {
+            "topic": "Calot triangle",
+            "question": "Cystic artery is found in?",
+            "answer": "Calot triangle"
+          },
+          {
+            "topic": "Portocaval anastomosis",
+            "question": "Caput medusae occurs due to dilation of?",
+            "answer": "Paraumbilical veins"
+          }
+        ],
+
+        "Pancreas and Duodenum": [
+          {
+            "topic": "Annular pancreas",
+            "question": "Annular pancreas develops from abnormal migration of?",
+            "answer": "Ventral pancreatic bud"
+          }
+        ],
+
+        "Gut and Colon": [
+          {
+            "topic": "Appendicular artery",
+            "question": "Appendicular artery is branch of?",
+            "answer": "Ileocolic artery"
+          },
+          {
+            "topic": "Taenia coli",
+            "question": "Taenia coli are absent in?",
+            "answer": "Rectum"
+          }
+        ],
+
+        "Kidney and Gonads": [
+          {
+            "topic": "Horseshoe kidney",
+            "question": "Fusion anomaly of kidneys is called?",
+            "answer": "Horseshoe kidney"
+          },
+          {
+            "topic": "Kidney ascent",
+            "question": "Kidney develops initially in?",
+            "answer": "Pelvis"
+          }
+        ],
+
+        "Perineum": [
+          {
+            "topic": "Pudendal nerve",
+            "question": "Pudendal nerve arises from spinal segments?",
+            "answer": "S2 S3 S4"
+          },
+          {
+            "topic": "Pudendal block",
+            "question": "Pudendal nerve block is given near?",
+            "answer": "Ischial spine"
+          }
+        ],
+
+        "Female Genitalia": [
+          {
+            "topic": "Uterine supports",
+            "question": "Most important support of uterus?",
+            "answer": "Transverse cervical ligament"
+          }
+        ],
+
+        "Rectum and Anal Canal": [
+          {
+            "topic": "Pectinate line",
+            "question": "Epithelium above pectinate line is?",
+            "answer": "Columnar epithelium"
+          },
+          {
+            "topic": "Hemorrhoids",
+            "question": "Internal hemorrhoids occur above?",
+            "answer": "Pectinate line"
+          }
+        ]
+      },
+
+      "Upper Limb": {
+
+        "Shoulder and Scapula": [
+          {
+            "topic": "Rotator cuff",
+            "question": "Most commonly injured rotator cuff muscle?",
+            "answer": "Supraspinatus"
+          },
+          {
+            "topic": "Winged scapula",
+            "question": "Winged scapula occurs due to injury to?",
+            "answer": "Long thoracic nerve"
+          }
+        ],
+
+        "Brachial Plexus": [
+          {
+            "topic": "Erb palsy",
+            "question": "Erb palsy involves roots?",
+            "answer": "C5 C6"
+          },
+          {
+            "topic": "Klumpke palsy",
+            "question": "Klumpke palsy involves roots?",
+            "answer": "C8 T1"
+          }
+        ],
+
+        "Radial Nerve": [
+          {
+            "topic": "Wrist drop",
+            "question": "Wrist drop occurs due to injury of?",
+            "answer": "Radial nerve"
+          },
+          {
+            "topic": "Anatomical snuffbox",
+            "question": "Floor of anatomical snuffbox is formed by?",
+            "answer": "Scaphoid and trapezium"
+          }
+        ],
+
+        "Median Nerve": [
+          {
+            "topic": "Carpal tunnel",
+            "question": "Most commonly compressed nerve in carpal tunnel syndrome?",
+            "answer": "Median nerve"
+          },
+          {
+            "topic": "Ape thumb",
+            "question": "Ape thumb deformity occurs due to injury of?",
+            "answer": "Median nerve"
+          }
+        ],
+
+        "Ulnar Nerve": [
+          {
+            "topic": "Claw hand",
+            "question": "Claw hand occurs due to injury of?",
+            "answer": "Ulnar nerve"
+          },
+          {
+            "topic": "Froment sign",
+            "question": "Positive Froment sign indicates lesion of?",
+            "answer": "Ulnar nerve"
+          }
+        ],
+
+        "Musculocutaneous Nerve": [
+          {
+            "topic": "Elbow flexion loss",
+            "question": "Musculocutaneous nerve supplies?",
+            "answer": "Anterior compartment of arm"
+          }
+        ],
+
+        "Hand Anatomy": [
+          {
+            "topic": "Flexor retinaculum",
+            "question": "Carpal tunnel is formed by carpal bones and?",
+            "answer": "Flexor retinaculum"
+          }
+        ]
+      },
+
+      "Lower Limb": {
+
+        "Femoral Region": [
+          {
+            "topic": "Femoral triangle",
+            "question": "Femoral nerve lies lateral to?",
+            "answer": "Femoral artery"
+          },
+          {
+            "topic": "Adductor canal",
+            "question": "Adductor hiatus transmits?",
+            "answer": "Femoral vessels"
+          }
+        ],
+
+        "Gluteal Region": [
+          {
+            "topic": "Sciatic nerve",
+            "question": "Largest nerve in body?",
+            "answer": "Sciatic nerve"
+          },
+          {
+            "topic": "Trendelenburg sign",
+            "question": "Positive Trendelenburg sign occurs due to paralysis of?",
+            "answer": "Gluteus medius"
+          }
+        ],
+
+        "Knee Joint": [
+          {
+            "topic": "ACL PCL",
+            "question": "Anterior drawer test indicates injury to?",
+            "answer": "ACL"
+          },
+          {
+            "topic": "Unhappy triad",
+            "question": "Unhappy triad includes injury to ACL MCL and?",
+            "answer": "Medial meniscus"
+          }
+        ],
+
+        "Leg and Foot": [
+          {
+            "topic": "Foot drop",
+            "question": "Foot drop occurs due to injury of?",
+            "answer": "Common peroneal nerve"
+          },
+          {
+            "topic": "Dorsalis pedis",
+            "question": "Dorsalis pedis artery is continuation of?",
+            "answer": "Anterior tibial artery"
+          }
+        ],
+
+        "Veins and Vessels": [
+          {
+            "topic": "Great saphenous vein",
+            "question": "Longest vein in body?",
+            "answer": "Great saphenous vein"
+          }
+        ]
+      },
+
+      "General Anatomy": {
+
+        "Bones and Joints": [
+          {
+            "topic": "Hilton law",
+            "question": "Nerve supplying muscles moving a joint also supplies?",
+            "answer": "Joint and skin overlying it"
+          },
+          {
+            "topic": "Types of joints",
+            "question": "Primary cartilaginous joint is also called?",
+            "answer": "Synchondrosis"
+          }
+        ],
+
+        "Nerves and Skin": [
+          {
+            "topic": "Dermatome",
+            "question": "Umbilicus corresponds to which dermatome?",
+            "answer": "T10"
+          },
+          {
+            "topic": "Referred pain",
+            "question": "Pain of diaphragmatic irritation is referred to?",
+            "answer": "Shoulder"
+          }
+        ],
+
+        "Cell and Tissue Basics": [
+          {
+            "topic": "Cell junctions",
+            "question": "Most impermeable cell junction?",
+            "answer": "Tight junction"
+          },
+          {
+            "topic": "Apoptosis vs necrosis",
+            "question": "Programmed cell death is called?",
+            "answer": "Apoptosis"
+          }
+        ]
+      }
+    }
+  }
+}

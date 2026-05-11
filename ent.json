@@ -1,0 +1,711 @@
+{
+  "ENT": {
+    "PYTs": {
+
+      "Ear": {
+
+        "Basics of Ear": [
+          { "topic": "Anatomy of external ear", "rating": 4 },
+          { "topic": "Middle ear anatomy", "rating": 5 },
+          { "topic": "Inner ear anatomy", "rating": 5 },
+          { "topic": "Ossicles", "rating": 5 },
+          { "topic": "Eustachian tube", "rating": 4 },
+          { "topic": "Facial nerve relation", "rating": 5 },
+          { "topic": "Mastoid air cells", "rating": 4 },
+          { "topic": "Blood supply of ear", "rating": 3 }
+        ],
+
+        "Clinical Embryology and Anatomy of Inner Ear": [
+          { "topic": "Organ of Corti", "rating": 5 },
+          { "topic": "Membranous labyrinth", "rating": 5 },
+          { "topic": "Vestibular apparatus", "rating": 5 },
+          { "topic": "Endolymph vs perilymph", "rating": 5 },
+          { "topic": "Semicircular canals", "rating": 5 },
+          { "topic": "Vestibulocochlear nerve", "rating": 5 },
+          { "topic": "Internal auditory canal", "rating": 4 }
+        ],
+
+        "Diseases of Pinna and EAC": [
+          { "topic": "Otitis externa", "rating": 5 },
+          { "topic": "Malignant otitis externa", "rating": 5 },
+          { "topic": "Furunculosis", "rating": 4 },
+          { "topic": "Keratosis obturans", "rating": 3 },
+          { "topic": "Exostosis", "rating": 3 },
+          { "topic": "Osteoma", "rating": 3 }
+        ],
+
+        "Tympanic Membrane and Ossicles": [
+          { "topic": "Pars tensa", "rating": 5 },
+          { "topic": "Pars flaccida", "rating": 5 },
+          { "topic": "Cone of light", "rating": 4 },
+          { "topic": "Attic perforation", "rating": 5 },
+          { "topic": "Central perforation", "rating": 5 },
+          { "topic": "Retraction pocket", "rating": 5 }
+        ],
+
+        "Middle Ear": [
+          { "topic": "Mucosal CSOM", "rating": 5 },
+          { "topic": "Squamosal CSOM", "rating": 5 },
+          { "topic": "Cholesteatoma", "rating": 5 },
+          { "topic": "Facial nerve involvement", "rating": 5 },
+          { "topic": "Mastoiditis", "rating": 5 },
+          { "topic": "Petrositis", "rating": 4 },
+          { "topic": "Gradenigo syndrome", "rating": 5 },
+          { "topic": "Intracranial complications", "rating": 5 }
+        ],
+
+        "Audiology and Evaluation": [
+          { "topic": "Rinne test", "rating": 5 },
+          { "topic": "Weber test", "rating": 5 },
+          { "topic": "ABC test", "rating": 5 },
+          { "topic": "False negative Rinne", "rating": 5 },
+          { "topic": "Conductive hearing loss", "rating": 5 },
+          { "topic": "Sensorineural hearing loss", "rating": 5 },
+          { "topic": "Air bone gap", "rating": 5 },
+          { "topic": "Mixed hearing loss", "rating": 4 },
+          { "topic": "Noise notch", "rating": 4 },
+          { "topic": "Carhart notch", "rating": 5 }
+        ],
+
+        "Tympanometry and BERA": [
+          { "topic": "Type A tympanogram", "rating": 4 },
+          { "topic": "Type B tympanogram", "rating": 5 },
+          { "topic": "Type C tympanogram", "rating": 5 },
+          { "topic": "OAE", "rating": 4 },
+          { "topic": "BERA", "rating": 5 }
+        ],
+
+        "Otitis Media": [
+          { "topic": "Acute otitis media", "rating": 5 },
+          { "topic": "Serous otitis media", "rating": 5 },
+          { "topic": "Glue ear", "rating": 5 },
+          { "topic": "Chronic mucosal otitis media", "rating": 5 },
+          { "topic": "Chronic squamosal otitis media", "rating": 5 },
+          { "topic": "Complications of otitis media", "rating": 5 }
+        ],
+
+        "Otosclerosis": [
+          { "topic": "Carhart notch", "rating": 5 },
+          { "topic": "Schwartze sign", "rating": 5 },
+          { "topic": "Conductive deafness", "rating": 5 },
+          { "topic": "Stapedotomy", "rating": 5 },
+          { "topic": "Pregnancy worsening", "rating": 4 }
+        ],
+
+        "Vestibular Disorders": [
+          { "topic": "BPPV", "rating": 5 },
+          { "topic": "Dix Hallpike test", "rating": 5 },
+          { "topic": "Epley maneuver", "rating": 5 },
+          { "topic": "Meniere disease", "rating": 5 },
+          { "topic": "Vestibular neuritis", "rating": 4 },
+          { "topic": "Vestibular rehabilitation", "rating": 4 },
+          { "topic": "Horizontal canal BPPV", "rating": 4 }
+        ],
+
+        "Acoustic Neuroma": [
+          { "topic": "Vestibular schwannoma", "rating": 5 },
+          { "topic": "CPA tumor", "rating": 5 },
+          { "topic": "NF2 association", "rating": 4 }
+        ],
+
+        "Facial Nerve": [
+          { "topic": "Bell palsy", "rating": 5 },
+          { "topic": "Hyperacusis", "rating": 4 },
+          { "topic": "Chorda tympani", "rating": 4 },
+          { "topic": "Facial nerve course", "rating": 5 }
+        ]
+      },
+
+      "Nose": {
+
+        "External Nose and Septum": [
+          { "topic": "Choanal atresia", "rating": 4 },
+          { "topic": "DNS", "rating": 5 },
+          { "topic": "Septal hematoma", "rating": 5 },
+          { "topic": "Septoplasty", "rating": 4 },
+          { "topic": "Septal spur", "rating": 4 }
+        ],
+
+        "Epistaxis": [
+          { "topic": "Little area", "rating": 5 },
+          { "topic": "Woodruff plexus", "rating": 5 },
+          { "topic": "Sphenopalatine artery", "rating": 5 },
+          { "topic": "Posterior nasal packing", "rating": 5 },
+          { "topic": "SPA ligation", "rating": 5 }
+        ],
+
+        "Rhinosinusitis": [
+          { "topic": "Acute sinusitis", "rating": 5 },
+          { "topic": "Chronic sinusitis", "rating": 5 },
+          { "topic": "FESS", "rating": 5 },
+          { "topic": "Osteomeatal complex", "rating": 5 }
+        ],
+
+        "Fungal Sinusitis": [
+          { "topic": "Mucormycosis", "rating": 5 },
+          { "topic": "AFRS", "rating": 4 },
+          { "topic": "Black eschar", "rating": 5 },
+          { "topic": "Amphotericin B", "rating": 5 }
+        ],
+
+        "Nasal Polyps": [
+          { "topic": "Ethmoidal polyp", "rating": 5 },
+          { "topic": "Antrochoanal polyp", "rating": 5 },
+          { "topic": "Samter triad", "rating": 5 }
+        ],
+
+        "Atrophic Rhinitis": [
+          { "topic": "Ozaena", "rating": 4 },
+          { "topic": "Merciful anosmia", "rating": 4 }
+        ],
+
+        "CSF Rhinorrhea": [
+          { "topic": "Cribriform plate", "rating": 5 },
+          { "topic": "Halo sign", "rating": 4 },
+          { "topic": "Beta-2 transferrin", "rating": 5 }
+        ],
+
+        "Tumors of Nose and PNS": [
+          { "topic": "Maxillary carcinoma", "rating": 4 },
+          { "topic": "Occupational risks", "rating": 3 }
+        ],
+
+        "Juvenile Nasopharyngeal Angiofibroma": [
+          { "topic": "Adolescent male", "rating": 5 },
+          { "topic": "Profuse epistaxis", "rating": 5 },
+          { "topic": "Holman Miller sign", "rating": 5 },
+          { "topic": "Never biopsy", "rating": 5 }
+        ]
+      },
+
+      "Pharynx": {
+
+        "Pharyngeal Anatomy": [
+          { "topic": "Waldeyer ring", "rating": 4 },
+          { "topic": "Killian dehiscence", "rating": 5 },
+          { "topic": "Retropharyngeal space", "rating": 5 },
+          { "topic": "Danger space", "rating": 4 },
+          { "topic": "Constricor muscles", "rating": 3 }
+        ],
+
+        "Adenoid Hypertrophy": [
+          { "topic": "Adenoid facies", "rating": 5 },
+          { "topic": "Mouth breathing", "rating": 5 },
+          { "topic": "OME association", "rating": 5 },
+          { "topic": "Hyponasal speech", "rating": 4 }
+        ],
+
+        "Tonsils": [
+          { "topic": "Quinsy", "rating": 5 },
+          { "topic": "Peritonsillar abscess", "rating": 5 },
+          { "topic": "Tonsillectomy indications", "rating": 5 },
+          { "topic": "Post tonsillectomy hemorrhage", "rating": 5 },
+          { "topic": "Tonsillitis", "rating": 4 }
+        ],
+
+        "Nasopharyngeal Carcinoma": [
+          { "topic": "EBV association", "rating": 5 },
+          { "topic": "Fossa of Rosenmuller", "rating": 5 },
+          { "topic": "Neck node metastasis", "rating": 5 },
+          { "topic": "Undifferentiated carcinoma", "rating": 4 }
+        ],
+
+        "Ludwig Angina": [
+          { "topic": "Submandibular space infection", "rating": 5 },
+          { "topic": "Airway emergency", "rating": 5 },
+          { "topic": "Dental infection spread", "rating": 4 }
+        ],
+
+        "Retropharyngeal Abscess": [
+          { "topic": "Hot potato voice", "rating": 5 },
+          { "topic": "Airway compromise", "rating": 5 },
+          { "topic": "Torticollis", "rating": 4 }
+        ],
+
+        "Zenker Diverticulum": [
+          { "topic": "Killian dehiscence", "rating": 5 },
+          { "topic": "Regurgitation", "rating": 4 },
+          { "topic": "Halitosis", "rating": 4 },
+          { "topic": "Gurgling neck swelling", "rating": 4 }
+        ]
+      },
+
+      "Larynx": {
+
+        "Anatomy of Larynx": [
+          { "topic": "Intrinsic muscles", "rating": 5 },
+          { "topic": "Cartilages of larynx", "rating": 4 },
+          { "topic": "Nerve supply", "rating": 5 },
+          { "topic": "Cricothyroid muscle", "rating": 5 },
+          { "topic": "Posterior cricoarytenoid", "rating": 5 }
+        ],
+
+        "Vocal Cord Palsy": [
+          { "topic": "RLN palsy", "rating": 5 },
+          { "topic": "Left RLN", "rating": 5 },
+          { "topic": "Cadaveric position", "rating": 5 },
+          { "topic": "Paramedian position", "rating": 5 },
+          { "topic": "Bilateral vocal cord palsy", "rating": 5 },
+          { "topic": "Post thyroidectomy hoarseness", "rating": 5 }
+        ],
+
+        "Congenital Laryngeal Conditions": [
+          { "topic": "Laryngomalacia", "rating": 5 },
+          { "topic": "Infant stridor", "rating": 5 },
+          { "topic": "Subglottic stenosis", "rating": 4 }
+        ],
+
+        "Carcinoma Larynx": [
+          { "topic": "Glottic carcinoma", "rating": 5 },
+          { "topic": "Supraglottic carcinoma", "rating": 5 },
+          { "topic": "Hoarseness", "rating": 5 },
+          { "topic": "Smoking", "rating": 4 },
+          { "topic": "Lymphatic spread", "rating": 5 },
+          { "topic": "TNM staging", "rating": 4 },
+          { "topic": "Vocal cord fixation", "rating": 5 }
+        ],
+
+        "Tracheostomy and Foreign Body": [
+          { "topic": "Emergency airway", "rating": 5 },
+          { "topic": "Cricothyrotomy", "rating": 5 },
+          { "topic": "Heimlich maneuver", "rating": 5 },
+          { "topic": "Foreign body aspiration", "rating": 5 },
+          { "topic": "Tracheostomy complications", "rating": 4 }
+        ]
+      },
+
+      "Image Based Important Topics": [
+
+        { "topic": "Cholesteatoma image", "rating": 5 },
+        { "topic": "Audiogram interpretation", "rating": 5 },
+        { "topic": "Tympanogram curves", "rating": 5 },
+        { "topic": "Nasal polyp image", "rating": 5 },
+        { "topic": "TM perforation image", "rating": 5 },
+        { "topic": "CT PNS", "rating": 4 },
+        { "topic": "Laryngoscopy images", "rating": 5 },
+        { "topic": "Vocal cord palsy image", "rating": 5 },
+        { "topic": "Otoscopy images", "rating": 5 }
+      ]
+    },
+
+    "PYQs": {
+
+      "Ear": {
+
+        "CSOM and Cholesteatoma": [
+          {
+            "topic": "Unsafe CSOM",
+            "question": "Attic perforation with foul smelling discharge indicates?",
+            "answer": "Unsafe CSOM"
+          },
+          {
+            "topic": "Cholesteatoma",
+            "question": "Pearly white mass in middle ear is?",
+            "answer": "Cholesteatoma"
+          },
+          {
+            "topic": "Gradenigo syndrome",
+            "question": "Triad of otorrhea, retroorbital pain and sixth nerve palsy occurs in?",
+            "answer": "Gradenigo syndrome"
+          },
+          {
+            "topic": "Scutum erosion",
+            "question": "Earliest HRCT finding in cholesteatoma?",
+            "answer": "Scutum erosion"
+          }
+        ],
+
+        "Tuning Fork Tests": [
+          {
+            "topic": "Rinne test",
+            "question": "Rinne negative indicates?",
+            "answer": "Conductive hearing loss"
+          },
+          {
+            "topic": "Weber test",
+            "question": "Weber lateralizes to which ear in conductive deafness?",
+            "answer": "Affected ear"
+          },
+          {
+            "topic": "False negative Rinne",
+            "question": "False negative Rinne occurs in?",
+            "answer": "Severe unilateral SNHL"
+          }
+        ],
+
+        "Audiogram and PTA": [
+          {
+            "topic": "Carhart notch",
+            "question": "Carhart notch is seen in?",
+            "answer": "Otosclerosis"
+          },
+          {
+            "topic": "Noise notch",
+            "question": "4000 Hz notch is characteristic of?",
+            "answer": "Noise induced hearing loss"
+          }
+        ],
+
+        "Otosclerosis": [
+          {
+            "topic": "Schwartze sign",
+            "question": "Pink blush seen through tympanic membrane is?",
+            "answer": "Schwartze sign"
+          },
+          {
+            "topic": "Stapes fixation",
+            "question": "Hearing loss in otosclerosis occurs due to fixation of?",
+            "answer": "Stapes footplate"
+          }
+        ],
+
+        "Vestibular Disorders": [
+          {
+            "topic": "BPPV",
+            "question": "Most common peripheral vertigo?",
+            "answer": "BPPV"
+          },
+          {
+            "topic": "Dix Hallpike",
+            "question": "Diagnostic test for posterior canal BPPV?",
+            "answer": "Dix Hallpike maneuver"
+          },
+          {
+            "topic": "Epley maneuver",
+            "question": "Treatment of posterior canal BPPV?",
+            "answer": "Epley maneuver"
+          }
+        ],
+
+        "Meniere Disease": [
+          {
+            "topic": "Endolymphatic hydrops",
+            "question": "Pathology in Meniere disease?",
+            "answer": "Endolymphatic hydrops"
+          }
+        ],
+
+        "Acoustic Neuroma": [
+          {
+            "topic": "Vestibular schwannoma",
+            "question": "Most common CPA tumor?",
+            "answer": "Vestibular schwannoma"
+          }
+        ],
+
+        "Otitis Media": [
+          {
+            "topic": "Glue ear",
+            "question": "Type B tympanogram is seen in?",
+            "answer": "Glue ear"
+          },
+          {
+            "topic": "Myringotomy",
+            "question": "Ideal quadrant for grommet insertion?",
+            "answer": "Anteroinferior quadrant"
+          }
+        ],
+
+        "Miscellaneous Ear PYQs": [
+          {
+            "topic": "Arnold nerve",
+            "question": "Cough reflex on EAC stimulation is due to?",
+            "answer": "Arnold nerve"
+          },
+          {
+            "topic": "Battle sign",
+            "question": "Post auricular ecchymosis indicates?",
+            "answer": "Temporal bone fracture"
+          }
+        ]
+      },
+
+
+      "Nose": {
+
+        "Epistaxis": [
+          {
+            "topic": "Little area",
+            "question": "Most common site of epistaxis?",
+            "answer": "Little area (Kiesselbach plexus)"
+          },
+          {
+            "topic": "Woodruff plexus",
+            "question": "Posterior epistaxis commonly arises from?",
+            "answer": "Woodruff plexus"
+          },
+          {
+            "topic": "Sphenopalatine artery",
+            "question": "Most important artery supplying nasal cavity?",
+            "answer": "Sphenopalatine artery"
+          },
+          {
+            "topic": "SPA ligation",
+            "question": "Definitive surgical management for recurrent posterior epistaxis?",
+            "answer": "Sphenopalatine artery ligation"
+          }
+        ],
+
+        "Nasal Polyps": [
+          {
+            "topic": "Ethmoidal polyp",
+            "question": "Bilateral multiple nasal polyps are usually?",
+            "answer": "Ethmoidal polyps"
+          },
+          {
+            "topic": "Antrochoanal polyp",
+            "question": "Single unilateral nasal polyp in child is usually?",
+            "answer": "Antrochoanal polyp"
+          },
+          {
+            "topic": "Samter triad",
+            "question": "Asthma + aspirin sensitivity + nasal polyps is called?",
+            "answer": "Samter triad"
+          }
+        ],
+
+        "Rhinosinusitis": [
+          {
+            "topic": "Osteomeatal complex",
+            "question": "Key area involved in chronic sinusitis?",
+            "answer": "Osteomeatal complex"
+          },
+          {
+            "topic": "FESS",
+            "question": "Gold standard surgery for chronic sinusitis?",
+            "answer": "FESS"
+          }
+        ],
+
+        "Fungal Sinusitis": [
+          {
+            "topic": "Mucormycosis",
+            "question": "Black eschar in diabetic patient indicates?",
+            "answer": "Mucormycosis"
+          },
+          {
+            "topic": "Amphotericin B",
+            "question": "Drug of choice for mucormycosis?",
+            "answer": "Amphotericin B"
+          }
+        ],
+
+        "DNS and Septum": [
+          {
+            "topic": "Septal hematoma",
+            "question": "Most important complication after nasal trauma?",
+            "answer": "Septal hematoma"
+          },
+          {
+            "topic": "Septoplasty",
+            "question": "Preferred surgery for symptomatic DNS?",
+            "answer": "Septoplasty"
+          }
+        ],
+
+        "CSF Rhinorrhea": [
+          {
+            "topic": "Cribriform plate",
+            "question": "Most common site of CSF leak in nose?",
+            "answer": "Cribriform plate"
+          },
+          {
+            "topic": "Beta-2 transferrin",
+            "question": "Most specific test for CSF rhinorrhea?",
+            "answer": "Beta-2 transferrin"
+          }
+        ],
+
+        "Atrophic Rhinitis": [
+          {
+            "topic": "Ozaena",
+            "question": "Foul smelling crusting disease of nose is?",
+            "answer": "Atrophic rhinitis"
+          }
+        ],
+
+        "JNA": [
+          {
+            "topic": "Holman Miller sign",
+            "question": "Anterior bowing of posterior maxillary wall is called?",
+            "answer": "Holman Miller sign"
+          },
+          {
+            "topic": "Never biopsy",
+            "question": "Biopsy is contraindicated in?",
+            "answer": "Juvenile nasopharyngeal angiofibroma"
+          },
+          {
+            "topic": "Adolescent male",
+            "question": "Profuse recurrent epistaxis in adolescent male suggests?",
+            "answer": "Juvenile nasopharyngeal angiofibroma"
+          }
+        ]
+      },
+
+      "Pharynx": {
+
+        "Adenoid Hypertrophy": [
+          {
+            "topic": "Adenoid facies",
+            "question": "Open mouth breathing with pinched nose facies occurs in?",
+            "answer": "Adenoid hypertrophy"
+          },
+          {
+            "topic": "OME association",
+            "question": "Most common ear problem associated with adenoid hypertrophy?",
+            "answer": "Otitis media with effusion"
+          }
+        ],
+
+        "Tonsils": [
+          {
+            "topic": "Quinsy",
+            "question": "Peritonsillar abscess is also called?",
+            "answer": "Quinsy"
+          },
+          {
+            "topic": "Post tonsillectomy hemorrhage",
+            "question": "Reactionary hemorrhage after tonsillectomy occurs within?",
+            "answer": "24 hours"
+          }
+        ],
+
+        "Nasopharyngeal Carcinoma": [
+          {
+            "topic": "EBV association",
+            "question": "Nasopharyngeal carcinoma is strongly associated with?",
+            "answer": "Epstein Barr virus"
+          },
+          {
+            "topic": "Fossa of Rosenmuller",
+            "question": "Most common site of nasopharyngeal carcinoma?",
+            "answer": "Fossa of Rosenmuller"
+          }
+        ],
+
+        "Retropharyngeal Abscess": [
+          {
+            "topic": "Hot potato voice",
+            "question": "Muffled hot potato voice is seen in?",
+            "answer": "Retropharyngeal abscess"
+          }
+        ],
+
+        "Ludwig Angina": [
+          {
+            "topic": "Airway emergency",
+            "question": "Rapidly spreading cellulitis of submandibular space is?",
+            "answer": "Ludwig angina"
+          }
+        ],
+
+        "Zenker Diverticulum": [
+          {
+            "topic": "Killian dehiscence",
+            "question": "Zenker diverticulum occurs through?",
+            "answer": "Killian dehiscence"
+          },
+          {
+            "topic": "Regurgitation",
+            "question": "Regurgitation of undigested food is seen in?",
+            "answer": "Zenker diverticulum"
+          }
+        ]
+      },
+
+      "Larynx": {
+
+        "Vocal Cord Palsy": [
+          {
+            "topic": "RLN palsy",
+            "question": "Most common nerve injured during thyroidectomy?",
+            "answer": "Recurrent laryngeal nerve"
+          },
+          {
+            "topic": "Bilateral vocal cord palsy",
+            "question": "Stridor after thyroid surgery suggests?",
+            "answer": "Bilateral vocal cord palsy"
+          },
+          {
+            "topic": "Paramedian position",
+            "question": "Vocal cord position in unilateral RLN palsy?",
+            "answer": "Paramedian position"
+          }
+        ],
+
+        "Carcinoma Larynx": [
+          {
+            "topic": "Glottic carcinoma",
+            "question": "Most common carcinoma of larynx?",
+            "answer": "Glottic carcinoma"
+          },
+          {
+            "topic": "Hoarseness",
+            "question": "Earliest symptom of glottic carcinoma?",
+            "answer": "Hoarseness of voice"
+          },
+          {
+            "topic": "Lymphatic spread",
+            "question": "Which laryngeal cancer spreads earliest to nodes?",
+            "answer": "Supraglottic carcinoma"
+          }
+        ],
+
+        "Congenital Laryngeal Conditions": [
+          {
+            "topic": "Laryngomalacia",
+            "question": "Most common cause of stridor in infant?",
+            "answer": "Laryngomalacia"
+          }
+        ],
+
+        "Airway and Emergency": [
+          {
+            "topic": "Tracheostomy",
+            "question": "Emergency airway opening into trachea is called?",
+            "answer": "Tracheostomy"
+          },
+          {
+            "topic": "Cricothyrotomy",
+            "question": "Fastest emergency airway procedure?",
+            "answer": "Cricothyrotomy"
+          },
+          {
+            "topic": "Heimlich maneuver",
+            "question": "Immediate management of choking conscious adult?",
+            "answer": "Heimlich maneuver"
+          }
+        ]
+      },
+
+      "Image Based PYQs": [
+        {
+          "topic": "Cholesteatoma image",
+          "question": "Pearly white attic lesion on otoscopy indicates?",
+          "answer": "Cholesteatoma"
+        },
+        {
+          "topic": "Audiogram image",
+          "question": "Dip at 2000 Hz on audiogram indicates?",
+          "answer": "Otosclerosis"
+        },
+        {
+          "topic": "TM perforation image",
+          "question": "Attic perforation indicates?",
+          "answer": "Unsafe CSOM"
+        },
+        {
+          "topic": "Nasal polyp image",
+          "question": "Single unilateral choanal polyp is?",
+          "answer": "Antrochoanal polyp"
+        },
+        {
+          "topic": "Laryngoscopy image",
+          "question": "Immobile vocal cord suggests?",
+          "answer": "Vocal cord palsy"
+        }
+      ]
+    }
+  }
+}

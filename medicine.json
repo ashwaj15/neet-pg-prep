@@ -1,1219 +1,5453 @@
 {
   "Medicine": {
     "PYTs": {
-
       "Gastroenterology": {
-
         "Diarrhea": [
-          { "topic": "Acute vs chronic diarrhea", "rating": 5 },
-          { "topic": "Secretory vs osmotic diarrhea", "rating": 5 },
-          { "topic": "Stool osmotic gap", "rating": 4 },
-          { "topic": "Traveler diarrhea", "rating": 3 },
-          { "topic": "Cholera rice water stools", "rating": 4 }
+          {
+            "topic": "Acute vs chronic diarrhea",
+            "rating": 5
+          },
+          {
+            "topic": "Secretory vs osmotic diarrhea",
+            "rating": 5
+          },
+          {
+            "topic": "Stool osmotic gap",
+            "rating": 4
+          },
+          {
+            "topic": "Traveler diarrhea",
+            "rating": 3
+          },
+          {
+            "topic": "Cholera rice water stools",
+            "rating": 4
+          }
         ],
-
         "Physiology of GIT Absorption and Selective Malabsorption": [
-          { "topic": "Iron absorption", "rating": 5 },
-          { "topic": "Vitamin B12 absorption", "rating": 5 },
-          { "topic": "Bile salt absorption", "rating": 4 },
-          { "topic": "Lactase deficiency", "rating": 4 },
-          { "topic": "Selective malabsorption syndromes", "rating": 3 }
+          {
+            "topic": "Iron absorption",
+            "rating": 5
+          },
+          {
+            "topic": "Vitamin B12 absorption",
+            "rating": 5
+          },
+          {
+            "topic": "Bile salt absorption",
+            "rating": 4
+          },
+          {
+            "topic": "Lactase deficiency",
+            "rating": 4
+          },
+          {
+            "topic": "Selective malabsorption syndromes",
+            "rating": 3
+          }
         ],
-
         "Clinical Features And Tests For Malabsorption": [
-          { "topic": "D-xylose test", "rating": 5 },
-          { "topic": "Steatorrhea", "rating": 5 },
-          { "topic": "Sudan stain", "rating": 4 },
-          { "topic": "Celiac disease workup", "rating": 5 },
-          { "topic": "Fat soluble vitamin deficiency", "rating": 4 }
+          {
+            "topic": "D-xylose test",
+            "rating": 5
+          },
+          {
+            "topic": "Steatorrhea",
+            "rating": 5
+          },
+          {
+            "topic": "Sudan stain",
+            "rating": 4
+          },
+          {
+            "topic": "Celiac disease workup",
+            "rating": 5
+          },
+          {
+            "topic": "Fat soluble vitamin deficiency",
+            "rating": 4
+          }
         ],
-
         "Global Malabsorption": [
-          { "topic": "Celiac disease", "rating": 5 },
-          { "topic": "Whipple disease", "rating": 3 },
-          { "topic": "Tropical sprue", "rating": 4 },
-          { "topic": "Dermatitis herpetiformis", "rating": 5 },
-          { "topic": "Anti-tTG antibody", "rating": 5 }
+          {
+            "topic": "Celiac disease",
+            "rating": 5
+          },
+          {
+            "topic": "Whipple disease",
+            "rating": 3
+          },
+          {
+            "topic": "Tropical sprue",
+            "rating": 4
+          },
+          {
+            "topic": "Dermatitis herpetiformis",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-tTG antibody",
+            "rating": 5
+          }
         ],
-
         "Inflammatory Bowel Disease Part 1": [
-          { "topic": "Crohn disease", "rating": 5 },
-          { "topic": "Ulcerative colitis", "rating": 5 },
-          { "topic": "Skip lesions", "rating": 5 },
-          { "topic": "Cobblestone appearance", "rating": 5 },
-          { "topic": "Toxic megacolon", "rating": 5 }
+          {
+            "topic": "Crohn disease",
+            "rating": 5
+          },
+          {
+            "topic": "Ulcerative colitis",
+            "rating": 5
+          },
+          {
+            "topic": "Skip lesions",
+            "rating": 5
+          },
+          {
+            "topic": "Cobblestone appearance",
+            "rating": 5
+          },
+          {
+            "topic": "Toxic megacolon",
+            "rating": 5
+          }
         ],
-
         "Inflammatory Bowel Disease Part 2": [
-          { "topic": "Extraintestinal manifestations", "rating": 5 },
-          { "topic": "Primary sclerosing cholangitis", "rating": 5 },
-          { "topic": "P-ANCA vs ASCA", "rating": 4 },
-          { "topic": "Biologics in IBD", "rating": 4 },
-          { "topic": "Colorectal cancer risk in UC", "rating": 4 }
+          {
+            "topic": "Extraintestinal manifestations",
+            "rating": 5
+          },
+          {
+            "topic": "Primary sclerosing cholangitis",
+            "rating": 5
+          },
+          {
+            "topic": "P-ANCA vs ASCA",
+            "rating": 4
+          },
+          {
+            "topic": "Biologics in IBD",
+            "rating": 4
+          },
+          {
+            "topic": "Colorectal cancer risk in UC",
+            "rating": 4
+          }
         ],
-
         "Infectious Diarrhoea": [
-          { "topic": "ETEC", "rating": 4 },
-          { "topic": "Vibrio cholerae", "rating": 5 },
-          { "topic": "Clostridium difficile", "rating": 5 },
-          { "topic": "Rotavirus", "rating": 4 },
-          { "topic": "Giardiasis", "rating": 4 }
+          {
+            "topic": "ETEC",
+            "rating": 4
+          },
+          {
+            "topic": "Vibrio cholerae",
+            "rating": 5
+          },
+          {
+            "topic": "Clostridium difficile",
+            "rating": 5
+          },
+          {
+            "topic": "Rotavirus",
+            "rating": 4
+          },
+          {
+            "topic": "Giardiasis",
+            "rating": 4
+          }
         ],
-
         "Stomach": [
-          { "topic": "Peptic ulcer disease", "rating": 5 },
-          { "topic": "H. pylori", "rating": 5 },
-          { "topic": "Menetrier disease", "rating": 3 },
-          { "topic": "Zollinger Ellison syndrome", "rating": 5 },
-          { "topic": "Gastric carcinoma", "rating": 5 }
+          {
+            "topic": "Peptic ulcer disease",
+            "rating": 5
+          },
+          {
+            "topic": "H. pylori",
+            "rating": 5
+          },
+          {
+            "topic": "Menetrier disease",
+            "rating": 3
+          },
+          {
+            "topic": "Zollinger Ellison syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Gastric carcinoma",
+            "rating": 5
+          }
         ],
-
         "Gastrinoma": [
-          { "topic": "Zollinger Ellison syndrome", "rating": 5 },
-          { "topic": "MEN1 association", "rating": 5 },
-          { "topic": "Elevated gastrin levels", "rating": 5 },
-          { "topic": "Refractory peptic ulcers", "rating": 4 }
+          {
+            "topic": "Zollinger Ellison syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "MEN1 association",
+            "rating": 5
+          },
+          {
+            "topic": "Elevated gastrin levels",
+            "rating": 5
+          },
+          {
+            "topic": "Refractory peptic ulcers",
+            "rating": 4
+          }
         ],
-
         "Irritable Bowel Syndrome": [
-          { "topic": "Rome criteria", "rating": 5 },
-          { "topic": "Functional bowel disorder", "rating": 4 },
-          { "topic": "IBS constipation predominant", "rating": 3 },
-          { "topic": "Stress association", "rating": 3 }
+          {
+            "topic": "Rome criteria",
+            "rating": 5
+          },
+          {
+            "topic": "Functional bowel disorder",
+            "rating": 4
+          },
+          {
+            "topic": "IBS constipation predominant",
+            "rating": 3
+          },
+          {
+            "topic": "Stress association",
+            "rating": 3
+          }
         ]
       },
-
       "Hematology": {
-
         "Clinical Approach to Anemia": [
-          { "topic": "Microcytic vs macrocytic anemia", "rating": 5 },
-          { "topic": "Reticulocyte count", "rating": 5 },
-          { "topic": "Peripheral smear", "rating": 5 },
-          { "topic": "MCV interpretation", "rating": 5 }
+          {
+            "topic": "Microcytic vs macrocytic anemia",
+            "rating": 5
+          },
+          {
+            "topic": "Reticulocyte count",
+            "rating": 5
+          },
+          {
+            "topic": "Peripheral smear",
+            "rating": 5
+          },
+          {
+            "topic": "MCV interpretation",
+            "rating": 5
+          }
         ],
-
         "Iron Metabolism": [
-          { "topic": "Ferritin", "rating": 5 },
-          { "topic": "Transferrin saturation", "rating": 5 },
-          { "topic": "Hepcidin", "rating": 5 },
-          { "topic": "Iron deficiency anemia", "rating": 5 }
+          {
+            "topic": "Ferritin",
+            "rating": 5
+          },
+          {
+            "topic": "Transferrin saturation",
+            "rating": 5
+          },
+          {
+            "topic": "Hepcidin",
+            "rating": 5
+          },
+          {
+            "topic": "Iron deficiency anemia",
+            "rating": 5
+          }
         ],
-
         "Approach To Microcytic Hypochromic Anemia": [
-          { "topic": "Iron deficiency anemia", "rating": 5 },
-          { "topic": "Thalassemia", "rating": 5 },
-          { "topic": "Sideroblastic anemia", "rating": 4 },
-          { "topic": "Anemia of chronic disease", "rating": 5 }
+          {
+            "topic": "Iron deficiency anemia",
+            "rating": 5
+          },
+          {
+            "topic": "Thalassemia",
+            "rating": 5
+          },
+          {
+            "topic": "Sideroblastic anemia",
+            "rating": 4
+          },
+          {
+            "topic": "Anemia of chronic disease",
+            "rating": 5
+          }
         ],
-
         "Macrocytic Anemia": [
-          { "topic": "Vitamin B12 deficiency", "rating": 5 },
-          { "topic": "Folate deficiency", "rating": 5 },
-          { "topic": "Megaloblastic anemia", "rating": 5 },
-          { "topic": "Hypersegmented neutrophils", "rating": 5 }
+          {
+            "topic": "Vitamin B12 deficiency",
+            "rating": 5
+          },
+          {
+            "topic": "Folate deficiency",
+            "rating": 5
+          },
+          {
+            "topic": "Megaloblastic anemia",
+            "rating": 5
+          },
+          {
+            "topic": "Hypersegmented neutrophils",
+            "rating": 5
+          }
         ],
-
         "Approach to Hemolysis": [
-          { "topic": "LDH elevation", "rating": 5 },
-          { "topic": "Indirect bilirubin", "rating": 5 },
-          { "topic": "Haptoglobin decrease", "rating": 5 },
-          { "topic": "Reticulocytosis", "rating": 5 }
+          {
+            "topic": "LDH elevation",
+            "rating": 5
+          },
+          {
+            "topic": "Indirect bilirubin",
+            "rating": 5
+          },
+          {
+            "topic": "Haptoglobin decrease",
+            "rating": 5
+          },
+          {
+            "topic": "Reticulocytosis",
+            "rating": 5
+          }
         ],
-
         "Immune Mediated Hemolytic Anemia": [
-          { "topic": "Coombs test", "rating": 5 },
-          { "topic": "Warm autoimmune hemolytic anemia", "rating": 5 },
-          { "topic": "Cold agglutinin disease", "rating": 4 }
+          {
+            "topic": "Coombs test",
+            "rating": 5
+          },
+          {
+            "topic": "Warm autoimmune hemolytic anemia",
+            "rating": 5
+          },
+          {
+            "topic": "Cold agglutinin disease",
+            "rating": 4
+          }
         ],
-
         "Non Immune Mediated Hemolytic Anemia": [
-          { "topic": "G6PD deficiency", "rating": 5 },
-          { "topic": "Hereditary spherocytosis", "rating": 5 },
-          { "topic": "Sickle cell anemia", "rating": 5 },
-          { "topic": "MAHA", "rating": 5 }
+          {
+            "topic": "G6PD deficiency",
+            "rating": 5
+          },
+          {
+            "topic": "Hereditary spherocytosis",
+            "rating": 5
+          },
+          {
+            "topic": "Sickle cell anemia",
+            "rating": 5
+          },
+          {
+            "topic": "MAHA",
+            "rating": 5
+          }
         ],
-
         "Hemolytic Anemia Miscellaneous": [
-          { "topic": "PNH", "rating": 5 },
-          { "topic": "Ham test", "rating": 3 },
-          { "topic": "Flow cytometry CD55 CD59", "rating": 5 }
+          {
+            "topic": "PNH",
+            "rating": 5
+          },
+          {
+            "topic": "Ham test",
+            "rating": 3
+          },
+          {
+            "topic": "Flow cytometry CD55 CD59",
+            "rating": 5
+          }
         ],
-
         "Myeloproliferative Neoplasms Part 1": [
-          { "topic": "Polycythemia vera", "rating": 5 },
-          { "topic": "JAK2 mutation", "rating": 5 },
-          { "topic": "Essential thrombocythemia", "rating": 4 }
+          {
+            "topic": "Polycythemia vera",
+            "rating": 5
+          },
+          {
+            "topic": "JAK2 mutation",
+            "rating": 5
+          },
+          {
+            "topic": "Essential thrombocythemia",
+            "rating": 4
+          }
         ],
-
         "Myeloproliferative Neoplasms Part 2": [
-          { "topic": "Primary myelofibrosis", "rating": 5 },
-          { "topic": "Teardrop cells", "rating": 5 },
-          { "topic": "Massive splenomegaly", "rating": 4 }
+          {
+            "topic": "Primary myelofibrosis",
+            "rating": 5
+          },
+          {
+            "topic": "Teardrop cells",
+            "rating": 5
+          },
+          {
+            "topic": "Massive splenomegaly",
+            "rating": 4
+          }
         ],
-
         "Bone Marrow Failure Syndromes": [
-          { "topic": "Aplastic anemia", "rating": 5 },
-          { "topic": "Fanconi anemia", "rating": 4 },
-          { "topic": "Pancytopenia", "rating": 5 }
+          {
+            "topic": "Aplastic anemia",
+            "rating": 5
+          },
+          {
+            "topic": "Fanconi anemia",
+            "rating": 4
+          },
+          {
+            "topic": "Pancytopenia",
+            "rating": 5
+          }
         ],
-
         "Acute Leukemia": [
-          { "topic": "AML vs ALL", "rating": 5 },
-          { "topic": "Auer rods", "rating": 5 },
-          { "topic": "APL t(15;17)", "rating": 5 },
-          { "topic": "DIC in APL", "rating": 5 }
+          {
+            "topic": "AML vs ALL",
+            "rating": 5
+          },
+          {
+            "topic": "Auer rods",
+            "rating": 5
+          },
+          {
+            "topic": "APL t(15;17)",
+            "rating": 5
+          },
+          {
+            "topic": "DIC in APL",
+            "rating": 5
+          }
         ],
-
         "Acute Myeloid Leukemia VS Acute Lymphoblastic Leukemia": [
-          { "topic": "MPO positivity", "rating": 5 },
-          { "topic": "TdT positivity", "rating": 5 },
-          { "topic": "CNS involvement in ALL", "rating": 4 }
+          {
+            "topic": "MPO positivity",
+            "rating": 5
+          },
+          {
+            "topic": "TdT positivity",
+            "rating": 5
+          },
+          {
+            "topic": "CNS involvement in ALL",
+            "rating": 4
+          }
         ],
-
         "World of Lymphomas": [
-          { "topic": "Reed Sternberg cells", "rating": 5 },
-          { "topic": "B symptoms", "rating": 5 },
-          { "topic": "Extranodal lymphoma", "rating": 4 }
+          {
+            "topic": "Reed Sternberg cells",
+            "rating": 5
+          },
+          {
+            "topic": "B symptoms",
+            "rating": 5
+          },
+          {
+            "topic": "Extranodal lymphoma",
+            "rating": 4
+          }
         ],
-
         "Chronic Lymphocytic Leukemia": [
-          { "topic": "Smudge cells", "rating": 5 },
-          { "topic": "CD5 positive B cells", "rating": 5 },
-          { "topic": "Richter transformation", "rating": 4 }
+          {
+            "topic": "Smudge cells",
+            "rating": 5
+          },
+          {
+            "topic": "CD5 positive B cells",
+            "rating": 5
+          },
+          {
+            "topic": "Richter transformation",
+            "rating": 4
+          }
         ],
-
         "Non Hodgkin Lymphoma": [
-          { "topic": "Burkitt lymphoma", "rating": 5 },
-          { "topic": "Starry sky appearance", "rating": 5 },
-          { "topic": "Diffuse large B cell lymphoma", "rating": 5 }
+          {
+            "topic": "Burkitt lymphoma",
+            "rating": 5
+          },
+          {
+            "topic": "Starry sky appearance",
+            "rating": 5
+          },
+          {
+            "topic": "Diffuse large B cell lymphoma",
+            "rating": 5
+          }
         ],
-
         "Hodgkin Disease": [
-          { "topic": "Reed Sternberg cell", "rating": 5 },
-          { "topic": "Owl eye appearance", "rating": 5 },
-          { "topic": "Mixed cellularity subtype", "rating": 3 }
+          {
+            "topic": "Reed Sternberg cell",
+            "rating": 5
+          },
+          {
+            "topic": "Owl eye appearance",
+            "rating": 5
+          },
+          {
+            "topic": "Mixed cellularity subtype",
+            "rating": 3
+          }
         ],
-
         "Platelet Disorders": [
-          { "topic": "ITP", "rating": 5 },
-          { "topic": "TTP", "rating": 5 },
-          { "topic": "Bernard Soulier syndrome", "rating": 4 },
-          { "topic": "Glanzmann thrombasthenia", "rating": 4 }
+          {
+            "topic": "ITP",
+            "rating": 5
+          },
+          {
+            "topic": "TTP",
+            "rating": 5
+          },
+          {
+            "topic": "Bernard Soulier syndrome",
+            "rating": 4
+          },
+          {
+            "topic": "Glanzmann thrombasthenia",
+            "rating": 4
+          }
         ],
-
         "Platelets Basics": [
-          { "topic": "Platelet plug formation", "rating": 5 },
-          { "topic": "vWF", "rating": 5 },
-          { "topic": "GpIIb/IIIa", "rating": 5 }
+          {
+            "topic": "Platelet plug formation",
+            "rating": 5
+          },
+          {
+            "topic": "vWF",
+            "rating": 5
+          },
+          {
+            "topic": "GpIIb/IIIa",
+            "rating": 5
+          }
         ],
-
         "Approach to Bleeding Disorders": [
-          { "topic": "PT vs aPTT", "rating": 5 },
-          { "topic": "Hemophilia A", "rating": 5 },
-          { "topic": "von Willebrand disease", "rating": 5 }
+          {
+            "topic": "PT vs aPTT",
+            "rating": 5
+          },
+          {
+            "topic": "Hemophilia A",
+            "rating": 5
+          },
+          {
+            "topic": "von Willebrand disease",
+            "rating": 5
+          }
         ]
       },
-
       "Pulmonology": {
-
         "Clinical Anatomy of Lungs": [
-          { "topic": "Right vs left lung", "rating": 5 },
-          { "topic": "Bronchopulmonary segments", "rating": 5 },
-          { "topic": "Hilum anatomy", "rating": 4 }
+          {
+            "topic": "Right vs left lung",
+            "rating": 5
+          },
+          {
+            "topic": "Bronchopulmonary segments",
+            "rating": 5
+          },
+          {
+            "topic": "Hilum anatomy",
+            "rating": 4
+          }
         ],
-
         "Clinical Physiology of Lungs": [
-          { "topic": "Lung volumes", "rating": 5 },
-          { "topic": "Dead space", "rating": 5 },
-          { "topic": "V/Q mismatch", "rating": 5 }
+          {
+            "topic": "Lung volumes",
+            "rating": 5
+          },
+          {
+            "topic": "Dead space",
+            "rating": 5
+          },
+          {
+            "topic": "V/Q mismatch",
+            "rating": 5
+          }
         ],
-
         "Pulmonary Function Tests": [
-          { "topic": "FEV1/FVC ratio", "rating": 5 },
-          { "topic": "Obstructive vs restrictive", "rating": 5 },
-          { "topic": "Flow volume loop", "rating": 4 }
+          {
+            "topic": "FEV1/FVC ratio",
+            "rating": 5
+          },
+          {
+            "topic": "Obstructive vs restrictive",
+            "rating": 5
+          },
+          {
+            "topic": "Flow volume loop",
+            "rating": 4
+          }
         ],
-
         "Venous Thromboembolism": [
-          { "topic": "DVT", "rating": 5 },
-          { "topic": "Pulmonary embolism", "rating": 5 },
-          { "topic": "Wells score", "rating": 5 },
-          { "topic": "Virchow triad", "rating": 5 }
+          {
+            "topic": "DVT",
+            "rating": 5
+          },
+          {
+            "topic": "Pulmonary embolism",
+            "rating": 5
+          },
+          {
+            "topic": "Wells score",
+            "rating": 5
+          },
+          {
+            "topic": "Virchow triad",
+            "rating": 5
+          }
         ],
-
         "Pulmonary Hypertension": [
-          { "topic": "Mean pulmonary artery pressure", "rating": 5 },
-          { "topic": "Cor pulmonale", "rating": 5 },
-          { "topic": "Right heart failure", "rating": 4 }
+          {
+            "topic": "Mean pulmonary artery pressure",
+            "rating": 5
+          },
+          {
+            "topic": "Cor pulmonale",
+            "rating": 5
+          },
+          {
+            "topic": "Right heart failure",
+            "rating": 4
+          }
         ],
-
         "Bronchiectasis": [
-          { "topic": "Tram track appearance", "rating": 5 },
-          { "topic": "Cystic fibrosis", "rating": 4 },
-          { "topic": "Kartagener syndrome", "rating": 5 }
+          {
+            "topic": "Tram track appearance",
+            "rating": 5
+          },
+          {
+            "topic": "Cystic fibrosis",
+            "rating": 4
+          },
+          {
+            "topic": "Kartagener syndrome",
+            "rating": 5
+          }
         ],
-
         "Occupational Lung Diseases": [
-          { "topic": "Silicosis", "rating": 5 },
-          { "topic": "Asbestosis", "rating": 5 },
-          { "topic": "Coal worker pneumoconiosis", "rating": 4 }
+          {
+            "topic": "Silicosis",
+            "rating": 5
+          },
+          {
+            "topic": "Asbestosis",
+            "rating": 5
+          },
+          {
+            "topic": "Coal worker pneumoconiosis",
+            "rating": 4
+          }
         ],
-
         "Respiratory Failure and ARDS": [
-          { "topic": "Berlin criteria", "rating": 5 },
-          { "topic": "Diffuse alveolar damage", "rating": 5 },
-          { "topic": "PaO2/FiO2 ratio", "rating": 5 }
+          {
+            "topic": "Berlin criteria",
+            "rating": 5
+          },
+          {
+            "topic": "Diffuse alveolar damage",
+            "rating": 5
+          },
+          {
+            "topic": "PaO2/FiO2 ratio",
+            "rating": 5
+          }
         ],
-
         "Interstitial Lung Disease": [
-          { "topic": "Idiopathic pulmonary fibrosis", "rating": 5 },
-          { "topic": "Honeycomb lung", "rating": 5 },
-          { "topic": "Restrictive lung disease", "rating": 5 }
+          {
+            "topic": "Idiopathic pulmonary fibrosis",
+            "rating": 5
+          },
+          {
+            "topic": "Honeycomb lung",
+            "rating": 5
+          },
+          {
+            "topic": "Restrictive lung disease",
+            "rating": 5
+          }
         ],
-
         "Bronchial Asthma": [
-          { "topic": "Atopy", "rating": 5 },
-          { "topic": "Status asthmaticus", "rating": 5 },
-          { "topic": "Methacholine challenge", "rating": 4 }
+          {
+            "topic": "Atopy",
+            "rating": 5
+          },
+          {
+            "topic": "Status asthmaticus",
+            "rating": 5
+          },
+          {
+            "topic": "Methacholine challenge",
+            "rating": 4
+          }
         ],
-
         "Asthma Eosinophilia": [
-          { "topic": "Eosinophilic asthma", "rating": 4 },
-          { "topic": "IgE mediated hypersensitivity", "rating": 5 }
+          {
+            "topic": "Eosinophilic asthma",
+            "rating": 4
+          },
+          {
+            "topic": "IgE mediated hypersensitivity",
+            "rating": 5
+          }
         ],
-
         "Allergic Bronchopulmonary Aspergillosis": [
-          { "topic": "ABPA", "rating": 5 },
-          { "topic": "Central bronchiectasis", "rating": 5 },
-          { "topic": "Elevated IgE", "rating": 5 }
+          {
+            "topic": "ABPA",
+            "rating": 5
+          },
+          {
+            "topic": "Central bronchiectasis",
+            "rating": 5
+          },
+          {
+            "topic": "Elevated IgE",
+            "rating": 5
+          }
         ],
-
         "Hypersensitivity Pneumonitis": [
-          { "topic": "Farmer lung", "rating": 4 },
-          { "topic": "Type III hypersensitivity", "rating": 4 }
+          {
+            "topic": "Farmer lung",
+            "rating": 4
+          },
+          {
+            "topic": "Type III hypersensitivity",
+            "rating": 4
+          }
         ],
-
         "Pleural Effusion": [
-          { "topic": "Transudate vs exudate", "rating": 5 },
-          { "topic": "Light criteria", "rating": 5 }
+          {
+            "topic": "Transudate vs exudate",
+            "rating": 5
+          },
+          {
+            "topic": "Light criteria",
+            "rating": 5
+          }
         ],
-
         "Obstructive Sleep Apnea Syndrome": [
-          { "topic": "Obesity association", "rating": 5 },
-          { "topic": "CPAP", "rating": 5 }
+          {
+            "topic": "Obesity association",
+            "rating": 5
+          },
+          {
+            "topic": "CPAP",
+            "rating": 5
+          }
         ],
-
         "COPD": [
-          { "topic": "Chronic bronchitis", "rating": 5 },
-          { "topic": "Emphysema", "rating": 5 },
-          { "topic": "Blue bloater vs pink puffer", "rating": 5 }
+          {
+            "topic": "Chronic bronchitis",
+            "rating": 5
+          },
+          {
+            "topic": "Emphysema",
+            "rating": 5
+          },
+          {
+            "topic": "Blue bloater vs pink puffer",
+            "rating": 5
+          }
         ],
-
         "Community Acquired Pneumonia": [
-          { "topic": "Streptococcus pneumoniae", "rating": 5 },
-          { "topic": "CURB-65", "rating": 5 }
+          {
+            "topic": "Streptococcus pneumoniae",
+            "rating": 5
+          },
+          {
+            "topic": "CURB-65",
+            "rating": 5
+          }
         ],
-
         "Atypical Pneumonia and Pneumonia in Immunocompromised": [
-          { "topic": "Mycoplasma pneumonia", "rating": 5 },
-          { "topic": "PCP pneumonia", "rating": 5 },
-          { "topic": "CMV pneumonia", "rating": 4 }
+          {
+            "topic": "Mycoplasma pneumonia",
+            "rating": 5
+          },
+          {
+            "topic": "PCP pneumonia",
+            "rating": 5
+          },
+          {
+            "topic": "CMV pneumonia",
+            "rating": 4
+          }
         ]
       },
-
       "Cardiology": {
-
         "Cardiac Cycle With Heart Sounds": [
-          { "topic": "S1 and S2 heart sounds", "rating": 5 },
-          { "topic": "S3 gallop", "rating": 5 },
-          { "topic": "S4 gallop", "rating": 5 },
-          { "topic": "Physiological splitting of S2", "rating": 4 },
-          { "topic": "Fixed split S2", "rating": 5 }
+          {
+            "topic": "S1 and S2 heart sounds",
+            "rating": 5
+          },
+          {
+            "topic": "S3 gallop",
+            "rating": 5
+          },
+          {
+            "topic": "S4 gallop",
+            "rating": 5
+          },
+          {
+            "topic": "Physiological splitting of S2",
+            "rating": 4
+          },
+          {
+            "topic": "Fixed split S2",
+            "rating": 5
+          }
         ],
-
         "Cardiac Sounds": [
-          { "topic": "Opening snap", "rating": 5 },
-          { "topic": "Pericardial knock", "rating": 4 },
-          { "topic": "Ejection click", "rating": 4 },
-          { "topic": "Mid systolic click", "rating": 5 }
+          {
+            "topic": "Opening snap",
+            "rating": 5
+          },
+          {
+            "topic": "Pericardial knock",
+            "rating": 4
+          },
+          {
+            "topic": "Ejection click",
+            "rating": 4
+          },
+          {
+            "topic": "Mid systolic click",
+            "rating": 5
+          }
         ],
-
         "Aortic Stenosis": [
-          { "topic": "Pulsus parvus et tardus", "rating": 5 },
-          { "topic": "Ejection systolic murmur", "rating": 5 },
-          { "topic": "Syncope angina dyspnea triad", "rating": 5 },
-          { "topic": "Radiation to carotids", "rating": 5 }
+          {
+            "topic": "Pulsus parvus et tardus",
+            "rating": 5
+          },
+          {
+            "topic": "Ejection systolic murmur",
+            "rating": 5
+          },
+          {
+            "topic": "Syncope angina dyspnea triad",
+            "rating": 5
+          },
+          {
+            "topic": "Radiation to carotids",
+            "rating": 5
+          }
         ],
-
         "Aortic Regurgitation": [
-          { "topic": "Water hammer pulse", "rating": 5 },
-          { "topic": "Austin Flint murmur", "rating": 5 },
-          { "topic": "Wide pulse pressure", "rating": 5 },
-          { "topic": "Corrigan pulse", "rating": 4 }
+          {
+            "topic": "Water hammer pulse",
+            "rating": 5
+          },
+          {
+            "topic": "Austin Flint murmur",
+            "rating": 5
+          },
+          {
+            "topic": "Wide pulse pressure",
+            "rating": 5
+          },
+          {
+            "topic": "Corrigan pulse",
+            "rating": 4
+          }
         ],
-
         "Heart Failure": [
-          { "topic": "HFrEF", "rating": 5 },
-          { "topic": "HFpEF", "rating": 5 },
-          { "topic": "BNP", "rating": 5 },
-          { "topic": "NYHA classification", "rating": 5 },
-          { "topic": "Pulmonary edema", "rating": 5 }
+          {
+            "topic": "HFrEF",
+            "rating": 5
+          },
+          {
+            "topic": "HFpEF",
+            "rating": 5
+          },
+          {
+            "topic": "BNP",
+            "rating": 5
+          },
+          {
+            "topic": "NYHA classification",
+            "rating": 5
+          },
+          {
+            "topic": "Pulmonary edema",
+            "rating": 5
+          }
         ],
-
         "Acute Decompensated Heart Failure": [
-          { "topic": "Acute pulmonary edema", "rating": 5 },
-          { "topic": "NIV ventilation", "rating": 4 },
-          { "topic": "Loop diuretics", "rating": 5 }
+          {
+            "topic": "Acute pulmonary edema",
+            "rating": 5
+          },
+          {
+            "topic": "NIV ventilation",
+            "rating": 4
+          },
+          {
+            "topic": "Loop diuretics",
+            "rating": 5
+          }
         ],
-
         "Cardiomyopathy Part 1": [
-          { "topic": "Dilated cardiomyopathy", "rating": 5 },
-          { "topic": "Alcoholic cardiomyopathy", "rating": 4 },
-          { "topic": "Peripartum cardiomyopathy", "rating": 4 }
+          {
+            "topic": "Dilated cardiomyopathy",
+            "rating": 5
+          },
+          {
+            "topic": "Alcoholic cardiomyopathy",
+            "rating": 4
+          },
+          {
+            "topic": "Peripartum cardiomyopathy",
+            "rating": 4
+          }
         ],
-
         "Cardiomyopathy Part 2": [
-          { "topic": "Hypertrophic cardiomyopathy", "rating": 5 },
-          { "topic": "HOCM", "rating": 5 },
-          { "topic": "Takotsubo cardiomyopathy", "rating": 4 },
-          { "topic": "Restrictive cardiomyopathy", "rating": 4 }
+          {
+            "topic": "Hypertrophic cardiomyopathy",
+            "rating": 5
+          },
+          {
+            "topic": "HOCM",
+            "rating": 5
+          },
+          {
+            "topic": "Takotsubo cardiomyopathy",
+            "rating": 4
+          },
+          {
+            "topic": "Restrictive cardiomyopathy",
+            "rating": 4
+          }
         ],
-
         "Mitral Regurgitation": [
-          { "topic": "Pansystolic murmur", "rating": 5 },
-          { "topic": "Mitral valve prolapse", "rating": 5 },
-          { "topic": "Radiation to axilla", "rating": 5 }
+          {
+            "topic": "Pansystolic murmur",
+            "rating": 5
+          },
+          {
+            "topic": "Mitral valve prolapse",
+            "rating": 5
+          },
+          {
+            "topic": "Radiation to axilla",
+            "rating": 5
+          }
         ],
-
         "Mitral Stenosis": [
-          { "topic": "Opening snap", "rating": 5 },
-          { "topic": "Loud S1", "rating": 5 },
-          { "topic": "Diastolic rumbling murmur", "rating": 5 },
-          { "topic": "Atrial fibrillation association", "rating": 5 }
+          {
+            "topic": "Opening snap",
+            "rating": 5
+          },
+          {
+            "topic": "Loud S1",
+            "rating": 5
+          },
+          {
+            "topic": "Diastolic rumbling murmur",
+            "rating": 5
+          },
+          {
+            "topic": "Atrial fibrillation association",
+            "rating": 5
+          }
         ],
-
         "Constrictive Pericarditis Cardiac Tamponade Restrictive Cardiomyopathy": [
-          { "topic": "Beck triad", "rating": 5 },
-          { "topic": "Pulsus paradoxus", "rating": 5 },
-          { "topic": "Kussmaul sign", "rating": 5 },
-          { "topic": "Pericardial knock", "rating": 4 }
+          {
+            "topic": "Beck triad",
+            "rating": 5
+          },
+          {
+            "topic": "Pulsus paradoxus",
+            "rating": 5
+          },
+          {
+            "topic": "Kussmaul sign",
+            "rating": 5
+          },
+          {
+            "topic": "Pericardial knock",
+            "rating": 4
+          }
         ],
-
         "Pulse": [
-          { "topic": "Water hammer pulse", "rating": 5 },
-          { "topic": "Pulsus alternans", "rating": 4 },
-          { "topic": "Pulsus paradoxus", "rating": 5 },
-          { "topic": "Bisferiens pulse", "rating": 4 }
+          {
+            "topic": "Water hammer pulse",
+            "rating": 5
+          },
+          {
+            "topic": "Pulsus alternans",
+            "rating": 4
+          },
+          {
+            "topic": "Pulsus paradoxus",
+            "rating": 5
+          },
+          {
+            "topic": "Bisferiens pulse",
+            "rating": 4
+          }
         ],
-
         "Jugular Venous Pulse": [
-          { "topic": "Cannon A wave", "rating": 5 },
-          { "topic": "Kussmaul sign", "rating": 5 },
-          { "topic": "Prominent V wave", "rating": 4 }
+          {
+            "topic": "Cannon A wave",
+            "rating": 5
+          },
+          {
+            "topic": "Kussmaul sign",
+            "rating": 5
+          },
+          {
+            "topic": "Prominent V wave",
+            "rating": 4
+          }
         ]
       },
-
       "ECG": {
-
         "Introduction to ECG": [
-          { "topic": "ECG leads", "rating": 5 },
-          { "topic": "Cardiac axis", "rating": 5 },
-          { "topic": "Normal ECG intervals", "rating": 5 }
+          {
+            "topic": "ECG leads",
+            "rating": 5
+          },
+          {
+            "topic": "Cardiac axis",
+            "rating": 5
+          },
+          {
+            "topic": "Normal ECG intervals",
+            "rating": 5
+          }
         ],
-
         "Hypertrophy and Blocks": [
-          { "topic": "Left ventricular hypertrophy", "rating": 5 },
-          { "topic": "Right bundle branch block", "rating": 5 },
-          { "topic": "Left bundle branch block", "rating": 5 }
+          {
+            "topic": "Left ventricular hypertrophy",
+            "rating": 5
+          },
+          {
+            "topic": "Right bundle branch block",
+            "rating": 5
+          },
+          {
+            "topic": "Left bundle branch block",
+            "rating": 5
+          }
         ],
-
         "AV Blocks": [
-          { "topic": "First degree AV block", "rating": 5 },
-          { "topic": "Mobitz type 1", "rating": 5 },
-          { "topic": "Mobitz type 2", "rating": 5 },
-          { "topic": "Complete heart block", "rating": 5 }
+          {
+            "topic": "First degree AV block",
+            "rating": 5
+          },
+          {
+            "topic": "Mobitz type 1",
+            "rating": 5
+          },
+          {
+            "topic": "Mobitz type 2",
+            "rating": 5
+          },
+          {
+            "topic": "Complete heart block",
+            "rating": 5
+          }
         ],
-
         "Tachyarrhythmias": [
-          { "topic": "SVT", "rating": 5 },
-          { "topic": "Ventricular tachycardia", "rating": 5 },
-          { "topic": "Ventricular fibrillation", "rating": 5 }
+          {
+            "topic": "SVT",
+            "rating": 5
+          },
+          {
+            "topic": "Ventricular tachycardia",
+            "rating": 5
+          },
+          {
+            "topic": "Ventricular fibrillation",
+            "rating": 5
+          }
         ],
-
         "Atrial Fibrillation and Flutter": [
-          { "topic": "Irregularly irregular rhythm", "rating": 5 },
-          { "topic": "CHA2DS2VASc score", "rating": 5 },
-          { "topic": "Saw tooth pattern", "rating": 5 }
+          {
+            "topic": "Irregularly irregular rhythm",
+            "rating": 5
+          },
+          {
+            "topic": "CHA2DS2VASc score",
+            "rating": 5
+          },
+          {
+            "topic": "Saw tooth pattern",
+            "rating": 5
+          }
         ],
-
         "Ventricular Arrhythmias": [
-          { "topic": "Torsades de pointes", "rating": 5 },
-          { "topic": "Long QT syndrome", "rating": 5 },
-          { "topic": "Magnesium sulfate treatment", "rating": 4 }
+          {
+            "topic": "Torsades de pointes",
+            "rating": 5
+          },
+          {
+            "topic": "Long QT syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Magnesium sulfate treatment",
+            "rating": 4
+          }
         ],
-
         "WPW Syndrome": [
-          { "topic": "Delta wave", "rating": 5 },
-          { "topic": "Accessory pathway", "rating": 5 },
-          { "topic": "Short PR interval", "rating": 5 }
+          {
+            "topic": "Delta wave",
+            "rating": 5
+          },
+          {
+            "topic": "Accessory pathway",
+            "rating": 5
+          },
+          {
+            "topic": "Short PR interval",
+            "rating": 5
+          }
         ],
-
         "Introduction to ACS": [
-          { "topic": "STEMI", "rating": 5 },
-          { "topic": "NSTEMI", "rating": 5 },
-          { "topic": "Troponin", "rating": 5 },
-          { "topic": "MONA", "rating": 4 }
+          {
+            "topic": "STEMI",
+            "rating": 5
+          },
+          {
+            "topic": "NSTEMI",
+            "rating": 5
+          },
+          {
+            "topic": "Troponin",
+            "rating": 5
+          },
+          {
+            "topic": "MONA",
+            "rating": 4
+          }
         ],
-
         "ACS Coronary Circulation": [
-          { "topic": "LAD infarct", "rating": 5 },
-          { "topic": "RCA infarct", "rating": 5 },
-          { "topic": "LCX infarct", "rating": 4 }
+          {
+            "topic": "LAD infarct",
+            "rating": 5
+          },
+          {
+            "topic": "RCA infarct",
+            "rating": 5
+          },
+          {
+            "topic": "LCX infarct",
+            "rating": 4
+          }
         ],
-
         "ACS Evaluation and Management": [
-          { "topic": "PCI timeline", "rating": 5 },
-          { "topic": "Door to balloon time", "rating": 5 },
-          { "topic": "Dual antiplatelet therapy", "rating": 5 },
-          { "topic": "Thrombolysis", "rating": 5 }
+          {
+            "topic": "PCI timeline",
+            "rating": 5
+          },
+          {
+            "topic": "Door to balloon time",
+            "rating": 5
+          },
+          {
+            "topic": "Dual antiplatelet therapy",
+            "rating": 5
+          },
+          {
+            "topic": "Thrombolysis",
+            "rating": 5
+          }
         ]
       },
-
       "Neurology": {
-
         "Parkinson Disease": [
-          { "topic": "Lewy bodies", "rating": 5 },
-          { "topic": "Substantia nigra degeneration", "rating": 5 },
-          { "topic": "TRAP features", "rating": 5 },
-          { "topic": "Pill rolling tremor", "rating": 5 },
-          { "topic": "Levodopa", "rating": 5 }
+          {
+            "topic": "Lewy bodies",
+            "rating": 5
+          },
+          {
+            "topic": "Substantia nigra degeneration",
+            "rating": 5
+          },
+          {
+            "topic": "TRAP features",
+            "rating": 5
+          },
+          {
+            "topic": "Pill rolling tremor",
+            "rating": 5
+          },
+          {
+            "topic": "Levodopa",
+            "rating": 5
+          }
         ],
-
         "Headache": [
-          { "topic": "Migraine", "rating": 5 },
-          { "topic": "Cluster headache", "rating": 5 },
-          { "topic": "Tension headache", "rating": 4 },
-          { "topic": "Trigeminal neuralgia", "rating": 4 }
+          {
+            "topic": "Migraine",
+            "rating": 5
+          },
+          {
+            "topic": "Cluster headache",
+            "rating": 5
+          },
+          {
+            "topic": "Tension headache",
+            "rating": 4
+          },
+          {
+            "topic": "Trigeminal neuralgia",
+            "rating": 4
+          }
         ],
-
         "Seizure Semiology": [
-          { "topic": "Focal seizures", "rating": 5 },
-          { "topic": "Generalized seizures", "rating": 5 },
-          { "topic": "Absence seizure", "rating": 5 },
-          { "topic": "Todd paralysis", "rating": 4 }
+          {
+            "topic": "Focal seizures",
+            "rating": 5
+          },
+          {
+            "topic": "Generalized seizures",
+            "rating": 5
+          },
+          {
+            "topic": "Absence seizure",
+            "rating": 5
+          },
+          {
+            "topic": "Todd paralysis",
+            "rating": 4
+          }
         ],
-
         "Generalized Tonic Clonic Seizure": [
-          { "topic": "Postictal confusion", "rating": 5 },
-          { "topic": "Tongue bite", "rating": 4 },
-          { "topic": "Status epilepticus", "rating": 5 }
+          {
+            "topic": "Postictal confusion",
+            "rating": 5
+          },
+          {
+            "topic": "Tongue bite",
+            "rating": 4
+          },
+          {
+            "topic": "Status epilepticus",
+            "rating": 5
+          }
         ],
-
         "Guillain Barre Syndrome": [
-          { "topic": "Ascending paralysis", "rating": 5 },
-          { "topic": "Albuminocytologic dissociation", "rating": 5 },
-          { "topic": "Campylobacter jejuni", "rating": 4 }
+          {
+            "topic": "Ascending paralysis",
+            "rating": 5
+          },
+          {
+            "topic": "Albuminocytologic dissociation",
+            "rating": 5
+          },
+          {
+            "topic": "Campylobacter jejuni",
+            "rating": 4
+          }
         ],
-
         "Motor Neuron Disease": [
-          { "topic": "ALS", "rating": 5 },
-          { "topic": "UMN and LMN signs together", "rating": 5 },
-          { "topic": "Riluzole", "rating": 4 }
+          {
+            "topic": "ALS",
+            "rating": 5
+          },
+          {
+            "topic": "UMN and LMN signs together",
+            "rating": 5
+          },
+          {
+            "topic": "Riluzole",
+            "rating": 4
+          }
         ],
-
         "Myasthenia Gravis": [
-          { "topic": "Anti ACh receptor antibody", "rating": 5 },
-          { "topic": "Edrophonium test", "rating": 5 },
-          { "topic": "Thymoma", "rating": 5 },
-          { "topic": "Myasthenic crisis", "rating": 5 }
+          {
+            "topic": "Anti ACh receptor antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Edrophonium test",
+            "rating": 5
+          },
+          {
+            "topic": "Thymoma",
+            "rating": 5
+          },
+          {
+            "topic": "Myasthenic crisis",
+            "rating": 5
+          }
         ],
-
         "Approach to Stroke": [
-          { "topic": "Ischemic stroke", "rating": 5 },
-          { "topic": "Hemorrhagic stroke", "rating": 5 },
-          { "topic": "tPA window", "rating": 5 },
-          { "topic": "FAST criteria", "rating": 5 }
+          {
+            "topic": "Ischemic stroke",
+            "rating": 5
+          },
+          {
+            "topic": "Hemorrhagic stroke",
+            "rating": 5
+          },
+          {
+            "topic": "tPA window",
+            "rating": 5
+          },
+          {
+            "topic": "FAST criteria",
+            "rating": 5
+          }
         ],
-
         "Brainstem Stroke": [
-          { "topic": "Wallenberg syndrome", "rating": 5 },
-          { "topic": "Weber syndrome", "rating": 4 },
-          { "topic": "Locked in syndrome", "rating": 4 }
+          {
+            "topic": "Wallenberg syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Weber syndrome",
+            "rating": 4
+          },
+          {
+            "topic": "Locked in syndrome",
+            "rating": 4
+          }
         ],
-
         "Dementia": [
-          { "topic": "Alzheimer disease", "rating": 5 },
-          { "topic": "Lewy body dementia", "rating": 4 },
-          { "topic": "Frontotemporal dementia", "rating": 4 },
-          { "topic": "Normal pressure hydrocephalus", "rating": 5 }
+          {
+            "topic": "Alzheimer disease",
+            "rating": 5
+          },
+          {
+            "topic": "Lewy body dementia",
+            "rating": 4
+          },
+          {
+            "topic": "Frontotemporal dementia",
+            "rating": 4
+          },
+          {
+            "topic": "Normal pressure hydrocephalus",
+            "rating": 5
+          }
         ]
       },
-
       "Nephrology": {
-
         "Development of Kidneys": [
-          { "topic": "Horseshoe kidney", "rating": 5 },
-          { "topic": "Potter syndrome", "rating": 4 },
-          { "topic": "Renal agenesis", "rating": 4 }
+          {
+            "topic": "Horseshoe kidney",
+            "rating": 5
+          },
+          {
+            "topic": "Potter syndrome",
+            "rating": 4
+          },
+          {
+            "topic": "Renal agenesis",
+            "rating": 4
+          }
         ],
-
         "Gross Anatomy of Kidney": [
-          { "topic": "Corticomedullary differentiation", "rating": 3 },
-          { "topic": "Renal blood supply", "rating": 4 }
+          {
+            "topic": "Corticomedullary differentiation",
+            "rating": 3
+          },
+          {
+            "topic": "Renal blood supply",
+            "rating": 4
+          }
         ],
-
         "Tubular Anatomy": [
-          { "topic": "Loop of Henle", "rating": 5 },
-          { "topic": "Countercurrent mechanism", "rating": 5 },
-          { "topic": "Collecting duct physiology", "rating": 4 }
+          {
+            "topic": "Loop of Henle",
+            "rating": 5
+          },
+          {
+            "topic": "Countercurrent mechanism",
+            "rating": 5
+          },
+          {
+            "topic": "Collecting duct physiology",
+            "rating": 4
+          }
         ],
-
         "Juxtaglomerular Apparatus": [
-          { "topic": "Macula densa", "rating": 5 },
-          { "topic": "Renin secretion", "rating": 5 },
-          { "topic": "RAAS system", "rating": 5 }
+          {
+            "topic": "Macula densa",
+            "rating": 5
+          },
+          {
+            "topic": "Renin secretion",
+            "rating": 5
+          },
+          {
+            "topic": "RAAS system",
+            "rating": 5
+          }
         ],
-
         "Glomerulus Anatomy": [
-          { "topic": "Podocytes", "rating": 5 },
-          { "topic": "Filtration barrier", "rating": 5 },
-          { "topic": "Basement membrane", "rating": 4 }
+          {
+            "topic": "Podocytes",
+            "rating": 5
+          },
+          {
+            "topic": "Filtration barrier",
+            "rating": 5
+          },
+          {
+            "topic": "Basement membrane",
+            "rating": 4
+          }
         ],
-
         "Renal Physiology": [
-          { "topic": "GFR", "rating": 5 },
-          { "topic": "Creatinine clearance", "rating": 5 },
-          { "topic": "Renal plasma flow", "rating": 4 }
+          {
+            "topic": "GFR",
+            "rating": 5
+          },
+          {
+            "topic": "Creatinine clearance",
+            "rating": 5
+          },
+          {
+            "topic": "Renal plasma flow",
+            "rating": 4
+          }
         ],
-
         "Urine Analysis": [
-          { "topic": "RBC casts", "rating": 5 },
-          { "topic": "WBC casts", "rating": 5 },
-          { "topic": "Muddy brown casts", "rating": 5 },
-          { "topic": "Hyaline casts", "rating": 4 }
+          {
+            "topic": "RBC casts",
+            "rating": 5
+          },
+          {
+            "topic": "WBC casts",
+            "rating": 5
+          },
+          {
+            "topic": "Muddy brown casts",
+            "rating": 5
+          },
+          {
+            "topic": "Hyaline casts",
+            "rating": 4
+          }
         ],
-
         "Basic Approach to Kidney Disease": [
-          { "topic": "AKI classification", "rating": 5 },
-          { "topic": "CKD staging", "rating": 5 },
-          { "topic": "Proteinuria", "rating": 5 }
+          {
+            "topic": "AKI classification",
+            "rating": 5
+          },
+          {
+            "topic": "CKD staging",
+            "rating": 5
+          },
+          {
+            "topic": "Proteinuria",
+            "rating": 5
+          }
         ],
-
         "Renal Artery Stenosis": [
-          { "topic": "Fibromuscular dysplasia", "rating": 5 },
-          { "topic": "ACE inhibitors", "rating": 5 },
-          { "topic": "Renovascular hypertension", "rating": 5 }
+          {
+            "topic": "Fibromuscular dysplasia",
+            "rating": 5
+          },
+          {
+            "topic": "ACE inhibitors",
+            "rating": 5
+          },
+          {
+            "topic": "Renovascular hypertension",
+            "rating": 5
+          }
         ],
-
         "Thrombotic Microangiopathy": [
-          { "topic": "TTP", "rating": 5 },
-          { "topic": "HUS", "rating": 5 },
-          { "topic": "Schistocytes", "rating": 5 }
+          {
+            "topic": "TTP",
+            "rating": 5
+          },
+          {
+            "topic": "HUS",
+            "rating": 5
+          },
+          {
+            "topic": "Schistocytes",
+            "rating": 5
+          }
         ],
-
         "Glomerular Disease Patterns": [
-          { "topic": "Nephrotic syndrome", "rating": 5 },
-          { "topic": "Nephritic syndrome", "rating": 5 },
-          { "topic": "Proteinuria patterns", "rating": 4 }
+          {
+            "topic": "Nephrotic syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Nephritic syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Proteinuria patterns",
+            "rating": 4
+          }
         ],
-
         "Podocytopathies": [
-          { "topic": "Minimal change disease", "rating": 5 },
-          { "topic": "FSGS", "rating": 5 },
-          { "topic": "Membranous nephropathy", "rating": 5 }
+          {
+            "topic": "Minimal change disease",
+            "rating": 5
+          },
+          {
+            "topic": "FSGS",
+            "rating": 5
+          },
+          {
+            "topic": "Membranous nephropathy",
+            "rating": 5
+          }
         ],
-
         "MPGN and IgA Nephropathy": [
-          { "topic": "Berger disease", "rating": 5 },
-          { "topic": "Synpharyngitic hematuria", "rating": 5 },
-          { "topic": "Tram track appearance", "rating": 5 }
+          {
+            "topic": "Berger disease",
+            "rating": 5
+          },
+          {
+            "topic": "Synpharyngitic hematuria",
+            "rating": 5
+          },
+          {
+            "topic": "Tram track appearance",
+            "rating": 5
+          }
         ],
-
         "Post Streptococcal GN": [
-          { "topic": "ASO titer", "rating": 5 },
-          { "topic": "Subepithelial humps", "rating": 5 },
-          { "topic": "Cola colored urine", "rating": 5 }
+          {
+            "topic": "ASO titer",
+            "rating": 5
+          },
+          {
+            "topic": "Subepithelial humps",
+            "rating": 5
+          },
+          {
+            "topic": "Cola colored urine",
+            "rating": 5
+          }
         ],
-
         "RPGN and Pulmonary Renal Syndrome": [
-          { "topic": "Goodpasture syndrome", "rating": 5 },
-          { "topic": "Anti GBM antibody", "rating": 5 },
-          { "topic": "Crescentic GN", "rating": 5 }
+          {
+            "topic": "Goodpasture syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Anti GBM antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Crescentic GN",
+            "rating": 5
+          }
         ],
-
         "Familial Glomerular Syndromes": [
-          { "topic": "Alport syndrome", "rating": 5 },
-          { "topic": "Thin basement membrane disease", "rating": 3 }
+          {
+            "topic": "Alport syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Thin basement membrane disease",
+            "rating": 3
+          }
         ],
-
         "Ciliopathies": [
-          { "topic": "ADPKD", "rating": 5 },
-          { "topic": "Medullary sponge kidney", "rating": 3 }
+          {
+            "topic": "ADPKD",
+            "rating": 5
+          },
+          {
+            "topic": "Medullary sponge kidney",
+            "rating": 3
+          }
         ],
-
         "Chronic Tubulointerstitial Disease": [
-          { "topic": "Analgesic nephropathy", "rating": 4 },
-          { "topic": "Chronic pyelonephritis", "rating": 4 }
+          {
+            "topic": "Analgesic nephropathy",
+            "rating": 4
+          },
+          {
+            "topic": "Chronic pyelonephritis",
+            "rating": 4
+          }
         ],
-
         "Acute Kidney Injury": [
-          { "topic": "Pre renal AKI", "rating": 5 },
-          { "topic": "ATN", "rating": 5 },
-          { "topic": "FeNa", "rating": 5 },
-          { "topic": "Contrast nephropathy", "rating": 4 }
+          {
+            "topic": "Pre renal AKI",
+            "rating": 5
+          },
+          {
+            "topic": "ATN",
+            "rating": 5
+          },
+          {
+            "topic": "FeNa",
+            "rating": 5
+          },
+          {
+            "topic": "Contrast nephropathy",
+            "rating": 4
+          }
         ],
-
         "Chronic Kidney Disease": [
-          { "topic": "Secondary hyperparathyroidism", "rating": 5 },
-          { "topic": "Renal osteodystrophy", "rating": 5 },
-          { "topic": "Uremia", "rating": 5 }
+          {
+            "topic": "Secondary hyperparathyroidism",
+            "rating": 5
+          },
+          {
+            "topic": "Renal osteodystrophy",
+            "rating": 5
+          },
+          {
+            "topic": "Uremia",
+            "rating": 5
+          }
         ],
-
         "Anemia in CKD": [
-          { "topic": "Erythropoietin deficiency", "rating": 5 },
-          { "topic": "Normocytic normochromic anemia", "rating": 5 }
+          {
+            "topic": "Erythropoietin deficiency",
+            "rating": 5
+          },
+          {
+            "topic": "Normocytic normochromic anemia",
+            "rating": 5
+          }
         ],
-
         "CKD Cardiovascular Changes": [
-          { "topic": "Calciphylaxis", "rating": 4 },
-          { "topic": "Uremic pericarditis", "rating": 4 }
+          {
+            "topic": "Calciphylaxis",
+            "rating": 4
+          },
+          {
+            "topic": "Uremic pericarditis",
+            "rating": 4
+          }
         ],
-
         "Diabetic Kidney Disease": [
-          { "topic": "Kimmelstiel Wilson nodules", "rating": 5 },
-          { "topic": "Microalbuminuria", "rating": 5 },
-          { "topic": "Diabetic nephropathy", "rating": 5 }
+          {
+            "topic": "Kimmelstiel Wilson nodules",
+            "rating": 5
+          },
+          {
+            "topic": "Microalbuminuria",
+            "rating": 5
+          },
+          {
+            "topic": "Diabetic nephropathy",
+            "rating": 5
+          }
         ]
       },
-
       "Acid Base Disorders": {
-
         "Introduction to ABG Analysis": [
-          { "topic": "ABG interpretation", "rating": 5 },
-          { "topic": "Respiratory acidosis", "rating": 5 },
-          { "topic": "Metabolic acidosis", "rating": 5 }
+          {
+            "topic": "ABG interpretation",
+            "rating": 5
+          },
+          {
+            "topic": "Respiratory acidosis",
+            "rating": 5
+          },
+          {
+            "topic": "Metabolic acidosis",
+            "rating": 5
+          }
         ],
-
         "Metabolic Alkalosis": [
-          { "topic": "Vomiting induced alkalosis", "rating": 5 },
-          { "topic": "Diuretic induced alkalosis", "rating": 4 }
+          {
+            "topic": "Vomiting induced alkalosis",
+            "rating": 5
+          },
+          {
+            "topic": "Diuretic induced alkalosis",
+            "rating": 4
+          }
         ],
-
         "Methodology and Interpretation of ABG": [
-          { "topic": "Winter formula", "rating": 5 },
-          { "topic": "Anion gap", "rating": 5 },
-          { "topic": "MUDPILES", "rating": 5 },
-          { "topic": "Compensation formulas", "rating": 5 }
+          {
+            "topic": "Winter formula",
+            "rating": 5
+          },
+          {
+            "topic": "Anion gap",
+            "rating": 5
+          },
+          {
+            "topic": "MUDPILES",
+            "rating": 5
+          },
+          {
+            "topic": "Compensation formulas",
+            "rating": 5
+          }
         ]
       },
-
       "Endocrinology": {
-
         "Overview of Hormones": [
-          { "topic": "Steroid hormones", "rating": 5 },
-          { "topic": "Peptide hormones", "rating": 5 },
-          { "topic": "Second messengers", "rating": 5 }
+          {
+            "topic": "Steroid hormones",
+            "rating": 5
+          },
+          {
+            "topic": "Peptide hormones",
+            "rating": 5
+          },
+          {
+            "topic": "Second messengers",
+            "rating": 5
+          }
         ],
-
         "Physiology of Adrenal Cortex": [
-          { "topic": "Zona glomerulosa", "rating": 5 },
-          { "topic": "Zona fasciculata", "rating": 5 },
-          { "topic": "Zona reticularis", "rating": 5 }
+          {
+            "topic": "Zona glomerulosa",
+            "rating": 5
+          },
+          {
+            "topic": "Zona fasciculata",
+            "rating": 5
+          },
+          {
+            "topic": "Zona reticularis",
+            "rating": 5
+          }
         ],
-
         "Conn Syndrome": [
-          { "topic": "Primary hyperaldosteronism", "rating": 5 },
-          { "topic": "Hypertension with hypokalemia", "rating": 5 },
-          { "topic": "Aldosterone renin ratio", "rating": 5 }
+          {
+            "topic": "Primary hyperaldosteronism",
+            "rating": 5
+          },
+          {
+            "topic": "Hypertension with hypokalemia",
+            "rating": 5
+          },
+          {
+            "topic": "Aldosterone renin ratio",
+            "rating": 5
+          }
         ],
-
         "Cushing Syndrome": [
-          { "topic": "Moon facies", "rating": 5 },
-          { "topic": "Purple striae", "rating": 5 },
-          { "topic": "Dexamethasone suppression test", "rating": 5 }
+          {
+            "topic": "Moon facies",
+            "rating": 5
+          },
+          {
+            "topic": "Purple striae",
+            "rating": 5
+          },
+          {
+            "topic": "Dexamethasone suppression test",
+            "rating": 5
+          }
         ],
-
         "Addison Disease": [
-          { "topic": "Hyperpigmentation", "rating": 5 },
-          { "topic": "Adrenal insufficiency", "rating": 5 },
-          { "topic": "ACTH stimulation test", "rating": 5 }
+          {
+            "topic": "Hyperpigmentation",
+            "rating": 5
+          },
+          {
+            "topic": "Adrenal insufficiency",
+            "rating": 5
+          },
+          {
+            "topic": "ACTH stimulation test",
+            "rating": 5
+          }
         ],
-
         "Adrenal Medulla Part 1": [
-          { "topic": "Pheochromocytoma", "rating": 5 },
-          { "topic": "MEN2 syndrome", "rating": 5 },
-          { "topic": "Catecholamine excess", "rating": 5 }
+          {
+            "topic": "Pheochromocytoma",
+            "rating": 5
+          },
+          {
+            "topic": "MEN2 syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Catecholamine excess",
+            "rating": 5
+          }
         ],
-
         "Adrenal Medulla Part 2": [
-          { "topic": "Urinary metanephrines", "rating": 5 },
-          { "topic": "VMA", "rating": 5 }
+          {
+            "topic": "Urinary metanephrines",
+            "rating": 5
+          },
+          {
+            "topic": "VMA",
+            "rating": 5
+          }
         ],
-
         "Bone and Mineral Metabolism": [
-          { "topic": "PTH physiology", "rating": 5 },
-          { "topic": "Vitamin D metabolism", "rating": 5 }
+          {
+            "topic": "PTH physiology",
+            "rating": 5
+          },
+          {
+            "topic": "Vitamin D metabolism",
+            "rating": 5
+          }
         ],
-
         "Calcium Metabolism": [
-          { "topic": "Hyperparathyroidism", "rating": 5 },
-          { "topic": "Hypoparathyroidism", "rating": 5 },
-          { "topic": "Chvostek sign", "rating": 5 }
+          {
+            "topic": "Hyperparathyroidism",
+            "rating": 5
+          },
+          {
+            "topic": "Hypoparathyroidism",
+            "rating": 5
+          },
+          {
+            "topic": "Chvostek sign",
+            "rating": 5
+          }
         ],
-
         "Hypercalcemia": [
-          { "topic": "Primary hyperparathyroidism", "rating": 5 },
-          { "topic": "Malignancy associated hypercalcemia", "rating": 5 },
-          { "topic": "Stones bones groans", "rating": 5 }
+          {
+            "topic": "Primary hyperparathyroidism",
+            "rating": 5
+          },
+          {
+            "topic": "Malignancy associated hypercalcemia",
+            "rating": 5
+          },
+          {
+            "topic": "Stones bones groans",
+            "rating": 5
+          }
         ],
-
         "Hypocalcemia": [
-          { "topic": "Tetany", "rating": 5 },
-          { "topic": "Trousseau sign", "rating": 5 },
-          { "topic": "QT prolongation", "rating": 5 }
+          {
+            "topic": "Tetany",
+            "rating": 5
+          },
+          {
+            "topic": "Trousseau sign",
+            "rating": 5
+          },
+          {
+            "topic": "QT prolongation",
+            "rating": 5
+          }
         ],
-
         "Phosphorus Metabolism": [
-          { "topic": "Tumor lysis syndrome", "rating": 4 },
-          { "topic": "Hyperphosphatemia", "rating": 4 }
+          {
+            "topic": "Tumor lysis syndrome",
+            "rating": 4
+          },
+          {
+            "topic": "Hyperphosphatemia",
+            "rating": 4
+          }
         ],
-
         "Magnesium Metabolism": [
-          { "topic": "Hypomagnesemia", "rating": 5 },
-          { "topic": "Torsades association", "rating": 5 }
+          {
+            "topic": "Hypomagnesemia",
+            "rating": 5
+          },
+          {
+            "topic": "Torsades association",
+            "rating": 5
+          }
         ],
-
         "Osteoporosis": [
-          { "topic": "DEXA scan", "rating": 5 },
-          { "topic": "Bisphosphonates", "rating": 5 },
-          { "topic": "Fragility fractures", "rating": 5 }
+          {
+            "topic": "DEXA scan",
+            "rating": 5
+          },
+          {
+            "topic": "Bisphosphonates",
+            "rating": 5
+          },
+          {
+            "topic": "Fragility fractures",
+            "rating": 5
+          }
         ],
-
         "Basics of Thyroid Gland": [
-          { "topic": "Thyroid hormone synthesis", "rating": 5 },
-          { "topic": "T3 vs T4", "rating": 5 }
+          {
+            "topic": "Thyroid hormone synthesis",
+            "rating": 5
+          },
+          {
+            "topic": "T3 vs T4",
+            "rating": 5
+          }
         ],
-
         "Thyroid Function Tests": [
-          { "topic": "TSH", "rating": 5 },
-          { "topic": "Free T4", "rating": 5 },
-          { "topic": "Sick euthyroid syndrome", "rating": 4 }
+          {
+            "topic": "TSH",
+            "rating": 5
+          },
+          {
+            "topic": "Free T4",
+            "rating": 5
+          },
+          {
+            "topic": "Sick euthyroid syndrome",
+            "rating": 4
+          }
         ],
-
         "Hypothyroidism": [
-          { "topic": "Hashimoto thyroiditis", "rating": 5 },
-          { "topic": "Anti TPO antibody", "rating": 5 },
-          { "topic": "Myxedema coma", "rating": 5 }
+          {
+            "topic": "Hashimoto thyroiditis",
+            "rating": 5
+          },
+          {
+            "topic": "Anti TPO antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Myxedema coma",
+            "rating": 5
+          }
         ],
-
         "Thyrotoxicosis and Thyroiditis": [
-          { "topic": "Graves disease", "rating": 5 },
-          { "topic": "Thyroid storm", "rating": 5 },
-          { "topic": "Subacute thyroiditis", "rating": 4 }
+          {
+            "topic": "Graves disease",
+            "rating": 5
+          },
+          {
+            "topic": "Thyroid storm",
+            "rating": 5
+          },
+          {
+            "topic": "Subacute thyroiditis",
+            "rating": 4
+          }
         ],
-      
         "Diabetes Mellitus Classification": [
-          { "topic": "Type 1 diabetes mellitus", "rating": 5 },
-          { "topic": "Type 2 diabetes mellitus", "rating": 5 },
-          { "topic": "MODY", "rating": 4 },
-          { "topic": "LADA", "rating": 4 },
-          { "topic": "Gestational diabetes mellitus", "rating": 5 }
+          {
+            "topic": "Type 1 diabetes mellitus",
+            "rating": 5
+          },
+          {
+            "topic": "Type 2 diabetes mellitus",
+            "rating": 5
+          },
+          {
+            "topic": "MODY",
+            "rating": 4
+          },
+          {
+            "topic": "LADA",
+            "rating": 4
+          },
+          {
+            "topic": "Gestational diabetes mellitus",
+            "rating": 5
+          }
         ],
-
         "Insulin Physiology and Acute Complications": [
-          { "topic": "DKA", "rating": 5 },
-          { "topic": "HHS", "rating": 5 },
-          { "topic": "Somogyi phenomenon", "rating": 4 },
-          { "topic": "Dawn phenomenon", "rating": 4 },
-          { "topic": "Anion gap metabolic acidosis", "rating": 5 }
+          {
+            "topic": "DKA",
+            "rating": 5
+          },
+          {
+            "topic": "HHS",
+            "rating": 5
+          },
+          {
+            "topic": "Somogyi phenomenon",
+            "rating": 4
+          },
+          {
+            "topic": "Dawn phenomenon",
+            "rating": 4
+          },
+          {
+            "topic": "Anion gap metabolic acidosis",
+            "rating": 5
+          }
         ],
-
         "Management of Diabetes Mellitus": [
-          { "topic": "Metformin", "rating": 5 },
-          { "topic": "Sulfonylureas", "rating": 5 },
-          { "topic": "SGLT2 inhibitors", "rating": 5 },
-          { "topic": "GLP1 agonists", "rating": 5 },
-          { "topic": "Insulin regimens", "rating": 5 },
-          { "topic": "HbA1c targets", "rating": 5 }
+          {
+            "topic": "Metformin",
+            "rating": 5
+          },
+          {
+            "topic": "Sulfonylureas",
+            "rating": 5
+          },
+          {
+            "topic": "SGLT2 inhibitors",
+            "rating": 5
+          },
+          {
+            "topic": "GLP1 agonists",
+            "rating": 5
+          },
+          {
+            "topic": "Insulin regimens",
+            "rating": 5
+          },
+          {
+            "topic": "HbA1c targets",
+            "rating": 5
+          }
         ],
-
         "Basics of Pituitary Gland": [
-          { "topic": "Anterior pituitary hormones", "rating": 5 },
-          { "topic": "Posterior pituitary hormones", "rating": 5 },
-          { "topic": "Pituitary adenoma", "rating": 5 }
+          {
+            "topic": "Anterior pituitary hormones",
+            "rating": 5
+          },
+          {
+            "topic": "Posterior pituitary hormones",
+            "rating": 5
+          },
+          {
+            "topic": "Pituitary adenoma",
+            "rating": 5
+          }
         ],
-
         "Prolactin": [
-          { "topic": "Prolactinoma", "rating": 5 },
-          { "topic": "Galactorrhea", "rating": 5 },
-          { "topic": "Cabergoline", "rating": 5 },
-          { "topic": "Dopamine agonists", "rating": 5 }
+          {
+            "topic": "Prolactinoma",
+            "rating": 5
+          },
+          {
+            "topic": "Galactorrhea",
+            "rating": 5
+          },
+          {
+            "topic": "Cabergoline",
+            "rating": 5
+          },
+          {
+            "topic": "Dopamine agonists",
+            "rating": 5
+          }
         ],
-
         "Growth Hormone": [
-          { "topic": "Acromegaly", "rating": 5 },
-          { "topic": "Gigantism", "rating": 5 },
-          { "topic": "IGF-1", "rating": 5 },
-          { "topic": "Oral glucose suppression test", "rating": 5 }
+          {
+            "topic": "Acromegaly",
+            "rating": 5
+          },
+          {
+            "topic": "Gigantism",
+            "rating": 5
+          },
+          {
+            "topic": "IGF-1",
+            "rating": 5
+          },
+          {
+            "topic": "Oral glucose suppression test",
+            "rating": 5
+          }
         ],
-
         "Acquired Hypopituitarism": [
-          { "topic": "Sheehan syndrome", "rating": 5 },
-          { "topic": "Empty sella syndrome", "rating": 3 },
-          { "topic": "Panhypopituitarism", "rating": 5 }
+          {
+            "topic": "Sheehan syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Empty sella syndrome",
+            "rating": 3
+          },
+          {
+            "topic": "Panhypopituitarism",
+            "rating": 5
+          }
         ],
-
         "Antidiuretic Hormone": [
-          { "topic": "SIADH", "rating": 5 },
-          { "topic": "Diabetes insipidus", "rating": 5 },
-          { "topic": "Central diabetes insipidus", "rating": 5 },
-          { "topic": "Nephrogenic diabetes insipidus", "rating": 5 }
+          {
+            "topic": "SIADH",
+            "rating": 5
+          },
+          {
+            "topic": "Diabetes insipidus",
+            "rating": 5
+          },
+          {
+            "topic": "Central diabetes insipidus",
+            "rating": 5
+          },
+          {
+            "topic": "Nephrogenic diabetes insipidus",
+            "rating": 5
+          }
         ],
-
         "Hyponatremia": [
-          { "topic": "Serum osmolality", "rating": 5 },
-          { "topic": "SIADH induced hyponatremia", "rating": 5 },
-          { "topic": "Central pontine myelinolysis", "rating": 5 }
+          {
+            "topic": "Serum osmolality",
+            "rating": 5
+          },
+          {
+            "topic": "SIADH induced hyponatremia",
+            "rating": 5
+          },
+          {
+            "topic": "Central pontine myelinolysis",
+            "rating": 5
+          }
         ],
-
         "Polyuria": [
-          { "topic": "Water deprivation test", "rating": 5 },
-          { "topic": "Diabetes insipidus differentiation", "rating": 5 }
+          {
+            "topic": "Water deprivation test",
+            "rating": 5
+          },
+          {
+            "topic": "Diabetes insipidus differentiation",
+            "rating": 5
+          }
         ],
-
         "Potassium Metabolism": [
-          { "topic": "Hyperkalemia ECG changes", "rating": 5 },
-          { "topic": "Hypokalemia ECG changes", "rating": 5 },
-          { "topic": "Tall T waves", "rating": 5 },
-          { "topic": "U waves", "rating": 5 }
+          {
+            "topic": "Hyperkalemia ECG changes",
+            "rating": 5
+          },
+          {
+            "topic": "Hypokalemia ECG changes",
+            "rating": 5
+          },
+          {
+            "topic": "Tall T waves",
+            "rating": 5
+          },
+          {
+            "topic": "U waves",
+            "rating": 5
+          }
         ],
-
         "Management of Hypertension": [
-          { "topic": "Hypertensive emergency", "rating": 5 },
-          { "topic": "Resistant hypertension", "rating": 5 },
-          { "topic": "Target organ damage", "rating": 5 },
-          { "topic": "ACE inhibitors", "rating": 5 },
-          { "topic": "ARBs", "rating": 5 }
+          {
+            "topic": "Hypertensive emergency",
+            "rating": 5
+          },
+          {
+            "topic": "Resistant hypertension",
+            "rating": 5
+          },
+          {
+            "topic": "Target organ damage",
+            "rating": 5
+          },
+          {
+            "topic": "ACE inhibitors",
+            "rating": 5
+          },
+          {
+            "topic": "ARBs",
+            "rating": 5
+          }
         ]
       },
-
       "Rheumatology and Immunology": {
-
         "Sjogren Syndrome": [
-          { "topic": "Dry eyes and dry mouth", "rating": 5 },
-          { "topic": "Anti-Ro antibody", "rating": 5 },
-          { "topic": "Anti-La antibody", "rating": 5 },
-          { "topic": "Schirmer test", "rating": 5 }
+          {
+            "topic": "Dry eyes and dry mouth",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-Ro antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-La antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Schirmer test",
+            "rating": 5
+          }
         ],
-
         "IgG4 Related Disease": [
-          { "topic": "Autoimmune pancreatitis", "rating": 4 },
-          { "topic": "Storiform fibrosis", "rating": 4 },
-          { "topic": "Elevated IgG4", "rating": 4 }
+          {
+            "topic": "Autoimmune pancreatitis",
+            "rating": 4
+          },
+          {
+            "topic": "Storiform fibrosis",
+            "rating": 4
+          },
+          {
+            "topic": "Elevated IgG4",
+            "rating": 4
+          }
         ],
-
         "SLE Diagnosis": [
-          { "topic": "ANA", "rating": 5 },
-          { "topic": "Anti-dsDNA", "rating": 5 },
-          { "topic": "Anti-Sm antibody", "rating": 5 },
-          { "topic": "Low complement levels", "rating": 5 }
+          {
+            "topic": "ANA",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-dsDNA",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-Sm antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Low complement levels",
+            "rating": 5
+          }
         ],
-
         "SLE Clinical Profile and Management": [
-          { "topic": "Malar rash", "rating": 5 },
-          { "topic": "Photosensitivity", "rating": 5 },
-          { "topic": "Lupus nephritis", "rating": 5 },
-          { "topic": "Hydroxychloroquine", "rating": 5 }
+          {
+            "topic": "Malar rash",
+            "rating": 5
+          },
+          {
+            "topic": "Photosensitivity",
+            "rating": 5
+          },
+          {
+            "topic": "Lupus nephritis",
+            "rating": 5
+          },
+          {
+            "topic": "Hydroxychloroquine",
+            "rating": 5
+          }
         ],
-
         "Antiphospholipid Syndrome": [
-          { "topic": "Recurrent abortions", "rating": 5 },
-          { "topic": "Lupus anticoagulant", "rating": 5 },
-          { "topic": "Anticardiolipin antibody", "rating": 5 },
-          { "topic": "Prolonged aPTT", "rating": 4 }
+          {
+            "topic": "Recurrent abortions",
+            "rating": 5
+          },
+          {
+            "topic": "Lupus anticoagulant",
+            "rating": 5
+          },
+          {
+            "topic": "Anticardiolipin antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Prolonged aPTT",
+            "rating": 4
+          }
         ],
-
         "Scleroderma": [
-          { "topic": "CREST syndrome", "rating": 5 },
-          { "topic": "Anti-centromere antibody", "rating": 5 },
-          { "topic": "Anti-Scl-70 antibody", "rating": 5 },
-          { "topic": "Raynaud phenomenon", "rating": 5 }
+          {
+            "topic": "CREST syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-centromere antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-Scl-70 antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Raynaud phenomenon",
+            "rating": 5
+          }
         ],
-
         "Inflammatory Muscle Diseases": [
-          { "topic": "Dermatomyositis", "rating": 5 },
-          { "topic": "Heliotrope rash", "rating": 5 },
-          { "topic": "Gottron papules", "rating": 5 },
-          { "topic": "Polymyositis", "rating": 5 }
+          {
+            "topic": "Dermatomyositis",
+            "rating": 5
+          },
+          {
+            "topic": "Heliotrope rash",
+            "rating": 5
+          },
+          {
+            "topic": "Gottron papules",
+            "rating": 5
+          },
+          {
+            "topic": "Polymyositis",
+            "rating": 5
+          }
         ],
-
         "Sarcoidosis and MCTD": [
-          { "topic": "Noncaseating granuloma", "rating": 5 },
-          { "topic": "Bilateral hilar lymphadenopathy", "rating": 5 },
-          { "topic": "Elevated ACE levels", "rating": 5 },
-          { "topic": "Anti-U1 RNP", "rating": 4 }
+          {
+            "topic": "Noncaseating granuloma",
+            "rating": 5
+          },
+          {
+            "topic": "Bilateral hilar lymphadenopathy",
+            "rating": 5
+          },
+          {
+            "topic": "Elevated ACE levels",
+            "rating": 5
+          },
+          {
+            "topic": "Anti-U1 RNP",
+            "rating": 4
+          }
         ],
-
         "Large Vessel Vasculitis": [
-          { "topic": "Takayasu arteritis", "rating": 5 },
-          { "topic": "Giant cell arteritis", "rating": 5 },
-          { "topic": "Jaw claudication", "rating": 5 },
-          { "topic": "Temporal arteritis", "rating": 5 }
+          {
+            "topic": "Takayasu arteritis",
+            "rating": 5
+          },
+          {
+            "topic": "Giant cell arteritis",
+            "rating": 5
+          },
+          {
+            "topic": "Jaw claudication",
+            "rating": 5
+          },
+          {
+            "topic": "Temporal arteritis",
+            "rating": 5
+          }
         ],
-
         "Small Vessel Vasculitis": [
-          { "topic": "Granulomatosis with polyangiitis", "rating": 5 },
-          { "topic": "c-ANCA", "rating": 5 },
-          { "topic": "Microscopic polyangiitis", "rating": 5 },
-          { "topic": "p-ANCA", "rating": 5 },
-          { "topic": "EGPA", "rating": 4 }
+          {
+            "topic": "Granulomatosis with polyangiitis",
+            "rating": 5
+          },
+          {
+            "topic": "c-ANCA",
+            "rating": 5
+          },
+          {
+            "topic": "Microscopic polyangiitis",
+            "rating": 5
+          },
+          {
+            "topic": "p-ANCA",
+            "rating": 5
+          },
+          {
+            "topic": "EGPA",
+            "rating": 4
+          }
         ],
-
         "Henoch Schonlein Purpura and Cryoglobulinemia": [
-          { "topic": "Palpable purpura", "rating": 5 },
-          { "topic": "IgA vasculitis", "rating": 5 },
-          { "topic": "Renal involvement", "rating": 5 },
-          { "topic": "Hepatitis C association", "rating": 4 }
+          {
+            "topic": "Palpable purpura",
+            "rating": 5
+          },
+          {
+            "topic": "IgA vasculitis",
+            "rating": 5
+          },
+          {
+            "topic": "Renal involvement",
+            "rating": 5
+          },
+          {
+            "topic": "Hepatitis C association",
+            "rating": 4
+          }
         ],
-
         "Variable Vessel Vasculitis": [
-          { "topic": "Behcet disease", "rating": 5 },
-          { "topic": "Oral ulcers", "rating": 5 },
-          { "topic": "Genital ulcers", "rating": 5 },
-          { "topic": "Pathergy test", "rating": 5 }
+          {
+            "topic": "Behcet disease",
+            "rating": 5
+          },
+          {
+            "topic": "Oral ulcers",
+            "rating": 5
+          },
+          {
+            "topic": "Genital ulcers",
+            "rating": 5
+          },
+          {
+            "topic": "Pathergy test",
+            "rating": 5
+          }
         ],
-
         "Basics of Arthritis": [
-          { "topic": "Inflammatory arthritis", "rating": 5 },
-          { "topic": "Morning stiffness", "rating": 5 },
-          { "topic": "Symmetric arthritis", "rating": 4 }
+          {
+            "topic": "Inflammatory arthritis",
+            "rating": 5
+          },
+          {
+            "topic": "Morning stiffness",
+            "rating": 5
+          },
+          {
+            "topic": "Symmetric arthritis",
+            "rating": 4
+          }
         ],
-
         "Rheumatoid Arthritis": [
-          { "topic": "Anti-CCP antibody", "rating": 5 },
-          { "topic": "Rheumatoid factor", "rating": 5 },
-          { "topic": "Swan neck deformity", "rating": 5 },
-          { "topic": "Ulnar deviation", "rating": 5 },
-          { "topic": "Methotrexate", "rating": 5 }
+          {
+            "topic": "Anti-CCP antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Rheumatoid factor",
+            "rating": 5
+          },
+          {
+            "topic": "Swan neck deformity",
+            "rating": 5
+          },
+          {
+            "topic": "Ulnar deviation",
+            "rating": 5
+          },
+          {
+            "topic": "Methotrexate",
+            "rating": 5
+          }
         ],
-
         "Spondyloarthritis": [
-          { "topic": "Ankylosing spondylitis", "rating": 5 },
-          { "topic": "HLA-B27", "rating": 5 },
-          { "topic": "Bamboo spine", "rating": 5 },
-          { "topic": "Sacroiliitis", "rating": 5 }
+          {
+            "topic": "Ankylosing spondylitis",
+            "rating": 5
+          },
+          {
+            "topic": "HLA-B27",
+            "rating": 5
+          },
+          {
+            "topic": "Bamboo spine",
+            "rating": 5
+          },
+          {
+            "topic": "Sacroiliitis",
+            "rating": 5
+          }
         ],
-
         "Crystal Arthropathies": [
-          { "topic": "Gout", "rating": 5 },
-          { "topic": "Needle shaped negatively birefringent crystals", "rating": 5 },
-          { "topic": "Pseudogout", "rating": 5 },
-          { "topic": "CPPD crystals", "rating": 5 }
+          {
+            "topic": "Gout",
+            "rating": 5
+          },
+          {
+            "topic": "Needle shaped negatively birefringent crystals",
+            "rating": 5
+          },
+          {
+            "topic": "Pseudogout",
+            "rating": 5
+          },
+          {
+            "topic": "CPPD crystals",
+            "rating": 5
+          }
         ],
-
         "Adult Onset Stills Disease and Septic Arthritis": [
-          { "topic": "Salmon pink rash", "rating": 4 },
-          { "topic": "High ferritin", "rating": 5 },
-          { "topic": "Septic arthritis", "rating": 5 },
-          { "topic": "Joint aspiration", "rating": 5 }
+          {
+            "topic": "Salmon pink rash",
+            "rating": 4
+          },
+          {
+            "topic": "High ferritin",
+            "rating": 5
+          },
+          {
+            "topic": "Septic arthritis",
+            "rating": 5
+          },
+          {
+            "topic": "Joint aspiration",
+            "rating": 5
+          }
         ]
       },
-
       "Hepatology": {
-
         "Basics of Development and Anatomy of Liver": [
-          { "topic": "Portal triad", "rating": 5 },
-          { "topic": "Kupffer cells", "rating": 5 },
-          { "topic": "Liver acinus zones", "rating": 5 },
-          { "topic": "Space of Disse", "rating": 4 }
+          {
+            "topic": "Portal triad",
+            "rating": 5
+          },
+          {
+            "topic": "Kupffer cells",
+            "rating": 5
+          },
+          {
+            "topic": "Liver acinus zones",
+            "rating": 5
+          },
+          {
+            "topic": "Space of Disse",
+            "rating": 4
+          }
         ],
-
         "Basics of Physiology of Liver": [
-          { "topic": "Bilirubin metabolism", "rating": 5 },
-          { "topic": "Albumin synthesis", "rating": 5 },
-          { "topic": "Coagulation factor synthesis", "rating": 5 },
-          { "topic": "Ammonia metabolism", "rating": 5 }
+          {
+            "topic": "Bilirubin metabolism",
+            "rating": 5
+          },
+          {
+            "topic": "Albumin synthesis",
+            "rating": 5
+          },
+          {
+            "topic": "Coagulation factor synthesis",
+            "rating": 5
+          },
+          {
+            "topic": "Ammonia metabolism",
+            "rating": 5
+          }
         ],
-
         "Acute Hepatitis and Acute Liver Failure": [
-          { "topic": "Fulminant hepatic failure", "rating": 5 },
-          { "topic": "Hepatic encephalopathy", "rating": 5 },
-          { "topic": "N-acetylcysteine", "rating": 5 },
-          { "topic": "Paracetamol toxicity", "rating": 5 },
-          { "topic": "AST ALT elevation", "rating": 5 }
+          {
+            "topic": "Fulminant hepatic failure",
+            "rating": 5
+          },
+          {
+            "topic": "Hepatic encephalopathy",
+            "rating": 5
+          },
+          {
+            "topic": "N-acetylcysteine",
+            "rating": 5
+          },
+          {
+            "topic": "Paracetamol toxicity",
+            "rating": 5
+          },
+          {
+            "topic": "AST ALT elevation",
+            "rating": 5
+          }
         ],
-
         "Chronic Hepatitis Cirrhosis": [
-          { "topic": "Child Pugh score", "rating": 5 },
-          { "topic": "MELD score", "rating": 5 },
-          { "topic": "Spider angioma", "rating": 5 },
-          { "topic": "Portal hypertension", "rating": 5 },
-          { "topic": "Caput medusae", "rating": 4 }
+          {
+            "topic": "Child Pugh score",
+            "rating": 5
+          },
+          {
+            "topic": "MELD score",
+            "rating": 5
+          },
+          {
+            "topic": "Spider angioma",
+            "rating": 5
+          },
+          {
+            "topic": "Portal hypertension",
+            "rating": 5
+          },
+          {
+            "topic": "Caput medusae",
+            "rating": 4
+          }
         ],
-
         "Portal Hypertension": [
-          { "topic": "Esophageal varices", "rating": 5 },
-          { "topic": "Splenomegaly", "rating": 5 },
-          { "topic": "SAAG", "rating": 5 },
-          { "topic": "Variceal bleed", "rating": 5 }
+          {
+            "topic": "Esophageal varices",
+            "rating": 5
+          },
+          {
+            "topic": "Splenomegaly",
+            "rating": 5
+          },
+          {
+            "topic": "SAAG",
+            "rating": 5
+          },
+          {
+            "topic": "Variceal bleed",
+            "rating": 5
+          }
         ],
-
         "Ascites and Hepatorenal Syndrome": [
-          { "topic": "Diagnostic paracentesis", "rating": 5 },
-          { "topic": "Spironolactone", "rating": 5 },
-          { "topic": "Hepatorenal syndrome", "rating": 5 },
-          { "topic": "SBP spontaneous bacterial peritonitis", "rating": 5 }
+          {
+            "topic": "Diagnostic paracentesis",
+            "rating": 5
+          },
+          {
+            "topic": "Spironolactone",
+            "rating": 5
+          },
+          {
+            "topic": "Hepatorenal syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "SBP spontaneous bacterial peritonitis",
+            "rating": 5
+          }
         ],
-
         "Hepatic Encephalopathy": [
-          { "topic": "Asterixis", "rating": 5 },
-          { "topic": "Lactulose", "rating": 5 },
-          { "topic": "Rifaximin", "rating": 5 },
-          { "topic": "Ammonia elevation", "rating": 5 }
+          {
+            "topic": "Asterixis",
+            "rating": 5
+          },
+          {
+            "topic": "Lactulose",
+            "rating": 5
+          },
+          {
+            "topic": "Rifaximin",
+            "rating": 5
+          },
+          {
+            "topic": "Ammonia elevation",
+            "rating": 5
+          }
         ],
-
         "Metabolic Diseases of Liver": [
-          { "topic": "Wilson disease", "rating": 5 },
-          { "topic": "Kayser Fleischer ring", "rating": 5 },
-          { "topic": "Hemochromatosis", "rating": 5 },
-          { "topic": "Alpha-1 antitrypsin deficiency", "rating": 5 }
+          {
+            "topic": "Wilson disease",
+            "rating": 5
+          },
+          {
+            "topic": "Kayser Fleischer ring",
+            "rating": 5
+          },
+          {
+            "topic": "Hemochromatosis",
+            "rating": 5
+          },
+          {
+            "topic": "Alpha-1 antitrypsin deficiency",
+            "rating": 5
+          }
         ],
-
         "Biliary Cirrhosis": [
-          { "topic": "Primary biliary cholangitis", "rating": 5 },
-          { "topic": "Anti mitochondrial antibody", "rating": 5 },
-          { "topic": "Cholestatic jaundice", "rating": 5 }
+          {
+            "topic": "Primary biliary cholangitis",
+            "rating": 5
+          },
+          {
+            "topic": "Anti mitochondrial antibody",
+            "rating": 5
+          },
+          {
+            "topic": "Cholestatic jaundice",
+            "rating": 5
+          }
         ],
-
         "Autoimmune Hepatitis": [
-          { "topic": "Anti smooth muscle antibody", "rating": 5 },
-          { "topic": "ANA positivity", "rating": 4 },
-          { "topic": "Interface hepatitis", "rating": 4 }
+          {
+            "topic": "Anti smooth muscle antibody",
+            "rating": 5
+          },
+          {
+            "topic": "ANA positivity",
+            "rating": 4
+          },
+          {
+            "topic": "Interface hepatitis",
+            "rating": 4
+          }
         ],
-
         "Alcoholic Liver Disease": [
-          { "topic": "AST ALT ratio >2", "rating": 5 },
-          { "topic": "Mallory bodies", "rating": 5 },
-          { "topic": "Fatty liver", "rating": 5 },
-          { "topic": "Maddrey discriminant function", "rating": 4 }
+          {
+            "topic": "AST ALT ratio >2",
+            "rating": 5
+          },
+          {
+            "topic": "Mallory bodies",
+            "rating": 5
+          },
+          {
+            "topic": "Fatty liver",
+            "rating": 5
+          },
+          {
+            "topic": "Maddrey discriminant function",
+            "rating": 4
+          }
         ],
-
         "Non Alcoholic Steatohepatitis": [
-          { "topic": "NAFLD", "rating": 5 },
-          { "topic": "Insulin resistance", "rating": 5 },
-          { "topic": "Metabolic syndrome association", "rating": 5 }
+          {
+            "topic": "NAFLD",
+            "rating": 5
+          },
+          {
+            "topic": "Insulin resistance",
+            "rating": 5
+          },
+          {
+            "topic": "Metabolic syndrome association",
+            "rating": 5
+          }
         ],
-
         "Vascular Diseases of Liver": [
-          { "topic": "Budd Chiari syndrome", "rating": 5 },
-          { "topic": "Hepatic vein thrombosis", "rating": 5 },
-          { "topic": "Nutmeg liver", "rating": 4 }
+          {
+            "topic": "Budd Chiari syndrome",
+            "rating": 5
+          },
+          {
+            "topic": "Hepatic vein thrombosis",
+            "rating": 5
+          },
+          {
+            "topic": "Nutmeg liver",
+            "rating": 4
+          }
         ],
-
         "Hepatitis B Virus Part 1": [
-          { "topic": "HBsAg", "rating": 5 },
-          { "topic": "HBeAg", "rating": 5 },
-          { "topic": "Window period", "rating": 5 },
-          { "topic": "Anti HBc IgM", "rating": 5 }
+          {
+            "topic": "HBsAg",
+            "rating": 5
+          },
+          {
+            "topic": "HBeAg",
+            "rating": 5
+          },
+          {
+            "topic": "Window period",
+            "rating": 5
+          },
+          {
+            "topic": "Anti HBc IgM",
+            "rating": 5
+          }
         ],
-
         "Hepatitis B Virus Part 2": [
-          { "topic": "HBV vaccination", "rating": 5 },
-          { "topic": "Tenofovir", "rating": 5 },
-          { "topic": "Vertical transmission", "rating": 5 },
-          { "topic": "Chronic hepatitis B", "rating": 5 }
+          {
+            "topic": "HBV vaccination",
+            "rating": 5
+          },
+          {
+            "topic": "Tenofovir",
+            "rating": 5
+          },
+          {
+            "topic": "Vertical transmission",
+            "rating": 5
+          },
+          {
+            "topic": "Chronic hepatitis B",
+            "rating": 5
+          }
         ],
-
         "Hepatitis C Virus": [
-          { "topic": "Cryoglobulinemia", "rating": 5 },
-          { "topic": "Direct acting antivirals", "rating": 5 },
-          { "topic": "HCC association", "rating": 5 },
-          { "topic": "No vaccine available", "rating": 5 }
+          {
+            "topic": "Cryoglobulinemia",
+            "rating": 5
+          },
+          {
+            "topic": "Direct acting antivirals",
+            "rating": 5
+          },
+          {
+            "topic": "HCC association",
+            "rating": 5
+          },
+          {
+            "topic": "No vaccine available",
+            "rating": 5
+          }
         ]
       },
-
       "Infectious Diseases": {
-
         "Infective Endocarditis": [
-          { "topic": "Duke criteria", "rating": 5 },
-          { "topic": "Osler nodes", "rating": 5 },
-          { "topic": "Janeway lesions", "rating": 5 },
-          { "topic": "Roth spots", "rating": 5 },
-          { "topic": "Viridans streptococci", "rating": 5 },
-          { "topic": "Prosthetic valve endocarditis", "rating": 4 }
+          {
+            "topic": "Duke criteria",
+            "rating": 5
+          },
+          {
+            "topic": "Osler nodes",
+            "rating": 5
+          },
+          {
+            "topic": "Janeway lesions",
+            "rating": 5
+          },
+          {
+            "topic": "Roth spots",
+            "rating": 5
+          },
+          {
+            "topic": "Viridans streptococci",
+            "rating": 5
+          },
+          {
+            "topic": "Prosthetic valve endocarditis",
+            "rating": 4
+          }
         ],
-
         "Tropical Infections Synopsis": [
-          { "topic": "Malaria", "rating": 5 },
-          { "topic": "Dengue", "rating": 5 },
-          { "topic": "Scrub typhus", "rating": 5 },
-          { "topic": "Leptospirosis", "rating": 5 },
-          { "topic": "Typhoid fever", "rating": 5 },
-          { "topic": "Chikungunya", "rating": 4 },
-          { "topic": "Kala azar", "rating": 4 },
-          { "topic": "Filariasis", "rating": 4 }
+          {
+            "topic": "Malaria",
+            "rating": 5
+          },
+          {
+            "topic": "Dengue",
+            "rating": 5
+          },
+          {
+            "topic": "Scrub typhus",
+            "rating": 5
+          },
+          {
+            "topic": "Leptospirosis",
+            "rating": 5
+          },
+          {
+            "topic": "Typhoid fever",
+            "rating": 5
+          },
+          {
+            "topic": "Chikungunya",
+            "rating": 4
+          },
+          {
+            "topic": "Kala azar",
+            "rating": 4
+          },
+          {
+            "topic": "Filariasis",
+            "rating": 4
+          }
         ],
-
         "Malaria": [
-          { "topic": "Plasmodium falciparum", "rating": 5 },
-          { "topic": "Cerebral malaria", "rating": 5 },
-          { "topic": "Ring forms", "rating": 5 },
-          { "topic": "Artemisinin therapy", "rating": 5 },
-          { "topic": "Blackwater fever", "rating": 4 }
+          {
+            "topic": "Plasmodium falciparum",
+            "rating": 5
+          },
+          {
+            "topic": "Cerebral malaria",
+            "rating": 5
+          },
+          {
+            "topic": "Ring forms",
+            "rating": 5
+          },
+          {
+            "topic": "Artemisinin therapy",
+            "rating": 5
+          },
+          {
+            "topic": "Blackwater fever",
+            "rating": 4
+          }
         ],
-
         "Dengue": [
-          { "topic": "Tourniquet test", "rating": 5 },
-          { "topic": "Dengue hemorrhagic fever", "rating": 5 },
-          { "topic": "NS1 antigen", "rating": 5 },
-          { "topic": "Thrombocytopenia", "rating": 5 }
+          {
+            "topic": "Tourniquet test",
+            "rating": 5
+          },
+          {
+            "topic": "Dengue hemorrhagic fever",
+            "rating": 5
+          },
+          {
+            "topic": "NS1 antigen",
+            "rating": 5
+          },
+          {
+            "topic": "Thrombocytopenia",
+            "rating": 5
+          }
         ],
-
         "Scrub Typhus": [
-          { "topic": "Eschar", "rating": 5 },
-          { "topic": "Orientia tsutsugamushi", "rating": 5 },
-          { "topic": "Doxycycline", "rating": 5 }
+          {
+            "topic": "Eschar",
+            "rating": 5
+          },
+          {
+            "topic": "Orientia tsutsugamushi",
+            "rating": 5
+          },
+          {
+            "topic": "Doxycycline",
+            "rating": 5
+          }
         ],
-
         "Leptospirosis": [
-          { "topic": "Weil disease", "rating": 5 },
-          { "topic": "Conjunctival suffusion", "rating": 5 },
-          { "topic": "Rat urine exposure", "rating": 4 }
+          {
+            "topic": "Weil disease",
+            "rating": 5
+          },
+          {
+            "topic": "Conjunctival suffusion",
+            "rating": 5
+          },
+          {
+            "topic": "Rat urine exposure",
+            "rating": 4
+          }
         ],
-
         "Typhoid Fever": [
-          { "topic": "Rose spots", "rating": 5 },
-          { "topic": "Relative bradycardia", "rating": 5 },
-          { "topic": "Salmonella typhi", "rating": 5 },
-          { "topic": "Widal test", "rating": 4 }
+          {
+            "topic": "Rose spots",
+            "rating": 5
+          },
+          {
+            "topic": "Relative bradycardia",
+            "rating": 5
+          },
+          {
+            "topic": "Salmonella typhi",
+            "rating": 5
+          },
+          {
+            "topic": "Widal test",
+            "rating": 4
+          }
         ],
-
         "HIV": [
-          { "topic": "CD4 count", "rating": 5 },
-          { "topic": "Opportunistic infections", "rating": 5 },
-          { "topic": "PCP pneumonia", "rating": 5 },
-          { "topic": "HAART", "rating": 5 },
-          { "topic": "Post exposure prophylaxis", "rating": 5 },
-          { "topic": "IRIS", "rating": 4 },
-          { "topic": "Oral candidiasis", "rating": 4 },
-          { "topic": "Toxoplasmosis", "rating": 4 }
+          {
+            "topic": "CD4 count",
+            "rating": 5
+          },
+          {
+            "topic": "Opportunistic infections",
+            "rating": 5
+          },
+          {
+            "topic": "PCP pneumonia",
+            "rating": 5
+          },
+          {
+            "topic": "HAART",
+            "rating": 5
+          },
+          {
+            "topic": "Post exposure prophylaxis",
+            "rating": 5
+          },
+          {
+            "topic": "IRIS",
+            "rating": 4
+          },
+          {
+            "topic": "Oral candidiasis",
+            "rating": 4
+          },
+          {
+            "topic": "Toxoplasmosis",
+            "rating": 4
+          }
         ],
-
         "Tuberculosis": [
-          { "topic": "Primary TB", "rating": 5 },
-          { "topic": "Secondary TB", "rating": 5 },
-          { "topic": "Ghon complex", "rating": 5 },
-          { "topic": "Caseating granuloma", "rating": 5 },
-          { "topic": "CBNAAT", "rating": 5 },
-          { "topic": "MDR TB", "rating": 5 }
+          {
+            "topic": "Primary TB",
+            "rating": 5
+          },
+          {
+            "topic": "Secondary TB",
+            "rating": 5
+          },
+          {
+            "topic": "Ghon complex",
+            "rating": 5
+          },
+          {
+            "topic": "Caseating granuloma",
+            "rating": 5
+          },
+          {
+            "topic": "CBNAAT",
+            "rating": 5
+          },
+          {
+            "topic": "MDR TB",
+            "rating": 5
+          }
         ],
-
         "Sepsis": [
-          { "topic": "qSOFA", "rating": 5 },
-          { "topic": "Septic shock", "rating": 5 },
-          { "topic": "Lactate levels", "rating": 5 },
-          { "topic": "Fluid resuscitation", "rating": 5 }
+          {
+            "topic": "qSOFA",
+            "rating": 5
+          },
+          {
+            "topic": "Septic shock",
+            "rating": 5
+          },
+          {
+            "topic": "Lactate levels",
+            "rating": 5
+          },
+          {
+            "topic": "Fluid resuscitation",
+            "rating": 5
+          }
         ]
+      }
+    },
+    "PYQs": {
+      "Gastroenterology": {
+        "Diarrhea": [
+          {
+            "topic": "Cholera",
+            "question": "Rice water stools are characteristic of?",
+            "answer": "Cholera"
+          },
+          {
+            "topic": "Osmotic diarrhea",
+            "question": "Diarrhea that decreases on fasting is?",
+            "answer": "Osmotic diarrhea"
+          },
+          {
+            "topic": "Secretory diarrhea",
+            "question": "Diarrhea persisting during fasting suggests?",
+            "answer": "Secretory diarrhea"
+          },
+          {
+            "topic": "C. difficile",
+            "question": "Most common cause of antibiotic-associated diarrhea?",
+            "answer": "Clostridium difficile"
+          },
+          {
+            "topic": "Traveler diarrhea",
+            "question": "Most common organism causing traveler diarrhea?",
+            "answer": "ETEC"
+          }
+        ],
+        "Physiology of GIT Absorption and Selective Malabsorption": [
+          {
+            "topic": "Vitamin B12 absorption",
+            "question": "Site of vitamin B12 absorption?",
+            "answer": "Terminal ileum"
+          },
+          {
+            "topic": "Iron absorption",
+            "question": "Primary site of iron absorption?",
+            "answer": "Duodenum"
+          },
+          {
+            "topic": "Lactose intolerance",
+            "question": "Deficiency of which enzyme causes lactose intolerance?",
+            "answer": "Lactase"
+          },
+          {
+            "topic": "D-xylose test",
+            "question": "D-xylose test assesses absorption in which organ?",
+            "answer": "Small intestine"
+          }
+        ],
+        "Clinical Features and Tests for Malabsorption": [
+          {
+            "topic": "Steatorrhea",
+            "question": "Fatty bulky foul-smelling stool is called?",
+            "answer": "Steatorrhea"
+          },
+          {
+            "topic": "Sudan stain",
+            "question": "Screening test for fecal fat?",
+            "answer": "Sudan stain"
+          },
+          {
+            "topic": "Celiac disease",
+            "question": "Most specific antibody for celiac disease?",
+            "answer": "Anti-tTG IgA"
+          },
+          {
+            "topic": "Celiac disease",
+            "question": "Gold standard investigation for celiac disease?",
+            "answer": "Duodenal biopsy"
+          }
+        ],
+        "Inflammatory Bowel Disease : Part 1": [
+          {
+            "topic": "Ulcerative colitis",
+            "question": "Disease involving only mucosa and submucosa?",
+            "answer": "Ulcerative colitis"
+          },
+          {
+            "topic": "Crohn disease",
+            "question": "Transmural inflammation is seen in?",
+            "answer": "Crohn disease"
+          },
+          {
+            "topic": "Crohn disease",
+            "question": "Cobblestone appearance is seen in?",
+            "answer": "Crohn disease"
+          },
+          {
+            "topic": "Ulcerative colitis",
+            "question": "Lead pipe appearance is seen in?",
+            "answer": "Ulcerative colitis"
+          },
+          {
+            "topic": "Toxic megacolon",
+            "question": "Life-threatening complication of ulcerative colitis?",
+            "answer": "Toxic megacolon"
+          }
+        ],
+        "Inflammatory Bowel Disease : Part 2": [
+          {
+            "topic": "ASCA",
+            "question": "ASCA positivity is associated with?",
+            "answer": "Crohn disease"
+          },
+          {
+            "topic": "p-ANCA",
+            "question": "p-ANCA positivity is commonly seen in?",
+            "answer": "Ulcerative colitis"
+          },
+          {
+            "topic": "Primary sclerosing cholangitis",
+            "question": "Which liver disease is associated with ulcerative colitis?",
+            "answer": "Primary sclerosing cholangitis"
+          }
+        ],
+        "Infectious Diarrhoea": [
+          {
+            "topic": "Rotavirus",
+            "question": "Most common cause of severe diarrhea in children?",
+            "answer": "Rotavirus"
+          },
+          {
+            "topic": "Vibrio cholerae",
+            "question": "Comma-shaped motile gram-negative bacillus?",
+            "answer": "Vibrio cholerae"
+          },
+          {
+            "topic": "Shigella",
+            "question": "Organism causing bacillary dysentery?",
+            "answer": "Shigella"
+          }
+        ],
+        "Stomach": [
+          {
+            "topic": "H. pylori",
+            "question": "Most common cause of peptic ulcer disease?",
+            "answer": "Helicobacter pylori"
+          },
+          {
+            "topic": "Gastric ulcer",
+            "question": "Pain aggravated by meals occurs in?",
+            "answer": "Gastric ulcer"
+          },
+          {
+            "topic": "Duodenal ulcer",
+            "question": "Pain relieved by meals occurs in?",
+            "answer": "Duodenal ulcer"
+          },
+          {
+            "topic": "Menetrier disease",
+            "question": "Protein-losing hypertrophic gastropathy?",
+            "answer": "Menetrier disease"
+          }
+        ],
+        "Gastrinoma": [
+          {
+            "topic": "Zollinger-Ellison syndrome",
+            "question": "Gastrinoma causes which syndrome?",
+            "answer": "Zollinger-Ellison syndrome"
+          },
+          {
+            "topic": "Gastrinoma triangle",
+            "question": "Most gastrinomas arise in?",
+            "answer": "Gastrinoma triangle"
+          },
+          {
+            "topic": "Secretin stimulation test",
+            "question": "Diagnostic test for gastrinoma?",
+            "answer": "Secretin stimulation test"
+          }
+        ],
+        "Irritable Bowel Syndrome": [
+          {
+            "topic": "IBS",
+            "question": "Most common functional GI disorder?",
+            "answer": "Irritable bowel syndrome"
+          },
+          {
+            "topic": "Rome criteria",
+            "question": "Diagnostic criteria for IBS?",
+            "answer": "Rome IV criteria"
+          },
+          {
+            "topic": "IBS",
+            "question": "Alarm feature NOT seen in IBS?",
+            "answer": "Weight loss"
+          }
+        ]
+      },
+      "Hematology": {
+        "Clinical Approach to Anemia": [
+          {
+            "topic": "MCV classification",
+            "question": "Microcytic anemia has MCV less than?",
+            "answer": "80 fL"
+          },
+          {
+            "topic": "Reticulocyte count",
+            "question": "Best marker of marrow response?",
+            "answer": "Reticulocyte count"
+          },
+          {
+            "topic": "Anemia of chronic disease",
+            "question": "Ferritin levels in anemia of chronic disease?",
+            "answer": "Increased"
+          }
+        ],
+        "Iron Metabolism": [
+          {
+            "topic": "Ferritin",
+            "question": "Best indicator of iron stores?",
+            "answer": "Serum ferritin"
+          },
+          {
+            "topic": "Transferrin",
+            "question": "Iron transport protein?",
+            "answer": "Transferrin"
+          },
+          {
+            "topic": "Hepcidin",
+            "question": "Main regulator of iron metabolism?",
+            "answer": "Hepcidin"
+          }
+        ],
+        "Approach To Microcytic Hypochromic Anemia": [
+          {
+            "topic": "Iron deficiency anemia",
+            "question": "Most common cause of microcytic hypochromic anemia?",
+            "answer": "Iron deficiency anemia"
+          },
+          {
+            "topic": "Sideroblastic anemia",
+            "question": "Ring sideroblasts are seen in?",
+            "answer": "Sideroblastic anemia"
+          },
+          {
+            "topic": "Thalassemia",
+            "question": "Target cells are commonly seen in?",
+            "answer": "Thalassemia"
+          }
+        ],
+        "Macrocytic Anemia": [
+          {
+            "topic": "Vitamin B12 deficiency",
+            "question": "Neurological manifestations occur in deficiency of?",
+            "answer": "Vitamin B12"
+          },
+          {
+            "topic": "Hypersegmented neutrophils",
+            "question": "Seen in which anemia?",
+            "answer": "Megaloblastic anemia"
+          },
+          {
+            "topic": "Folate deficiency",
+            "question": "Which deficiency does NOT cause neurological symptoms?",
+            "answer": "Folate deficiency"
+          }
+        ],
+        "Approach to Hemolysis": [
+          {
+            "topic": "Hemolytic anemia",
+            "question": "LDH levels in hemolytic anemia?",
+            "answer": "Increased"
+          },
+          {
+            "topic": "Hemolysis",
+            "question": "Haptoglobin levels in hemolysis?",
+            "answer": "Decreased"
+          },
+          {
+            "topic": "Indirect bilirubin",
+            "question": "Type of bilirubin increased in hemolysis?",
+            "answer": "Indirect bilirubin"
+          }
+        ],
+        "Immune Mediated Hemolytic Anemia": [
+          {
+            "topic": "Warm autoimmune hemolytic anemia",
+            "question": "Most common type of autoimmune hemolytic anemia?",
+            "answer": "Warm antibody autoimmune hemolytic anemia"
+          },
+          {
+            "topic": "Coombs test",
+            "question": "Diagnostic test for autoimmune hemolytic anemia?",
+            "answer": "Direct Coombs test"
+          },
+          {
+            "topic": "Cold agglutinin disease",
+            "question": "Cold agglutinin disease is mediated by which antibody?",
+            "answer": "IgM"
+          },
+          {
+            "topic": "Spherocytes",
+            "question": "Peripheral smear finding in warm AIHA?",
+            "answer": "Spherocytes"
+          }
+        ],
+        "Non-Immune Mediated Hemolytic Anemia": [
+          {
+            "topic": "G6PD deficiency",
+            "question": "Bite cells are seen in?",
+            "answer": "G6PD deficiency"
+          },
+          {
+            "topic": "Hereditary spherocytosis",
+            "question": "Most common RBC membrane defect?",
+            "answer": "Hereditary spherocytosis"
+          },
+          {
+            "topic": "PNH",
+            "question": "Flow cytometry marker absent in PNH?",
+            "answer": "CD55 and CD59"
+          },
+          {
+            "topic": "Microangiopathic hemolytic anemia",
+            "question": "Schistocytes are seen in?",
+            "answer": "Microangiopathic hemolytic anemia"
+          }
+        ],
+        "Hemolytic Anemia : Miscellaneous": [
+          {
+            "topic": "Sickle cell anemia",
+            "question": "Most common precipitating factor for sickle cell crisis?",
+            "answer": "Infection"
+          },
+          {
+            "topic": "Parvovirus B19",
+            "question": "Aplastic crisis in sickle cell disease is caused by?",
+            "answer": "Parvovirus B19"
+          },
+          {
+            "topic": "Hydroxyurea",
+            "question": "Drug increasing HbF in sickle cell disease?",
+            "answer": "Hydroxyurea"
+          }
+        ],
+        "Myeloproliferative Neoplasms : Part 1": [
+          {
+            "topic": "Polycythemia vera",
+            "question": "Most common mutation in polycythemia vera?",
+            "answer": "JAK2 mutation"
+          },
+          {
+            "topic": "CML",
+            "question": "Philadelphia chromosome is seen in?",
+            "answer": "Chronic myeloid leukemia"
+          },
+          {
+            "topic": "CML",
+            "question": "Translocation in CML?",
+            "answer": "t(9;22)"
+          },
+          {
+            "topic": "Basophilia",
+            "question": "Characteristic blood finding in CML?",
+            "answer": "Basophilia"
+          }
+        ],
+        "Myeloproliferative Neoplasms : Part 2": [
+          {
+            "topic": "Essential thrombocythemia",
+            "question": "Platelet count is markedly elevated in?",
+            "answer": "Essential thrombocythemia"
+          },
+          {
+            "topic": "Primary myelofibrosis",
+            "question": "Tear drop cells are seen in?",
+            "answer": "Primary myelofibrosis"
+          },
+          {
+            "topic": "Extramedullary hematopoiesis",
+            "question": "Massive splenomegaly with marrow fibrosis suggests?",
+            "answer": "Primary myelofibrosis"
+          }
+        ],
+        "Bone Marrow Failure Syndromes": [
+          {
+            "topic": "Aplastic anemia",
+            "question": "Hypocellular marrow is seen in?",
+            "answer": "Aplastic anemia"
+          },
+          {
+            "topic": "Fanconi anemia",
+            "question": "Inherited aplastic anemia syndrome?",
+            "answer": "Fanconi anemia"
+          },
+          {
+            "topic": "Paroxysmal nocturnal hemoglobinuria",
+            "question": "Bone marrow failure associated with venous thrombosis?",
+            "answer": "PNH"
+          }
+        ],
+        "Acute Leukemia": [
+          {
+            "topic": "Auer rods",
+            "question": "Auer rods are characteristic of?",
+            "answer": "AML"
+          },
+          {
+            "topic": "APL",
+            "question": "AML subtype associated with DIC?",
+            "answer": "Acute promyelocytic leukemia"
+          },
+          {
+            "topic": "t(15;17)",
+            "question": "Characteristic translocation in APL?",
+            "answer": "t(15;17)"
+          },
+          {
+            "topic": "ALL",
+            "question": "Most common leukemia in children?",
+            "answer": "Acute lymphoblastic leukemia"
+          }
+        ],
+        "Acute Myeloid Leukemia VS Acute Lymphoblastic Leukemia": [
+          {
+            "topic": "MPO stain",
+            "question": "Myeloperoxidase positivity is seen in?",
+            "answer": "AML"
+          },
+          {
+            "topic": "TdT",
+            "question": "TdT positivity is characteristic of?",
+            "answer": "ALL"
+          },
+          {
+            "topic": "Auer rods",
+            "question": "Seen in AML or ALL?",
+            "answer": "AML"
+          }
+        ],
+        "World of Lymphomas": [
+          {
+            "topic": "Reed-Sternberg cells",
+            "question": "Diagnostic cell of Hodgkin lymphoma?",
+            "answer": "Reed-Sternberg cell"
+          },
+          {
+            "topic": "CD15 CD30",
+            "question": "Classic Hodgkin lymphoma markers?",
+            "answer": "CD15 and CD30"
+          },
+          {
+            "topic": "B symptoms",
+            "question": "Fever weight loss night sweats are called?",
+            "answer": "B symptoms"
+          }
+        ],
+        "Chronic Lymphocytic Leukemia": [
+          {
+            "topic": "Smudge cells",
+            "question": "Peripheral smear finding in CLL?",
+            "answer": "Smudge cells"
+          },
+          {
+            "topic": "CLL",
+            "question": "Most common adult leukemia?",
+            "answer": "CLL"
+          },
+          {
+            "topic": "Richter transformation",
+            "question": "Transformation of CLL into aggressive lymphoma is called?",
+            "answer": "Richter transformation"
+          }
+        ],
+        "Non-Hodgkin's Lymphoma": [
+          {
+            "topic": "Burkitt lymphoma",
+            "question": "Starry sky appearance is seen in?",
+            "answer": "Burkitt lymphoma"
+          },
+          {
+            "topic": "t(8;14)",
+            "question": "Characteristic translocation in Burkitt lymphoma?",
+            "answer": "t(8;14)"
+          },
+          {
+            "topic": "Diffuse large B cell lymphoma",
+            "question": "Most common NHL subtype?",
+            "answer": "Diffuse large B cell lymphoma"
+          }
+        ],
+        "Plasma Cell Disorders": [
+          {
+            "topic": "Multiple myeloma",
+            "question": "Most common plasma cell disorder?",
+            "answer": "Multiple myeloma"
+          },
+          {
+            "topic": "Bence Jones proteins",
+            "question": "Urinary light chains in multiple myeloma are called?",
+            "answer": "Bence Jones proteins"
+          },
+          {
+            "topic": "CRAB features",
+            "question": "Hypercalcemia renal failure anemia bone lesions are called?",
+            "answer": "CRAB features"
+          },
+          {
+            "topic": "M spike",
+            "question": "Electrophoresis finding in multiple myeloma?",
+            "answer": "M spike"
+          }
+        ],
+        "Platelet Disorders": [
+          {
+            "topic": "ITP",
+            "question": "Most common cause of isolated thrombocytopenia?",
+            "answer": "Immune thrombocytopenic purpura"
+          },
+          {
+            "topic": "Bernard-Soulier syndrome",
+            "question": "Defect of GPIb receptor is seen in?",
+            "answer": "Bernard-Soulier syndrome"
+          },
+          {
+            "topic": "Glanzmann thrombasthenia",
+            "question": "Defect of GPIIb/IIIa receptor is seen in?",
+            "answer": "Glanzmann thrombasthenia"
+          }
+        ],
+        "Approach to Bleeding Disorders": [
+          {
+            "topic": "Hemophilia A",
+            "question": "Deficiency of factor VIII causes?",
+            "answer": "Hemophilia A"
+          },
+          {
+            "topic": "vWD",
+            "question": "Most common inherited bleeding disorder?",
+            "answer": "Von Willebrand disease"
+          },
+          {
+            "topic": "DIC",
+            "question": "D-dimer levels are elevated in?",
+            "answer": "DIC"
+          },
+          {
+            "topic": "PT vs aPTT",
+            "question": "Extrinsic pathway assessed by?",
+            "answer": "PT"
+          }
+        ]
+      },
+      "Pulmonology": {
+        "Approach to Respiratory Disease": [
+          {
+            "topic": "Type 1 respiratory failure",
+            "question": "Type 1 respiratory failure is characterized by?",
+            "answer": "Hypoxemia with normal or low CO2"
+          },
+          {
+            "topic": "Type 2 respiratory failure",
+            "question": "Hypercapnia is seen in which respiratory failure?",
+            "answer": "Type 2 respiratory failure"
+          },
+          {
+            "topic": "Pulse oximetry",
+            "question": "Pulse oximetry measures?",
+            "answer": "Oxygen saturation"
+          }
+        ],
+        "Asthma": [
+          {
+            "topic": "Asthma",
+            "question": "Most common inflammatory cells in bronchial asthma?",
+            "answer": "Eosinophils"
+          },
+          {
+            "topic": "Status asthmaticus",
+            "question": "Life-threatening severe asthma attack is called?",
+            "answer": "Status asthmaticus"
+          },
+          {
+            "topic": "FEV1/FVC ratio",
+            "question": "FEV1/FVC ratio in obstructive lung disease?",
+            "answer": "Decreased"
+          },
+          {
+            "topic": "Methacholine challenge test",
+            "question": "Bronchial provocation test used in asthma?",
+            "answer": "Methacholine challenge test"
+          },
+          {
+            "topic": "ABPA",
+            "question": "Asthma with central bronchiectasis suggests?",
+            "answer": "ABPA"
+          }
+        ],
+        "COPD": [
+          {
+            "topic": "Smoking",
+            "question": "Most important risk factor for COPD?",
+            "answer": "Smoking"
+          },
+          {
+            "topic": "Blue bloater",
+            "question": "Blue bloater phenotype is seen in?",
+            "answer": "Chronic bronchitis"
+          },
+          {
+            "topic": "Pink puffer",
+            "question": "Pink puffer phenotype is seen in?",
+            "answer": "Emphysema"
+          },
+          {
+            "topic": "Alpha-1 antitrypsin deficiency",
+            "question": "Panacinar emphysema is associated with?",
+            "answer": "Alpha-1 antitrypsin deficiency"
+          },
+          {
+            "topic": "COPD",
+            "question": "Most common cause of COPD exacerbation?",
+            "answer": "Infection"
+          }
+        ],
+        "Interstitial Lung Disease": [
+          {
+            "topic": "Idiopathic pulmonary fibrosis",
+            "question": "Velcro crackles are classically heard in?",
+            "answer": "Idiopathic pulmonary fibrosis"
+          },
+          {
+            "topic": "Honeycombing",
+            "question": "HRCT finding in idiopathic pulmonary fibrosis?",
+            "answer": "Honeycombing"
+          },
+          {
+            "topic": "Sarcoidosis",
+            "question": "Noncaseating granulomas are seen in?",
+            "answer": "Sarcoidosis"
+          },
+          {
+            "topic": "Berylliosis",
+            "question": "Disease resembling sarcoidosis caused by beryllium?",
+            "answer": "Berylliosis"
+          }
+        ],
+        "Pneumonia": [
+          {
+            "topic": "Streptococcus pneumoniae",
+            "question": "Most common cause of community-acquired pneumonia?",
+            "answer": "Streptococcus pneumoniae"
+          },
+          {
+            "topic": "Legionella",
+            "question": "Pneumonia with hyponatremia suggests?",
+            "answer": "Legionella"
+          },
+          {
+            "topic": "Klebsiella",
+            "question": "Currant jelly sputum is seen in?",
+            "answer": "Klebsiella pneumonia"
+          },
+          {
+            "topic": "Aspiration pneumonia",
+            "question": "Most common site of aspiration pneumonia?",
+            "answer": "Right lower lobe"
+          }
+        ],
+        "Pleural Diseases": [
+          {
+            "topic": "Light criteria",
+            "question": "Criteria used to differentiate exudate from transudate?",
+            "answer": "Light criteria"
+          },
+          {
+            "topic": "Pleural effusion",
+            "question": "Most common cause of transudative pleural effusion?",
+            "answer": "Congestive heart failure"
+          },
+          {
+            "topic": "Empyema",
+            "question": "Pus in pleural cavity is called?",
+            "answer": "Empyema"
+          },
+          {
+            "topic": "Pneumothorax",
+            "question": "Hyperresonant hemithorax with absent breath sounds suggests?",
+            "answer": "Pneumothorax"
+          }
+        ],
+        "Tuberculosis": [
+          {
+            "topic": "Primary TB",
+            "question": "Ghon focus is seen in?",
+            "answer": "Primary tuberculosis"
+          },
+          {
+            "topic": "Secondary TB",
+            "question": "Most common site of reactivation TB?",
+            "answer": "Upper lobes"
+          },
+          {
+            "topic": "Mantoux test",
+            "question": "Screening test for tuberculosis?",
+            "answer": "Mantoux test"
+          },
+          {
+            "topic": "Caseating granuloma",
+            "question": "Characteristic histology of tuberculosis?",
+            "answer": "Caseating granuloma"
+          },
+          {
+            "topic": "Rifampicin resistance",
+            "question": "Gene associated with rifampicin resistance?",
+            "answer": "rpoB gene"
+          }
+        ],
+        "Bronchiectasis": [
+          {
+            "topic": "Bronchiectasis",
+            "question": "Permanent dilatation of bronchi is called?",
+            "answer": "Bronchiectasis"
+          },
+          {
+            "topic": "Cystic fibrosis",
+            "question": "Most common inherited cause of bronchiectasis?",
+            "answer": "Cystic fibrosis"
+          },
+          {
+            "topic": "Kartagener syndrome",
+            "question": "Bronchiectasis with situs inversus suggests?",
+            "answer": "Kartagener syndrome"
+          }
+        ],
+        "Lung Cancer": [
+          {
+            "topic": "Small cell carcinoma",
+            "question": "Most strongly smoking-associated lung cancer?",
+            "answer": "Small cell carcinoma"
+          },
+          {
+            "topic": "Pancoast tumor",
+            "question": "Lung apex tumor causing Horner syndrome?",
+            "answer": "Pancoast tumor"
+          },
+          {
+            "topic": "Adenocarcinoma",
+            "question": "Most common lung cancer in nonsmokers?",
+            "answer": "Adenocarcinoma"
+          },
+          {
+            "topic": "SIADH",
+            "question": "Paraneoplastic syndrome commonly associated with small cell carcinoma?",
+            "answer": "SIADH"
+          },
+          {
+            "topic": "Hypercalcemia",
+            "question": "PTHrP-mediated hypercalcemia is seen in?",
+            "answer": "Squamous cell carcinoma"
+          }
+        ],
+        "Pulmonary Embolism": [
+          {
+            "topic": "Pulmonary embolism",
+            "question": "Most common source of pulmonary embolism?",
+            "answer": "Deep vein thrombosis"
+          },
+          {
+            "topic": "D-dimer",
+            "question": "Screening investigation for pulmonary embolism?",
+            "answer": "D-dimer"
+          },
+          {
+            "topic": "CT pulmonary angiography",
+            "question": "Gold standard imaging for pulmonary embolism?",
+            "answer": "CT pulmonary angiography"
+          },
+          {
+            "topic": "Westermark sign",
+            "question": "Chest X-ray sign in pulmonary embolism?",
+            "answer": "Westermark sign"
+          }
+        ],
+        "ARDS": [
+          {
+            "topic": "ARDS",
+            "question": "Diffuse alveolar damage is seen in?",
+            "answer": "ARDS"
+          },
+          {
+            "topic": "ARDS",
+            "question": "Characteristic chest X-ray finding in ARDS?",
+            "answer": "Bilateral diffuse infiltrates"
+          },
+          {
+            "topic": "PEEP",
+            "question": "Ventilatory strategy important in ARDS?",
+            "answer": "PEEP"
+          }
+        ],
+        "Sleep Apnea": [
+          {
+            "topic": "Obstructive sleep apnea",
+            "question": "Most common type of sleep apnea?",
+            "answer": "Obstructive sleep apnea"
+          },
+          {
+            "topic": "OSA",
+            "question": "Gold standard investigation for sleep apnea?",
+            "answer": "Polysomnography"
+          },
+          {
+            "topic": "CPAP",
+            "question": "First-line treatment for obstructive sleep apnea?",
+            "answer": "CPAP"
+          }
+        ]
+      },
+      "Cardiology": {
+        "Approach to Cardiovascular Disease": [
+          {
+            "topic": "Cardiac output",
+            "question": "Cardiac output is equal to?",
+            "answer": "Stroke volume × heart rate"
+          },
+          {
+            "topic": "JVP",
+            "question": "Prominent cannon a waves are seen in?",
+            "answer": "Complete heart block"
+          },
+          {
+            "topic": "Pulsus paradoxus",
+            "question": "Pulsus paradoxus is classically seen in?",
+            "answer": "Cardiac tamponade"
+          }
+        ],
+        "Hypertension": [
+          {
+            "topic": "Essential hypertension",
+            "question": "Most common type of hypertension?",
+            "answer": "Essential hypertension"
+          },
+          {
+            "topic": "Hypertensive emergency",
+            "question": "BP >180/120 mmHg with end-organ damage is called?",
+            "answer": "Hypertensive emergency"
+          },
+          {
+            "topic": "Renal artery stenosis",
+            "question": "Abdominal bruit with resistant hypertension suggests?",
+            "answer": "Renal artery stenosis"
+          },
+          {
+            "topic": "Pheochromocytoma",
+            "question": "Hypertension with episodic headache sweating palpitation suggests?",
+            "answer": "Pheochromocytoma"
+          }
+        ],
+        "Heart Failure": [
+          {
+            "topic": "Left heart failure",
+            "question": "Orthopnea and PND are features of?",
+            "answer": "Left heart failure"
+          },
+          {
+            "topic": "Right heart failure",
+            "question": "Pedal edema and hepatomegaly are seen in?",
+            "answer": "Right heart failure"
+          },
+          {
+            "topic": "BNP",
+            "question": "Biomarker elevated in heart failure?",
+            "answer": "BNP"
+          },
+          {
+            "topic": "S3 gallop",
+            "question": "Classic heart sound in systolic heart failure?",
+            "answer": "S3 gallop"
+          }
+        ],
+        "Coronary Artery Disease": [
+          {
+            "topic": "Stable angina",
+            "question": "Chest pain relieved by rest is characteristic of?",
+            "answer": "Stable angina"
+          },
+          {
+            "topic": "NSTEMI",
+            "question": "Cardiac marker most specific for myocardial infarction?",
+            "answer": "Troponin I"
+          },
+          {
+            "topic": "STEMI",
+            "question": "Most common vessel involved in MI?",
+            "answer": "LAD"
+          },
+          {
+            "topic": "Inferior wall MI",
+            "question": "Inferior wall MI is commonly due to occlusion of?",
+            "answer": "Right coronary artery"
+          },
+          {
+            "topic": "MONA",
+            "question": "Initial management acronym in acute MI?",
+            "answer": "MONA"
+          }
+        ],
+        "Valvular Heart Disease": [
+          {
+            "topic": "Mitral stenosis",
+            "question": "Opening snap is heard in?",
+            "answer": "Mitral stenosis"
+          },
+          {
+            "topic": "Mitral regurgitation",
+            "question": "Pansystolic murmur radiating to axilla suggests?",
+            "answer": "Mitral regurgitation"
+          },
+          {
+            "topic": "Aortic stenosis",
+            "question": "Pulsus parvus et tardus is seen in?",
+            "answer": "Aortic stenosis"
+          },
+          {
+            "topic": "Aortic regurgitation",
+            "question": "Water hammer pulse is seen in?",
+            "answer": "Aortic regurgitation"
+          },
+          {
+            "topic": "Rheumatic heart disease",
+            "question": "Most commonly affected valve in rheumatic fever?",
+            "answer": "Mitral valve"
+          }
+        ],
+        "Infective Endocarditis": [
+          {
+            "topic": "Infective endocarditis",
+            "question": "Most common organism causing infective endocarditis?",
+            "answer": "Staphylococcus aureus"
+          },
+          {
+            "topic": "Osler nodes",
+            "question": "Painful finger lesions in infective endocarditis are called?",
+            "answer": "Osler nodes"
+          },
+          {
+            "topic": "Janeway lesions",
+            "question": "Painless hemorrhagic lesions in infective endocarditis are called?",
+            "answer": "Janeway lesions"
+          },
+          {
+            "topic": "Duke criteria",
+            "question": "Diagnostic criteria for infective endocarditis?",
+            "answer": "Duke criteria"
+          }
+        ],
+        "Cardiomyopathy": [
+          {
+            "topic": "Dilated cardiomyopathy",
+            "question": "Most common cardiomyopathy?",
+            "answer": "Dilated cardiomyopathy"
+          },
+          {
+            "topic": "Hypertrophic cardiomyopathy",
+            "question": "Sudden cardiac death in young athletes is commonly due to?",
+            "answer": "Hypertrophic cardiomyopathy"
+          },
+          {
+            "topic": "Restrictive cardiomyopathy",
+            "question": "Amyloidosis commonly causes which cardiomyopathy?",
+            "answer": "Restrictive cardiomyopathy"
+          }
+        ],
+        "Pericardial Disease": [
+          {
+            "topic": "Acute pericarditis",
+            "question": "Chest pain relieved by leaning forward occurs in?",
+            "answer": "Acute pericarditis"
+          },
+          {
+            "topic": "Pericardial friction rub",
+            "question": "Characteristic auscultatory finding in acute pericarditis?",
+            "answer": "Pericardial friction rub"
+          },
+          {
+            "topic": "Cardiac tamponade",
+            "question": "Beck triad is seen in?",
+            "answer": "Cardiac tamponade"
+          },
+          {
+            "topic": "Constrictive pericarditis",
+            "question": "Pericardial knock is heard in?",
+            "answer": "Constrictive pericarditis"
+          }
+        ],
+        "Congenital Heart Disease": [
+          {
+            "topic": "ASD",
+            "question": "Fixed split S2 is seen in?",
+            "answer": "ASD"
+          },
+          {
+            "topic": "VSD",
+            "question": "Most common congenital heart disease?",
+            "answer": "VSD"
+          },
+          {
+            "topic": "Tetralogy of Fallot",
+            "question": "Most common cyanotic congenital heart disease?",
+            "answer": "Tetralogy of Fallot"
+          },
+          {
+            "topic": "Coarctation of aorta",
+            "question": "Rib notching is seen in?",
+            "answer": "Coarctation of aorta"
+          },
+          {
+            "topic": "PDA",
+            "question": "Machinery murmur is heard in?",
+            "answer": "Patent ductus arteriosus"
+          }
+        ],
+        "Peripheral Vascular Disease": [
+          {
+            "topic": "Deep vein thrombosis",
+            "question": "Most common cause of pulmonary embolism?",
+            "answer": "Deep vein thrombosis"
+          },
+          {
+            "topic": "Buerger disease",
+            "question": "Peripheral vascular disease strongly associated with smoking?",
+            "answer": "Buerger disease"
+          },
+          {
+            "topic": "Aortic dissection",
+            "question": "Tearing chest pain radiating to back suggests?",
+            "answer": "Aortic dissection"
+          }
+        ],
+        "Shock": [
+          {
+            "topic": "Cardiogenic shock",
+            "question": "Most common cause of cardiogenic shock?",
+            "answer": "Acute myocardial infarction"
+          },
+          {
+            "topic": "Septic shock",
+            "question": "Warm extremities are classically seen in?",
+            "answer": "Septic shock"
+          },
+          {
+            "topic": "Hypovolemic shock",
+            "question": "Most common type of shock overall?",
+            "answer": "Hypovolemic shock"
+          }
+        ]
+      },
+      "ECG": {
+        "Basic ECG": [
+          {
+            "topic": "P wave",
+            "question": "P wave represents?",
+            "answer": "Atrial depolarization"
+          },
+          {
+            "topic": "QRS complex",
+            "question": "QRS complex represents?",
+            "answer": "Ventricular depolarization"
+          },
+          {
+            "topic": "T wave",
+            "question": "T wave represents?",
+            "answer": "Ventricular repolarization"
+          },
+          {
+            "topic": "PR interval",
+            "question": "Normal PR interval duration?",
+            "answer": "0.12–0.20 seconds"
+          }
+        ],
+        "Arrhythmias": [
+          {
+            "topic": "Atrial fibrillation",
+            "question": "Irregularly irregular rhythm is seen in?",
+            "answer": "Atrial fibrillation"
+          },
+          {
+            "topic": "Ventricular tachycardia",
+            "question": "Wide complex tachycardia is usually?",
+            "answer": "Ventricular tachycardia"
+          },
+          {
+            "topic": "Torsades de pointes",
+            "question": "Polymorphic VT associated with prolonged QT interval?",
+            "answer": "Torsades de pointes"
+          },
+          {
+            "topic": "SVT",
+            "question": "Most common paroxysmal narrow complex tachycardia?",
+            "answer": "AVNRT"
+          }
+        ],
+        "Heart Blocks": [
+          {
+            "topic": "First degree AV block",
+            "question": "ECG finding in first degree AV block?",
+            "answer": "Prolonged PR interval"
+          },
+          {
+            "topic": "Mobitz type I",
+            "question": "Progressive PR prolongation before dropped beat occurs in?",
+            "answer": "Mobitz type I"
+          },
+          {
+            "topic": "Mobitz type II",
+            "question": "Sudden dropped QRS without PR prolongation occurs in?",
+            "answer": "Mobitz type II"
+          },
+          {
+            "topic": "Complete heart block",
+            "question": "AV dissociation is seen in?",
+            "answer": "Complete heart block"
+          }
+        ],
+        "ECG in MI": [
+          {
+            "topic": "STEMI",
+            "question": "ST elevation in leads II III aVF indicates?",
+            "answer": "Inferior wall MI"
+          },
+          {
+            "topic": "Anterior wall MI",
+            "question": "Anterior wall MI shows changes in which leads?",
+            "answer": "V1–V4"
+          },
+          {
+            "topic": "Pathological Q waves",
+            "question": "ECG sign of old myocardial infarction?",
+            "answer": "Pathological Q waves"
+          }
+        ],
+        "Electrolyte Abnormalities in ECG": [
+          {
+            "topic": "Hyperkalemia",
+            "question": "Tall tented T waves are seen in?",
+            "answer": "Hyperkalemia"
+          },
+          {
+            "topic": "Hypokalemia",
+            "question": "Prominent U waves are seen in?",
+            "answer": "Hypokalemia"
+          },
+          {
+            "topic": "Hypocalcemia",
+            "question": "QT prolongation occurs in?",
+            "answer": "Hypocalcemia"
+          }
+        ]
+      },
+      "Neurology": {
+        "Approach to Neurological Disease": [
+          {
+            "topic": "Upper motor neuron lesion",
+            "question": "Babinski sign is seen in?",
+            "answer": "Upper motor neuron lesion"
+          },
+          {
+            "topic": "Lower motor neuron lesion",
+            "question": "Fasciculations are seen in?",
+            "answer": "Lower motor neuron lesion"
+          },
+          {
+            "topic": "Glasgow Coma Scale",
+            "question": "Maximum score in Glasgow Coma Scale?",
+            "answer": "15"
+          },
+          {
+            "topic": "Romberg sign",
+            "question": "Positive Romberg sign indicates lesion in?",
+            "answer": "Posterior column"
+          }
+        ],
+        "Stroke": [
+          {
+            "topic": "Middle cerebral artery stroke",
+            "question": "Most commonly involved vessel in ischemic stroke?",
+            "answer": "Middle cerebral artery"
+          },
+          {
+            "topic": "Lacunar infarct",
+            "question": "Most common cause of lacunar infarcts?",
+            "answer": "Hypertension"
+          },
+          {
+            "topic": "Subarachnoid hemorrhage",
+            "question": "Berry aneurysm rupture causes?",
+            "answer": "Subarachnoid hemorrhage"
+          },
+          {
+            "topic": "tPA",
+            "question": "Time window for IV thrombolysis in ischemic stroke?",
+            "answer": "Within 4.5 hours"
+          },
+          {
+            "topic": "Charcot-Bouchard aneurysm",
+            "question": "Cause of hypertensive intracerebral hemorrhage?",
+            "answer": "Charcot-Bouchard aneurysm"
+          }
+        ],
+        "Epilepsy": [
+          {
+            "topic": "Absence seizure",
+            "question": "3 Hz spike-and-wave pattern is seen in?",
+            "answer": "Absence seizure"
+          },
+          {
+            "topic": "Status epilepticus",
+            "question": "First-line drug in status epilepticus?",
+            "answer": "Lorazepam"
+          },
+          {
+            "topic": "Temporal lobe epilepsy",
+            "question": "Most common focal epilepsy in adults?",
+            "answer": "Temporal lobe epilepsy"
+          },
+          {
+            "topic": "Juvenile myoclonic epilepsy",
+            "question": "Early morning myoclonic jerks are seen in?",
+            "answer": "Juvenile myoclonic epilepsy"
+          }
+        ],
+        "Headache": [
+          {
+            "topic": "Migraine",
+            "question": "Most common type of primary headache?",
+            "answer": "Migraine"
+          },
+          {
+            "topic": "Cluster headache",
+            "question": "Unilateral headache with lacrimation and rhinorrhea suggests?",
+            "answer": "Cluster headache"
+          },
+          {
+            "topic": "Tension headache",
+            "question": "Band-like headache is characteristic of?",
+            "answer": "Tension headache"
+          },
+          {
+            "topic": "Migraine aura",
+            "question": "Most common aura in migraine?",
+            "answer": "Visual aura"
+          }
+        ],
+        "Movement Disorders": [
+          {
+            "topic": "Parkinson disease",
+            "question": "Most common neurodegenerative movement disorder?",
+            "answer": "Parkinson disease"
+          },
+          {
+            "topic": "Substantia nigra",
+            "question": "Site affected in Parkinson disease?",
+            "answer": "Substantia nigra"
+          },
+          {
+            "topic": "Resting tremor",
+            "question": "Pill rolling tremor is seen in?",
+            "answer": "Parkinson disease"
+          },
+          {
+            "topic": "Wilson disease",
+            "question": "Kayser-Fleischer rings are seen in?",
+            "answer": "Wilson disease"
+          }
+        ],
+        "Demyelinating Disorders": [
+          {
+            "topic": "Multiple sclerosis",
+            "question": "Most common demyelinating disease?",
+            "answer": "Multiple sclerosis"
+          },
+          {
+            "topic": "Oligoclonal bands",
+            "question": "CSF finding in multiple sclerosis?",
+            "answer": "Oligoclonal bands"
+          },
+          {
+            "topic": "Optic neuritis",
+            "question": "Painful monocular vision loss occurs in?",
+            "answer": "Optic neuritis"
+          },
+          {
+            "topic": "Neuromyelitis optica",
+            "question": "Antibody associated with neuromyelitis optica?",
+            "answer": "Aquaporin-4 antibody"
+          }
+        ],
+        "Peripheral Neuropathy": [
+          {
+            "topic": "Diabetic neuropathy",
+            "question": "Most common cause of peripheral neuropathy?",
+            "answer": "Diabetes mellitus"
+          },
+          {
+            "topic": "Guillain-Barre syndrome",
+            "question": "Ascending paralysis is seen in?",
+            "answer": "Guillain-Barre syndrome"
+          },
+          {
+            "topic": "Albuminocytologic dissociation",
+            "question": "CSF finding in Guillain-Barre syndrome?",
+            "answer": "Albuminocytologic dissociation"
+          },
+          {
+            "topic": "CIDP",
+            "question": "Chronic counterpart of Guillain-Barre syndrome?",
+            "answer": "CIDP"
+          }
+        ],
+        "Neuromuscular Junction Disorders": [
+          {
+            "topic": "Myasthenia gravis",
+            "question": "Autoantibody seen in myasthenia gravis?",
+            "answer": "Anti-acetylcholine receptor antibody"
+          },
+          {
+            "topic": "Thymoma",
+            "question": "Tumor associated with myasthenia gravis?",
+            "answer": "Thymoma"
+          },
+          {
+            "topic": "Lambert-Eaton syndrome",
+            "question": "Associated malignancy in Lambert-Eaton syndrome?",
+            "answer": "Small cell lung carcinoma"
+          },
+          {
+            "topic": "Edrophonium test",
+            "question": "Diagnostic test historically used for myasthenia gravis?",
+            "answer": "Edrophonium test"
+          }
+        ],
+        "Muscle Disorders": [
+          {
+            "topic": "Duchenne muscular dystrophy",
+            "question": "Most common muscular dystrophy in children?",
+            "answer": "Duchenne muscular dystrophy"
+          },
+          {
+            "topic": "Gowers sign",
+            "question": "Classic sign in Duchenne muscular dystrophy?",
+            "answer": "Gowers sign"
+          },
+          {
+            "topic": "Polymyositis",
+            "question": "Proximal muscle weakness with elevated CK suggests?",
+            "answer": "Polymyositis"
+          },
+          {
+            "topic": "Dermatomyositis",
+            "question": "Heliotrope rash is seen in?",
+            "answer": "Dermatomyositis"
+          }
+        ],
+        "CNS Infections": [
+          {
+            "topic": "Bacterial meningitis",
+            "question": "Most common cause of community-acquired bacterial meningitis in adults?",
+            "answer": "Streptococcus pneumoniae"
+          },
+          {
+            "topic": "Viral encephalitis",
+            "question": "Most common cause of sporadic viral encephalitis?",
+            "answer": "HSV-1"
+          },
+          {
+            "topic": "Tuberculous meningitis",
+            "question": "CSF finding in tuberculous meningitis?",
+            "answer": "High protein low glucose lymphocytic predominance"
+          },
+          {
+            "topic": "Cryptococcal meningitis",
+            "question": "Most common fungal meningitis in AIDS?",
+            "answer": "Cryptococcus neoformans"
+          }
+        ],
+        "Dementia": [
+          {
+            "topic": "Alzheimer disease",
+            "question": "Most common cause of dementia?",
+            "answer": "Alzheimer disease"
+          },
+          {
+            "topic": "Lewy body dementia",
+            "question": "Dementia with visual hallucinations suggests?",
+            "answer": "Lewy body dementia"
+          },
+          {
+            "topic": "Frontotemporal dementia",
+            "question": "Early personality changes occur in?",
+            "answer": "Frontotemporal dementia"
+          },
+          {
+            "topic": "Normal pressure hydrocephalus",
+            "question": "Triad of gait disturbance urinary incontinence dementia suggests?",
+            "answer": "Normal pressure hydrocephalus"
+          }
+        ]
+      },
+      "Nephrology": {
+        "Approach to Renal Disease": [
+          {
+            "topic": "Nephrotic syndrome",
+            "question": "Proteinuria more than how much per day defines nephrotic syndrome?",
+            "answer": ">3.5 g/day"
+          },
+          {
+            "topic": "Nephritic syndrome",
+            "question": "RBC casts are characteristic of?",
+            "answer": "Nephritic syndrome"
+          },
+          {
+            "topic": "Acute kidney injury",
+            "question": "Most common cause of AKI overall?",
+            "answer": "Prerenal azotemia"
+          },
+          {
+            "topic": "Fractional excretion of sodium",
+            "question": "FeNa less than 1% suggests?",
+            "answer": "Prerenal AKI"
+          }
+        ],
+        "Glomerulonephritis": [
+          {
+            "topic": "Post streptococcal glomerulonephritis",
+            "question": "Subepithelial humps are seen in?",
+            "answer": "Post streptococcal glomerulonephritis"
+          },
+          {
+            "topic": "IgA nephropathy",
+            "question": "Most common primary glomerulonephritis worldwide?",
+            "answer": "IgA nephropathy"
+          },
+          {
+            "topic": "Goodpasture syndrome",
+            "question": "Pulmonary hemorrhage with RPGN suggests?",
+            "answer": "Goodpasture syndrome"
+          },
+          {
+            "topic": "Rapidly progressive glomerulonephritis",
+            "question": "Crescent formation is seen in?",
+            "answer": "RPGN"
+          }
+        ],
+        "Nephrotic Syndrome": [
+          {
+            "topic": "Minimal change disease",
+            "question": "Most common nephrotic syndrome in children?",
+            "answer": "Minimal change disease"
+          },
+          {
+            "topic": "Membranous nephropathy",
+            "question": "Most common nephrotic syndrome in adults?",
+            "answer": "Membranous nephropathy"
+          },
+          {
+            "topic": "FSGS",
+            "question": "Most common nephrotic syndrome in HIV patients?",
+            "answer": "FSGS"
+          },
+          {
+            "topic": "Minimal change disease",
+            "question": "Electron microscopy finding in minimal change disease?",
+            "answer": "Podocyte foot process effacement"
+          }
+        ],
+        "Tubulointerstitial Disease": [
+          {
+            "topic": "Acute tubular necrosis",
+            "question": "Muddy brown granular casts are seen in?",
+            "answer": "Acute tubular necrosis"
+          },
+          {
+            "topic": "Acute interstitial nephritis",
+            "question": "Eosinophils in urine are seen in?",
+            "answer": "Acute interstitial nephritis"
+          },
+          {
+            "topic": "Papillary necrosis",
+            "question": "Analgesic nephropathy causes?",
+            "answer": "Papillary necrosis"
+          }
+        ],
+        "Chronic Kidney Disease": [
+          {
+            "topic": "CKD",
+            "question": "Most common cause of chronic kidney disease?",
+            "answer": "Diabetes mellitus"
+          },
+          {
+            "topic": "Secondary hyperparathyroidism",
+            "question": "Common endocrine complication of CKD?",
+            "answer": "Secondary hyperparathyroidism"
+          },
+          {
+            "topic": "Erythropoietin",
+            "question": "Anemia in CKD occurs due to deficiency of?",
+            "answer": "Erythropoietin"
+          }
+        ],
+        "Renal Tubular Disorders": [
+          {
+            "topic": "Type 1 RTA",
+            "question": "Distal renal tubular acidosis is associated with inability to?",
+            "answer": "Acidify urine"
+          },
+          {
+            "topic": "Type 2 RTA",
+            "question": "Proximal renal tubular acidosis is due to defect in?",
+            "answer": "Bicarbonate reabsorption"
+          },
+          {
+            "topic": "Type 4 RTA",
+            "question": "Hyperkalemic renal tubular acidosis is?",
+            "answer": "Type 4 RTA"
+          },
+          {
+            "topic": "Fanconi syndrome",
+            "question": "Generalized proximal tubular dysfunction is called?",
+            "answer": "Fanconi syndrome"
+          }
+        ],
+        "Electrolyte Disorders": [
+          {
+            "topic": "Hyponatremia",
+            "question": "Most common cause of euvolemic hyponatremia?",
+            "answer": "SIADH"
+          },
+          {
+            "topic": "Hypernatremia",
+            "question": "Most common symptom of severe hypernatremia?",
+            "answer": "Neurological dysfunction"
+          },
+          {
+            "topic": "Hyperkalemia",
+            "question": "ECG finding in hyperkalemia?",
+            "answer": "Tall tented T waves"
+          },
+          {
+            "topic": "Hypokalemia",
+            "question": "ECG finding in hypokalemia?",
+            "answer": "Prominent U waves"
+          },
+          {
+            "topic": "Hypocalcemia",
+            "question": "Chvostek sign is seen in?",
+            "answer": "Hypocalcemia"
+          },
+          {
+            "topic": "Hypercalcemia",
+            "question": "Most common cause of hypercalcemia in outpatient setting?",
+            "answer": "Primary hyperparathyroidism"
+          }
+        ],
+        "Acid Base Disorders": [
+          {
+            "topic": "Metabolic acidosis",
+            "question": "Winter formula is used in?",
+            "answer": "Metabolic acidosis"
+          },
+          {
+            "topic": "Respiratory acidosis",
+            "question": "COPD commonly causes?",
+            "answer": "Respiratory acidosis"
+          },
+          {
+            "topic": "Metabolic alkalosis",
+            "question": "Vomiting commonly causes?",
+            "answer": "Metabolic alkalosis"
+          },
+          {
+            "topic": "Anion gap",
+            "question": "Methanol poisoning causes which type of acidosis?",
+            "answer": "High anion gap metabolic acidosis"
+          }
+        ],
+        "Kidney Stones": [
+          {
+            "topic": "Calcium oxalate stones",
+            "question": "Most common renal stone?",
+            "answer": "Calcium oxalate stone"
+          },
+          {
+            "topic": "Struvite stones",
+            "question": "Staghorn calculi are commonly composed of?",
+            "answer": "Struvite"
+          },
+          {
+            "topic": "Uric acid stones",
+            "question": "Radiolucent renal stones are usually?",
+            "answer": "Uric acid stones"
+          },
+          {
+            "topic": "Cystine stones",
+            "question": "Hexagonal crystals in urine are seen in?",
+            "answer": "Cystinuria"
+          }
+        ],
+        "Dialysis": [
+          {
+            "topic": "Hemodialysis",
+            "question": "Most common vascular access for long-term hemodialysis?",
+            "answer": "AV fistula"
+          },
+          {
+            "topic": "Dialysis disequilibrium syndrome",
+            "question": "Neurological complication of rapid dialysis?",
+            "answer": "Dialysis disequilibrium syndrome"
+          },
+          {
+            "topic": "Peritoneal dialysis",
+            "question": "Most common complication of peritoneal dialysis?",
+            "answer": "Peritonitis"
+          }
+        ],
+        "Renal Transplantation": [
+          {
+            "topic": "Hyperacute rejection",
+            "question": "Preformed antibodies cause which transplant rejection?",
+            "answer": "Hyperacute rejection"
+          },
+          {
+            "topic": "Acute rejection",
+            "question": "Most common time period for acute rejection?",
+            "answer": "Weeks to months"
+          },
+          {
+            "topic": "Cyclosporine",
+            "question": "Calcineurin inhibitor used in renal transplantation?",
+            "answer": "Cyclosporine"
+          }
+        ]
+      },
+      "Endocrinology": {
+        "Diabetes Mellitus": [
+          {
+            "topic": "Type 1 diabetes mellitus",
+            "question": "Autoimmune destruction of which cells occurs in type 1 diabetes?",
+            "answer": "Beta cells"
+          },
+          {
+            "topic": "HbA1c",
+            "question": "HbA1c value diagnostic of diabetes mellitus?",
+            "answer": "≥6.5%"
+          },
+          {
+            "topic": "Diabetic ketoacidosis",
+            "question": "Most common precipitating factor for DKA?",
+            "answer": "Infection"
+          },
+          {
+            "topic": "Hyperosmolar hyperglycemic state",
+            "question": "Marked hyperglycemia without significant ketosis occurs in?",
+            "answer": "HHS"
+          },
+          {
+            "topic": "Microalbuminuria",
+            "question": "Earliest marker of diabetic nephropathy?",
+            "answer": "Microalbuminuria"
+          },
+          {
+            "topic": "Diabetic retinopathy",
+            "question": "Most common cause of blindness in diabetics?",
+            "answer": "Diabetic retinopathy"
+          }
+        ],
+        "Hypoglycemia": [
+          {
+            "topic": "Whipple triad",
+            "question": "Whipple triad is associated with?",
+            "answer": "Hypoglycemia"
+          },
+          {
+            "topic": "Insulinoma",
+            "question": "Most common functioning pancreatic endocrine tumor?",
+            "answer": "Insulinoma"
+          }
+        ],
+        "Pituitary Disorders": [
+          {
+            "topic": "Prolactinoma",
+            "question": "Most common pituitary adenoma?",
+            "answer": "Prolactinoma"
+          },
+          {
+            "topic": "Acromegaly",
+            "question": "Most common cause of acromegaly?",
+            "answer": "Pituitary adenoma"
+          },
+          {
+            "topic": "Gigantism",
+            "question": "Excess growth hormone before epiphyseal closure causes?",
+            "answer": "Gigantism"
+          },
+          {
+            "topic": "Sheehan syndrome",
+            "question": "Postpartum pituitary necrosis is called?",
+            "answer": "Sheehan syndrome"
+          }
+        ],
+        "Thyroid Disorders": [
+          {
+            "topic": "Graves disease",
+            "question": "Most common cause of hyperthyroidism?",
+            "answer": "Graves disease"
+          },
+          {
+            "topic": "Hashimoto thyroiditis",
+            "question": "Most common cause of hypothyroidism in iodine-sufficient areas?",
+            "answer": "Hashimoto thyroiditis"
+          },
+          {
+            "topic": "Subacute thyroiditis",
+            "question": "Painful thyroid enlargement following viral infection suggests?",
+            "answer": "Subacute thyroiditis"
+          },
+          {
+            "topic": "Papillary carcinoma thyroid",
+            "question": "Most common thyroid malignancy?",
+            "answer": "Papillary carcinoma thyroid"
+          },
+          {
+            "topic": "Medullary carcinoma thyroid",
+            "question": "Calcitonin-producing thyroid tumor?",
+            "answer": "Medullary carcinoma thyroid"
+          }
+        ],
+        "Parathyroid Disorders": [
+          {
+            "topic": "Primary hyperparathyroidism",
+            "question": "Most common cause of primary hyperparathyroidism?",
+            "answer": "Parathyroid adenoma"
+          },
+          {
+            "topic": "Hypoparathyroidism",
+            "question": "Tetany is seen in?",
+            "answer": "Hypoparathyroidism"
+          },
+          {
+            "topic": "Pseudohypoparathyroidism",
+            "question": "Albright hereditary osteodystrophy is associated with?",
+            "answer": "Pseudohypoparathyroidism"
+          }
+        ],
+        "Adrenal Disorders": [
+          {
+            "topic": "Cushing syndrome",
+            "question": "Most common cause of endogenous Cushing syndrome?",
+            "answer": "Exogenous steroids"
+          },
+          {
+            "topic": "Addison disease",
+            "question": "Hyperpigmentation is seen in?",
+            "answer": "Addison disease"
+          },
+          {
+            "topic": "Pheochromocytoma",
+            "question": "Tumor arising from adrenal medulla?",
+            "answer": "Pheochromocytoma"
+          },
+          {
+            "topic": "Conn syndrome",
+            "question": "Primary hyperaldosteronism is also called?",
+            "answer": "Conn syndrome"
+          }
+        ],
+        "MEN Syndromes": [
+          {
+            "topic": "MEN 1",
+            "question": "Three Ps of MEN 1?",
+            "answer": "Pituitary pancreatic parathyroid tumors"
+          },
+          {
+            "topic": "MEN 2A",
+            "question": "MEN 2A includes medullary thyroid carcinoma pheochromocytoma and?",
+            "answer": "Parathyroid hyperplasia"
+          },
+          {
+            "topic": "RET mutation",
+            "question": "Mutation associated with MEN 2 syndromes?",
+            "answer": "RET mutation"
+          }
+        ],
+        "Obesity and Metabolic Syndrome": [
+          {
+            "topic": "Metabolic syndrome",
+            "question": "Central obesity with hypertension hyperglycemia and dyslipidemia defines?",
+            "answer": "Metabolic syndrome"
+          },
+          {
+            "topic": "BMI",
+            "question": "BMI more than 30 kg/m² indicates?",
+            "answer": "Obesity"
+          },
+          {
+            "topic": "Leptin",
+            "question": "Hormone regulating satiety?",
+            "answer": "Leptin"
+          }
+        ]
+      },
+      "Rheumatology and Immunology": {
+        "Approach to Rheumatologic Disease": [
+          {
+            "topic": "Inflammatory arthritis",
+            "question": "Morning stiffness lasting more than 1 hour suggests?",
+            "answer": "Inflammatory arthritis"
+          },
+          {
+            "topic": "ESR",
+            "question": "Most commonly elevated inflammatory marker in rheumatologic disease?",
+            "answer": "ESR"
+          },
+          {
+            "topic": "CRP",
+            "question": "Acute phase reactant elevated in active inflammation?",
+            "answer": "CRP"
+          }
+        ],
+        "Rheumatoid Arthritis": [
+          {
+            "topic": "Rheumatoid arthritis",
+            "question": "Most commonly involved joints in rheumatoid arthritis?",
+            "answer": "MCP and PIP joints"
+          },
+          {
+            "topic": "Anti-CCP antibody",
+            "question": "Most specific antibody for rheumatoid arthritis?",
+            "answer": "Anti-CCP antibody"
+          },
+          {
+            "topic": "Rheumatoid factor",
+            "question": "Rheumatoid factor is usually which immunoglobulin?",
+            "answer": "IgM"
+          },
+          {
+            "topic": "Swan neck deformity",
+            "question": "Characteristic deformity seen in rheumatoid arthritis?",
+            "answer": "Swan neck deformity"
+          },
+          {
+            "topic": "Atlantoaxial subluxation",
+            "question": "Serious cervical spine complication of rheumatoid arthritis?",
+            "answer": "Atlantoaxial subluxation"
+          }
+        ],
+        "Seronegative Spondyloarthropathy": [
+          {
+            "topic": "Ankylosing spondylitis",
+            "question": "Bamboo spine is seen in?",
+            "answer": "Ankylosing spondylitis"
+          },
+          {
+            "topic": "HLA-B27",
+            "question": "Most strongly associated HLA type with ankylosing spondylitis?",
+            "answer": "HLA-B27"
+          },
+          {
+            "topic": "Reactive arthritis",
+            "question": "Can't see can't pee can't climb a tree refers to?",
+            "answer": "Reactive arthritis"
+          },
+          {
+            "topic": "Psoriatic arthritis",
+            "question": "Pencil in cup deformity is seen in?",
+            "answer": "Psoriatic arthritis"
+          }
+        ],
+        "Systemic Lupus Erythematosus": [
+          {
+            "topic": "SLE",
+            "question": "Most sensitive antibody for SLE?",
+            "answer": "ANA"
+          },
+          {
+            "topic": "Anti-dsDNA",
+            "question": "Most specific antibody for SLE?",
+            "answer": "Anti-dsDNA"
+          },
+          {
+            "topic": "Lupus nephritis",
+            "question": "Most severe class of lupus nephritis?",
+            "answer": "Diffuse proliferative glomerulonephritis"
+          },
+          {
+            "topic": "Libman-Sacks endocarditis",
+            "question": "Sterile verrucous vegetations occur in?",
+            "answer": "SLE"
+          }
+        ],
+        "Sjogren Syndrome": [
+          {
+            "topic": "Sjogren syndrome",
+            "question": "Autoimmune disease causing dry eyes and dry mouth?",
+            "answer": "Sjogren syndrome"
+          },
+          {
+            "topic": "Anti-Ro antibody",
+            "question": "Antibody commonly associated with Sjogren syndrome?",
+            "answer": "Anti-Ro (SSA)"
+          },
+          {
+            "topic": "Schirmer test",
+            "question": "Test used to diagnose dry eyes?",
+            "answer": "Schirmer test"
+          }
+        ],
+        "Systemic Sclerosis": [
+          {
+            "topic": "CREST syndrome",
+            "question": "Calcinosis Raynaud esophageal dysmotility sclerodactyly telangiectasia defines?",
+            "answer": "CREST syndrome"
+          },
+          {
+            "topic": "Anti-centromere antibody",
+            "question": "Antibody associated with limited systemic sclerosis?",
+            "answer": "Anti-centromere antibody"
+          },
+          {
+            "topic": "Anti-Scl-70",
+            "question": "Antibody associated with diffuse systemic sclerosis?",
+            "answer": "Anti-Scl-70"
+          }
+        ],
+        "Inflammatory Myopathy": [
+          {
+            "topic": "Polymyositis",
+            "question": "Symmetrical proximal muscle weakness suggests?",
+            "answer": "Polymyositis"
+          },
+          {
+            "topic": "Dermatomyositis",
+            "question": "Heliotrope rash is seen in?",
+            "answer": "Dermatomyositis"
+          },
+          {
+            "topic": "Gottron papules",
+            "question": "Characteristic skin lesions over knuckles are called?",
+            "answer": "Gottron papules"
+          }
+        ],
+        "Vasculitis": [
+          {
+            "topic": "Giant cell arteritis",
+            "question": "Most common vasculitis in elderly?",
+            "answer": "Giant cell arteritis"
+          },
+          {
+            "topic": "Takayasu arteritis",
+            "question": "Pulseless disease refers to?",
+            "answer": "Takayasu arteritis"
+          },
+          {
+            "topic": "Granulomatosis with polyangiitis",
+            "question": "c-ANCA positivity is associated with?",
+            "answer": "Granulomatosis with polyangiitis"
+          },
+          {
+            "topic": "Microscopic polyangiitis",
+            "question": "p-ANCA positivity is associated with?",
+            "answer": "Microscopic polyangiitis"
+          },
+          {
+            "topic": "Henoch-Schonlein purpura",
+            "question": "IgA-mediated small vessel vasculitis is?",
+            "answer": "Henoch-Schonlein purpura"
+          }
+        ],
+        "Crystal Arthropathy": [
+          {
+            "topic": "Gout",
+            "question": "Needle-shaped negatively birefringent crystals are seen in?",
+            "answer": "Gout"
+          },
+          {
+            "topic": "Pseudogout",
+            "question": "Positively birefringent rhomboid crystals are seen in?",
+            "answer": "Pseudogout"
+          },
+          {
+            "topic": "Podagra",
+            "question": "First MTP joint involvement is called?",
+            "answer": "Podagra"
+          }
+        ],
+        "Osteoarthritis": [
+          {
+            "topic": "Osteoarthritis",
+            "question": "Most common arthritis overall?",
+            "answer": "Osteoarthritis"
+          },
+          {
+            "topic": "Heberden nodes",
+            "question": "DIP joint involvement in osteoarthritis causes?",
+            "answer": "Heberden nodes"
+          },
+          {
+            "topic": "Bouchard nodes",
+            "question": "PIP joint involvement in osteoarthritis causes?",
+            "answer": "Bouchard nodes"
+          }
+        ],
+        "Primary Immunodeficiency": [
+          {
+            "topic": "X-linked agammaglobulinemia",
+            "question": "Absence of mature B cells occurs in?",
+            "answer": "Bruton agammaglobulinemia"
+          },
+          {
+            "topic": "DiGeorge syndrome",
+            "question": "Thymic aplasia is seen in?",
+            "answer": "DiGeorge syndrome"
+          },
+          {
+            "topic": "SCID",
+            "question": "Bubble boy disease refers to?",
+            "answer": "SCID"
+          },
+          {
+            "topic": "Chronic granulomatous disease",
+            "question": "Defect in NADPH oxidase occurs in?",
+            "answer": "Chronic granulomatous disease"
+          }
+        ],
+        "Amyloidosis": [
+          {
+            "topic": "AL amyloidosis",
+            "question": "Amyloidosis associated with plasma cell disorders?",
+            "answer": "AL amyloidosis"
+          },
+          {
+            "topic": "Congo red stain",
+            "question": "Apple-green birefringence is seen with?",
+            "answer": "Congo red stain"
+          },
+          {
+            "topic": "AA amyloidosis",
+            "question": "Secondary amyloidosis is associated with?",
+            "answer": "Chronic inflammatory diseases"
+          }
+        ]
+      },
+      "Hepatology": {
+        "Approach to Liver Disease": [
+          {
+            "topic": "Jaundice",
+            "question": "Yellow discoloration of sclera occurs when bilirubin exceeds?",
+            "answer": "2 mg/dL"
+          },
+          {
+            "topic": "AST ALT",
+            "question": "ALT is more specific for which organ?",
+            "answer": "Liver"
+          },
+          {
+            "topic": "ALP",
+            "question": "Markedly elevated ALP suggests?",
+            "answer": "Cholestatic liver disease"
+          }
+        ],
+        "Acute Viral Hepatitis": [
+          {
+            "topic": "Hepatitis A",
+            "question": "Most common cause of acute viral hepatitis worldwide?",
+            "answer": "Hepatitis A virus"
+          },
+          {
+            "topic": "Hepatitis B",
+            "question": "Australia antigen refers to?",
+            "answer": "HBsAg"
+          },
+          {
+            "topic": "Hepatitis C",
+            "question": "Most common cause of post-transfusion hepatitis?",
+            "answer": "Hepatitis C virus"
+          },
+          {
+            "topic": "Hepatitis D",
+            "question": "Defective virus requiring HBV coinfection?",
+            "answer": "Hepatitis D virus"
+          },
+          {
+            "topic": "Hepatitis E",
+            "question": "Fulminant hepatitis in pregnancy is commonly caused by?",
+            "answer": "Hepatitis E virus"
+          }
+        ],
+        "Chronic Liver Disease and Cirrhosis": [
+          {
+            "topic": "Cirrhosis",
+            "question": "Most common cause of cirrhosis worldwide?",
+            "answer": "Chronic viral hepatitis"
+          },
+          {
+            "topic": "Portal hypertension",
+            "question": "Most common cause of portal hypertension?",
+            "answer": "Cirrhosis"
+          },
+          {
+            "topic": "Ascites",
+            "question": "Most common complication of cirrhosis?",
+            "answer": "Ascites"
+          },
+          {
+            "topic": "Caput medusae",
+            "question": "Dilated paraumbilical veins are called?",
+            "answer": "Caput medusae"
+          }
+        ],
+        "Portal Hypertension": [
+          {
+            "topic": "Esophageal varices",
+            "question": "Most dangerous complication of portal hypertension?",
+            "answer": "Esophageal variceal bleeding"
+          },
+          {
+            "topic": "SAAG",
+            "question": "SAAG more than 1.1 suggests?",
+            "answer": "Portal hypertension"
+          },
+          {
+            "topic": "TIPS",
+            "question": "Procedure used for refractory portal hypertension?",
+            "answer": "TIPS"
+          }
+        ],
+        "Hepatic Encephalopathy": [
+          {
+            "topic": "Hepatic encephalopathy",
+            "question": "Flapping tremor seen in hepatic encephalopathy is called?",
+            "answer": "Asterixis"
+          },
+          {
+            "topic": "Ammonia",
+            "question": "Most important toxin implicated in hepatic encephalopathy?",
+            "answer": "Ammonia"
+          },
+          {
+            "topic": "Lactulose",
+            "question": "First-line treatment for hepatic encephalopathy?",
+            "answer": "Lactulose"
+          }
+        ]
+      },
+      "Hepatology": {
+        "Alcoholic Liver Disease": [
+          {
+            "topic": "Alcoholic hepatitis",
+            "question": "AST:ALT ratio greater than 2 is suggestive of?",
+            "answer": "Alcoholic hepatitis"
+          },
+          {
+            "topic": "Mallory bodies",
+            "question": "Mallory-Denk bodies are seen in?",
+            "answer": "Alcoholic liver disease"
+          },
+          {
+            "topic": "Fatty liver",
+            "question": "Earliest stage of alcoholic liver disease?",
+            "answer": "Fatty liver"
+          }
+        ],
+        "NAFLD and NASH": [
+          {
+            "topic": "NAFLD",
+            "question": "Most common liver disease associated with obesity and diabetes?",
+            "answer": "NAFLD"
+          },
+          {
+            "topic": "NASH",
+            "question": "Inflammatory form of fatty liver disease is called?",
+            "answer": "NASH"
+          },
+          {
+            "topic": "Metabolic syndrome",
+            "question": "Most common association with NAFLD?",
+            "answer": "Metabolic syndrome"
+          }
+        ],
+        "Autoimmune Liver Disease": [
+          {
+            "topic": "Autoimmune hepatitis",
+            "question": "Autoantibody commonly associated with autoimmune hepatitis?",
+            "answer": "Anti-smooth muscle antibody"
+          },
+          {
+            "topic": "Primary biliary cholangitis",
+            "question": "Antimitochondrial antibody positivity is seen in?",
+            "answer": "Primary biliary cholangitis"
+          },
+          {
+            "topic": "Primary sclerosing cholangitis",
+            "question": "Beading of bile ducts on ERCP suggests?",
+            "answer": "Primary sclerosing cholangitis"
+          }
+        ],
+        "Wilson Disease": [
+          {
+            "topic": "Wilson disease",
+            "question": "Kayser-Fleischer rings are seen in?",
+            "answer": "Wilson disease"
+          },
+          {
+            "topic": "Ceruloplasmin",
+            "question": "Serum ceruloplasmin levels in Wilson disease?",
+            "answer": "Decreased"
+          },
+          {
+            "topic": "Copper accumulation",
+            "question": "Most commonly accumulated metal in Wilson disease?",
+            "answer": "Copper"
+          }
+        ],
+        "Hemochromatosis": [
+          {
+            "topic": "Hereditary hemochromatosis",
+            "question": "Most common genetic mutation in hereditary hemochromatosis?",
+            "answer": "HFE mutation"
+          },
+          {
+            "topic": "Bronze diabetes",
+            "question": "Bronze skin pigmentation with diabetes suggests?",
+            "answer": "Hemochromatosis"
+          },
+          {
+            "topic": "Ferritin",
+            "question": "Serum ferritin levels in hemochromatosis?",
+            "answer": "Increased"
+          }
+        ],
+        "Budd-Chiari Syndrome": [
+          {
+            "topic": "Budd-Chiari syndrome",
+            "question": "Hepatic vein thrombosis causes?",
+            "answer": "Budd-Chiari syndrome"
+          },
+          {
+            "topic": "Polycythemia vera",
+            "question": "Most common hematological association with Budd-Chiari syndrome?",
+            "answer": "Polycythemia vera"
+          }
+        ],
+        "Hepatocellular Carcinoma": [
+          {
+            "topic": "Hepatocellular carcinoma",
+            "question": "Most common primary malignant liver tumor?",
+            "answer": "Hepatocellular carcinoma"
+          },
+          {
+            "topic": "AFP",
+            "question": "Tumor marker elevated in hepatocellular carcinoma?",
+            "answer": "Alpha-fetoprotein"
+          },
+          {
+            "topic": "HBV",
+            "question": "Most common risk factor for hepatocellular carcinoma worldwide?",
+            "answer": "Chronic hepatitis B infection"
+          }
+        ],
+        "Acute Liver Failure": [
+          {
+            "topic": "Acute liver failure",
+            "question": "Most common cause of acute liver failure in developed countries?",
+            "answer": "Paracetamol toxicity"
+          },
+          {
+            "topic": "N-acetylcysteine",
+            "question": "Antidote for paracetamol toxicity?",
+            "answer": "N-acetylcysteine"
+          },
+          {
+            "topic": "Coagulopathy",
+            "question": "Earliest laboratory abnormality in acute liver failure?",
+            "answer": "Prolonged PT/INR"
+          }
+        ],
+        "Gallbladder and Biliary Disease": [
+          {
+            "topic": "Gallstones",
+            "question": "Most common type of gallstones?",
+            "answer": "Cholesterol stones"
+          },
+          {
+            "topic": "Acute cholecystitis",
+            "question": "Murphy sign is seen in?",
+            "answer": "Acute cholecystitis"
+          },
+          {
+            "topic": "Choledocholithiasis",
+            "question": "Stone in common bile duct is called?",
+            "answer": "Choledocholithiasis"
+          },
+          {
+            "topic": "Ascending cholangitis",
+            "question": "Charcot triad is seen in?",
+            "answer": "Ascending cholangitis"
+          },
+          {
+            "topic": "Reynolds pentad",
+            "question": "Hypotension and confusion added to Charcot triad forms?",
+            "answer": "Reynolds pentad"
+          }
+        ],
+        "Pancreatitis": [
+          {
+            "topic": "Acute pancreatitis",
+            "question": "Most common causes of acute pancreatitis?",
+            "answer": "Gallstones and alcohol"
+          },
+          {
+            "topic": "Serum lipase",
+            "question": "Most specific enzyme for acute pancreatitis?",
+            "answer": "Serum lipase"
+          },
+          {
+            "topic": "Grey Turner sign",
+            "question": "Flank ecchymosis in pancreatitis is called?",
+            "answer": "Grey Turner sign"
+          },
+          {
+            "topic": "Cullen sign",
+            "question": "Periumbilical ecchymosis in pancreatitis is called?",
+            "answer": "Cullen sign"
+          },
+          {
+            "topic": "Chronic pancreatitis",
+            "question": "Most common cause of chronic pancreatitis?",
+            "answer": "Alcohol"
+          }
+        ],
+        "Infectious Diseases": {
+          "Fever and Sepsis": [
+            {
+              "topic": "Sepsis",
+              "question": "Life-threatening organ dysfunction due to dysregulated infection response is called?",
+              "answer": "Sepsis"
+            },
+            {
+              "topic": "Septic shock",
+              "question": "Persistent hypotension despite fluids in sepsis defines?",
+              "answer": "Septic shock"
+            },
+            {
+              "topic": "qSOFA",
+              "question": "Bedside screening tool used in sepsis?",
+              "answer": "qSOFA"
+            }
+          ],
+          "HIV and AIDS": [
+            {
+              "topic": "HIV",
+              "question": "Most common mode of HIV transmission worldwide?",
+              "answer": "Sexual transmission"
+            },
+            {
+              "topic": "CD4 count",
+              "question": "AIDS is diagnosed when CD4 count falls below?",
+              "answer": "200 cells/mm³"
+            },
+            {
+              "topic": "Pneumocystis jirovecii",
+              "question": "Most common opportunistic infection in AIDS?",
+              "answer": "Pneumocystis jirovecii pneumonia"
+            },
+            {
+              "topic": "Kaposi sarcoma",
+              "question": "HHV-8 associated malignancy seen in AIDS?",
+              "answer": "Kaposi sarcoma"
+            },
+            {
+              "topic": "HAART",
+              "question": "Standard therapy for HIV infection?",
+              "answer": "HAART"
+            }
+          ],
+          "Malaria": [
+            {
+              "topic": "Plasmodium falciparum",
+              "question": "Most severe form of malaria is caused by?",
+              "answer": "Plasmodium falciparum"
+            },
+            {
+              "topic": "Plasmodium vivax",
+              "question": "Malaria species causing relapses due to hypnozoites?",
+              "answer": "Plasmodium vivax"
+            },
+            {
+              "topic": "Cerebral malaria",
+              "question": "Most dangerous complication of falciparum malaria?",
+              "answer": "Cerebral malaria"
+            },
+            {
+              "topic": "Primaquine",
+              "question": "Drug used to eradicate hypnozoites?",
+              "answer": "Primaquine"
+            }
+          ],
+          "Dengue": [
+            {
+              "topic": "Dengue fever",
+              "question": "Retro-orbital pain is characteristic of?",
+              "answer": "Dengue fever"
+            },
+            {
+              "topic": "Dengue hemorrhagic fever",
+              "question": "Thrombocytopenia with plasma leakage suggests?",
+              "answer": "Dengue hemorrhagic fever"
+            },
+            {
+              "topic": "NS1 antigen",
+              "question": "Early diagnostic test for dengue?",
+              "answer": "NS1 antigen"
+            }
+          ],
+          "Typhoid Fever": [
+            {
+              "topic": "Typhoid fever",
+              "question": "Causative organism of typhoid fever?",
+              "answer": "Salmonella typhi"
+            },
+            {
+              "topic": "Rose spots",
+              "question": "Characteristic skin lesions in typhoid fever?",
+              "answer": "Rose spots"
+            },
+            {
+              "topic": "Widal test",
+              "question": "Serological test used in typhoid fever?",
+              "answer": "Widal test"
+            }
+          ],
+          "Leptospirosis": [
+            {
+              "topic": "Leptospirosis",
+              "question": "Conjunctival suffusion is characteristic of?",
+              "answer": "Leptospirosis"
+            },
+            {
+              "topic": "Weil disease",
+              "question": "Severe icteric leptospirosis is called?",
+              "answer": "Weil disease"
+            }
+          ],
+          "Rickettsial Diseases": [
+            {
+              "topic": "Scrub typhus",
+              "question": "Eschar is classically seen in?",
+              "answer": "Scrub typhus"
+            },
+            {
+              "topic": "Doxycycline",
+              "question": "Drug of choice for rickettsial infections?",
+              "answer": "Doxycycline"
+            }
+          ],
+          "Rabies": [
+            {
+              "topic": "Rabies",
+              "question": "Hydrophobia is characteristic of?",
+              "answer": "Rabies"
+            },
+            {
+              "topic": "Negri bodies",
+              "question": "Pathognomonic inclusion bodies in rabies?",
+              "answer": "Negri bodies"
+            },
+            {
+              "topic": "Rabies vaccine",
+              "question": "Most important step after animal bite?",
+              "answer": "Immediate wound washing"
+            }
+          ],
+          "Tetanus": [
+            {
+              "topic": "Tetanus",
+              "question": "Lockjaw is characteristic of?",
+              "answer": "Tetanus"
+            },
+            {
+              "topic": "Risus sardonicus",
+              "question": "Characteristic facial spasm in tetanus?",
+              "answer": "Risus sardonicus"
+            },
+            {
+              "topic": "Clostridium tetani",
+              "question": "Organism causing tetanus?",
+              "answer": "Clostridium tetani"
+            }
+          ],
+          "Leprosy": [
+            {
+              "topic": "Tuberculoid leprosy",
+              "question": "Lepromin test is strongly positive in?",
+              "answer": "Tuberculoid leprosy"
+            },
+            {
+              "topic": "Lepromatous leprosy",
+              "question": "Leonine facies is seen in?",
+              "answer": "Lepromatous leprosy"
+            },
+            {
+              "topic": "Mycobacterium leprae",
+              "question": "Organism causing leprosy?",
+              "answer": "Mycobacterium leprae"
+            }
+          ]
+        }
       }
     }
   }

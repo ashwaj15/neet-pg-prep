@@ -1,0 +1,1588 @@
+{
+  "Physiology": {
+    "PYTs": {
+
+      "General Physiology": {
+
+        "Homeostasis": [
+          { "topic": "Negative feedback", "rating": 6 },
+          { "topic": "Positive feedback", "rating": 5 },
+          { "topic": "Feed forward control", "rating": 4 },
+          { "topic": "Set point", "rating": 4 },
+          { "topic": "Biological control systems", "rating": 4 }
+        ],
+
+        "Cellular Physiology": [
+          { "topic": "Resting membrane potential", "rating": 8 },
+          { "topic": "Nernst equation", "rating": 7 },
+          { "topic": "Goldman equation", "rating": 7 },
+          { "topic": "Osmosis", "rating": 5 },
+          { "topic": "Diffusion", "rating": 5 },
+          { "topic": "Facilitated diffusion", "rating": 5 },
+          { "topic": "Active transport", "rating": 6 },
+          { "topic": "Na-K ATPase", "rating": 7 }
+        ],
+
+        "Cell Organelles": [
+          { "topic": "Mitochondria", "rating": 4 },
+          { "topic": "Lysosomes", "rating": 3 },
+          { "topic": "Peroxisomes", "rating": 3 },
+          { "topic": "Ribosomes", "rating": 3 }
+        ],
+
+        "Cytoskeletal Filaments and Cellular Junctions": [
+          { "topic": "Tight junction", "rating": 4 },
+          { "topic": "Gap junction", "rating": 5 },
+          { "topic": "Microtubules", "rating": 3 },
+          { "topic": "Intermediate filaments", "rating": 3 }
+        ],
+
+        "Cellular Messengers and Receptors": [
+          { "topic": "GPCR", "rating": 8 },
+          { "topic": "cAMP pathway", "rating": 7 },
+          { "topic": "IP3 DAG pathway", "rating": 7 },
+          { "topic": "Tyrosine kinase receptor", "rating": 8 },
+          { "topic": "Nuclear receptors", "rating": 6 },
+          { "topic": "Second messengers", "rating": 6 },
+          { "topic": "Insulin receptor", "rating": 7 }
+        ],
+
+        "Membrane Transport": [
+          { "topic": "Cotransport", "rating": 6 },
+          { "topic": "Countertransport", "rating": 6 },
+          { "topic": "Osmolarity", "rating": 6 },
+          { "topic": "Osmolality", "rating": 6 },
+          { "topic": "Tonicity", "rating": 5 },
+          { "topic": "Starling forces", "rating": 7 }
+        ],
+
+        "Membrane Potentials": [
+          { "topic": "Action potential", "rating": 9 },
+          { "topic": "Depolarization", "rating": 7 },
+          { "topic": "Hyperpolarization", "rating": 6 },
+          { "topic": "Saltatory conduction", "rating": 7 },
+          { "topic": "Threshold potential", "rating": 6 },
+          { "topic": "Refractory periods", "rating": 8 },
+          { "topic": "Local potentials", "rating": 5 },
+          { "topic": "Ion channel physiology", "rating": 6 }
+        ],
+
+        "Cellular Fluids": [
+          { "topic": "ECF vs ICF", "rating": 6 },
+          { "topic": "Plasma osmolality", "rating": 6 },
+          { "topic": "Edema", "rating": 6 },
+          { "topic": "Starling equilibrium", "rating": 7 },
+          { "topic": "Darrow Yannet diagrams", "rating": 5 }
+        ]
+      },
+
+      "Nerve Muscle Physiology": {
+
+        "Characteristics of Nerve Fibres": [
+          { "topic": "A alpha fibers", "rating": 5 },
+          { "topic": "B fibers", "rating": 4 },
+          { "topic": "C fibers", "rating": 5 },
+          { "topic": "Conduction velocity", "rating": 5 }
+        ],
+
+        "Classification of Nerve Fibres": [
+          { "topic": "Erlanger classification", "rating": 5 },
+          { "topic": "Lloyd classification", "rating": 4 }
+        ],
+
+        "Skeletal Muscles": [
+          { "topic": "Sarcomere", "rating": 7 },
+          { "topic": "Sliding filament theory", "rating": 7 },
+          { "topic": "Excitation contraction coupling", "rating": 8 },
+          { "topic": "Neuromuscular junction", "rating": 9 },
+          { "topic": "End plate potential", "rating": 7 },
+          { "topic": "Beneficial effect (Treppe)", "rating": 6 },
+          { "topic": "Myasthenia gravis physiology", "rating": 7 },
+          { "topic": "RyR1 mutation", "rating": 6 }
+        ],
+
+        "Properties of Skeletal Muscles": [
+          { "topic": "Summation", "rating": 5 },
+          { "topic": "Tetanus", "rating": 6 },
+          { "topic": "Isometric contraction", "rating": 6 },
+          { "topic": "Isotonic contraction", "rating": 6 },
+          { "topic": "Motor unit", "rating": 5 }
+        ],
+
+        "Cardiac and Smooth Muscles": [
+          { "topic": "Cardiac action potential", "rating": 9 },
+          { "topic": "Pacemaker potential", "rating": 8 },
+          { "topic": "Plateau phase", "rating": 7 },
+          { "topic": "Frank Starling law", "rating": 8 },
+          { "topic": "Smooth muscle contraction", "rating": 6 },
+          { "topic": "Calmodulin", "rating": 7 },
+          { "topic": "Latch bridge mechanism", "rating": 5 }
+        ],
+
+        "Synaptic Transmission and Neurotransmitters": [
+          { "topic": "EPSP/IPSP", "rating": 7 },
+          { "topic": "Synaptic delay", "rating": 5 },
+          { "topic": "Neurotransmitters", "rating": 7 },
+          { "topic": "Presynaptic inhibition", "rating": 5 },
+          { "topic": "NMDA receptor", "rating": 6 },
+          { "topic": "Neurotransmitter release", "rating": 6 }
+        ]
+      },
+
+
+
+      "Central Nervous System": {
+
+        "Sensory Receptors": [
+          { "topic": "Receptor potential", "rating": 6 },
+          { "topic": "Adaptation", "rating": 6 },
+          { "topic": "Pacinian corpuscle", "rating": 5 },
+          { "topic": "Labeled line principle", "rating": 5 }
+        ],
+
+        "Somatosensory Pathways": [
+          { "topic": "Dorsal column pathway", "rating": 8 },
+          { "topic": "Spinothalamic tract", "rating": 8 },
+          { "topic": "Brown Sequard syndrome", "rating": 7 },
+          { "topic": "Syringomyelia", "rating": 7 },
+          { "topic": "Fine touch pathway", "rating": 6 },
+          { "topic": "Pain pathway", "rating": 7 }
+        ],
+
+        "Vision": [
+          { "topic": "Visual pathway", "rating": 9 },
+          { "topic": "Pupillary reflex", "rating": 8 },
+          { "topic": "Accommodation", "rating": 7 },
+          { "topic": "Refractive errors", "rating": 7 },
+          { "topic": "Visual field defects", "rating": 9 },
+          { "topic": "Color blindness", "rating": 6 },
+          { "topic": "Dioptric power", "rating": 5 },
+          { "topic": "Corneal refractive power", "rating": 5 }
+        ],
+
+        "Hearing Smell and Taste": [
+          { "topic": "Organ of Corti", "rating": 7 },
+          { "topic": "Weber test", "rating": 6 },
+          { "topic": "Rinne test", "rating": 6 },
+          { "topic": "Conductive deafness", "rating": 6 },
+          { "topic": "Sensorineural deafness", "rating": 6 },
+          { "topic": "Olfactory pathway", "rating": 5 }
+        ],
+
+        "Descending Motor Pathways": [
+          { "topic": "UMN vs LMN lesions", "rating": 8 },
+          { "topic": "Corticospinal tract", "rating": 7 },
+          { "topic": "Extrapyramidal system", "rating": 6 },
+          { "topic": "Motor cortex", "rating": 5 }
+        ],
+
+        "Spinal Reflexes": [
+          { "topic": "Stretch reflex", "rating": 7 },
+          { "topic": "Golgi tendon reflex", "rating": 6 },
+          { "topic": "Babinski sign", "rating": 7 },
+          { "topic": "Clonus", "rating": 5 }
+        ],
+
+        "Cerebellum and Basal Ganglia": [
+          { "topic": "Cerebellar lesion", "rating": 7 },
+          { "topic": "Parkinson disease", "rating": 8 },
+          { "topic": "Huntington chorea", "rating": 6 },
+          { "topic": "Intention tremor", "rating": 6 },
+          { "topic": "Resting tremor", "rating": 6 },
+          { "topic": "Rigidity", "rating": 5 },
+          { "topic": "Basal ganglia disorders", "rating": 6 }
+        ],
+
+        "Limbic System and Hypothalamus": [
+          { "topic": "Hunger center", "rating": 5 },
+          { "topic": "Satiety center", "rating": 5 },
+          { "topic": "Sleep physiology", "rating": 7 },
+          { "topic": "Temperature regulation", "rating": 7 }
+        ],
+
+        "Learning and Memory": [
+          { "topic": "Long term potentiation", "rating": 5 },
+          { "topic": "Hippocampus", "rating": 5 },
+          { "topic": "Declarative memory", "rating": 4 }
+        ],
+
+        "CSF CBF and BBB": [
+          { "topic": "CSF circulation", "rating": 7 },
+          { "topic": "Hydrocephalus", "rating": 6 },
+          { "topic": "Blood brain barrier", "rating": 6 },
+          { "topic": "Monro Kellie doctrine", "rating": 5 }
+        ],
+
+        "EEG and Sleep": [
+          { "topic": "REM sleep", "rating": 7 },
+          { "topic": "NREM sleep", "rating": 7 },
+          { "topic": "Sleep stages", "rating": 6 },
+          { "topic": "Alpha waves", "rating": 5 },
+          { "topic": "Delta waves", "rating": 5 },
+          { "topic": "Sleep apnea", "rating": 5 }
+        ]
+      },
+
+      "Respiratory System": {
+
+        "Structure Function Relationship in Lung": [
+          { "topic": "Surfactant", "rating": 7 },
+          { "topic": "Compliance", "rating": 6 },
+          { "topic": "Elastic recoil", "rating": 5 }
+        ],
+
+        "Mechanics of Breathing": [
+          { "topic": "Intrapleural pressure", "rating": 7 },
+          { "topic": "Intrapulmonary pressure", "rating": 6 },
+          { "topic": "Work of breathing", "rating": 5 }
+        ],
+
+        "Lung Volumes and Capacities": [
+          { "topic": "Spirometry", "rating": 9 },
+          { "topic": "FEV1/FVC", "rating": 9 },
+          { "topic": "Restrictive pattern", "rating": 7 },
+          { "topic": "Obstructive pattern", "rating": 8 },
+          { "topic": "Dead space", "rating": 7 },
+          { "topic": "Residual volume", "rating": 6 }
+        ],
+
+        "Alveolar Ventilation and Pulmonary Circulation": [
+          { "topic": "V/Q ratio", "rating": 8 },
+          { "topic": "West zones", "rating": 7 },
+          { "topic": "Hypoxic vasoconstriction", "rating": 6 }
+        ],
+
+        "Ventilation Perfusion Ratio": [
+          { "topic": "Dead space", "rating": 8 },
+          { "topic": "Physiological shunt", "rating": 8 },
+          { "topic": "V/Q mismatch", "rating": 9 },
+          { "topic": "Pulmonary embolism", "rating": 6 }
+        ],
+
+        "Diffusion and Transport of Gases": [
+          { "topic": "Oxyhemoglobin dissociation curve", "rating": 9 },
+          { "topic": "Bohr effect", "rating": 7 },
+          { "topic": "Haldane effect", "rating": 7 },
+          { "topic": "CO poisoning", "rating": 7 },
+          { "topic": "Oxygen transport", "rating": 7 }
+        ],
+
+        "Neural Regulation of Respiration": [
+          { "topic": "Medullary centers", "rating": 6 },
+          { "topic": "Pneumotaxic center", "rating": 5 },
+          { "topic": "Apneustic center", "rating": 5 },
+          { "topic": "Respiratory rhythm generation", "rating": 5 }
+        ],
+
+        "Chemical Regulation of Respiration": [
+          { "topic": "Central chemoreceptors", "rating": 8 },
+          { "topic": "Peripheral chemoreceptors", "rating": 7 },
+          { "topic": "CO2 regulation", "rating": 8 },
+          { "topic": "Hypoxic drive", "rating": 6 },
+          { "topic": "Pre Botzinger complex", "rating": 5 }
+        ],
+
+        "Environmental Physiology": [
+          { "topic": "High altitude", "rating": 7 },
+          { "topic": "Decompression sickness", "rating": 6 },
+          { "topic": "Heat stroke", "rating": 6 },
+          { "topic": "Hypothermia", "rating": 5 }
+        ]
+      },
+
+
+
+
+      "Cardiovascular System": {
+
+        "Cardiac Action Potentials": [
+          { "topic": "SA node action potential", "rating": 9 },
+          { "topic": "Ventricular action potential", "rating": 9 },
+          { "topic": "Calcium channels", "rating": 7 },
+          { "topic": "Plateau phase", "rating": 8 },
+          { "topic": "Refractory period", "rating": 8 }
+        ],
+
+        "ECG and JVP": [
+          { "topic": "P wave", "rating": 7 },
+          { "topic": "PR interval", "rating": 8 },
+          { "topic": "QT interval", "rating": 8 },
+          { "topic": "Heart blocks", "rating": 9 },
+          { "topic": "ECG leads", "rating": 7 },
+          { "topic": "JVP waves", "rating": 8 },
+          { "topic": "T wave physiology", "rating": 6 }
+        ],
+
+        "Cardiac Cycle": [
+          { "topic": "Heart sounds", "rating": 9 },
+          { "topic": "Pressure volume loop", "rating": 8 },
+          { "topic": "Valve closure", "rating": 7 },
+          { "topic": "Isovolumetric contraction", "rating": 7 },
+          { "topic": "Isovolumetric relaxation", "rating": 7 }
+        ],
+
+        "Cardiac Output": [
+          { "topic": "Fick principle", "rating": 9 },
+          { "topic": "Stroke volume", "rating": 7 },
+          { "topic": "Venous return", "rating": 7 },
+          { "topic": "Ejection fraction", "rating": 7 },
+          { "topic": "Frank Starling law", "rating": 8 }
+        ],
+
+        "Hematopoiesis and Blood Groups": [
+          { "topic": "ABO incompatibility", "rating": 6 },
+          { "topic": "Rh incompatibility", "rating": 7 },
+          { "topic": "Erythropoietin", "rating": 5 }
+        ],
+
+        "Characteristics of Blood Vessels": [
+          { "topic": "Compliance", "rating": 6 },
+          { "topic": "Capacitance vessels", "rating": 5 },
+          { "topic": "Elastic arteries", "rating": 5 }
+        ],
+
+        "Hemodynamics": [
+          { "topic": "Reynolds number", "rating": 9 },
+          { "topic": "Poiseuille law", "rating": 9 },
+          { "topic": "Laminar flow", "rating": 7 },
+          { "topic": "Turbulent flow", "rating": 7 },
+          { "topic": "Resistance physiology", "rating": 7 }
+        ],
+
+        "Vascular Injury": [
+          { "topic": "Platelet plug", "rating": 5 },
+          { "topic": "Coagulation cascade", "rating": 6 },
+          { "topic": "Hemostasis", "rating": 6 }
+        ],
+
+        "Regulation of Blood Pressure": [
+          { "topic": "Baroreceptor reflex", "rating": 9 },
+          { "topic": "RAAS", "rating": 9 },
+          { "topic": "Shock physiology", "rating": 8 },
+          { "topic": "Mean arterial pressure", "rating": 7 },
+          { "topic": "Bezold Jarisch reflex", "rating": 6 }
+        ]
+      },
+
+      "Gastrointestinal System": {
+
+        "Gastrointestinal Secretions": [
+          { "topic": "Gastric acid secretion", "rating": 8 },
+          { "topic": "Intrinsic factor", "rating": 7 },
+          { "topic": "Pancreatic enzymes", "rating": 6 },
+          { "topic": "Bicarbonate secretion", "rating": 6 }
+        ],
+
+        "Gastrointestinal Hormones": [
+          { "topic": "Gastrin", "rating": 7 },
+          { "topic": "Secretin", "rating": 7 },
+          { "topic": "CCK", "rating": 7 },
+          { "topic": "GIP", "rating": 6 },
+          { "topic": "Motilin", "rating": 5 }
+        ],
+
+        "Digestion and Absorption": [
+          { "topic": "Iron absorption", "rating": 8 },
+          { "topic": "Vitamin B12 absorption", "rating": 8 },
+          { "topic": "Fat absorption", "rating": 7 },
+          { "topic": "Carbohydrate absorption", "rating": 6 }
+        ],
+
+        "Gastrointestinal Motility": [
+          { "topic": "Peristalsis", "rating": 6 },
+          { "topic": "Migrating motor complex", "rating": 6 },
+          { "topic": "Achalasia physiology", "rating": 6 }
+        ]
+      },
+
+      "Renal Physiology": {
+
+        "Glomerular Filtration Rate": [
+          { "topic": "Inulin clearance", "rating": 9 },
+          { "topic": "Creatinine clearance", "rating": 9 },
+          { "topic": "Filtration fraction", "rating": 8 },
+          { "topic": "GFR regulation", "rating": 7 }
+        ],
+
+        "Proximal Convoluted Tubule": [
+          { "topic": "Glucose transport", "rating": 7 },
+          { "topic": "Bicarbonate reabsorption", "rating": 7 },
+          { "topic": "Sodium handling", "rating": 6 }
+        ],
+
+        "Loop of Henle and Distal Convoluted Tubule": [
+          { "topic": "Countercurrent mechanism", "rating": 9 },
+          { "topic": "NKCC transporter", "rating": 7 },
+          { "topic": "Thiazide action", "rating": 6 },
+          { "topic": "Diluting segment", "rating": 6 },
+          { "topic": "Medullary hypertonicity", "rating": 7 }
+        ],
+
+        "Collecting Duct and Micturition Reflex": [
+          { "topic": "ADH mechanism", "rating": 9 },
+          { "topic": "ENaC channel", "rating": 7 },
+          { "topic": "Water reabsorption", "rating": 8 },
+          { "topic": "Micturition centers", "rating": 6 },
+          { "topic": "Liddle syndrome", "rating": 6 },
+          { "topic": "Amiloride", "rating": 5 }
+        ],
+
+        "Acid Base Balance": [
+          { "topic": "Metabolic acidosis", "rating": 9 },
+          { "topic": "Metabolic alkalosis", "rating": 8 },
+          { "topic": "Respiratory acidosis", "rating": 8 },
+          { "topic": "Respiratory alkalosis", "rating": 8 },
+          { "topic": "Winter formula", "rating": 8 },
+          { "topic": "Anion gap", "rating": 9 },
+          { "topic": "Compensation mechanisms", "rating": 8 }
+        ]
+      },
+
+
+      "Endocrine Physiology": {
+
+        "Pituitary Gland": [
+          { "topic": "GH axis", "rating": 8 },
+          { "topic": "Prolactin", "rating": 7 },
+          { "topic": "Diabetes insipidus", "rating": 8 },
+          { "topic": "SIADH", "rating": 8 }
+        ],
+
+        "Thyroid Gland": [
+          { "topic": "Thyroid hormone synthesis", "rating": 8 },
+          { "topic": "Wolff Chaikoff effect", "rating": 7 },
+          { "topic": "T3/T4 conversion", "rating": 6 },
+          { "topic": "Graves physiology", "rating": 7 }
+        ],
+
+        "Endocrine Pancreas": [
+          { "topic": "Insulin secretion", "rating": 9 },
+          { "topic": "GLUT2", "rating": 7 },
+          { "topic": "Glucagon", "rating": 6 },
+          { "topic": "Somogyi effect", "rating": 7 },
+          { "topic": "Dawn phenomenon", "rating": 7 }
+        ],
+
+        "Adrenal Gland": [
+          { "topic": "Cortisol", "rating": 8 },
+          { "topic": "Aldosterone", "rating": 8 },
+          { "topic": "Cushing syndrome", "rating": 7 },
+          { "topic": "Conn syndrome", "rating": 7 }
+        ],
+
+        "Calcium Homeostasis": [
+          { "topic": "PTH", "rating": 8 },
+          { "topic": "Calcitonin", "rating": 5 },
+          { "topic": "Vitamin D", "rating": 7 }
+        ]
+      },
+
+      "Reproductive Physiology": {
+
+        "Male Reproduction": [
+          { "topic": "Spermatogenesis", "rating": 7 },
+          { "topic": "Testosterone", "rating": 7 },
+          { "topic": "Sertoli cells", "rating": 6 },
+          { "topic": "Leydig cells", "rating": 6 }
+        ],
+
+        "Female Reproduction": [
+          { "topic": "Menstrual cycle", "rating": 9 },
+          { "topic": "Ovulation", "rating": 8 },
+          { "topic": "Estrogen", "rating": 7 },
+          { "topic": "Progesterone", "rating": 7 },
+          { "topic": "Hormonal regulation", "rating": 8 }
+        ]
+      },
+
+      "Exercise Physiology": {
+
+        "Exercise Physiology": [
+          { "topic": "VO2 max", "rating": 7 },
+          { "topic": "Oxygen debt", "rating": 6 },
+          { "topic": "Muscle fatigue", "rating": 6 }
+        ],
+
+        "Regulation of Body Temperature": [
+          { "topic": "Fever", "rating": 7 },
+          { "topic": "Heat stroke", "rating": 7 },
+          { "topic": "Sweating", "rating": 5 },
+          { "topic": "Hypothalamic regulation", "rating": 7 }
+        ]
+    
+      }
+    },
+
+
+    "PYQs": {
+
+      "General Physiology": {
+
+        "Homeostasis": [
+          {
+            "topic": "Negative feedback",
+            "question": "Most common mechanism maintaining homeostasis in body?",
+            "answer": "Negative feedback"
+          },
+          {
+            "topic": "Positive feedback",
+            "question": "Physiological process showing positive feedback mechanism?",
+            "answer": "Parturition"
+          },
+          {
+            "topic": "Set point",
+            "question": "Temperature regulation in body is maintained around?",
+            "answer": "Set point"
+          }
+        ],
+
+        "Cellular Physiology": [
+          {
+            "topic": "Resting membrane potential",
+            "question": "Resting membrane potential is mainly due to permeability to which ion?",
+            "answer": "Potassium"
+          },
+          {
+            "topic": "Nernst equation",
+            "question": "Equation used to calculate equilibrium potential of a single ion?",
+            "answer": "Nernst equation"
+          },
+          {
+            "topic": "Goldman equation",
+            "question": "Equation used to calculate resting membrane potential considering multiple ions?",
+            "answer": "Goldman equation"
+          },
+          {
+            "topic": "Na-K ATPase",
+            "question": "Pump responsible for maintaining resting membrane potential?",
+            "answer": "Na-K ATPase"
+          },
+          {
+            "topic": "Facilitated diffusion",
+            "question": "Transport mechanism used by glucose entry into cells?",
+            "answer": "Facilitated diffusion"
+          }
+        ],
+
+        "Cellular Messengers and Receptors": [
+          {
+            "topic": "GPCR",
+            "question": "Most common receptor type in human body?",
+            "answer": "GPCR"
+          },
+          {
+            "topic": "cAMP pathway",
+            "question": "Second messenger associated with beta adrenergic receptors?",
+            "answer": "cAMP"
+          },
+          {
+            "topic": "Tyrosine kinase receptor",
+            "question": "Insulin receptor belongs to which receptor class?",
+            "answer": "Tyrosine kinase receptor"
+          },
+          {
+            "topic": "Nuclear receptors",
+            "question": "Steroid hormones act through which receptors?",
+            "answer": "Nuclear receptors"
+          }
+        ],
+
+        "Membrane Transport": [
+          {
+            "topic": "Osmolarity",
+            "question": "Total concentration of osmotically active particles is?",
+            "answer": "Osmolarity"
+          },
+          {
+            "topic": "Starling forces",
+            "question": "Edema formation is explained by?",
+            "answer": "Starling forces"
+          },
+          {
+            "topic": "Secondary active transport",
+            "question": "Glucose absorption in intestine occurs by?",
+            "answer": "Secondary active transport"
+          }
+        ],
+
+        "Membrane Potentials": [
+          {
+            "topic": "Action potential",
+            "question": "Rapid depolarization in nerve occurs due to influx of?",
+            "answer": "Sodium"
+          },
+          {
+            "topic": "Saltatory conduction",
+            "question": "Fast conduction in myelinated fibers occurs by?",
+            "answer": "Saltatory conduction"
+          },
+          {
+            "topic": "Refractory period",
+            "question": "Period during which second action potential cannot be generated?",
+            "answer": "Absolute refractory period"
+          },
+          {
+            "topic": "Threshold potential",
+            "question": "Minimum depolarization required to trigger action potential?",
+            "answer": "Threshold potential"
+          }
+        ],
+
+        "Cellular Fluids": [
+          {
+            "topic": "ECF vs ICF",
+            "question": "Most abundant intracellular cation?",
+            "answer": "Potassium"
+          },
+          {
+            "topic": "Plasma osmolality",
+            "question": "Major determinant of plasma osmolality?",
+            "answer": "Sodium"
+          },
+          {
+            "topic": "Edema",
+            "question": "Decrease in plasma oncotic pressure causes?",
+            "answer": "Edema"
+          }
+        ]
+      },
+
+      "Nerve Muscle Physiology": {
+
+        "Characteristics of Nerve Fibres": [
+          {
+            "topic": "A alpha fibers",
+            "question": "Fastest conducting nerve fibers?",
+            "answer": "A alpha fibers"
+          },
+          {
+            "topic": "C fibers",
+            "question": "Pain sensation is carried by?",
+            "answer": "C fibers"
+          }
+        ],
+
+        "Skeletal Muscles": [
+          {
+            "topic": "Sarcomere",
+            "question": "Functional unit of skeletal muscle?",
+            "answer": "Sarcomere"
+          },
+          {
+            "topic": "Sliding filament theory",
+            "question": "Muscle contraction is explained by?",
+            "answer": "Sliding filament theory"
+          },
+          {
+            "topic": "Excitation contraction coupling",
+            "question": "Calcium release from sarcoplasmic reticulum occurs through?",
+            "answer": "Ryanodine receptor"
+          },
+          {
+            "topic": "Neuromuscular junction",
+            "question": "Neurotransmitter at neuromuscular junction?",
+            "answer": "Acetylcholine"
+          },
+          {
+            "topic": "Myasthenia gravis",
+            "question": "Disease involving antibodies against acetylcholine receptors?",
+            "answer": "Myasthenia gravis"
+          }
+        ],
+
+        "Properties of Skeletal Muscles": [
+          {
+            "topic": "Tetanus",
+            "question": "Sustained muscle contraction due to rapid stimulation is?",
+            "answer": "Tetanus"
+          },
+          {
+            "topic": "Motor unit",
+            "question": "Single motor neuron with all muscle fibers supplied by it is?",
+            "answer": "Motor unit"
+          }
+        ],
+
+        "Cardiac and Smooth Muscles": [
+          {
+            "topic": "Cardiac action potential",
+            "question": "Plateau phase of cardiac action potential is due to influx of?",
+            "answer": "Calcium"
+          },
+          {
+            "topic": "Pacemaker potential",
+            "question": "Pacemaker activity in SA node is due to?",
+            "answer": "Funny sodium current"
+          },
+          {
+            "topic": "Frank Starling law",
+            "question": "Increase in ventricular filling increases cardiac output due to?",
+            "answer": "Frank Starling law"
+          },
+          {
+            "topic": "Calmodulin",
+            "question": "Calcium binds to which protein in smooth muscle?",
+            "answer": "Calmodulin"
+          }
+        ],
+
+        "Synaptic Transmission and Neurotransmitters": [
+          {
+            "topic": "EPSP",
+            "question": "Excitatory postsynaptic potential is caused by influx of?",
+            "answer": "Sodium"
+          },
+          {
+            "topic": "NMDA receptor",
+            "question": "Glutamate receptor important in memory and learning?",
+            "answer": "NMDA receptor"
+          },
+          {
+            "topic": "Presynaptic inhibition",
+            "question": "Inhibitory neurotransmitter commonly involved in presynaptic inhibition?",
+            "answer": "GABA"
+          }
+        ]
+      },
+
+      "Central Nervous System": {
+
+        "Sensory Receptors": [
+          {
+            "topic": "Adaptation",
+            "question": "Rapidly adapting receptor in human body?",
+            "answer": "Pacinian corpuscle"
+          },
+          {
+            "topic": "Receptor potential",
+            "question": "Local non propagated electrical change generated in receptor is?",
+            "answer": "Receptor potential"
+          }
+        ],
+
+        "Somatosensory Pathways": [
+          {
+            "topic": "Dorsal column pathway",
+            "question": "Fine touch and vibration sensation are carried by?",
+            "answer": "Dorsal column pathway"
+          },
+          {
+            "topic": "Spinothalamic tract",
+            "question": "Pain and temperature sensation ascend through?",
+            "answer": "Spinothalamic tract"
+          },
+          {
+            "topic": "Brown Sequard syndrome",
+            "question": "Hemisection of spinal cord produces?",
+            "answer": "Brown Sequard syndrome"
+          },
+          {
+            "topic": "Syringomyelia",
+            "question": "Loss of pain and temperature with preserved touch is seen in?",
+            "answer": "Syringomyelia"
+          }
+        ],
+
+        "Vision": [
+          {
+            "topic": "Visual pathway",
+            "question": "Lesion in optic chiasma causes?",
+            "answer": "Bitemporal hemianopia"
+          },
+          {
+            "topic": "Accommodation",
+            "question": "Muscle responsible for accommodation reflex?",
+            "answer": "Ciliary muscle"
+          },
+          {
+            "topic": "Pupillary reflex",
+            "question": "Afferent limb of light reflex is through?",
+            "answer": "Optic nerve"
+          },
+          {
+            "topic": "Color blindness",
+            "question": "Most common inherited color blindness?",
+            "answer": "Red green color blindness"
+          },
+          {
+            "topic": "Refractive errors",
+            "question": "Myopia is corrected using which lens?",
+            "answer": "Concave lens"
+          }
+        ],
+
+        "Hearing Smell and Taste": [
+          {
+            "topic": "Organ of Corti",
+            "question": "Receptor organ for hearing?",
+            "answer": "Organ of Corti"
+          },
+          {
+            "topic": "Rinne test",
+            "question": "Rinne negative test indicates?",
+            "answer": "Conductive deafness"
+          },
+          {
+            "topic": "Weber test",
+            "question": "In conductive deafness Weber test lateralizes to?",
+            "answer": "Affected ear"
+          }
+        ],
+
+        "Descending Motor Pathways": [
+          {
+            "topic": "UMN lesion",
+            "question": "Babinski sign is seen in?",
+            "answer": "UMN lesion"
+          },
+          {
+            "topic": "Corticospinal tract",
+            "question": "Pyramidal tract mainly consists of?",
+            "answer": "Corticospinal tract"
+          }
+        ],
+
+        "Spinal Reflexes": [
+          {
+            "topic": "Stretch reflex",
+            "question": "Monosynaptic reflex in body?",
+            "answer": "Stretch reflex"
+          },
+          {
+            "topic": "Golgi tendon reflex",
+            "question": "Inverse stretch reflex is mediated by?",
+            "answer": "Golgi tendon organ"
+          },
+          {
+            "topic": "Babinski sign",
+            "question": "Extensor plantar response indicates?",
+            "answer": "UMN lesion"
+          }
+        ],
+
+        "Cerebellum and Basal Ganglia": [
+          {
+            "topic": "Parkinson disease",
+            "question": "Basal ganglia disorder characterized by resting tremor?",
+            "answer": "Parkinson disease"
+          },
+          {
+            "topic": "Intention tremor",
+            "question": "Tremor associated with cerebellar lesions?",
+            "answer": "Intention tremor"
+          },
+          {
+            "topic": "Huntington chorea",
+            "question": "Autosomal dominant disorder involving caudate nucleus?",
+            "answer": "Huntington chorea"
+          }
+        ],
+
+        "Limbic System and Hypothalamus": [
+          {
+            "topic": "Satiety center",
+            "question": "Satiety center is located in?",
+            "answer": "Ventromedial nucleus"
+          },
+          {
+            "topic": "Hunger center",
+            "question": "Hunger center is located in?",
+            "answer": "Lateral hypothalamus"
+          },
+          {
+            "topic": "Temperature regulation",
+            "question": "Thermoregulatory center of body?",
+            "answer": "Hypothalamus"
+          }
+        ],
+
+        "Learning and Memory": [
+          {
+            "topic": "Hippocampus",
+            "question": "Most important structure for memory consolidation?",
+            "answer": "Hippocampus"
+          },
+          {
+            "topic": "Long term potentiation",
+            "question": "Cellular basis of learning and memory?",
+            "answer": "Long term potentiation"
+          }
+        ],
+
+        "CSF CBF and BBB": [
+          {
+            "topic": "CSF circulation",
+            "question": "CSF is produced mainly by?",
+            "answer": "Choroid plexus"
+          },
+          {
+            "topic": "Blood brain barrier",
+            "question": "Main structural component of blood brain barrier?",
+            "answer": "Tight junctions"
+          },
+          {
+            "topic": "Hydrocephalus",
+            "question": "Blockage of cerebral aqueduct causes?",
+            "answer": "Hydrocephalus"
+          }
+        ],
+
+        "EEG and Sleep": [
+          {
+            "topic": "REM sleep",
+            "question": "Dreaming occurs predominantly during?",
+            "answer": "REM sleep"
+          },
+          {
+            "topic": "Delta waves",
+            "question": "Delta waves are seen in which sleep stage?",
+            "answer": "Deep NREM sleep"
+          },
+          {
+            "topic": "Alpha waves",
+            "question": "Alpha waves are seen in awake relaxed state with eyes?",
+            "answer": "Closed"
+          }
+        ]
+      },
+
+      "Respiratory Physiology": {
+
+        "Structure Function Relationship in Lung": [
+          {
+            "topic": "Surfactant",
+            "question": "Main function of pulmonary surfactant?",
+            "answer": "Reduce surface tension"
+          },
+          {
+            "topic": "Compliance",
+            "question": "Compliance is increased in which lung disease?",
+            "answer": "Emphysema"
+          }
+        ],
+
+        "Mechanics of Breathing": [
+          {
+            "topic": "Intrapleural pressure",
+            "question": "Normal intrapleural pressure during quiet breathing?",
+            "answer": "Negative"
+          },
+          {
+            "topic": "Work of breathing",
+            "question": "Work of breathing is increased in?",
+            "answer": "Obstructive lung disease"
+          }
+        ],
+
+        "Lung Volumes and Capacities": [
+          {
+            "topic": "FEV1/FVC",
+            "question": "FEV1/FVC ratio is decreased in?",
+            "answer": "Obstructive lung disease"
+          },
+          {
+            "topic": "Spirometry",
+            "question": "Most commonly used pulmonary function test?",
+            "answer": "Spirometry"
+          },
+          {
+            "topic": "Residual volume",
+            "question": "Lung volume that cannot be measured by spirometry?",
+            "answer": "Residual volume"
+          }
+        ],
+
+        "Ventilation Perfusion Ratio": [
+          {
+            "topic": "V/Q mismatch",
+            "question": "Most common cause of hypoxemia?",
+            "answer": "V/Q mismatch"
+          },
+          {
+            "topic": "Dead space",
+            "question": "Pulmonary embolism causes increase in?",
+            "answer": "Dead space"
+          },
+          {
+            "topic": "Physiological shunt",
+            "question": "Perfusion without ventilation is?",
+            "answer": "Shunt"
+          }
+        ],
+
+        "Diffusion and Transport of Gases": [
+          {
+            "topic": "Oxyhemoglobin dissociation curve",
+            "question": "Right shift of oxyhemoglobin curve occurs with?",
+            "answer": "Increased CO2"
+          },
+          {
+            "topic": "Bohr effect",
+            "question": "Effect of increased CO2 on oxygen dissociation is?",
+            "answer": "Bohr effect"
+          },
+          {
+            "topic": "CO poisoning",
+            "question": "Carbon monoxide decreases oxygen delivery by binding to?",
+            "answer": "Hemoglobin"
+          }
+        ],
+      
+
+
+
+
+        "Chemical Regulation of Respiration": [
+          {
+            "topic": "Central chemoreceptors",
+            "question": "Most important regulators of respiration under normal conditions?",
+            "answer": "Central chemoreceptors"
+          },
+          {
+            "topic": "Peripheral chemoreceptors",
+            "question": "Peripheral chemoreceptors are primarily stimulated by decrease in?",
+            "answer": "PO2"
+          },
+          {
+            "topic": "Hypoxic drive",
+            "question": "Respiratory drive in COPD patients depends mainly on?",
+            "answer": "Hypoxic drive"
+          }
+        ],
+
+        "Environmental Physiology": [
+          {
+            "topic": "High altitude",
+            "question": "Most important immediate response to high altitude?",
+            "answer": "Hyperventilation"
+          },
+          {
+            "topic": "Decompression sickness",
+            "question": "Nitrogen bubble formation occurs in?",
+            "answer": "Decompression sickness"
+          },
+          {
+            "topic": "Heat stroke",
+            "question": "Failure of thermoregulation causing hyperthermia is?",
+            "answer": "Heat stroke"
+          }
+        ]
+      },
+
+      "Cardiovascular System": {
+
+        "Cardiac Action Potentials": [
+          {
+            "topic": "SA node action potential",
+            "question": "Phase 0 depolarization in SA node is due to influx of?",
+            "answer": "Calcium"
+          },
+          {
+            "topic": "Ventricular action potential",
+            "question": "Phase 0 depolarization in ventricular muscle occurs due to?",
+            "answer": "Sodium influx"
+          },
+          {
+            "topic": "Plateau phase",
+            "question": "Plateau phase in cardiac muscle is mainly due to?",
+            "answer": "Calcium influx"
+          },
+          {
+            "topic": "Refractory period",
+            "question": "Long refractory period in cardiac muscle prevents?",
+            "answer": "Tetany"
+          }
+        ],
+
+        "ECG and JVP": [
+          {
+            "topic": "P wave",
+            "question": "P wave represents?",
+            "answer": "Atrial depolarization"
+          },
+          {
+            "topic": "PR interval",
+            "question": "PR interval represents conduction through?",
+            "answer": "AV node"
+          },
+          {
+            "topic": "QT interval",
+            "question": "QT interval represents total duration of?",
+            "answer": "Ventricular depolarization and repolarization"
+          },
+          {
+            "topic": "Heart blocks",
+            "question": "Complete dissociation of atria and ventricles occurs in?",
+            "answer": "Third degree heart block"
+          },
+          {
+            "topic": "JVP waves",
+            "question": "Cannon A waves are seen in?",
+            "answer": "Complete heart block"
+          }
+        ],
+
+        "Cardiac Cycle": [
+          {
+            "topic": "Heart sounds",
+            "question": "First heart sound is due to closure of?",
+            "answer": "Mitral and tricuspid valves"
+          },
+          {
+            "topic": "Pressure volume loop",
+            "question": "Width of pressure volume loop represents?",
+            "answer": "Stroke volume"
+          },
+          {
+            "topic": "Isovolumetric contraction",
+            "question": "All valves remain closed during?",
+            "answer": "Isovolumetric contraction"
+          }
+        ],
+
+        "Cardiac Output": [
+          {
+            "topic": "Fick principle",
+            "question": "Cardiac output measurement based on oxygen consumption uses?",
+            "answer": "Fick principle"
+          },
+          {
+            "topic": "Ejection fraction",
+            "question": "Normal ejection fraction is approximately?",
+            "answer": "60 percent"
+          },
+          {
+            "topic": "Frank Starling law",
+            "question": "Increased preload increases cardiac output due to?",
+            "answer": "Frank Starling mechanism"
+          }
+        ],
+
+        "Hemodynamics": [
+          {
+            "topic": "Poiseuille law",
+            "question": "Blood flow is directly proportional to?",
+            "answer": "Fourth power of radius"
+          },
+          {
+            "topic": "Reynolds number",
+            "question": "Turbulent blood flow is predicted by?",
+            "answer": "Reynolds number"
+          },
+          {
+            "topic": "Laminar flow",
+            "question": "Normal blood flow in vessels is usually?",
+            "answer": "Laminar flow"
+          }
+        ],
+
+        "Regulation of Blood Pressure": [
+          {
+            "topic": "Baroreceptor reflex",
+            "question": "Most rapid mechanism regulating blood pressure?",
+            "answer": "Baroreceptor reflex"
+          },
+          {
+            "topic": "RAAS",
+            "question": "Renin is secreted from which kidney cells?",
+            "answer": "Juxtaglomerular cells"
+          },
+          {
+            "topic": "Shock physiology",
+            "question": "Most common type of shock?",
+            "answer": "Hypovolemic shock"
+          },
+          {
+            "topic": "Mean arterial pressure",
+            "question": "Main determinant of organ perfusion?",
+            "answer": "Mean arterial pressure"
+          }
+        ]
+      },
+
+      "Gastrointestinal System": {
+
+        "Gastrointestinal Secretions": [
+          {
+            "topic": "Gastric acid secretion",
+            "question": "Cells secreting hydrochloric acid in stomach?",
+            "answer": "Parietal cells"
+          },
+          {
+            "topic": "Intrinsic factor",
+            "question": "Vitamin B12 absorption requires?",
+            "answer": "Intrinsic factor"
+          },
+          {
+            "topic": "Pancreatic enzymes",
+            "question": "Most important enzyme for fat digestion?",
+            "answer": "Pancreatic lipase"
+          }
+        ],
+
+        "Gastrointestinal Hormones": [
+          {
+            "topic": "Gastrin",
+            "question": "Hormone stimulating gastric acid secretion?",
+            "answer": "Gastrin"
+          },
+          {
+            "topic": "CCK",
+            "question": "Hormone causing gallbladder contraction?",
+            "answer": "CCK"
+          },
+          {
+            "topic": "Secretin",
+            "question": "Hormone stimulating bicarbonate secretion from pancreas?",
+            "answer": "Secretin"
+          }
+        ],
+
+        "Digestion and Absorption": [
+          {
+            "topic": "Iron absorption",
+            "question": "Iron is absorbed mainly in which part of intestine?",
+            "answer": "Duodenum"
+          },
+          {
+            "topic": "Vitamin B12 absorption",
+            "question": "Vitamin B12 is absorbed in?",
+            "answer": "Terminal ileum"
+          },
+          {
+            "topic": "Fat absorption",
+            "question": "Long chain fatty acids are transported through?",
+            "answer": "Lymphatics"
+          }
+        ]
+      },
+
+
+      "Renal Physiology": {
+
+        "Glomerular Filtration Rate": [
+          {
+            "topic": "Inulin clearance",
+            "question": "Gold standard for measurement of GFR?",
+            "answer": "Inulin clearance"
+          },
+          {
+            "topic": "Creatinine clearance",
+            "question": "Most commonly used clinical estimate of GFR?",
+            "answer": "Creatinine clearance"
+          },
+          {
+            "topic": "Filtration fraction",
+            "question": "Filtration fraction is defined as GFR divided by?",
+            "answer": "Renal plasma flow"
+          },
+          {
+            "topic": "GFR regulation",
+            "question": "Main force favoring glomerular filtration?",
+            "answer": "Glomerular capillary hydrostatic pressure"
+          }
+        ],
+
+        "Proximal Convoluted Tubule": [
+          {
+            "topic": "Glucose transport",
+            "question": "Glucose is reabsorbed in PCT through?",
+            "answer": "SGLT cotransporter"
+          },
+          {
+            "topic": "Bicarbonate reabsorption",
+            "question": "Most bicarbonate reabsorption occurs in?",
+            "answer": "Proximal convoluted tubule"
+          },
+          {
+            "topic": "Sodium handling",
+            "question": "Maximum sodium reabsorption occurs in?",
+            "answer": "Proximal convoluted tubule"
+          }
+        ],
+
+        "Loop of Henle and Distal Convoluted Tubule": [
+          {
+            "topic": "Countercurrent mechanism",
+            "question": "Countercurrent mechanism helps in formation of?",
+            "answer": "Concentrated urine"
+          },
+          {
+            "topic": "NKCC transporter",
+            "question": "Loop diuretics act on which transporter?",
+            "answer": "NKCC transporter"
+          },
+          {
+            "topic": "Thiazide action",
+            "question": "Thiazide diuretics act mainly on?",
+            "answer": "Distal convoluted tubule"
+          },
+          {
+            "topic": "Diluting segment",
+            "question": "Ascending limb of loop of Henle is called?",
+            "answer": "Diluting segment"
+          }
+        ],
+
+        "Collecting Duct and Micturition Reflex": [
+          {
+            "topic": "ADH mechanism",
+            "question": "ADH increases water permeability by insertion of?",
+            "answer": "Aquaporin 2 channels"
+          },
+          {
+            "topic": "Water reabsorption",
+            "question": "Maximum water reabsorption under ADH influence occurs in?",
+            "answer": "Collecting duct"
+          },
+          {
+            "topic": "ENaC channel",
+            "question": "Aldosterone acts on which sodium channel?",
+            "answer": "ENaC"
+          },
+          {
+            "topic": "Micturition centers",
+            "question": "Primary micturition center is located in?",
+            "answer": "Sacral spinal cord"
+          }
+        ],
+
+        "Acid Base Balance": [
+          {
+            "topic": "Metabolic acidosis",
+            "question": "Primary decrease in bicarbonate causes?",
+            "answer": "Metabolic acidosis"
+          },
+          {
+            "topic": "Respiratory acidosis",
+            "question": "Increase in PCO2 causes?",
+            "answer": "Respiratory acidosis"
+          },
+          {
+            "topic": "Winter formula",
+            "question": "Expected respiratory compensation in metabolic acidosis is calculated by?",
+            "answer": "Winter formula"
+          },
+          {
+            "topic": "Anion gap",
+            "question": "Normal anion gap metabolic acidosis is seen in?",
+            "answer": "Diarrhea"
+          },
+          {
+            "topic": "Compensation mechanisms",
+            "question": "Main immediate compensation for metabolic acidosis?",
+            "answer": "Hyperventilation"
+          }
+        ]
+      },
+
+      "Endocrine Physiology": {
+
+        "Pituitary Gland": [
+          {
+            "topic": "GH axis",
+            "question": "Growth hormone secretion is stimulated by?",
+            "answer": "GHRH"
+          },
+          {
+            "topic": "Prolactin",
+            "question": "Main inhibitory hormone controlling prolactin secretion?",
+            "answer": "Dopamine"
+          },
+          {
+            "topic": "Diabetes insipidus",
+            "question": "Deficiency of ADH causes?",
+            "answer": "Diabetes insipidus"
+          },
+          {
+            "topic": "SIADH",
+            "question": "Most common electrolyte abnormality in SIADH?",
+            "answer": "Hyponatremia"
+          }
+        ],
+
+        "Thyroid Gland": [
+          {
+            "topic": "Thyroid hormone synthesis",
+            "question": "Iodination of tyrosine residues occurs by action of?",
+            "answer": "Thyroid peroxidase"
+          },
+          {
+            "topic": "Wolff Chaikoff effect",
+            "question": "Excess iodine transiently suppresses thyroid hormone synthesis by?",
+            "answer": "Wolff Chaikoff effect"
+          },
+          {
+            "topic": "T3/T4 conversion",
+            "question": "Most active thyroid hormone?",
+            "answer": "T3"
+          }
+        ],
+
+        "Endocrine Pancreas": [
+          {
+            "topic": "Insulin secretion",
+            "question": "Insulin is secreted by which pancreatic cells?",
+            "answer": "Beta cells"
+          },
+          {
+            "topic": "GLUT2",
+            "question": "Glucose transporter present in pancreatic beta cells?",
+            "answer": "GLUT2"
+          },
+          {
+            "topic": "Somogyi effect",
+            "question": "Rebound morning hyperglycemia after nocturnal hypoglycemia is?",
+            "answer": "Somogyi effect"
+          },
+          {
+            "topic": "Dawn phenomenon",
+            "question": "Early morning hyperglycemia due to increased GH and cortisol?",
+            "answer": "Dawn phenomenon"
+          }
+        ],
+
+        "Adrenal Gland": [
+          {
+            "topic": "Cortisol",
+            "question": "Main glucocorticoid secreted by adrenal cortex?",
+            "answer": "Cortisol"
+          },
+          {
+            "topic": "Aldosterone",
+            "question": "Most important regulator of aldosterone secretion?",
+            "answer": "RAAS"
+          },
+          {
+            "topic": "Cushing syndrome",
+            "question": "Excess cortisol causes?",
+            "answer": "Cushing syndrome"
+          },
+          {
+            "topic": "Conn syndrome",
+            "question": "Primary hyperaldosteronism is called?",
+            "answer": "Conn syndrome"
+          }
+        ],
+
+        "Calcium Homeostasis": [
+          {
+            "topic": "PTH",
+            "question": "Most important hormone increasing serum calcium?",
+            "answer": "PTH"
+          },
+          {
+            "topic": "Vitamin D",
+            "question": "Active form of vitamin D?",
+            "answer": "Calcitriol"
+          },
+          {
+            "topic": "Calcitonin",
+            "question": "Hormone decreasing serum calcium levels?",
+            "answer": "Calcitonin"
+          }
+        ]
+      },
+
+
+      "Reproductive Physiology": {
+
+        "Male Reproduction": [
+          {
+            "topic": "Spermatogenesis",
+            "question": "Site of spermatogenesis in testes?",
+            "answer": "Seminiferous tubules"
+          },
+          {
+            "topic": "Testosterone",
+            "question": "Cells secreting testosterone?",
+            "answer": "Leydig cells"
+          },
+          {
+            "topic": "Sertoli cells",
+            "question": "Blood testis barrier is formed by?",
+            "answer": "Sertoli cells"
+          },
+          {
+            "topic": "Leydig cells",
+            "question": "LH primarily acts on which testicular cells?",
+            "answer": "Leydig cells"
+          }
+        ],
+
+        "Female Reproduction": [
+          {
+            "topic": "Menstrual cycle",
+            "question": "Ovulation occurs approximately on which day of 28 day cycle?",
+            "answer": "14th day"
+          },
+          {
+            "topic": "Ovulation",
+            "question": "Hormone responsible for ovulation?",
+            "answer": "LH surge"
+          },
+          {
+            "topic": "Estrogen",
+            "question": "Hormone responsible for proliferative phase of endometrium?",
+            "answer": "Estrogen"
+          },
+          {
+            "topic": "Progesterone",
+            "question": "Hormone responsible for secretory phase of endometrium?",
+            "answer": "Progesterone"
+          },
+          {
+            "topic": "Hormonal regulation",
+            "question": "Most important hormone maintaining pregnancy in early weeks?",
+            "answer": "Progesterone"
+          }
+        ]
+      },
+
+      "Exercise Physiology": {
+
+        "Exercise Physiology": [
+          {
+            "topic": "VO2 max",
+            "question": "Best indicator of aerobic fitness?",
+            "answer": "VO2 max"
+          },
+          {
+            "topic": "Oxygen debt",
+            "question": "Excess oxygen consumed after exercise is called?",
+            "answer": "Oxygen debt"
+          },
+          {
+            "topic": "Muscle fatigue",
+            "question": "Most common cause of muscle fatigue during intense exercise?",
+            "answer": "Lactic acid accumulation"
+          }
+        ],
+
+        "Regulation of Body Temperature": [
+          {
+            "topic": "Fever",
+            "question": "Fever is mediated mainly through which hypothalamic center?",
+            "answer": "Preoptic area"
+          },
+          {
+            "topic": "Heat stroke",
+            "question": "Failure of sweating mechanism can lead to?",
+            "answer": "Heat stroke"
+          },
+          {
+            "topic": "Sweating",
+            "question": "Sweat glands are stimulated by which autonomic fibers?",
+            "answer": "Sympathetic cholinergic fibers"
+          },
+          {
+            "topic": "Hypothalamic regulation",
+            "question": "Main thermoregulatory center of body?",
+            "answer": "Hypothalamus"
+          }
+        ]
+  
+      }
+    }
+  }
+}
